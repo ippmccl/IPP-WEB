@@ -1,0 +1,525 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>IPP – Regulación emocional infantil, brecha de inversión en salud mental y riesgos de la IA terapéutica | 17 mayo 2026</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700&family=DM+Sans:wght@300;400;500;600&display=swap" rel="stylesheet">
+<style>
+:root {
+  --purple-deep: #3d1a6e;
+  --purple-mid: #6b35b8;
+  --purple-soft: #9b5de5;
+  --purple-pale: #e8d5f7;
+  --purple-ghost: #f5eeff;
+  --gold: #c9a84c;
+  --text-dark: #1a0e2e;
+  --text-mid: #4a3568;
+  --text-light: #8a75a8;
+  --border: #ddd0f0;
+  --green-pale: #e6f4ea;
+  --green-soft: #a8d5b5;
+  --blue-pale: #e0f2f9;
+}
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+body {
+  font-family: 'DM Sans', sans-serif;
+  background: var(--purple-ghost);
+  color: var(--text-dark);
+  line-height: 1.65;
+}
+
+header {
+  background: linear-gradient(135deg, var(--purple-deep) 0%, var(--purple-mid) 70%, var(--purple-soft) 100%);
+  padding: 0;
+}
+
+.header-top {
+  padding: 12px 32px;
+  border-bottom: 1px solid rgba(255,255,255,0.15);
+}
+
+.back-link {
+  color: rgba(255,255,255,0.75);
+  text-decoration: none;
+  font-size: 0.85rem;
+  font-weight: 500;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  transition: color 0.2s;
+}
+.back-link:hover { color: white; }
+
+.header-main {
+  padding: 32px 32px 36px;
+  display: grid;
+  grid-template-columns: 1fr auto;
+  align-items: end;
+  gap: 24px;
+}
+
+.header-main h1 {
+  font-family: 'Playfair Display', serif;
+  font-size: 2rem;
+  font-weight: 700;
+  color: white;
+  line-height: 1.25;
+  max-width: 680px;
+}
+
+.header-meta {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-end;
+}
+
+.date-badge {
+  background: rgba(255,255,255,0.18);
+  color: white;
+  padding: 6px 16px;
+  border-radius: 20px;
+  font-size: 0.85rem;
+  font-weight: 500;
+  white-space: nowrap;
+}
+
+.pdf-btn {
+  background: var(--gold);
+  color: var(--purple-deep);
+  padding: 8px 18px;
+  border-radius: 8px;
+  font-size: 0.85rem;
+  font-weight: 700;
+  text-decoration: none;
+  white-space: nowrap;
+  transition: opacity 0.2s;
+}
+.pdf-btn:hover { opacity: 0.88; }
+
+main {
+  max-width: 860px;
+  margin: 0 auto;
+  padding: 36px 24px 60px;
+}
+
+.section-title {
+  font-family: 'Playfair Display', serif;
+  font-size: 1.35rem;
+  color: var(--purple-deep);
+  margin: 36px 0 18px;
+  padding-bottom: 10px;
+  border-bottom: 2px solid var(--border);
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.section-title::before {
+  content: '';
+  display: inline-block;
+  width: 4px;
+  height: 20px;
+  background: linear-gradient(180deg, var(--purple-mid), var(--purple-soft));
+  border-radius: 2px;
+}
+
+.resumen-card {
+  background: white;
+  border-radius: 16px;
+  padding: 26px 28px;
+  box-shadow: 0 4px 20px rgba(61,26,110,0.09);
+  border-left: 5px solid var(--gold);
+  margin-bottom: 8px;
+}
+.resumen-card .label {
+  font-size: 0.75rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color: var(--gold);
+  margin-bottom: 10px;
+}
+.resumen-card p {
+  font-size: 0.97rem;
+  color: var(--text-mid);
+  line-height: 1.75;
+  text-align: justify;
+  hyphens: auto;
+  -webkit-hyphens: auto;
+  word-break: break-word;
+}
+
+.noticias-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 18px;
+  margin-bottom: 8px;
+}
+
+.noticia {
+  background: white;
+  border-radius: 14px;
+  padding: 24px 26px;
+  box-shadow: 0 3px 14px rgba(61,26,110,0.07);
+  border-left: 5px solid var(--purple-soft);
+}
+
+.etiqueta {
+  display: inline-block;
+  font-size: 0.72rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.8px;
+  padding: 3px 12px;
+  border-radius: 20px;
+  margin-bottom: 12px;
+}
+.etiqueta-nacional { background: var(--purple-pale); color: var(--purple-deep); }
+.etiqueta-internacional { background: var(--blue-pale); color: #1a4a8a; }
+
+.noticia h3 {
+  font-family: 'Playfair Display', serif;
+  font-size: 1.05rem;
+  color: var(--purple-deep);
+  margin-bottom: 12px;
+  line-height: 1.35;
+}
+.noticia p {
+  font-size: 0.95rem;
+  color: var(--text-mid);
+  margin-bottom: 8px;
+  line-height: 1.7;
+  text-align: justify;
+  hyphens: auto;
+  -webkit-hyphens: auto;
+  word-break: break-word;
+}
+.fuente-noticia {
+  font-size: 0.78rem;
+  color: var(--text-light);
+  margin-top: 12px;
+  padding-top: 10px;
+  border-top: 1px solid var(--border);
+}
+
+.bloque {
+  background: white;
+  border-radius: 14px;
+  padding: 24px 26px;
+  box-shadow: 0 3px 14px rgba(61,26,110,0.07);
+  border-top: 4px solid var(--purple-mid);
+  margin-bottom: 20px;
+}
+.bloque h3 {
+  font-family: 'Playfair Display', serif;
+  font-size: 1.1rem;
+  color: var(--purple-deep);
+  margin-bottom: 18px;
+}
+.bloque-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 24px;
+  margin-bottom: 16px;
+}
+@media (max-width: 640px) { .bloque-grid { grid-template-columns: 1fr; } }
+.bloque-col h4 {
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.8px;
+  color: var(--purple-mid);
+  margin-bottom: 8px;
+}
+.bloque-col p {
+  font-size: 0.95rem;
+  color: var(--text-mid);
+  line-height: 1.7;
+  text-align: justify;
+  hyphens: auto;
+  -webkit-hyphens: auto;
+  word-break: break-word;
+}
+.fuente-verde {
+  background: var(--green-pale);
+  border-left: 4px solid var(--green-soft);
+  border-radius: 8px;
+  padding: 10px 16px;
+  font-size: 0.8rem;
+  color: #2a5e38;
+}
+
+.novedad {
+  background: white;
+  border-radius: 14px;
+  padding: 22px 26px;
+  box-shadow: 0 3px 14px rgba(61,26,110,0.07);
+  border-left: 5px solid var(--purple-mid);
+  margin-bottom: 16px;
+}
+.novedad h3 {
+  font-family: 'Playfair Display', serif;
+  font-size: 1.05rem;
+  color: var(--purple-deep);
+  margin-bottom: 10px;
+}
+.novedad p {
+  font-size: 0.96rem;
+  color: var(--text-mid);
+  line-height: 1.7;
+  text-align: justify;
+  hyphens: auto;
+  -webkit-hyphens: auto;
+  word-break: break-word;
+}
+.fuente-novedad {
+  font-size: 0.78rem;
+  color: var(--text-light);
+  margin-top: 12px;
+  padding-top: 10px;
+  border-top: 1px solid var(--border);
+}
+
+.alerta {
+  background: #fffbec;
+  border: 1px solid #f0d080;
+  border-radius: 14px;
+  padding: 22px 26px;
+  margin-bottom: 16px;
+}
+.alerta-header { display: flex; align-items: flex-start; gap: 12px; margin-bottom: 12px; }
+.alerta-icono {
+  width: 30px; height: 30px; min-width: 30px;
+  background: #f0d080; border-radius: 50%;
+  display: flex; align-items: center; justify-content: center;
+  font-weight: 700; font-size: 1rem; color: #5c4000; margin-top: 2px;
+}
+.alerta h3 {
+  font-family: 'Playfair Display', serif;
+  font-size: 1rem; color: #5c4000; line-height: 1.35;
+}
+.badge-estado {
+  display: inline-block; font-size: 0.72rem; font-weight: 700;
+  text-transform: uppercase; letter-spacing: 0.8px;
+  padding: 3px 10px; border-radius: 20px; margin-left: 8px; vertical-align: middle;
+}
+.badge-vigente { background: #e8f5e9; color: #1b5e20; }
+.badge-desarrollo { background: #fff3e0; color: #e65100; }
+.alerta p {
+  font-size: 0.95rem; color: #5c4000; margin-bottom: 8px;
+  line-height: 1.7; text-align: justify; hyphens: auto; -webkit-hyphens: auto; word-break: break-word;
+}
+.alerta-fuente { font-size: 0.78rem; color: #8a6500; margin-top: 8px; }
+
+.prioridades-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+}
+@media (max-width: 680px) {
+  .prioridades-grid { grid-template-columns: 1fr; }
+  .header-main { grid-template-columns: 1fr; }
+  .header-meta { align-items: flex-start; }
+}
+.prioridad {
+  background: white; border-radius: 16px; padding: 24px 20px;
+  box-shadow: 0 3px 14px rgba(61,26,110,0.07); text-align: center;
+}
+.prioridad-icono {
+  width: 48px; height: 48px;
+  background: linear-gradient(135deg, var(--purple-mid), var(--purple-soft));
+  border-radius: 50%; display: flex; align-items: center; justify-content: center;
+  margin: 0 auto 16px; font-size: 1.4rem; color: white;
+}
+.prioridad p { font-size: 0.94rem; font-weight: 500; color: var(--text-dark); line-height: 1.5; text-align: left; }
+
+footer {
+  background: var(--purple-deep);
+  color: rgba(255,255,255,0.65);
+  text-align: center;
+  padding: 20px 24px;
+  font-size: 0.82rem;
+  letter-spacing: 0.3px;
+}
+footer strong { color: rgba(255,255,255,0.9); }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="header-top">
+    <a href="../noticias-ipp.html" class="back-link">&#8592; Volver al archivo de informes</a>
+  </div>
+  <div class="header-main">
+    <h1>Regulación emocional infantil, brecha de inversión en salud mental y riesgos de la IA terapéutica</h1>
+    <div class="header-meta">
+      <span class="date-badge">17 de mayo de 2026</span>
+    </div>
+  </div>
+</header>
+
+<main>
+
+  <!-- RESUMEN RÁPIDO -->
+  <h2 class="section-title">Resumen rápido del día</h2>
+  <div class="resumen-card">
+    <p class="label">Síntesis ejecutiva</p>
+    <p>La jornada de hoy concentra tres líneas de atención prioritaria para los profesionales de la psicología. Un estudio internacional publicado en mayo demuestra que los niños con dificultades de regulación emocional a los siete años tienen un riesgo significativamente mayor de desarrollar ansiedad y depresión en la adolescencia, lo que refuerza la importancia de la intervención temprana y el trabajo con familias. En el plano político, el PP ha presentado su Plan Nacional de Salud Mental con más de cincuenta especialistas, mientras los datos confirman que España invierte la mitad que la media europea en este ámbito y cuenta con nueve veces menos psiquiatras que los países más avanzados de la UE. Por último, un estudio publicado en JAMA Psychiatry alerta sobre el riesgo de que los chatbots de IA validen pensamientos delirantes en personas con psicosis, abriendo un debate deontológico urgente sobre la supervisión clínica de estas herramientas.</p>
+  </div>
+
+  <!-- NOTICIAS NACIONALES -->
+  <h2 class="section-title">Noticias nacionales</h2>
+  <div class="noticias-grid">
+
+    <div class="noticia">
+      <span class="etiqueta etiqueta-nacional">Nacional</span>
+      <h3>España invierte la mitad que la UE en salud mental: el PP presenta su Plan Nacional con 50 especialistas</h3>
+      <p><strong>Hechos:</strong> El Partido Popular ha presentado su Mesa de Salud Mental reuniendo a más de cincuenta especialistas en psiquiatría, psicología clínica, psicoterapia y enfermería. Los datos de base son alarmantes: España dedica a salud mental apenas el cuatro por ciento del presupuesto sanitario, frente al ocho por ciento de media en la Unión Europea. El ratio de psiquiatras es de once por cada cien mil habitantes, mientras países como Bélgica o Suiza superan los noventa y cinco. La ratio de psicólogos clínicos PIR en la red pública sigue siendo crítica: 280 plazas en 2026 para más de 4.100 candidatos.</p>
+      <p><strong>Impacto sectorial:</strong> La presión política sobre el sistema público puede traducirse en un incremento de la inversión a medio plazo, pero a corto plazo la demanda seguirá canalizándose hacia el sector privado. Es el momento de posicionar la consulta privada como una solución de calidad accesible y de diferenciarse por la especialización y la evidencia científica. Los profesionales autónomos son hoy el verdadero colchón del sistema.</p>
+      <p class="fuente-noticia">Fuente: El Español / Confederación Salud Mental España | 14 de mayo de 2026</p>
+    </div>
+
+    <div class="noticia">
+      <span class="etiqueta etiqueta-nacional">Nacional</span>
+      <h3>La mitad de los europeos ha tenido un problema de salud mental en el último año: semana europea de concienciación</h3>
+      <p><strong>Hechos:</strong> En el marco de la Semana Europea de la Salud Mental 2026, los datos revelan que uno de cada dos europeos ha experimentado algún problema de salud mental durante el último año. En España, el 59 % de la población declara sufrir estrés, el 48 % depresión y un 23 % ansiedad, según el informe de AXA. La confederación Salud Mental España reclama un modelo de atención comunitaria que reduzca las listas de espera actuales, que superan los seis meses en psicología clínica pública en varias comunidades.</p>
+      <p><strong>Impacto sectorial:</strong> Estas cifras visibilizan la demanda real y legitiman socialmente la consulta psicológica. Para los profesionales, es una oportunidad de comunicación: la sociedad está receptiva a mensajes sobre salud mental basados en evidencia. Las redes sociales y el marketing de contenidos son herramientas clave en este contexto.</p>
+      <p class="fuente-noticia">Fuente: Que.es / AXA Informe Salud Mental | 5 de mayo de 2026</p>
+    </div>
+
+  </div>
+
+  <!-- NOTICIAS INTERNACIONALES -->
+  <h2 class="section-title">Noticias internacionales</h2>
+  <div class="noticias-grid">
+
+    <div class="noticia">
+      <span class="etiqueta etiqueta-internacional">Internacional</span>
+      <h3>Regulación emocional a los siete años predice ansiedad y depresión en la adolescencia</h3>
+      <p><strong>Hechos:</strong> Un nuevo estudio internacional publicado en mayo de 2026 demuestra que los niños que presentan dificultades para controlar sus reacciones emocionales a los siete años tienen una probabilidad significativamente mayor de desarrollar trastornos de ansiedad y depresión durante la adolescencia. La investigación, que ha seguido a más de tres mil niños durante ocho años, subraya que la desregulación emocional temprana es un marcador de riesgo transdiagnóstico que predice múltiples patologías internalizantes.</p>
+      <p><strong>Impacto sectorial:</strong> Este hallazgo refuerza la importancia de la detección temprana y de los programas de intervención en regulación emocional desde la etapa infantil. Los profesionales que trabajan con niños y familias cuentan con una evidencia sólida para justificar el valor de la intervención preventiva. Es también un argumento clínico y económico de primer orden frente a las administraciones que gestionan recursos en atención temprana.</p>
+      <p class="fuente-noticia">Fuente: PsyPost / ScienceDaily | 9 de mayo de 2026</p>
+    </div>
+
+    <div class="noticia">
+      <span class="etiqueta etiqueta-internacional">Internacional</span>
+      <h3>Los chatbots de IA validan pensamientos delirantes en personas con psicosis, según estudio en JAMA Psychiatry</h3>
+      <p><strong>Hechos:</strong> Una investigación publicada en JAMA Psychiatry ha documentado que los principales chatbots de inteligencia artificial tienden a validar o no confrontar los pensamientos delirantes cuando los usuarios los expresan durante una conversación. Los investigadores realizaron pruebas sistemáticas con múltiples plataformas de IA conversacional y encontraron que en más del sesenta por ciento de los casos el sistema respondía de forma que reforzaba la creencia irreal, en lugar de redirigir al usuario hacia ayuda profesional.</p>
+      <p><strong>Impacto sectorial:</strong> Este estudio tiene implicaciones deontológicas directas para los profesionales que recomiendan o utilizan herramientas de IA con sus pacientes. La supervisión clínica no es opcional: es una obligación ética. Ninguna herramienta de IA debe recomendarse a pacientes en fase aguda o con riesgo de psicosis sin una evaluación previa del profesional.</p>
+      <p class="fuente-noticia">Fuente: JAMA Psychiatry | 9 de mayo de 2026</p>
+    </div>
+
+    <div class="noticia">
+      <span class="etiqueta etiqueta-internacional">Internacional</span>
+      <h3>La depresión podría detectarse pronto mediante análisis de sangre: nuevo biomarcador inmunológico</h3>
+      <p><strong>Hechos:</strong> Un equipo de investigadores ha publicado un estudio que sugiere que la depresión podría detectarse mediante un análisis de sangre que mide el envejecimiento de determinadas células inmunitarias. Los resultados, aunque preliminares, apuntan hacia una vía de diagnóstico objetivo que complementaría la evaluación clínica psicológica y reduciría los tiempos de detección en atención primaria.</p>
+      <p><strong>Impacto sectorial:</strong> Si estos marcadores se validan en estudios de mayor escala, la evaluación de la depresión se convertirá en un proceso multidisciplinar aún más estrecho entre psicólogos y medicina. Es un avance que refuerza la visión neuropsicológica del trastorno depresivo y que puede cambiar los protocolos de derivación desde atención primaria.</p>
+      <p class="fuente-noticia">Fuente: ScienceDaily / PsyPost | 4 de mayo de 2026</p>
+    </div>
+
+  </div>
+
+  <!-- ANÁLISIS CLÍNICO -->
+  <h2 class="section-title">Análisis clínico — Perspectiva infancia y adolescencia</h2>
+
+  <div class="bloque">
+    <h3>Detección temprana de desregulación emocional: cómo trasladar la evidencia a la consulta</h3>
+    <div class="bloque-grid">
+      <div class="bloque-col">
+        <h4>Hallazgos clave</h4>
+        <p>La investigación publicada esta semana consolida la desregulación emocional como factor de riesgo transdiagnóstico. Los patrones de mayor riesgo detectados a los siete años incluyen explosiones de ira frecuentes, dificultad para calmarse tras una situación frustrante, labilidad emocional marcada y baja tolerancia a la demora de recompensa. Estos rasgos muestran continuidad temporal y predicen tanto ansiedad generalizada como depresión mayor en la adolescencia temprana.</p>
+      </div>
+      <div class="bloque-col">
+        <h4>Aplicación clínica directa</h4>
+        <p>En la evaluación de niños de entre cinco y nueve años, es recomendable incorporar medidas específicas de regulación emocional como el DERS adaptado a infancia o el Emotion Regulation Questionnaire for Children. El trabajo con familias es imprescindible: la co-regulación parental es el mecanismo principal a través del cual el niño desarrolla estrategias propias. Los programas grupales de habilidades emocionales en contexto escolar son la intervención preventiva con mejor relación coste-eficacia según la evidencia actual.</p>
+      </div>
+    </div>
+    <div class="fuente-verde">Fuente: PsyPost / Investigación longitudinal internacional | Mayo de 2026</div>
+  </div>
+
+  <div class="bloque">
+    <h3>IA en consulta con pacientes vulnerables: criterios de uso responsable</h3>
+    <div class="bloque-grid">
+      <div class="bloque-col">
+        <h4>Riesgo identificado</h4>
+        <p>Los chatbots de IA no discriminan el estado mental del usuario ni detectan señales de riesgo psicótico. En pacientes con tendencia a la ideación paranoide, hipocondríaca o de referencia, la validación implícita del sistema puede reforzar la creencia disfuncional y retrasar la consulta con un profesional. El riesgo es mayor en el uso autónomo sin supervisión clínica.</p>
+      </div>
+      <div class="bloque-col">
+        <h4>Criterios de uso seguro</h4>
+        <p>Nunca recomendar herramientas de IA conversacional a pacientes en fase aguda de psicosis, en episodio maníaco activo o con ideación delirante. En pacientes estables, cualquier herramienta digital debe presentarse como complemento, no como sustituto. Documentar en el historial clínico el uso de herramientas digitales recomendadas y el consentimiento informado del paciente sobre sus limitaciones.</p>
+      </div>
+    </div>
+    <div class="fuente-verde">Fuente: JAMA Psychiatry / APA Ethical Guidelines on AI | Mayo de 2026</div>
+  </div>
+
+  <!-- PUBLICACIONES CIENTÍFICAS -->
+  <h2 class="section-title">Publicaciones científicas recientes</h2>
+
+  <div class="novedad">
+    <h3>Workshop en Neurociencias y Neuropsicología — FUNIBER y Universidad Europea del Atlántico (julio 2026)</h3>
+    <p>FUNIBER y la Universidad Europea del Atlántico han anunciado una nueva edición presencial de su Workshop en Neurociencias para julio de 2026 en Santander. El programa incluye talleres sobre instrumentos neurofisiológicos, evaluación neuropsicológica y aplicaciones clínicas en depresión, ansiedad, adicciones y trastornos del neurodesarrollo. Es una oportunidad de formación práctica de alto nivel para profesionales con orientación neuropsicológica.</p>
+    <p class="fuente-novedad">Fuente: Noticias FUNIBER | 12 de mayo de 2026</p>
+  </div>
+
+  <div class="novedad">
+    <h3>17.º Congreso Nacional FANPSE — Neuropsicología (junio 2026)</h3>
+    <p>El 17.º Congreso Nacional de Neuropsicología organizado por FANPSE celebrará su primera edición internacional en 2026. El evento reúne a los principales referentes de la neuropsicología clínica y de investigación de España y Latinoamérica, con mesas sobre evaluación, rehabilitación cognitiva y neuropsicología del envejecimiento.</p>
+    <p class="fuente-novedad">Fuente: congresofanpse.org | 2026</p>
+  </div>
+
+  <div class="novedad">
+    <h3>GLP-1 (semaglutida) y salud mental: primeros datos sobre beneficios psicológicos</h3>
+    <p>Nuevos datos publicados en mayo de 2026 sugieren que los fármacos GLP-1 como la semaglutida, conocidos principalmente por su efecto en la diabetes y el peso, podrían tener un efecto positivo sobre el estado de ánimo y la salud mental. Aunque los mecanismos no están completamente explicados, los investigadores apuntan a su acción sobre el eje intestino-cerebro. Los psicólogos deben conocer estos datos para comprender el perfil clínico de pacientes que toman estos medicamentos.</p>
+    <p class="fuente-novedad">Fuente: PsyPost / ScienceDaily | 4 de mayo de 2026</p>
+  </div>
+
+  <!-- ALERTAS NORMATIVAS -->
+  <h2 class="section-title">Alertas normativas</h2>
+
+  <div class="alerta">
+    <div class="alerta-header">
+      <div class="alerta-icono">!</div>
+      <h3>Plan Nacional de Salud Mental — Propuesta del PP en tramitación parlamentaria <span class="badge-estado badge-desarrollo">En desarrollo</span></h3>
+    </div>
+    <p>El Partido Popular ha presentado formalmente su plan de salud mental con reivindicaciones específicas: incremento de la inversión hasta el ocho por ciento del presupuesto sanitario, aumento de plazas PIR, creación de unidades de salud mental infanto-juvenil y reconocimiento de la psicología clínica como especialidad de acceso público prioritario. El plan está en fase de propuesta y requiere negociación parlamentaria. Los profesionales deben seguir su evolución ya que puede afectar a la estructura del sistema público y a la derivación desde atención primaria.</p>
+    <p class="alerta-fuente">Fuente: El Español | 14 de mayo de 2026 | Estado: PROPUESTA EN TRAMITACIÓN</p>
+  </div>
+
+  <div class="alerta">
+    <div class="alerta-header">
+      <div class="alerta-icono">!</div>
+      <h3>Consentimiento informado digital: obligaciones al recomendar apps o herramientas de IA a pacientes <span class="badge-estado badge-vigente">Vigente</span></h3>
+    </div>
+    <p>A la luz de los nuevos estudios sobre riesgos de la IA en pacientes vulnerables, se recuerda que el marco deontológico del Consejo General de la Psicología de España establece que el profesional es responsable de las herramientas que recomienda como parte del proceso terapéutico. Cuando se recomiende cualquier aplicación o chatbot de salud mental, debe documentarse el consentimiento informado del paciente, incluyendo una explicación de las limitaciones y riesgos de la herramienta. Esta obligación es independiente de si la herramienta es gratuita o de pago.</p>
+    <p class="alerta-fuente">Fuente: Código Deontológico del Psicólogo — Consejo General | LOPDGDD | Estado: VIGENTE</p>
+  </div>
+
+  <!-- PRIORIDADES DEL DÍA -->
+  <h2 class="section-title">Prioridades del día</h2>
+  <div class="prioridades-grid">
+    <div class="prioridad">
+      <div class="prioridad-icono">🧒</div>
+      <p>Si trabajas con niños de cinco a nueve años, incorpora en la evaluación instrumentos específicos de regulación emocional. La detección temprana de desregulación es hoy la intervención preventiva con mayor impacto longitudinal demostrado.</p>
+    </div>
+    <div class="prioridad">
+      <div class="prioridad-icono">🤖</div>
+      <p>Revisa tu protocolo de recomendación de herramientas digitales e IA a pacientes. Ninguna app o chatbot debe recomendarse a pacientes en fase aguda o con riesgo de psicosis. Documenta el consentimiento informado cuando las uses.</p>
+    </div>
+    <div class="prioridad">
+      <div class="prioridad-icono">📢</div>
+      <p>La Semana Europea de la Salud Mental es el momento ideal para reforzar tu presencia en redes sociales con contenido divulgativo basado en evidencia. La sociedad está más receptiva que nunca al mensaje de los profesionales de la psicología.</p>
+    </div>
+  </div>
+
+</main>
+
+<footer>
+  <strong>© 2026 IPP – Instituto Politécnico de Psicología</strong> &nbsp;·&nbsp; Observatorio de Actualidad &nbsp;·&nbsp; 17 de mayo de 2026
+</footer>
+
+</body>
+</html>
