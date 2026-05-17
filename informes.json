@@ -1,32 +1,5 @@
 [
   {
-    "fecha": "sábado 9 de mayo de 2026",
-    "fechaCorta": "9 may 2026",
-    "titulo": "Informe Diario de Psicología",
-    "resumen": "Revisión de estudios recientes, protocolos de intervención y herramientas de apoyo emocional.",
-    "link": "https://drive.google.com/file/d/1a7dP3MCigippWWFzFsf0x-v3j1y2mYnA/view?usp=drive_link",
-    "linkPdf": "https://drive.google.com/file/d/1a7dP3MCigippWWFzFsf0x-v3j1y2mYnA/view?usp=drive_link",
-    "audiencia": "ambos"
-  },
-  {
-    "fecha": "viernes 8 de mayo de 2026",
-    "fechaCorta": "8 may 2026",
-    "titulo": "Informe Diario de Psicología",
-    "resumen": "Artículos de divulgación en neuropsicología, psicopatología y bienestar mental para todas las edades.",
-    "link": "https://drive.google.com/file/d/1THbL-NkcB2xGy9qS1E3l2-EL70kyex24/view?usp=drive_link",
-    "linkPdf": "https://drive.google.com/file/d/1THbL-NkcB2xGy9qS1E3l2-EL70kyex24/view?usp=drive_link",
-    "audiencia": "ambos"
-  },
-  {
-    "fecha": "jueves 7 de mayo de 2026",
-    "fechaCorta": "7 may 2026",
-    "titulo": "Informe Diario de Psicología",
-    "resumen": "Novedades en terapia cognitivo-conductual, mindfulness aplicado y recursos para el acompañamiento emocional.",
-    "link": "https://drive.google.com/file/d/1wim94e-MKVTiaW3SdzM5qOkTYCAYoFHb/view?usp=drive_link",
-    "linkPdf": "https://drive.google.com/file/d/1wim94e-MKVTiaW3SdzM5qOkTYCAYoFHb/view?usp=drive_link",
-    "audiencia": "ambos"
-  },
-  {
     "fecha": "domingo 17 de mayo de 2026",
     "fechaCorta": "17 may 2026",
     "titulo": "Salud Mental Digital y Burnout Laboral en España — Alertas del COP y Estado Normativo",
@@ -42,15 +15,6 @@
     "resumen": "El Consejo General de la Psicología de España alerta sobre el auge de aplicaciones móviles sin rigor clínico ni garantías de privacidad, mientras las listas de espera en la red pública superan los seis meses en varias comunidades.",
     "link": "2026-05-16/informe-2026-05-16.html",
     "linkPdf": "https://drive.google.com/file/d/1ocDz444EngIfJ3XDhKn6Hd0Y-RuCgW37/view?usp=drive_link",
-    "audiencia": "ambos"
-  },
-  {
-    "fecha": "viernes 15 de mayo de 2026",
-    "fechaCorta": "15 may 2026",
-    "titulo": "Biomarcadores sanguíneosy diagnóstico de la depresión",
-    "resumen": "Volver al archivo de informes\n    \n    Instituto Politécnico de Psicología · Observatorio de Actualidad",
-    "link": "2026-05-15/informe-2026-05-15.html",
-    "linkPdf": "",
     "audiencia": "ambos"
   },
   {
@@ -105,6 +69,33 @@
     "resumen": "Noticias de salud mental, estrategias terapéuticas y contenidos divulgativos para pacientes y familiares.",
     "link": "https://drive.google.com/file/d/1kL1XrC340HYx8wRWCxpvBpRe2SSNpXRH/view?usp=drive_link",
     "linkPdf": "https://drive.google.com/file/d/1kL1XrC340HYx8wRWCxpvBpRe2SSNpXRH/view?usp=drive_link",
+    "audiencia": "ambos"
+  },
+  {
+    "fecha": "sábado 9 de mayo de 2026",
+    "fechaCorta": "9 may 2026",
+    "titulo": "Informe Diario de Psicología",
+    "resumen": "Revisión de estudios recientes, protocolos de intervención y herramientas de apoyo emocional.",
+    "link": "https://drive.google.com/file/d/1a7dP3MCigippWWFzFsf0x-v3j1y2mYnA/view?usp=drive_link",
+    "linkPdf": "https://drive.google.com/file/d/1a7dP3MCigippWWFzFsf0x-v3j1y2mYnA/view?usp=drive_link",
+    "audiencia": "ambos"
+  },
+  {
+    "fecha": "viernes 8 de mayo de 2026",
+    "fechaCorta": "8 may 2026",
+    "titulo": "Informe Diario de Psicología",
+    "resumen": "Artículos de divulgación en neuropsicología, psicopatología y bienestar mental para todas las edades.",
+    "link": "https://drive.google.com/file/d/1THbL-NkcB2xGy9qS1E3l2-EL70kyex24/view?usp=drive_link",
+    "linkPdf": "https://drive.google.com/file/d/1THbL-NkcB2xGy9qS1E3l2-EL70kyex24/view?usp=drive_link",
+    "audiencia": "ambos"
+  },
+  {
+    "fecha": "jueves 7 de mayo de 2026",
+    "fechaCorta": "7 may 2026",
+    "titulo": "Informe Diario de Psicología",
+    "resumen": "Novedades en terapia cognitivo-conductual, mindfulness aplicado y recursos para el acompañamiento emocional.",
+    "link": "https://drive.google.com/file/d/1wim94e-MKVTiaW3SdzM5qOkTYCAYoFHb/view?usp=drive_link",
+    "linkPdf": "https://drive.google.com/file/d/1wim94e-MKVTiaW3SdzM5qOkTYCAYoFHb/view?usp=drive_link",
     "audiencia": "ambos"
   }
 ]
