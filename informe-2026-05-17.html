@@ -327,13 +327,21 @@ main {
 }
 .prioridad {
   background: white; border-radius: 16px; padding: 24px 20px;
-  box-shadow: 0 3px 14px rgba(61,26,110,0.07); text-align: center;
+  box-shadow: 0 3px 14px rgba(61,26,110,0.07); display: flex; align-items: flex-start; gap: 14px;
 }
-.prioridad-num {
-  width: 48px; height: 48px;
+.prioridad-marca {
+  width: 14px; height: 14px;
   background: linear-gradient(135deg, var(--purple-mid), var(--purple-soft));
-  border-radius: 50%; display: flex; align-items: center; justify-content: center;
-  margin: 0 auto 16px; font-size: 1.4rem; font-weight: 700; color: white;
+  border-radius: 50%;
+  margin: 0 0 14px 0;
+  flex-shrink: 0;
+}
+.prioridad {
+  text-align: left !important;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  gap: 14px;
 }
 .prioridad p { font-size: 0.94rem; font-weight: 500; color: var(--text-dark); line-height: 1.5; text-align: left; }
 
@@ -505,15 +513,15 @@ footer strong { color: rgba(255,255,255,0.9); }
   <h2 class="section-title">Prioridades del día</h2>
   <div class="prioridades-grid">
     <div class="prioridad">
-      <div class="prioridad-num">1</div>
+      <div class="prioridad-marca"></div>
       <p>Si trabajas con niños de cinco a nueve años, incorpora en la evaluación instrumentos específicos de regulación emocional. La detección temprana de desregulación es hoy la intervención preventiva con mayor impacto longitudinal demostrado.</p>
     </div>
     <div class="prioridad">
-      <div class="prioridad-num">2</div>
+      <div class="prioridad-marca"></div>
       <p>Revisa tu protocolo de recomendación de herramientas digitales e IA a pacientes. Ninguna app o chatbot debe recomendarse a pacientes en fase aguda o con riesgo de psicosis. Documenta el consentimiento informado cuando las uses.</p>
     </div>
     <div class="prioridad">
-      <div class="prioridad-num">3</div>
+      <div class="prioridad-marca"></div>
       <p>La Semana Europea de la Salud Mental es el momento ideal para reforzar tu presencia en redes sociales con contenido divulgativo basado en evidencia. La sociedad está más receptiva que nunca al mensaje de los profesionales de la psicología.</p>
     </div>
   </div>
