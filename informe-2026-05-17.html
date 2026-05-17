@@ -1,0 +1,411 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>IPP | Informe Diario — 17 de mayo de 2026</title>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700&family=DM+Sans:wght@300;400;500;600&display=swap" rel="stylesheet"/>
+<style>
+  :root {
+    --purple-deep: #3d1a6e;
+    --purple-mid: #6b35b8;
+    --purple-soft: #9b5de5;
+    --purple-pale: #e8d5f7;
+    --purple-ghost: #f5eeff;
+    --gold: #c9a84c;
+    --text-dark: #1a0e2e;
+    --text-mid: #4a3568;
+    --text-light: #8a75a8;
+    --border: #ddd0f0;
+    --red-alert: #8B0000;
+    --first-bloom: #ddb8d0;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: 'DM Sans', sans-serif;
+    background: var(--purple-ghost);
+    color: var(--text-dark);
+    line-height: 1.75;
+  }
+  /* HEADER */
+  .site-header {
+    background: linear-gradient(135deg, var(--purple-deep) 0%, var(--purple-mid) 100%);
+    padding: 0;
+  }
+  .header-top {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 12px 32px;
+    border-bottom: 1px solid rgba(255,255,255,0.1);
+  }
+  .back-link {
+    color: var(--first-bloom);
+    text-decoration: none;
+    font-size: 13px;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+  }
+  .back-link:hover { color: white; }
+  .header-pdf-btn {
+    background: var(--gold);
+    color: #1a0e2e;
+    font-weight: 600;
+    font-size: 13px;
+    padding: 8px 18px;
+    border-radius: 20px;
+    text-decoration: none;
+    transition: opacity .2s;
+  }
+  .header-pdf-btn:hover { opacity: .85; }
+  .header-main {
+    display: flex;
+    align-items: center;
+    gap: 24px;
+    padding: 28px 32px 32px;
+  }
+  .logo-box {
+    min-width: 88px; width: 88px; height: 88px;
+    background: rgba(255,255,255,0.12);
+    border-radius: 12px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 2px;
+    flex-shrink: 0;
+  }
+  .logo-box .logo-text {
+    color: white;
+    font-family: 'Playfair Display', serif;
+    font-size: 26px;
+    font-weight: 700;
+    line-height: 1;
+  }
+  .logo-box .logo-sub {
+    color: var(--first-bloom);
+    font-size: 9px;
+    text-align: center;
+    line-height: 1.3;
+  }
+  .header-copy { flex: 1; }
+  .header-copy .observatorio {
+    color: var(--first-bloom);
+    font-size: 12px;
+    letter-spacing: .08em;
+    text-transform: uppercase;
+    margin-bottom: 6px;
+  }
+  .header-copy h1 {
+    font-family: 'Playfair Display', serif;
+    color: white;
+    font-size: 26px;
+    line-height: 1.3;
+    margin-bottom: 8px;
+  }
+  .fecha-badge {
+    display: inline-block;
+    background: rgba(201,168,76,0.2);
+    border: 1px solid var(--gold);
+    color: var(--gold);
+    font-size: 12px;
+    padding: 4px 12px;
+    border-radius: 20px;
+  }
+  /* BRIEFING */
+  .briefing {
+    background: white;
+    border-left: 4px solid var(--gold);
+    padding: 14px 24px;
+    margin: 20px 32px;
+    border-radius: 0 8px 8px 0;
+    font-size: 14px;
+    color: var(--text-mid);
+    font-style: italic;
+  }
+  /* MAIN */
+  main { max-width: 900px; margin: 0 auto; padding: 24px 16px 48px; }
+  /* SECTION HEADER */
+  .sec-header {
+    background: var(--purple-deep);
+    color: white;
+    font-family: 'Playfair Display', serif;
+    font-size: 16px;
+    font-weight: 700;
+    padding: 12px 20px;
+    border-radius: 10px 10px 0 0;
+    margin-top: 28px;
+    margin-bottom: 0;
+    letter-spacing: .02em;
+  }
+  .sec-header.gold { background: var(--gold); color: var(--text-dark); }
+  .sec-header.mid { background: var(--purple-mid); }
+  .sec-header.alert { background: var(--red-alert); }
+  .sec-body {
+    background: white;
+    border: 1px solid var(--border);
+    border-top: none;
+    border-radius: 0 0 10px 10px;
+    padding: 20px 24px;
+    margin-bottom: 0;
+  }
+  /* NOTICIA */
+  .noticia { margin-bottom: 20px; padding-bottom: 20px; border-bottom: 1px solid var(--border); }
+  .noticia:last-child { margin-bottom: 0; padding-bottom: 0; border-bottom: none; }
+  .badge {
+    display: inline-block;
+    background: var(--purple-soft);
+    color: white;
+    font-size: 10px;
+    font-weight: 600;
+    padding: 3px 10px;
+    border-radius: 20px;
+    letter-spacing: .06em;
+    text-transform: uppercase;
+    margin-bottom: 8px;
+  }
+  .badge.intl { background: var(--purple-deep); }
+  .noticia h3 {
+    font-family: 'Playfair Display', serif;
+    font-size: 17px;
+    color: var(--purple-deep);
+    line-height: 1.4;
+    margin-bottom: 10px;
+  }
+  .noticia p, .sec-body p, .noticia li {
+    font-size: 14px;
+    line-height: 1.8;
+    color: var(--text-dark);
+    text-align: justify;
+    hyphens: auto;
+    -webkit-hyphens: auto;
+    margin-bottom: 8px;
+  }
+  .angulo {
+    background: var(--purple-ghost);
+    border-left: 3px solid var(--purple-soft);
+    padding: 10px 16px;
+    border-radius: 0 6px 6px 0;
+    font-size: 13px;
+    font-style: italic;
+    color: var(--text-mid);
+    text-align: justify;
+    hyphens: auto;
+    margin-top: 8px;
+  }
+  /* PAPERS */
+  .paper { margin-bottom: 16px; padding-bottom: 16px; border-bottom: 1px solid var(--border); }
+  .paper:last-child { border-bottom: none; margin-bottom: 0; }
+  .paper h4 { color: var(--purple-mid); font-size: 14px; margin-bottom: 6px; }
+  .paper .meta { font-size: 12px; color: var(--text-light); margin-bottom: 6px; }
+  .paper .hallazgo, .paper .implicacion {
+    font-size: 13px;
+    line-height: 1.75;
+    text-align: justify;
+    hyphens: auto;
+    margin-bottom: 4px;
+  }
+  /* ALERTA NORMATIVA */
+  .alerta-box {
+    background: #fff5f5;
+    border: 1.5px solid var(--red-alert);
+    border-radius: 8px;
+    padding: 16px 20px;
+  }
+  .badge-estado {
+    display: inline-block;
+    background: var(--red-alert);
+    color: white;
+    font-size: 11px;
+    font-weight: 700;
+    padding: 4px 12px;
+    border-radius: 4px;
+    margin-bottom: 10px;
+    letter-spacing: .06em;
+  }
+  .alerta-box p { font-size: 13px; line-height: 1.8; text-align: justify; hyphens: auto; }
+  /* PRIORIDADES */
+  .prioridad {
+    margin-bottom: 10px;
+    border-radius: 8px;
+    overflow: hidden;
+  }
+  .prio-header {
+    padding: 10px 16px;
+    color: white;
+    font-weight: 600;
+    font-size: 14px;
+  }
+  .prio-body {
+    background: var(--purple-ghost);
+    padding: 10px 16px;
+    font-size: 13px;
+    line-height: 1.75;
+    text-align: justify;
+    hyphens: auto;
+    border: 1px solid var(--border);
+    border-top: none;
+    border-radius: 0 0 8px 8px;
+  }
+  /* FOOTER */
+  footer {
+    background: var(--purple-deep);
+    color: var(--text-light);
+    text-align: center;
+    padding: 20px;
+    font-size: 12px;
+    margin-top: 40px;
+  }
+  @media (max-width: 640px) {
+    .header-main { flex-direction: column; padding: 20px 16px; }
+    .header-top { padding: 10px 16px; }
+    .briefing { margin: 16px; }
+    main { padding: 16px 10px 40px; }
+  }
+</style>
+</head>
+<body>
+
+<header class="site-header">
+  <div class="header-top">
+    <a href="noticias-ipp.html" class="back-link">← Volver al archivo de informes</a>
+    
+  </div>
+  <div class="header-main">
+    <div class="logo-box">
+      <span class="logo-text">IPP</span>
+      <span class="logo-sub">Instituto<br/>Politécnico de<br/>Psicología</span>
+    </div>
+    <div class="header-copy">
+      <p class="observatorio">Observatorio de Actualidad en Psicología</p>
+      <h1>Salud Mental Digital y Burnout Laboral en España — Alertas del COP y Estado Normativo</h1>
+      <span class="fecha-badge">17 de mayo de 2026 — Volumen diario</span>
+    </div>
+  </div>
+  <div class="briefing">
+    Apps sin evidencia &nbsp;·&nbsp; Burnout laboral &nbsp;·&nbsp; Ley General de Salud Mental &nbsp;·&nbsp; IA y selección de antidepresivos &nbsp;·&nbsp; Digitalización ética juvenil
+  </div>
+</header>
+
+<main>
+
+  <!-- 1. RESUMEN RÁPIDO -->
+  <div class="sec-header">1. Resumen Rápido del Día</div>
+  <div class="sec-body">
+    <p>El 17 de mayo de 2026 concentra tres focos de atención para el ámbito de la psicología en España. El Consejo General de la Psicología ha elevado una alerta formal sobre la proliferación de aplicaciones de salud mental sin respaldo empírico, señalando deficiencias tanto en eficacia clínica como en protección de datos. En paralelo, los datos de incapacidad laboral confirman que el burnout afecta ya al 40% de los trabajadores españoles, con bajas por trastornos mentales acumulando un incremento del 490% en seis años. En el plano legislativo, la Proposición de Ley General de Salud Mental sigue su tramitación parlamentaria, incorporando un protocolo antisuicidio y la creación del Centro Estatal de Salud Mental. A nivel internacional, la EFPA establece seis áreas prioritarias para una digitalización ética de la salud mental juvenil y la investigación científica avanza en modelos de inteligencia artificial para la selección de antidepresivos en la depresión mayor.</p>
+  </div>
+
+  <!-- 2. NOTICIAS NACIONALES -->
+  <div class="sec-header mid">2. Noticias Nacionales</div>
+  <div class="sec-body">
+
+    <div class="noticia">
+      <span class="badge">Regulación Digital · Nacional</span>
+      <h3>El COP alerta sobre aplicaciones de salud mental sin evidencia científica ni garantías de privacidad</h3>
+      <p>El Consejo General de la Psicología de España ha publicado, con fecha 12 de mayo de 2026, un informe en el que advierte de los riesgos asociados a la proliferación descontrolada de aplicaciones móviles de salud mental. El organismo colegial señala que la mayoría de las herramientas analizadas no cuentan con estudios que avalen su eficacia clínica y presentan políticas de privacidad insuficientes respecto a los requerimientos del RGPD europeo y la LOPDGDD. El informe constata que algunas aplicaciones pueden agravar el malestar emocional del usuario en lugar de atenuarlo, al generar dinámicas de dependencia tecnológica sin intervención profesional acreditada.</p>
+      <div class="angulo">– Valoración técnica: La alerta del COP pone de manifiesto la necesidad urgente de marcos regulatorios específicos para la salud mental digital. El ejercicio profesional de la psicología exige que cualquier herramienta terapéutica, incluidas las digitales, acredite eficacia mediante metodología controlada. La responsabilidad deontológica del psicólogo incluye la evaluación crítica de las herramientas que recomienda o emplea con sus pacientes.</div>
+    </div>
+
+    <div class="noticia">
+      <span class="badge">Salud Mental Laboral · Nacional</span>
+      <h3>Burnout en España: el 40% de los trabajadores en situación límite y bajas mentales con incremento del 490% en seis años</h3>
+      <p>Los datos actualizados a mayo de 2026 confirman que España es el quinto país europeo en prevalencia de estrés laboral, con un 40% de la población activa en situación de agotamiento crónico. Los trastornos mentales se han convertido en la segunda causa de baja laboral, solo superada por los trastornos musculoesqueléticos, y acumulan un incremento del 490% en seis años. Las bajas laborales por problemas de salud mental alcanzaron en 2024 la cifra récord de 671.618, mientras que España mantiene apenas seis psicólogos clínicos por cada 100.000 habitantes en la red pública, frente a los 18 de media en los países de la OCDE. Los jóvenes de entre 25 y 34 años y las mujeres concentran los mayores incrementos, combinando precariedad laboral y mayor carga de cuidados.</p>
+      <div class="angulo">– Implicaciones para la praxis: El psicólogo general sanitario en el ámbito privado absorbe una demanda creciente que el sistema público no puede atender. La evaluación del burnout, la intervención cognitivo-conductual y los programas de gestión del estrés en el entorno organizacional constituyen áreas de intervención de alta relevancia clínica y social en el contexto actual.</div>
+    </div>
+
+    <div class="noticia">
+      <span class="badge">Política Sanitaria · Nacional</span>
+      <h3>Plan de Salud Mental de Andalucía 2026-2029: cambios estructurales en la atención psicológica pública</h3>
+      <p>El Plan de Salud Mental de Andalucía para el período 2026-2029, publicado el 8 de mayo de 2026, introduce modificaciones en la cartera de servicios de atención psicológica en el sistema sanitario autonómico. El plan contempla la ampliación de la cobertura de psicología clínica en atención primaria, la potenciación de unidades de salud mental infanto-juvenil y el refuerzo de la atención domiciliaria para personas con trastorno mental grave. Andalucía se convierte en una de las primeras comunidades autónomas en establecer ratios mínimas de psicólogos clínicos por población atendida en la red pública.</p>
+      <div class="angulo">– Análisis sector clínico: La implementación de este plan incrementará la demanda de psicólogos clínicos en la red pública andaluza y puede generar sinergias con el sector privado en la provisión de servicios complementarios y derivaciones.</div>
+    </div>
+
+  </div>
+
+  <!-- 3. NOTICIAS INTERNACIONALES -->
+  <div class="sec-header mid">3. Noticias Internacionales</div>
+  <div class="sec-body">
+
+    <div class="noticia">
+      <span class="badge intl">Digitalización Ética · Internacional</span>
+      <h3>La EFPA establece seis áreas prioritarias para la digitalización ética de la salud mental juvenil</h3>
+      <p>La Federación Europea de Asociaciones de Psicólogos (EFPA) ha publicado un posicionamiento en el que delimita seis áreas prioritarias para garantizar que la adopción de tecnologías digitales en salud mental juvenil se realice de forma ética y basada en la evidencia. El documento enfatiza la co-producción de la regulación con psicólogos y personas con experiencia vivida, la evaluación rigurosa de la eficacia de las herramientas digitales, la protección de datos de menores, la formación de profesionales en competencias digitales, la lucha contra la desinformación en salud mental en redes sociales, y la garantía de equidad en el acceso a recursos digitales de calidad.</p>
+      <div class="angulo">– Implicaciones neuropsicológicas: La exposición temprana a aplicaciones no supervisadas puede interferir en el neurodesarrollo y en la consolidación de estrategias de regulación emocional en adolescentes. El posicionamiento de la EFPA insta a los Estados miembros a incorporar la perspectiva neuropsicológica en el diseño de políticas de salud digital dirigidas a la población joven.</div>
+    </div>
+
+    <div class="noticia">
+      <span class="badge intl">Inteligencia Artificial · Internacional</span>
+      <h3>Revisión sistemática 2026: la inteligencia artificial mejora la selección de antidepresivos en depresión mayor, pero permanece en fase inicial de desarrollo clínico</h3>
+      <p>Una revisión sistemática publicada en JMIR Mental Health en 2026 analiza 15 estudios sobre el uso de modelos de aprendizaje automático para la selección comparativa de antidepresivos en el trastorno depresivo mayor (TDM). La revisión, que incluye muestras de entre 49 y 77.226 participantes, concluye que la mayoría de los modelos se centran en la predicción de respuesta a un único fármaco en lugar de en la selección comparativa entre alternativas terapéuticas, lo que limita su utilidad clínica directa. Solo uno de los 15 estudios implementa un marco unificado que soporta la clasificación de tratamientos por paciente. La tasa de respuesta actual a los antidepresivos se sitúa entre el 42% y el 53%.</p>
+      <div class="angulo">– Transferencia al ámbito asistencial: Aunque los modelos de IA para selección de antidepresivos muestran potencial, su implementación en la práctica clínica requiere aún validación externa en muestras diversas y entornos de atención real. El clínico debe mantener un juicio crítico ante las herramientas de apoyo a la decisión terapéutica basadas en IA, integrándolas como un complemento —no como sustituto— de la evaluación clínica exhaustiva.</div>
+    </div>
+
+  </div>
+
+  <!-- 4. PUBLICACIONES CIENTÍFICAS -->
+  <div class="sec-header gold">4. Publicaciones Científicas Recientes</div>
+  <div class="sec-body">
+
+    <div class="paper">
+      <h4>Machine Learning for Comparative Antidepressant Selection in Major Depressive Disorder: Systematic Review</h4>
+      <p class="meta">JMIR Mental Health, 2026 &nbsp;|&nbsp; Revisión sistemática &nbsp;|&nbsp; n: 15 estudios (49–77.226 participantes) &nbsp;|&nbsp; DOI: mental.jmir.org/2026/1/e89352</p>
+      <p class="hallazgo"><strong>Hallazgo principal:</strong> Solo 1 de 15 estudios implementa un marco capaz de apoyar la selección comparativa de tratamientos a nivel de paciente. La mayor parte de los modelos predice respuesta a un único fármaco, limitando su aplicabilidad clínica directa en la toma de decisiones terapéuticas.</p>
+      <p class="implicacion"><strong>Implicación clínica:</strong> Los sistemas de apoyo a la decisión basados en IA para el TDM necesitan evolucionar hacia marcos comparativos multiagente antes de poder integrarse de forma rutinaria en la práctica psiquiátrica y psicológica.</p>
+    </div>
+
+    <div class="paper">
+      <h4>Multimodal AI-Based Systems in Major Depressive Disorder: A Review of Clinical and Translational Applications</h4>
+      <p class="meta">Frontiers in Digital Health, 2026 &nbsp;|&nbsp; Revisión clínica y traslacional &nbsp;|&nbsp; DOI: 10.3389/fdgth.2026.1812241</p>
+      <p class="hallazgo"><strong>Hallazgo principal:</strong> Los sistemas multimodales de IA que integran datos clínicos, neuroimagen y biomarcadores mejoran la clasificación diagnóstica y la predicción del curso del trastorno depresivo mayor frente a los modelos unimodales, con especial relevancia en la identificación de subtipos neurobiológicos refractarios.</p>
+      <p class="implicacion"><strong>Implicación clínica:</strong> La neuropsicología clínica juega un papel central en la caracterización cognitiva de los subtipos depresivos que los modelos de IA están comenzando a identificar. La colaboración interdisciplinar entre neuropsicólogos, psiquiatras y científicos de datos es condición necesaria para la traslación clínica efectiva.</p>
+    </div>
+
+  </div>
+
+  <!-- 5. HERRAMIENTAS CLÍNICAS -->
+  <div class="sec-header mid">5. Herramientas Clínicas e Instrumentos</div>
+  <div class="sec-body">
+    <p>En el contexto de la alerta sobre aplicaciones de salud mental, el COP España ha publicado una guía de <strong>señales de alerta</strong> para la identificación de herramientas digitales sin evidencia. Los criterios clave incluyen: ausencia de referencias a estudios controlados, falta de política de privacidad conforme al RGPD, ausencia de supervisión por profesional acreditado, promesas de resultados inmediatos o garantizados, y monetización basada en extensión del tiempo de uso. Esta guía está disponible en el portal de Infocop (infocop.es) y constituye un recurso clínico de referencia para orientar a pacientes en el uso seguro de herramientas digitales complementarias.</p>
+  </div>
+
+  <!-- 6. ALERTAS NORMATIVAS -->
+  <div class="sec-header alert">6. Alertas Normativas</div>
+  <div class="sec-body">
+    <div class="alerta-box">
+      <span class="badge-estado">EN TRAMITACIÓN</span>
+      <p><strong>Proposición de Ley General de Salud Mental — Congreso de los Diputados de España</strong></p>
+      <p>El Gobierno remitió al Congreso en abril de 2026 el nuevo proyecto de Ley General de Salud Mental, que reforma el régimen de internaciones involuntarias y crea el Centro Estatal de Salud Mental, el Consejo de Participación de Salud Mental y la Defensoría de la persona con problemas de salud mental en cada comunidad autónoma. La proposición incluye un protocolo de prevención del suicidio de alcance nacional, campañas contra el estigma y medidas de investigación en salud mental.</p>
+      <p><strong>Referencia:</strong> Boletín Oficial de las Cortes Generales, BOCG-15-B-48-1 — <a href="https://www.congreso.es" target="_blank">congreso.es</a></p>
+    </div>
+  </div>
+
+  <!-- 7. PRIORIDADES DEL DÍA -->
+  <div class="sec-header">7. Prioridades del Día</div>
+  <div class="sec-body">
+
+    <div class="prioridad">
+      <div class="prio-header" style="background:#9b5de5;">Revisión del protocolo de recomendación de herramientas digitales a pacientes</div>
+      <div class="prio-body">Comprobar que las aplicaciones recomendadas en consulta cumplen los criterios de evidencia y privacidad establecidos por el COP. Actualizar el consentimiento informado para incluir la mención explícita al uso de herramientas digitales complementarias y sus limitaciones clínicas y de privacidad.</div>
+    </div>
+
+    <div class="prioridad">
+      <div class="prio-header" style="background:#c9a84c; color:#1a0e2e;">Actualización de la evaluación del burnout en pacientes en activo laboral</div>
+      <div class="prio-body">Incorporar o revisar el uso de instrumentos validados para la detección del síndrome de burnout (MBI, CESQT) en pacientes adultos que presenten quejas de agotamiento, despersonalización o reducción del logro profesional, dado el incremento epidemiológico registrado en 2026.</div>
+    </div>
+
+    <div class="prioridad">
+      <div class="prio-header" style="background:#3d1a6e;">Seguimiento de la tramitación de la Ley General de Salud Mental</div>
+      <div class="prio-body">Monitorizar el avance parlamentario de la Proposición de Ley General de Salud Mental, con especial atención al protocolo de prevención del suicidio y a los cambios en el régimen de internaciones involuntarias, que afectarán directamente a la práctica clínica y a los procedimientos de derivación urgente.</div>
+    </div>
+
+  </div>
+
+</main>
+
+<footer>
+  © 2026 IPP | Instituto Politécnico de Psicología &nbsp;·&nbsp; Observatorio de Actualidad &nbsp;·&nbsp; 17 de mayo de 2026
+</footer>
+
+</body>
+</html>
