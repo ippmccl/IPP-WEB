@@ -489,7 +489,7 @@ const tagLabels = {
   ambos:       { text: "Profesionales y público", cls: "tag-ambos" }
 };
 
-const pdfIcon = `<svg class="pdf-icon" viewBox="0 0 24 24"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8l-6-6zm4 18H6V4h7v5h5v11zM8 15h8v1H8zm0-3h8v1H8zm0-3h5v1H8z"/></svg>`;
+// Iconos integrados en los botones (ver renderFeatured y renderGrid)
 
 function filteredInformes() {
   if (currentFilter === "todos") return INFORMES;
@@ -515,10 +515,11 @@ function renderFeatured() {
       <h2 class="featured-title">${item.titulo} — ${item.fecha}</h2>
       <p class="featured-summary">${item.resumen}</p>
       <div style="display:flex;gap:10px;flex-wrap:wrap;align-items:center">
-        <a class="btn-primary" href="${item.link}" target="_blank" rel="noopener">
-          ${pdfIcon} Leer informe completo
-        </a>
-        ${item.linkPdf ? `<a class="btn-primary" href="${item.linkPdf}" target="_blank" rel="noopener" style="background:var(--purple-deep)">${pdfIcon} Descargar PDF</a>` : ''}
+        ${item.link.endsWith('.html')
+          ? `<a class="btn-primary" href="${item.link}" target="_blank" rel="noopener"><svg style="width:16px;height:16px;vertical-align:middle;margin-right:6px;fill:currentColor" viewBox="0 0 24 24"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8l-6-6zm4 18H6V4h7v5h5v11zM8 13h8v2H8zm0-4h5v2H8z"/></svg>Leer informe</a>`
+          : `<a class="btn-primary" href="${item.link}" target="_blank" rel="noopener"><svg style="width:16px;height:16px;vertical-align:middle;margin-right:6px;fill:currentColor" viewBox="0 0 24 24"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8l-6-6zm4 18H6V4h7v5h5v11zM8 15h8v1H8zm0-3h8v1H8zm0-3h5v1H8z"/></svg>Ver PDF</a>`
+        }
+        ${item.linkPdf ? `<a class="btn-primary" href="${item.linkPdf}" target="_blank" rel="noopener" style="background:var(--purple-deep)"><svg style="width:16px;height:16px;vertical-align:middle;margin-right:6px;fill:currentColor" viewBox="0 0 24 24"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8l-6-6zm4 18H6V4h7v5h5v11zM8 15h8v1H8zm0-3h8v1H8zm0-3h5v1H8z"/></svg>Descargar PDF</a>` : ''}
         <span class="card-tag ${tag.cls}">${tag.text}</span>
       </div>
     </div>
@@ -540,9 +541,10 @@ function renderGrid() {
       <div class="card-title">${item.titulo}</div>
       <span class="card-tag ${tag.cls}">${tag.text}</span>
       <div class="card-footer">
-        <a class="btn-secondary" href="${item.link}" target="_blank" rel="noopener">
-          ${pdfIcon} Ver informe
-        </a>
+        ${item.link.endsWith('.html')
+          ? `<a class="btn-secondary" href="${item.link}" target="_blank" rel="noopener"><svg style="width:16px;height:16px;vertical-align:middle;margin-right:6px;fill:currentColor" viewBox="0 0 24 24"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8l-6-6zm4 18H6V4h7v5h5v11zM8 13h8v2H8zm0-4h5v2H8z"/></svg>Leer informe</a>`
+          : `<a class="btn-secondary" href="${item.link}" target="_blank" rel="noopener"><svg style="width:16px;height:16px;vertical-align:middle;margin-right:6px;fill:currentColor" viewBox="0 0 24 24"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8l-6-6zm4 18H6V4h7v5h5v11zM8 15h8v1H8zm0-3h8v1H8zm0-3h5v1H8z"/></svg>Ver PDF</a>`
+        }
       </div>
     </div>`;
   }).join('');
