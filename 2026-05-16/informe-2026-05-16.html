@@ -1,0 +1,526 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>IPP – Apps de salud mental, crisis de listas de espera y regulación digital | 16 mayo 2026</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700&family=DM+Sans:wght@300;400;500;600&display=swap" rel="stylesheet">
+<style>
+:root {
+  --purple-deep: #3d1a6e;
+  --purple-mid: #6b35b8;
+  --purple-soft: #9b5de5;
+  --purple-pale: #e8d5f7;
+  --purple-ghost: #f5eeff;
+  --gold: #c9a84c;
+  --text-dark: #1a0e2e;
+  --text-mid: #4a3568;
+  --text-light: #8a75a8;
+  --border: #ddd0f0;
+  --green-pale: #e6f4ea;
+  --green-soft: #a8d5b5;
+  --blue-pale: #e0f2f9;
+}
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+body {
+  font-family: 'DM Sans', sans-serif;
+  background: var(--purple-ghost);
+  color: var(--text-dark);
+  line-height: 1.65;
+}
+
+/* HEADER */
+header {
+  background: linear-gradient(135deg, var(--purple-deep) 0%, var(--purple-mid) 70%, var(--purple-soft) 100%);
+  padding: 0;
+}
+
+.header-top {
+  padding: 12px 32px;
+  border-bottom: 1px solid rgba(255,255,255,0.15);
+}
+
+.back-link {
+  color: rgba(255,255,255,0.75);
+  text-decoration: none;
+  font-size: 0.85rem;
+  font-weight: 500;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  transition: color 0.2s;
+}
+.back-link:hover { color: white; }
+
+.header-main {
+  padding: 32px 32px 36px;
+  display: grid;
+  grid-template-columns: 1fr auto;
+  align-items: end;
+  gap: 24px;
+}
+
+.header-main h1 {
+  font-family: 'Playfair Display', serif;
+  font-size: 2rem;
+  font-weight: 700;
+  color: white;
+  line-height: 1.25;
+  max-width: 680px;
+}
+
+.header-meta {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-end;
+}
+
+.date-badge {
+  background: rgba(255,255,255,0.18);
+  border: 1px solid rgba(255,255,255,0.35);
+  border-radius: 20px;
+  padding: 5px 16px;
+  color: rgba(255,255,255,0.9);
+  font-size: 0.82rem;
+  font-weight: 500;
+  white-space: nowrap;
+}
+
+.pdf-btn {
+  display: inline-block;
+  background: var(--gold);
+  color: white;
+  text-decoration: none;
+  padding: 9px 22px;
+  border-radius: 8px;
+  font-weight: 600;
+  font-size: 0.88rem;
+  white-space: nowrap;
+  transition: opacity 0.2s;
+}
+.pdf-btn:hover { opacity: 0.88; }
+
+/* MAIN */
+main {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 36px 20px 60px;
+}
+
+.section-title {
+  font-family: 'Playfair Display', serif;
+  font-size: 1.45rem;
+  font-weight: 700;
+  color: var(--purple-deep);
+  border-left: 5px solid var(--purple-soft);
+  padding-left: 16px;
+  margin: 44px 0 22px;
+  line-height: 1.3;
+}
+
+/* RESUMEN */
+.resumen-card {
+  background: linear-gradient(135deg, var(--purple-deep), var(--purple-mid));
+  color: white;
+  border-radius: 18px;
+  padding: 30px 36px;
+  box-shadow: 0 8px 28px rgba(61,26,110,0.22);
+}
+
+.resumen-card .label {
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 1.5px;
+  color: rgba(255,255,255,0.65);
+  margin-bottom: 12px;
+}
+
+.resumen-card p {
+  font-size: 1.05rem;
+  line-height: 1.72;
+  color: rgba(255,255,255,0.94);
+}
+
+/* NOTICIAS */
+.noticias-grid { display: grid; gap: 20px; }
+
+.noticia {
+  background: white;
+  border-radius: 16px;
+  padding: 24px 28px;
+  box-shadow: 0 3px 16px rgba(61,26,110,0.07);
+  border-top: 4px solid var(--purple-soft);
+}
+
+.etiqueta {
+  display: inline-block;
+  font-size: 0.72rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  padding: 3px 12px;
+  border-radius: 20px;
+  margin-bottom: 12px;
+}
+.etiqueta-nacional { background: var(--purple-pale); color: var(--purple-deep); }
+.etiqueta-internacional { background: var(--blue-pale); color: #1a4a6e; }
+.etiqueta-ciencia { background: var(--green-pale); color: #1a4e2a; }
+
+.noticia h3 {
+  font-family: 'Playfair Display', serif;
+  font-size: 1.15rem;
+  font-weight: 700;
+  color: var(--purple-deep);
+  margin-bottom: 12px;
+  line-height: 1.35;
+}
+
+.noticia p { margin-bottom: 10px; font-size: 0.97rem; }
+.noticia p:last-child { margin-bottom: 0; }
+
+.fuente-noticia {
+  font-size: 0.78rem;
+  color: var(--text-light);
+  margin-top: 14px !important;
+  padding-top: 12px;
+  border-top: 1px solid var(--border);
+}
+
+/* BLOQUES ANALÍTICOS */
+.bloque {
+  background: white;
+  border-radius: 16px;
+  padding: 26px 30px;
+  box-shadow: 0 3px 16px rgba(61,26,110,0.07);
+  margin-bottom: 20px;
+}
+
+.bloque h3 {
+  font-family: 'Playfair Display', serif;
+  font-size: 1.1rem;
+  color: var(--purple-deep);
+  margin-bottom: 18px;
+}
+
+.bloque-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 24px;
+  margin-bottom: 16px;
+}
+
+@media (max-width: 640px) {
+  .bloque-grid { grid-template-columns: 1fr; }
+}
+
+.bloque-col h4 {
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.8px;
+  color: var(--purple-mid);
+  margin-bottom: 8px;
+}
+
+.fuente-verde {
+  background: var(--green-pale);
+  border-left: 4px solid var(--green-soft);
+  border-radius: 8px;
+  padding: 10px 16px;
+  font-size: 0.8rem;
+  color: #2a5e38;
+}
+
+/* NOVEDADES */
+.novedad {
+  background: white;
+  border-radius: 14px;
+  padding: 22px 26px;
+  box-shadow: 0 3px 14px rgba(61,26,110,0.07);
+  border-left: 5px solid var(--purple-mid);
+  margin-bottom: 16px;
+}
+
+.novedad h3 {
+  font-family: 'Playfair Display', serif;
+  font-size: 1.05rem;
+  color: var(--purple-deep);
+  margin-bottom: 10px;
+}
+
+.novedad p { font-size: 0.96rem; }
+
+.fuente-novedad {
+  font-size: 0.78rem;
+  color: var(--text-light);
+  margin-top: 12px;
+  padding-top: 10px;
+  border-top: 1px solid var(--border);
+}
+
+/* ALERTAS */
+.alerta {
+  background: #fffbec;
+  border: 1px solid #f0d080;
+  border-radius: 14px;
+  padding: 22px 26px;
+  margin-bottom: 16px;
+}
+
+.alerta-header { display: flex; align-items: flex-start; gap: 12px; margin-bottom: 12px; }
+
+.alerta-icono {
+  width: 30px;
+  height: 30px;
+  min-width: 30px;
+  background: #f0d080;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 700;
+  font-size: 1rem;
+  color: #5c4000;
+  margin-top: 2px;
+}
+
+.alerta h3 {
+  font-family: 'Playfair Display', serif;
+  font-size: 1rem;
+  color: #5c4000;
+  line-height: 1.35;
+}
+
+.badge-estado {
+  display: inline-block;
+  font-size: 0.72rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.8px;
+  padding: 3px 10px;
+  border-radius: 20px;
+  margin-left: 8px;
+  vertical-align: middle;
+}
+.badge-vigente { background: #e8f5e9; color: #1b5e20; }
+.badge-desarrollo { background: #fff3e0; color: #e65100; }
+
+.alerta p { font-size: 0.95rem; color: #5c4000; margin-bottom: 8px; }
+.alerta-fuente { font-size: 0.78rem; color: #8a6500; margin-top: 8px; }
+
+/* PRIORIDADES */
+.prioridades-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+}
+
+@media (max-width: 680px) {
+  .prioridades-grid { grid-template-columns: 1fr; }
+  .header-main { grid-template-columns: 1fr; }
+  .header-meta { align-items: flex-start; }
+}
+
+.prioridad {
+  background: white;
+  border-radius: 16px;
+  padding: 24px 20px;
+  box-shadow: 0 3px 14px rgba(61,26,110,0.07);
+  text-align: center;
+}
+
+.prioridad-num {
+  width: 48px;
+  height: 48px;
+  background: linear-gradient(135deg, var(--purple-mid), var(--purple-soft));
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto 16px;
+  font-size: 1.4rem;
+  font-weight: 700;
+  color: white;
+}
+
+.prioridad p { font-size: 0.94rem; font-weight: 500; color: var(--text-dark); line-height: 1.5; }
+
+/* FOOTER */
+footer {
+  background: var(--purple-deep);
+  color: rgba(255,255,255,0.65);
+  text-align: center;
+  padding: 20px 24px;
+  font-size: 0.82rem;
+  letter-spacing: 0.3px;
+}
+footer strong { color: rgba(255,255,255,0.9); }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="header-top">
+    <a href="../index.html" class="back-link">&#8592; Volver al archivo de informes</a>
+  </div>
+  <div class="header-main">
+    <h1>Apps de salud mental, crisis de listas de espera y regulación digital en psicología</h1>
+    <div class="header-meta">
+      <span class="date-badge">16 de mayo de 2026</span>
+      <a href="https://drive.google.com/file/d/1ocDz444EngIfJ3XDhKn6Hd0Y-RuCgW37/view?usp=drive_link" target="_blank" class="pdf-btn">&#8595; Descargar PDF</a>
+    </div>
+  </div>
+</header>
+
+<main>
+
+  <!-- RESUMEN RÁPIDO -->
+  <h2 class="section-title">Resumen rápido del día</h2>
+  <div class="resumen-card">
+    <p class="label">Síntesis ejecutiva</p>
+    <p>El sector de la psicología en España afronta esta semana una triple presión: el Consejo General de Psicología advierte del auge de aplicaciones móviles de salud mental sin evidencia científica ni garantías de privacidad, mientras las listas de espera en la red pública superan los seis meses en varias comunidades autónomas. En paralelo, la APA ha publicado sus nueve tendencias clave para 2026, situando la inteligencia artificial terapéutica y la atención integrada como ejes transformadores. El consumo de benzodiacepinas entre jóvenes sigue en cifras récord, lo que interpela directamente al modelo de intervención psicológica. La normativa RGPD y LOPDGDD obliga a los profesionales a revisar sus protocolos digitales ante el uso creciente de herramientas tecnológicas con datos sensibles de salud.</p>
+  </div>
+
+  <!-- NOTICIAS Y TENDENCIAS -->
+  <h2 class="section-title">Noticias y tendencias</h2>
+  <div class="noticias-grid">
+
+    <div class="noticia">
+      <span class="etiqueta etiqueta-nacional">Nacional</span>
+      <h3>Psicólogos de España alertan sobre el auge de apps de salud mental sin evidencia científica</h3>
+      <p><strong>Hechos:</strong> Un informe difundido el 12 de mayo por Infocop documenta que la mayoría de las aplicaciones móviles de salud mental que se comercializan en España carecen de evaluación clínica rigurosa. Menos del 4 % de las aplicaciones para el manejo de la ansiedad ha superado ensayos clínicos aleatorizados. Además, numerosas herramientas presentan políticas de privacidad deficientes en el tratamiento de datos de salud.</p>
+      <p><strong>Impacto sectorial:</strong> La proliferación de estas herramientas plantea un riesgo real para los pacientes que las utilizan como sustituto del tratamiento psicológico, y abre un debate regulatorio urgente sobre la certificación de dispositivos digitales de salud en la Unión Europea.</p>
+      <p class="fuente-noticia">Fuente: Infocop – Consejo General de la Psicología de España | 12 de mayo de 2026</p>
+    </div>
+
+    <div class="noticia">
+      <span class="etiqueta etiqueta-nacional">Nacional</span>
+      <h3>Listas de espera en psicología pública superan los seis meses en varias comunidades</h3>
+      <p><strong>Hechos:</strong> Datos del Ministerio de Sanidad confirman que la demora media para una primera consulta de psicología clínica en la red pública oscila entre cuatro y ocho meses. España dispone de un tercio de los psicólogos clínicos por habitante respecto a la media de la Unión Europea, y en 2026 se han ofertado únicamente 280 plazas PIR frente a más de 4.100 candidatos.</p>
+      <p><strong>Impacto sectorial:</strong> La brecha entre oferta y demanda consolida el acceso privado como vía principal, reforzando el papel estratégico de los profesionales autónomos y de las consultas privadas.</p>
+      <p class="fuente-noticia">Fuente: Ministerio de Sanidad / Que.es | 2 de mayo de 2026</p>
+    </div>
+
+    <div class="noticia">
+      <span class="etiqueta etiqueta-internacional">Internacional</span>
+      <h3>La APA publica sus nueve tendencias clave para la psicología en 2026: la IA, en el centro</h3>
+      <p><strong>Hechos:</strong> La American Psychological Association ha presentado una revisión que sitúa la inteligencia artificial, la atención integrada y el bienestar laboral como vectores prioritarios. La APA señala que los chatbots terapéuticos están siendo evaluados en ensayos controlados, y que Illinois ha aprobado la primera ley estatal que prohíbe la terapia con IA sin supervisión clínica presencial.</p>
+      <p><strong>Impacto sectorial:</strong> La posición de la APA fija un horizonte regulatorio que España deberá adaptar, e interpela a los colegios profesionales sobre la supervisión deontológica de las herramientas digitales.</p>
+      <p class="fuente-noticia">Fuente: APA / Infocop | Mayo de 2026</p>
+    </div>
+
+    <div class="noticia">
+      <span class="etiqueta etiqueta-nacional">Nacional</span>
+      <h3>El 62 % de los españoles sitúa la salud mental como su mayor preocupación sanitaria</h3>
+      <p><strong>Hechos:</strong> Una encuesta de mayo de 2026 revela que seis de cada diez ciudadanos consideran el bienestar psicológico su principal preocupación de salud, coincidiendo con la Semana de la Salud Mental Europea 2026.</p>
+      <p><strong>Impacto sectorial:</strong> La creciente percepción social del valor de la salud mental abre una oportunidad de demanda para los profesionales del sector, al tiempo que exige una oferta de calidad avalada por evidencia.</p>
+      <p class="fuente-noticia">Fuente: Moncloa.com / Confederación Salud Mental España | 7 de mayo de 2026</p>
+    </div>
+
+  </div>
+
+  <!-- ANÁLISIS CLÍNICO -->
+  <h2 class="section-title">Análisis para el sector clínico</h2>
+
+  <div class="bloque">
+    <h3>Medicalización del malestar en jóvenes: benzodiacepinas y psicología</h3>
+    <div class="bloque-grid">
+      <div class="bloque-col">
+        <h4>Hallazgos clave</h4>
+        <p>España es el primer país del mundo en consumo de benzodiacepinas por habitante, con aproximadamente 110 dosis diarias por cada 1.000 personas. Cerca del 20 % de los jóvenes de 14 a 18 años ha consumido hipnosedantes sin prescripción médica, según la ESTUDES. El Gobierno Vasco ha puesto en marcha una estrategia específica para reducir el consumo prolongado.</p>
+      </div>
+      <div class="bloque-col">
+        <h4>Análisis clínico e impacto profesional</h4>
+        <p>La tendencia a medicalizar el malestar emocional de base social desplaza el eje de intervención hacia el ámbito farmacológico. Los psicólogos están en posición privilegiada para ofrecer alternativas basadas en evidencia, especialmente en población adolescente. Es urgente reforzar la derivación coordinada entre atención primaria y psicología para evitar la cronificación farmacológica.</p>
+      </div>
+    </div>
+    <div class="fuente-verde">Fuente: JIFE / Ministerio de Sanidad – ESTUDES 2024-2025 | Huelvared.com, 28 de febrero de 2026</div>
+  </div>
+
+  <div class="bloque">
+    <h3>Inteligencia artificial en terapia: riesgos y oportunidades para la práctica clínica</h3>
+    <div class="bloque-grid">
+      <div class="bloque-col">
+        <h4>Hallazgos clave</h4>
+        <p>Las herramientas de IA generativa aplicadas a salud mental pueden analizar patrones de sueño, actividad y lenguaje para apoyar decisiones clínicas. Sin embargo, la ausencia de regulación homogénea a nivel europeo genera un vacío legal que afecta a la responsabilidad profesional y a la protección de datos sensibles.</p>
+      </div>
+      <div class="bloque-col">
+        <h4>Análisis clínico e impacto profesional</h4>
+        <p>La integración de IA requiere formación específica en evaluación de herramientas digitales y deontología tecnológica. El profesional conserva la responsabilidad clínica en todo momento. Las guías éticas de la APA 2026 constituyen un referente de consulta válido para la práctica española.</p>
+      </div>
+    </div>
+    <div class="fuente-verde">Fuente: APA Guidelines on AI in Psychological Practice 2026 | Infocop, mayo 2026</div>
+  </div>
+
+  <!-- NOVEDADES CIENTÍFICAS -->
+  <h2 class="section-title">Novedades científicas e instrumentos</h2>
+
+  <div class="novedad">
+    <h3>Psicothema publica su segundo número de 2026</h3>
+    <p>La revista Psicothema ha publicado su segundo número correspondiente al volumen 2026, con investigaciones en psicología clínica, psicología del desarrollo y neuropsicología aplicada. Se recomienda su consulta para la actualización de evidencia.</p>
+    <p class="fuente-novedad">Fuente: Infocop | https://www.infocop.es/segundo-numero-de-la-revista-psicothema-correspondiente-a-2026/</p>
+  </div>
+
+  <div class="novedad">
+    <h3>10.ª Jornada JOSMIN – Salud Mental Infantil y Juvenil, Neurodesarrollo y Contexto | 22 de mayo de 2026</h3>
+    <p>PSISE Madrid organiza el próximo 22 de mayo la décima edición de la Jornada JOSMIN. El evento es un espacio de intercambio clínico y científico de referencia nacional para profesionales que trabajan con infancia y adolescencia, con mesas sobre intervención temprana, diagnóstico diferencial y modelos de atención comunitaria.</p>
+    <p class="fuente-novedad">Fuente: PSISE Madrid | https://psisemadrid.org/10-josmin-2026/</p>
+  </div>
+
+  <div class="novedad">
+    <h3>Método catalán de evaluación de apps para depresión</h3>
+    <p>Un equipo de investigadores catalanes ha desarrollado un protocolo estructurado para evaluar la calidad metodológica y la seguridad de las aplicaciones móviles orientadas al tratamiento de la depresión, que incluye criterios de evidencia, usabilidad y privacidad.</p>
+    <p class="fuente-novedad">Fuente: ConSalud | https://www.consalud.es/pacientes/investigadores-catalanes-desarrollan-un-metodo-para-evaluar-apps-para-tratar-la-depresion.html</p>
+  </div>
+
+  <!-- ALERTAS NORMATIVAS -->
+  <h2 class="section-title">Alertas normativas</h2>
+
+  <div class="alerta">
+    <div class="alerta-header">
+      <div class="alerta-icono">!</div>
+      <h3>RGPD y LOPDGDD – Obligaciones en el uso de aplicaciones digitales con datos de salud <span class="badge-estado badge-vigente">Vigente</span></h3>
+    </div>
+    <p>El marco normativo español establece que los datos de salud son categoría especial y requieren el máximo nivel de protección. Todo profesional que utilice aplicaciones externas para gestionar información de sus pacientes está obligado a verificar que dichas herramientas cumplen con las garantías legales. El artículo 34.f de la LOPDGDD exime de DPO a los profesionales individuales, pero no los exime de las obligaciones de consentimiento informado, base de legitimación y seguridad del tratamiento.</p>
+    <p class="alerta-fuente">Fuente: AEPD | ayudaleyprotecciondatos.es | Estado: APROBADO Y VIGENTE</p>
+  </div>
+
+  <div class="alerta">
+    <div class="alerta-header">
+      <div class="alerta-icono">!</div>
+      <h3>Regulación europea de dispositivos de IA en salud mental — AI Act <span class="badge-estado badge-desarrollo">En desarrollo</span></h3>
+    </div>
+    <p>La Unión Europea está en fase de desarrollo de un marco regulatorio específico para los dispositivos de IA aplicados a la salud, en el contexto del AI Act europeo. Las herramientas de apoyo al diagnóstico o intervención psicológica podrían clasificarse como sistemas de alto riesgo, lo que implicaría obligaciones adicionales de transparencia y supervisión humana.</p>
+    <p class="alerta-fuente">Fuente: AI Act – Reglamento de Inteligencia Artificial de la UE | Estado: EN DESARROLLO</p>
+  </div>
+
+  <!-- PRIORIDADES DEL DÍA -->
+  <h2 class="section-title">Prioridades del día</h2>
+  <div class="prioridades-grid">
+    <div class="prioridad">
+      <div class="prioridad-num">1</div>
+      <p>Evaluar con criterio deontológico cualquier aplicación digital antes de recomendarla o utilizarla con pacientes, verificando evidencia científica y cumplimiento del RGPD.</p>
+    </div>
+    <div class="prioridad">
+      <div class="prioridad-num">2</div>
+      <p>El contexto de saturación de la red pública consolida la consulta privada como recurso esencial. Reforzar la visibilidad y accesibilidad del servicio propio es una prioridad estratégica.</p>
+    </div>
+    <div class="prioridad">
+      <div class="prioridad-num">3</div>
+      <p>Formarse en la evaluación crítica de herramientas de IA y mantenerse actualizada sobre la regulación europea en dispositivos de salud digital, especialmente el AI Act.</p>
+    </div>
+  </div>
+
+</main>
+
+<footer>
+  <strong>© 2026 IPP – Instituto Politécnico de Psicología</strong> &nbsp;·&nbsp; Observatorio de Actualidad &nbsp;·&nbsp; 16 de mayo de 2026
+</footer>
+
+</body>
+</html>
