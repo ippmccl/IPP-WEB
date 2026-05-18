@@ -1,36 +1,9 @@
 [
   {
-    "fecha": "sábado 9 de mayo de 2026",
-    "fechaCorta": "9 may 2026",
-    "titulo": "Informe Diario de Psicología",
-    "resumen": "Revisión de estudios recientes, protocolos de intervención y herramientas de apoyo emocional.",
-    "link": "https://drive.google.com/file/d/1a7dP3MCigippWWFzFsf0x-v3j1y2mYnA/view?usp=drive_link",
-    "linkPdf": "https://drive.google.com/file/d/1a7dP3MCigippWWFzFsf0x-v3j1y2mYnA/view?usp=drive_link",
-    "audiencia": "ambos"
-  },
-  {
-    "fecha": "viernes 8 de mayo de 2026",
-    "fechaCorta": "8 may 2026",
-    "titulo": "Informe Diario de Psicología",
-    "resumen": "Artículos de divulgación en neuropsicología, psicopatología y bienestar mental para todas las edades.",
-    "link": "https://drive.google.com/file/d/1THbL-NkcB2xGy9qS1E3l2-EL70kyex24/view?usp=drive_link",
-    "linkPdf": "https://drive.google.com/file/d/1THbL-NkcB2xGy9qS1E3l2-EL70kyex24/view?usp=drive_link",
-    "audiencia": "ambos"
-  },
-  {
-    "fecha": "jueves 7 de mayo de 2026",
-    "fechaCorta": "7 may 2026",
-    "titulo": "Informe Diario de Psicología",
-    "resumen": "Novedades en terapia cognitivo-conductual, mindfulness aplicado y recursos para el acompañamiento emocional.",
-    "link": "https://drive.google.com/file/d/1wim94e-MKVTiaW3SdzM5qOkTYCAYoFHb/view?usp=drive_link",
-    "linkPdf": "https://drive.google.com/file/d/1wim94e-MKVTiaW3SdzM5qOkTYCAYoFHb/view?usp=drive_link",
-    "audiencia": "ambos"
-  },
-  {
     "fecha": "lunes 18 de mayo de 2026",
     "fechaCorta": "18 may 2026",
-    "titulo": "Apps de Salud Mental sin Evidencia: Alertas para la Clinica Psicologica",
-    "resumen": "La APA y el COP alertan sobre apps de salud mental sin evidencia ni privacidad adecuada. Menos del 4% de las apps para la ansiedad tienen ensayo clinico publicado. Psicothema publica nuevas investigaciones sobre conexion social en mayores y habitos digitales en adolescentes con TDAH.",
+    "titulo": "Apps de Salud Mental sin Evidencia: Alertas para la Clínica Psicológica",
+    "resumen": "La APA y el COP alertan sobre apps de salud mental sin evidencia ni privacidad adecuada. Menos del 4% de las apps para la ansiedad tienen ensayo clínico publicado. Psicothema publica nuevas investigaciones sobre conexión social en mayores y hábitos digitales en adolescentes con TDAH.",
     "link": "2026-05-18/informe-2026-05-18.html",
     "linkPdf": "https://drive.google.com/file/d/1DLR0WMRmm3EiJumL4auDh-Y-2qVZucBF/view?usp=drive_link",
     "audiencia": "ambos"
@@ -47,7 +20,7 @@
   {
     "fecha": "sábado 16 de mayo de 2026",
     "fechaCorta": "16 may 2026",
-    "titulo": "Apps de salud mental sin evidencia científica: alerta del Consejo General de Psicología",
+    "titulo": "Apps de Salud Mental sin Evidencia Científica: Alerta del Consejo General de Psicología",
     "resumen": "El Consejo General de la Psicología de España alerta sobre el auge de aplicaciones móviles sin rigor clínico ni garantías de privacidad, mientras las listas de espera en la red pública superan los seis meses en varias comunidades.",
     "link": "2026-05-16/informe-2026-05-16.html",
     "linkPdf": "https://drive.google.com/file/d/1ocDz444EngIfJ3XDhKn6Hd0Y-RuCgW37/view?usp=drive_link",
@@ -67,7 +40,7 @@
     "fechaCorta": "14 may 2026",
     "titulo": "Informe Diario de Psicología",
     "resumen": "Novedades en neuropsicología clínica, actualización en terapias basadas en evidencia y recursos para la práctica profesional y el bienestar emocional.",
-    "link": "https://drive.google.com/file/d/1Zz7xOBl_ViMsaPkLWxAaJ5m5t2d3yYMU/view?usp=drive_link",
+    "link": "",
     "linkPdf": "https://drive.google.com/file/d/1Zz7xOBl_ViMsaPkLWxAaJ5m5t2d3yYMU/view?usp=drive_link",
     "audiencia": "ambos"
   },
@@ -76,7 +49,7 @@
     "fechaCorta": "13 may 2026",
     "titulo": "Informe Diario de Psicología",
     "resumen": "Investigación reciente en salud mental, herramientas de evaluación neuropsicológica y contenidos de bienestar para el público general.",
-    "link": "https://drive.google.com/file/d/13IrUwKAOHideuH1u4qf7pNkMIDy9qF8w/view?usp=drive_link",
+    "link": "",
     "linkPdf": "https://drive.google.com/file/d/13IrUwKAOHideuH1u4qf7pNkMIDy9qF8w/view?usp=drive_link",
     "audiencia": "ambos"
   },
@@ -85,7 +58,7 @@
     "fechaCorta": "12 may 2026",
     "titulo": "Informe Diario de Psicología",
     "resumen": "Últimas publicaciones científicas, casos clínicos comentados y guías prácticas para profesionales y familias.",
-    "link": "https://drive.google.com/file/d/1-iHfsF8bU4bLG5AbZlUl4T65g0h8ALBR/view?usp=drive_link",
+    "link": "",
     "linkPdf": "https://drive.google.com/file/d/1-iHfsF8bU4bLG5AbZlUl4T65g0h8ALBR/view?usp=drive_link",
     "audiencia": "ambos"
   },
@@ -94,7 +67,7 @@
     "fechaCorta": "11 may 2026",
     "titulo": "Informe Diario de Psicología",
     "resumen": "Actualización semanal en neurociencia, psicología positiva aplicada y recursos para el trabajo clínico con niños y adolescentes.",
-    "link": "https://drive.google.com/file/d/1PQdNkH-T22yxjqHj4zzDzV3fd1H5qVib/view?usp=drive_link",
+    "link": "",
     "linkPdf": "https://drive.google.com/file/d/1PQdNkH-T22yxjqHj4zzDzV3fd1H5qVib/view?usp=drive_link",
     "audiencia": "ambos"
   },
@@ -103,8 +76,35 @@
     "fechaCorta": "10 may 2026",
     "titulo": "Informe Diario de Psicología",
     "resumen": "Noticias de salud mental, estrategias terapéuticas y contenidos divulgativos para pacientes y familiares.",
-    "link": "https://drive.google.com/file/d/1kL1XrC340HYx8wRWCxpvBpRe2SSNpXRH/view?usp=drive_link",
+    "link": "",
     "linkPdf": "https://drive.google.com/file/d/1kL1XrC340HYx8wRWCxpvBpRe2SSNpXRH/view?usp=drive_link",
+    "audiencia": "ambos"
+  },
+  {
+    "fecha": "sábado 9 de mayo de 2026",
+    "fechaCorta": "9 may 2026",
+    "titulo": "Informe Diario de Psicología",
+    "resumen": "Revisión de estudios recientes, protocolos de intervención y herramientas de apoyo emocional.",
+    "link": "",
+    "linkPdf": "https://drive.google.com/file/d/1a7dP3MCigippWWFzFsf0x-v3j1y2mYnA/view?usp=drive_link",
+    "audiencia": "ambos"
+  },
+  {
+    "fecha": "viernes 8 de mayo de 2026",
+    "fechaCorta": "8 may 2026",
+    "titulo": "Informe Diario de Psicología",
+    "resumen": "Artículos de divulgación en neuropsicología, psicopatología y bienestar mental para todas las edades.",
+    "link": "",
+    "linkPdf": "https://drive.google.com/file/d/1THbL-NkcB2xGy9qS1E3l2-EL70kyex24/view?usp=drive_link",
+    "audiencia": "ambos"
+  },
+  {
+    "fecha": "jueves 7 de mayo de 2026",
+    "fechaCorta": "7 may 2026",
+    "titulo": "Informe Diario de Psicología",
+    "resumen": "Novedades en terapia cognitivo-conductual, mindfulness aplicado y recursos para el acompañamiento emocional.",
+    "link": "",
+    "linkPdf": "https://drive.google.com/file/d/1wim94e-MKVTiaW3SdzM5qOkTYCAYoFHb/view?usp=drive_link",
     "audiencia": "ambos"
   }
 ]
