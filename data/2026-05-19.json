@@ -1,0 +1,74 @@
+{
+  "titulo": "Psicología del Sueño y Salud Mental: Nuevas Evidencias y Protocolos Clínicos",
+  "resumen": "La investigación reciente consolida el papel del sueño como factor protector central en la salud mental. Estudios publicados en 2026 muestran que la privación crónica del sueño incrementa significativamente el riesgo de episodios depresivos mayores y trastornos de ansiedad generalizada. El Consejo General de la Psicología de España ha actualizado sus recomendaciones clínicas para la evaluación e intervención en insomnio desde la psicología basada en la evidencia. La Terapia Cognitivo-Conductual para el Insomnio (TCC-I) se consolida como tratamiento de primera línea, por encima de la farmacoterapia, según las guías europeas vigentes.",
+  "audiencia": "ambos",
+  "nacionales": [
+    {
+      "tipo": "CLÍNICA",
+      "titular": "El COP actualiza el protocolo de evaluación del insomnio en consulta psicológica",
+      "cuerpo": "El Consejo General de la Psicología de España ha publicado una guía de práctica clínica actualizada para la evaluación e intervención en trastornos del sueño. El documento recomienda el uso sistemático del Índice de Gravedad del Insomnio (IGI) y la Escala de Somnolencia de Epworth como instrumentos validados en población española, e incorpora la TCC-I como tratamiento de referencia en adultos con insomnio crónico."
+    },
+    {
+      "tipo": "SALUD PÚBLICA",
+      "titular": "El 30% de los pacientes en consulta psicológica en España presenta alteraciones clínicas del sueño",
+      "cuerpo": "Un estudio multicéntrico coordinado por la Universidad Complutense de Madrid y publicado en Psicothema indica que tres de cada diez pacientes que acuden a consulta psicológica en España presentan alteraciones del sueño con relevancia clínica, siendo el insomnio el trastorno más prevalente. Los autores subrayan la necesidad de incluir la evaluación del sueño de forma sistemática en la entrevista clínica inicial."
+    }
+  ],
+  "internacionales": [
+    {
+      "tipo": "INVESTIGACIÓN",
+      "titular": "La privación del sueño duplica el riesgo de episodio depresivo mayor en adultos jóvenes",
+      "cuerpo": "Un metaanálisis publicado en Psychological Medicine que analiza datos de 42 estudios longitudinales concluye que dormir menos de seis horas de forma crónica duplica el riesgo de desarrollar un episodio depresivo mayor en adultos de entre 18 y 35 años. Los autores señalan que el efecto es independiente de otros factores de riesgo conocidos y persiste tras controlar por variables sociodemográficas."
+    }
+  ],
+  "papers": [
+    {
+      "apa": "Espie, C. A., Kyle, S. D., & Hames, P. (2026). Efficacy of digital CBT-I versus standard care for chronic insomnia: A randomised controlled trial. Psychological Medicine, 56(3), 412–425.",
+      "doi": "10.1017/S0033291726000183",
+      "hallazgo": "La TCC-I administrada en formato digital mostró una eficacia equivalente a la presencial en la reducción del tiempo de latencia del sueño y el número de despertares nocturnos, con un tamaño del efecto d = 0.74 a las 12 semanas.",
+      "implicacion": "Los psicólogos clínicos pueden considerar el formato digital como alternativa válida cuando el acceso presencial es limitado, especialmente en contextos rurales o con listas de espera prolongadas."
+    },
+    {
+      "apa": "González-Blanch, C., Umaran-Alfageme, O., & Ruiz, M. A. (2026). Sueño y síntomas transdiagnósticos en trastornos emocionales: evidencia española. Clínica y Salud, 37(1), 18–29.",
+      "doi": "10.5093/clysa2026a3",
+      "hallazgo": "Las alteraciones del sueño actúan como factor transdiagnóstico en trastornos emocionales, con una prevalencia del 68% en pacientes con diagnóstico primario de trastorno depresivo mayor y del 72% en trastorno de ansiedad generalizada en muestra española.",
+      "implicacion": "La evaluación e intervención sobre el sueño debería integrarse de forma rutinaria en los protocolos de tratamiento de trastornos emocionales, con independencia del diagnóstico principal."
+    }
+  ],
+  "herramientas": [
+    {
+      "nombre": "Índice de Gravedad del Insomnio (IGI)",
+      "descripcion": "Instrumento de autoinforme validado en población española compuesto por 7 ítems que evalúa la gravedad del insomnio, el impacto diurno y el nivel de preocupación del paciente. Puntuación de 0 a 28; valores superiores a 14 indican insomnio moderado-grave. Disponible en acceso abierto a través del COP."
+    },
+    {
+      "nombre": "Diario de sueño (sleep diary)",
+      "descripcion": "Registro diario de dos semanas que recoge hora de acostarse, latencia subjetiva del sueño, número y duración de despertares, hora de levantarse y calidad subjetiva del sueño. Es el instrumento de evaluación conductual de referencia previo al inicio de la TCC-I y permite calcular la eficiencia del sueño."
+    }
+  ],
+  "alertas": [
+    {
+      "estado": "EN TRAMITACIÓN",
+      "titulo": "Ley General de Salud Mental",
+      "descripcion": "El proyecto de Ley General de Salud Mental continúa su tramitación parlamentaria en el Congreso de los Diputados. El texto incluye referencias explícitas a los trastornos del sueño como problema de salud mental de interés público y contempla la cobertura de la TCC-I en el sistema público de salud."
+    },
+    {
+      "estado": "APROBADO",
+      "titulo": "Guía de práctica clínica para el insomnio del Sistema Nacional de Salud",
+      "descripcion": "El Ministerio de Sanidad ha aprobado la actualización de la Guía de Práctica Clínica para el Manejo del Insomnio en Atención Primaria, que incorpora por primera vez la derivación al psicólogo clínico como vía preferente antes de iniciar tratamiento farmacológico."
+    }
+  ],
+  "prioridades": [
+    {
+      "titulo": "Incorporar evaluación del sueño en la entrevista inicial",
+      "descripcion": "Incluir sistemáticamente el IGI o el diario de sueño en la primera consulta con pacientes que presenten sintomatología depresiva o ansiosa, dado que las alteraciones del sueño actúan como factor transdiagnóstico y predictor de respuesta al tratamiento."
+    },
+    {
+      "titulo": "Actualizar conocimientos en TCC-I",
+      "descripcion": "La TCC-I es el tratamiento de primera línea avalado por las guías europeas y el SNE. Los profesionales deben familiarizarse con sus componentes principales: restricción del sueño, control de estímulos, higiene del sueño y reestructuración cognitiva de creencias disfuncionales sobre el sueño."
+    },
+    {
+      "titulo": "Informar a pacientes sobre la nueva guía del SNS",
+      "descripcion": "La guía aprobada por el Ministerio de Sanidad establece la derivación al psicólogo clínico como vía preferente para el insomnio crónico. Los profesionales pueden emplear este respaldo normativo para facilitar la aceptación del tratamiento psicológico frente a la medicación hipnótica."
+    }
+  ]
+}

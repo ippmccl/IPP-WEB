@@ -1,0 +1,13 @@
+{
+  "name": "ipp-web",
+  "version": "1.0.0",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "node scripts/build-informe.mjs",
+    "limpiar-json": "node scripts/limpiar-informes-json.mjs"
+  },
+  "dependencies": {
+    "puppeteer-core": "^23.0.0"
+  }
+}
