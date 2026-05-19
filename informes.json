@@ -1,32 +1,5 @@
 [
   {
-    "fecha": "sábado 9 de mayo de 2026",
-    "fechaCorta": "9 may 2026",
-    "titulo": "Informe Diario de Psicología",
-    "resumen": "Revisión de estudios recientes, protocolos de intervención y herramientas de apoyo emocional.",
-    "link": "",
-    "linkPdf": "https://drive.google.com/file/d/1a7dP3MCigippWWFzFsf0x-v3j1y2mYnA/view?usp=drive_link",
-    "audiencia": "ambos"
-  },
-  {
-    "fecha": "viernes 8 de mayo de 2026",
-    "fechaCorta": "8 may 2026",
-    "titulo": "Informe Diario de Psicología",
-    "resumen": "Artículos de divulgación en neuropsicología, psicopatología y bienestar mental para todas las edades.",
-    "link": "",
-    "linkPdf": "https://drive.google.com/file/d/1THbL-NkcB2xGy9qS1E3l2-EL70kyex24/view?usp=drive_link",
-    "audiencia": "ambos"
-  },
-  {
-    "fecha": "jueves 7 de mayo de 2026",
-    "fechaCorta": "7 may 2026",
-    "titulo": "Informe Diario de Psicología",
-    "resumen": "Novedades en terapia cognitivo-conductual, mindfulness aplicado y recursos para el acompañamiento emocional.",
-    "link": "",
-    "linkPdf": "https://drive.google.com/file/d/1wim94e-MKVTiaW3SdzM5qOkTYCAYoFHb/view?usp=drive_link",
-    "audiencia": "ambos"
-  },
-  {
     "fecha": "martes 19 de mayo de 2026",
     "fechaCorta": "19 may 2026",
     "titulo": "Psicología del Sueño y Salud Mental: Nuevas Evidencias y Protocolos Clínicos",
@@ -114,6 +87,33 @@
     "resumen": "Noticias de salud mental, estrategias terapéuticas y contenidos divulgativos para pacientes y familiares.",
     "link": "",
     "linkPdf": "https://drive.google.com/file/d/1kL1XrC340HYx8wRWCxpvBpRe2SSNpXRH/view?usp=drive_link",
+    "audiencia": "ambos"
+  },
+  {
+    "fecha": "sábado 9 de mayo de 2026",
+    "fechaCorta": "9 may 2026",
+    "titulo": "Informe Diario de Psicología",
+    "resumen": "Revisión de estudios recientes, protocolos de intervención y herramientas de apoyo emocional.",
+    "link": "",
+    "linkPdf": "https://drive.google.com/file/d/1a7dP3MCigippWWFzFsf0x-v3j1y2mYnA/view?usp=drive_link",
+    "audiencia": "ambos"
+  },
+  {
+    "fecha": "viernes 8 de mayo de 2026",
+    "fechaCorta": "8 may 2026",
+    "titulo": "Informe Diario de Psicología",
+    "resumen": "Artículos de divulgación en neuropsicología, psicopatología y bienestar mental para todas las edades.",
+    "link": "",
+    "linkPdf": "https://drive.google.com/file/d/1THbL-NkcB2xGy9qS1E3l2-EL70kyex24/view?usp=drive_link",
+    "audiencia": "ambos"
+  },
+  {
+    "fecha": "jueves 7 de mayo de 2026",
+    "fechaCorta": "7 may 2026",
+    "titulo": "Informe Diario de Psicología",
+    "resumen": "Novedades en terapia cognitivo-conductual, mindfulness aplicado y recursos para el acompañamiento emocional.",
+    "link": "",
+    "linkPdf": "https://drive.google.com/file/d/1wim94e-MKVTiaW3SdzM5qOkTYCAYoFHb/view?usp=drive_link",
     "audiencia": "ambos"
   }
 ]
