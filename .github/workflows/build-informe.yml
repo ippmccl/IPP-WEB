@@ -28,6 +28,11 @@ jobs:
       - name: Instalar dependencias
         run: npm install
 
+      - name: Instalar Chromium
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y chromium-browser
+
       - name: Detectar fecha
         id: fecha
         run: |
@@ -39,18 +44,10 @@ jobs:
             if [ -z "$DATE" ]; then DATE=$(date +%Y-%m-%d); fi
             echo "date=$DATE" >> $GITHUB_OUTPUT
           fi
-          echo "Fecha detectada: $(cat $GITHUB_OUTPUT | grep date)"
-
-      - name: Instalar Chrome y fuentes
-        run: |
-          sudo apt-get update -qq
-          sudo apt-get install -y google-chrome-stable fonts-liberation fonts-noto 2>/dev/null || \
-          wget -q -O /tmp/chrome.deb https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb && \
-          sudo apt-get install -y /tmp/chrome.deb
 
       - name: Generar HTML + PDF
         env:
-          CHROME_PATH: /usr/bin/google-chrome
+          CHROME_PATH: /usr/bin/chromium-browser
         run: node scripts/build-informe.mjs ${{ steps.fecha.outputs.date }}
 
       - name: Commit y push
