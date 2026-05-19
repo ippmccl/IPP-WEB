@@ -1,0 +1,62 @@
+name: Build informe diario
+
+on:
+  push:
+    paths:
+      - 'data/*.json'
+  workflow_dispatch:
+    inputs:
+      fecha:
+        description: 'Fecha YYYY-MM-DD (vacío = detecta del último commit)'
+        required: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Instalar dependencias
+        run: npm install
+
+      - name: Detectar fecha
+        id: fecha
+        run: |
+          if [ -n "${{ github.event.inputs.fecha }}" ]; then
+            echo "date=${{ github.event.inputs.fecha }}" >> $GITHUB_OUTPUT
+          else
+            FILE=$(git diff --name-only HEAD~1 HEAD -- 'data/*.json' | head -1)
+            DATE=$(basename "$FILE" .json)
+            if [ -z "$DATE" ]; then DATE=$(date +%Y-%m-%d); fi
+            echo "date=$DATE" >> $GITHUB_OUTPUT
+          fi
+          echo "Fecha detectada: $(cat $GITHUB_OUTPUT | grep date)"
+
+      - name: Instalar Chrome y fuentes
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y google-chrome-stable fonts-liberation fonts-noto 2>/dev/null || \
+          wget -q -O /tmp/chrome.deb https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb && \
+          sudo apt-get install -y /tmp/chrome.deb
+
+      - name: Generar HTML + PDF
+        env:
+          CHROME_PATH: /usr/bin/google-chrome
+        run: node scripts/build-informe.mjs ${{ steps.fecha.outputs.date }}
+
+      - name: Commit y push
+        run: |
+          git config user.name "IPP Build Bot"
+          git config user.email "ipp.mccl@gmail.com"
+          git add ${{ steps.fecha.outputs.date }}/ informes.json
+          git diff --cached --quiet || git commit -m "Build informe ${{ steps.fecha.outputs.date }}"
+          git push
