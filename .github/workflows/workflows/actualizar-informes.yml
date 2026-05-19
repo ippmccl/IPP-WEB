@@ -1,9 +1,0 @@
-# Workflow desactivado — informes.json se gestiona manualmente via protocolo diario
-name: (desactivado)
-on:
-  workflow_dispatch:
-jobs:
-  noop:
-    runs-on: ubuntu-latest
-    steps:
-      - run: echo "Workflow desactivado"
