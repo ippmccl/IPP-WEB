@@ -1,0 +1,102 @@
+{
+  "titulo": "Realidad Virtual y Tecnología Aplicada a la Rehabilitación Neuropsicológica: Evidencia Actual y Retos Clínicos",
+  "resumen": "La incorporación de tecnologías inmersivas en la neuropsicología clínica ha acelerado el desarrollo de nuevos paradigmas de rehabilitación cognitiva. Un metaanálisis publicado en 2025 en JMIR Serious Games (Du et al.) evaluó 21 ensayos controlados aleatorizados con 1.051 participantes y confirmó la eficacia de las intervenciones basadas en realidad virtual sobre la función cognitiva en trastornos neuropsiquiátricos, con un tamaño del efecto moderado-alto (SMD 0,67; IC 95 %: 0,33-1,01). En España, el COP Madrid y la Sociedad Española de Neuropsicología Clínica celebraron en enero de 2026 una jornada específica sobre avances tecnológicos e inteligencia artificial aplicada a la evaluación y rehabilitación, evidenciando el interés institucional por integrar estas herramientas en la práctica habitual. La personalización de los programas y la resolución de los retos éticos asociados a la IA se perfilan como los ejes prioritarios para la próxima etapa de desarrollo de la disciplina en el contexto español.",
+  "audiencia": "ambos",
+  "nacionales": [
+    {
+      "tipo": "INVESTIGACIÓN",
+      "titular": "El COP Madrid y la Sociedad Española de Neuropsicología Clínica debaten avances tecnológicos e IA en neuropsicología",
+      "cuerpo": "El 16 de enero de 2026, el Colegio Oficial de la Psicología de Madrid organizó, junto a la Sociedad Española de Neuropsicología Clínica, la jornada «Avances, Desafíos y Buenas Prácticas en Neuropsicología». La sesión reunió a profesionales, investigadores y estudiantes para analizar el estado actual de la disciplina en relación con la salud cerebral a lo largo del ciclo vital. Entre los ejes abordados destacaron las aportaciones de la neuropsicología a la discapacidad desde una perspectiva integral, los avances en evaluación neuropsicológica mediante nuevas tecnologías y las aplicaciones de inteligencia artificial, con especial atención a las buenas prácticas y los retos éticos que su implementación podría implicar. Las conclusiones de la jornada señalaron la necesidad de fortalecer la colaboración interinstitucional y de potenciar la visibilidad social de la neuropsicología, promoviendo modelos de atención basados en la evidencia científica.",
+      "fuente": "Infocop – Colegio Oficial de la Psicología de Madrid",
+      "url": "https://www.infocop.es/el-cop-madrid-aborda-los-avances-y-desafios-actuales-en-neuropsicologia-en-una-jornada-organizada-junto-a-la-sociedad-espanola-de-neuropsicologia-clinica/"
+    },
+    {
+      "tipo": "CLÍNICA",
+      "titular": "Día del Daño Cerebral Adquirido 2025: el Colegio de Psicología de Melilla subraya el rol del neuropsicólogo en la recuperación",
+      "cuerpo": "Con motivo del Día del Daño Cerebral Adquirido, el Colegio Oficial de la Psicología de Melilla publicó el 31 de octubre de 2025 un comunicado que destaca las consecuencias frecuentemente invisibles del daño cerebral: alteraciones en memoria, atención, lenguaje y funcionamiento emocional. El texto incide en que el neuropsicólogo es el profesional encargado de evaluar estas secuelas, orientar al paciente y a su familia, y diseñar planes de rehabilitación personalizados orientados tanto a la recuperación de funciones como al desarrollo de estrategias cognitivas alternativas. La difusión de este tipo de comunicados institucionales podría contribuir a mejorar la derivación temprana y el reconocimiento del perfil neuropsicológico dentro del sistema sanitario español.",
+      "fuente": "Colegio Oficial de la Psicología de Melilla",
+      "url": "https://www.copmelilla.org/2025/10/31/dia-del-dano-cerebral-adquirido-2025-el-papel-del-neuropsicologo-en-la-recuperacion-de-pacientes/"
+    }
+  ],
+  "internacionales": [
+    {
+      "tipo": "INVESTIGACIÓN",
+      "titular": "Metaanálisis 2025: la realidad virtual mejora la función cognitiva en trastornos neuropsiquiátricos con efecto moderado-alto",
+      "cuerpo": "Du et al. (2025) publicaron en JMIR Serious Games un metaanálisis de 21 ensayos controlados aleatorizados (n = 1.051) sobre la eficacia de intervenciones basadas en realidad virtual en pacientes con esquizofrenia, deterioro cognitivo leve, lesión cerebral adquirida, enfermedad de Parkinson y accidente cerebrovascular. El análisis primario arrojó un tamaño del efecto combinado de SMD 0,67 (IC 95 %: 0,33-1,01; p < 0,001). Por modalidad, el entrenamiento de telerehabilitación y habilidades sociales obtuvo el mayor efecto (SMD 2,21), seguido del entrenamiento basado en exergames (SMD 1,09) y el entrenamiento de rehabilitación cognitiva convencional en RV (SMD 0,75). Los autores concluyen que la personalización del programa en función de la patología específica es determinante para optimizar los resultados terapéuticos, y que modalidades como el entrenamiento cognitivo inmersivo genérico no alcanzaron significación estadística, lo que subraya la heterogeneidad de los efectos según el tipo de intervención.",
+      "fuente": "JMIR Serious Games",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40341171/"
+    }
+  ],
+  "papers": [
+    {
+      "tipo": "INVESTIGACIÓN",
+      "titular": "Du et al. (2025): revisión sistemática y metaanálisis sobre RV y función cognitiva en 21 ECAs",
+      "cuerpo": "Revisión sistemática y metaanálisis preeregistrado que analiza la eficacia de intervenciones de realidad virtual sobre la función cognitiva en pacientes con trastornos neuropsiquiátricos. Incluye 21 ensayos controlados aleatorizados y 1.051 participantes. Resultado global: SMD 0,67 (IC 95 %: 0,33-1,01). Identifica seis categorías de intervención con perfiles de eficacia diferenciados. Publicado en mayo de 2025 en JMIR Serious Games (DOI: 10.2196/67501).",
+      "fuente": "JMIR Serious Games",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12080969/"
+    }
+  ],
+  "herramientas": [],
+  "alertas": [],
+  "prioridades": [
+    {
+      "titulo": "Integración de la realidad virtual en protocolos clínicos de rehabilitación neuropsicológica",
+      "descripcion": "La evidencia acumulada en 2025 respalda la inclusión de intervenciones basadas en RV en los planes de rehabilitación cognitiva, con mayor apoyo empírico para las modalidades de telerehabilitación con componente social y los exergames. Su incorporación al protocolo clínico habitual podría optimizar los resultados en pacientes con daño cerebral adquirido, deterioro cognitivo leve o esquizofrenia, en función de las características individuales de cada caso."
+    },
+    {
+      "titulo": "Evaluación neuropsicológica y uso ético de la inteligencia artificial",
+      "descripcion": "La jornada del COP Madrid de enero de 2026 posiciona la IA como herramienta emergente en la evaluación neuropsicológica, al tiempo que señala los retos éticos asociados a su implementación. Los profesionales deberán familiarizarse con los marcos regulatorios vigentes y con los criterios de buenas prácticas antes de integrar soluciones basadas en IA en sus procesos diagnósticos, dado que su adopción podría alterar los estándares de referencia en validez y fiabilidad de la evaluación."
+    },
+    {
+      "titulo": "Visibilidad y derivación temprana en daño cerebral adquirido",
+      "descripcion": "Las comunicaciones institucionales del Día del Daño Cerebral Adquirido 2025 refuerzan la necesidad de que los profesionales de psicología y neuropsicología colaboren activamente en la sensibilización del entorno sanitario y social. Una derivación temprana al neuropsicólogo podría reducir las secuelas a largo plazo y mejorar la calidad de vida de los afectados, en especial en los casos donde las consecuencias cognitivas y emocionales permanecen subdiagnosticadas."
+    }
+  ],
+  "fuentes_verificadas": [
+    "https://pubmed.ncbi.nlm.nih.gov/40341171/",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC12080969/",
+    "https://www.infocop.es/el-cop-madrid-aborda-los-avances-y-desafios-actuales-en-neuropsicologia-en-una-jornada-organizada-junto-a-la-sociedad-espanola-de-neuropsicologia-clinica/",
+    "https://www.copmelilla.org/2025/10/31/dia-del-dano-cerebral-adquirido-2025-el-papel-del-neuropsicologo-en-la-recuperacion-de-pacientes/"
+  ],
+  "carousel": {
+    "noticia_seleccionada": "Metaanálisis 2025: la realidad virtual mejora la función cognitiva en trastornos neuropsiquiátricos con efecto moderado-alto",
+    "slide1": {
+      "titular": "La RV mejora la cognición en neuropsiquiatría: evidencia 2025",
+      "subtitulo": "Metaanálisis de 21 ECAs confirma eficacia en rehabilitación neuropsicológica"
+    },
+    "slide2": {
+      "puntos": [
+        "21 ensayos controlados aleatorizados y 1.051 participantes analizados",
+        "Tamaño del efecto global: SMD 0,67 (IC 95 %: 0,33-1,01; p < 0,001)",
+        "Eficacia demostrada en ictus, lesión cerebral, esquizofrenia y deterioro cognitivo leve"
+      ]
+    },
+    "slide3": {
+      "puntos": [
+        "La telerehabilitación con componente social obtiene el mayor efecto (SMD 2,21)",
+        "Los exergames ofrecen resultados superiores al entrenamiento cognitivo genérico",
+        "La personalización según patología es clave: no todas las modalidades de RV son equivalentes"
+      ]
+    },
+    "slide4": {
+      "puntos": [
+        "Valorar la incorporación de intervenciones de RV en protocolos de rehabilitación cognitiva",
+        "Seleccionar la modalidad de RV en función del diagnóstico y del perfil neuropsicológico del paciente",
+        "Mantenerse actualizado sobre marcos éticos para el uso de IA y tecnología en evaluación neuropsicológica"
+      ]
+    },
+    "slide5": {
+      "mensaje_autoridad": "La neuropsicología clínica avanza hacia la integración tecnológica basada en evidencia: el rigor metodológico y la personalización del tratamiento siguen siendo los pilares de la práctica profesional de calidad.",
+      "fuente_apa": "Du, Q., Wei, Y., Ma, Y., Liu, C., Du, S., Zhang, Q., Gong, X., Yang, J., Li, Q., & Li, K. (2025). Efficacy of virtual reality-based interventions on cognitive function in patients with neuropsychiatric disorders: Systematic review and meta-analysis of randomized controlled trials. JMIR Serious Games. https://doi.org/10.2196/67501",
+      "cta": "Síguenos en @IPP.Psicologia · guárdalo · compártelo"
+    }
+  },
+  "copy_rrss": "Un metaanálisis de 2025 con más de 1.000 participantes confirma que la realidad virtual mejora la función cognitiva en pacientes con trastornos neuropsiquiátricos. La personalización del programa según el diagnóstico resulta determinante para obtener resultados óptimos.",
+  "hashtags": [
+    "#Neuropsicología",
+    "#RehabilitaciónCognitiva",
+    "#RealidadVirtual",
+    "#DañoCerebral",
+    "#PsicologíaClínica"
+  ]
+}
