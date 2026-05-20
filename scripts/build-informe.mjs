@@ -7,6 +7,65 @@ const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.resolve(__dirname, '..');
 const DATE = process.argv[2] || new Date().toISOString().slice(0, 10);
 
+const ESTADOS_VALIDOS = ['APROBADO', 'EN TRAMITACIÓN', 'EN DESARROLLO', 'PROPUESTA'];
+
+function validarJSON(data) {
+  const errores = [];
+
+  if (!data.titulo) errores.push('Falta campo obligatorio: titulo');
+  if (!data.resumen || data.resumen.length < 50) errores.push('Campo resumen ausente o demasiado corto (mínimo 50 caracteres)');
+  if (!['ambos', 'clinico', 'neuropsicologia'].includes(data.audiencia))
+    errores.push(`Campo audiencia inválido: "${data.audiencia}". Valores permitidos: ambos, clinico, neuropsicologia`);
+
+  const totalNoticias = (data.nacionales?.length ?? 0) + (data.internacionales?.length ?? 0);
+  if (totalNoticias < 3) errores.push(`Noticias insuficientes: ${totalNoticias} (mínimo 3 entre nacionales e internacionales)`);
+  if (totalNoticias > 5) errores.push(`Demasiadas noticias: ${totalNoticias} (máximo 5 entre nacionales e internacionales)`);
+
+  if (!Array.isArray(data.prioridades) || data.prioridades.length !== 3)
+    errores.push(`prioridades debe tener exactamente 3 elementos (tiene ${data.prioridades?.length ?? 0})`);
+
+  if (!Array.isArray(data.fuentes_verificadas) || data.fuentes_verificadas.length < 3)
+    errores.push(`fuentes_verificadas debe tener mínimo 3 URLs (tiene ${data.fuentes_verificadas?.length ?? 0})`);
+
+  for (const alerta of (data.alertas ?? [])) {
+    if (!ESTADOS_VALIDOS.includes(alerta.estado))
+      errores.push(`Alerta "${alerta.titulo}": estado inválido "${alerta.estado}". Valores permitidos: ${ESTADOS_VALIDOS.join(', ')}`);
+  }
+
+  if (!Array.isArray(data.hashtags) || data.hashtags.length !== 5)
+    errores.push(`hashtags debe tener exactamente 5 elementos (tiene ${data.hashtags?.length ?? 0})`);
+
+  if (!data.copy_rrss) errores.push('Falta campo obligatorio: copy_rrss');
+
+  return errores;
+}
+
+async function actualizarTemasRecientes(data) {
+  const temasPath = path.join(ROOT, 'data', 'temas-recientes.json');
+  let temas = [];
+  try {
+    temas = JSON.parse(await fs.readFile(temasPath, 'utf-8'));
+  } catch {}
+
+  temas = temas.filter(t => t.fecha !== DATE);
+  temas.unshift({
+    fecha: DATE,
+    titulo: data.titulo,
+    keywords: data.titulo.toLowerCase()
+      .replace(/[^\w\sáéíóúüñ]/g, '')
+      .split(/\s+/)
+      .filter(w => w.length > 4)
+      .slice(0, 6)
+  });
+
+  const hace30dias = new Date(DATE);
+  hace30dias.setDate(hace30dias.getDate() - 30);
+  temas = temas.filter(t => new Date(t.fecha) >= hace30dias);
+
+  await fs.writeFile(temasPath, JSON.stringify(temas, null, 2), 'utf-8');
+  console.log(`temas-recientes.json actualizado (${temas.length} entradas)`);
+}
+
 const DIAS = ['domingo','lunes','martes','miércoles','jueves','viernes','sábado'];
 const MESES = ['enero','febrero','marzo','abril','mayo','junio','julio','agosto','septiembre','octubre','noviembre','diciembre'];
 const MESES_C = ['ene','feb','mar','abr','may','jun','jul','ago','sep','oct','nov','dic'];
@@ -77,6 +136,15 @@ async function main() {
   await fs.mkdir(outDir, { recursive: true });
 
   const data = JSON.parse(await fs.readFile(dataPath, 'utf-8'));
+
+  const errores = validarJSON(data);
+  if (errores.length > 0) {
+    console.error('❌ JSON inválido — build abortado:');
+    errores.forEach(e => console.error(`  · ${e}`));
+    process.exit(1);
+  }
+  console.log('✅ JSON validado correctamente');
+
   let html = await fs.readFile(tplPath, 'utf-8');
 
   const reemplazos = {
@@ -130,6 +198,8 @@ async function main() {
   });
   await fs.writeFile(jsonPath, JSON.stringify(filtrados, null, 2), 'utf-8');
   console.log(`informes.json actualizado (${filtrados.length} entradas)`);
+
+  await actualizarTemasRecientes(data);
 }
 
 main().catch(err => { console.error(err); process.exit(1); });
