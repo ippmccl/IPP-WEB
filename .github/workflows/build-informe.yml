@@ -54,6 +54,6 @@ jobs:
         run: |
           git config user.name "IPP Build Bot"
           git config user.email "ipp.mccl@gmail.com"
-          git add ${{ steps.fecha.outputs.date }}/ informes.json
+          git add ${{ steps.fecha.outputs.date }}/ informes.json data/temas-recientes.json
           git diff --cached --quiet || git commit -m "Build informe ${{ steps.fecha.outputs.date }}"
           git push
