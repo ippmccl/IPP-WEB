@@ -1,0 +1,67 @@
+name: Watchdog — Alerta si falta informe diario
+
+on:
+  schedule:
+    - cron: '0 8 * * *'   # 10:00 Madrid (UTC+2 verano) / 09:00 invierno
+  workflow_dispatch:
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+      contents: read
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Comprobar si existe el informe del día
+        id: check
+        run: |
+          DATE=$(date +%Y-%m-%d)
+          echo "date=$DATE" >> $GITHUB_OUTPUT
+          if [ -f "data/$DATE.json" ]; then
+            echo "exists=true" >> $GITHUB_OUTPUT
+            echo "✅ data/$DATE.json encontrado"
+          else
+            echo "exists=false" >> $GITHUB_OUTPUT
+            echo "❌ data/$DATE.json NO encontrado — se creará Issue de alerta"
+          fi
+
+      - name: Crear Issue de alerta si falta el informe
+        if: steps.check.outputs.exists == 'false'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const date = '${{ steps.check.outputs.date }}';
+            const routineUrl = 'https://claude.ai/code/routines/trig_016rNMqViqme7M4GY98ZD4fb';
+
+            // Evitar duplicados: buscar si ya existe un Issue abierto para esta fecha
+            const issues = await github.rest.issues.listForRepo({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              state: 'open',
+              per_page: 10
+            });
+            const already = issues.data.find(i => i.title.includes(date));
+            if (already) {
+              console.log(`Issue ya existe para ${date}: #${already.number}`);
+              return;
+            }
+
+            await github.rest.issues.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title: `⚠️ Informe ${date} no generado — relanzar agente`,
+              body: [
+                `El agente IPP no ha subido \`data/${date}.json\` antes de las 10:00 Madrid.`,
+                ``,
+                `**Causa probable:** el agente se bloqueó verificando fuentes o agotó el tiempo de ejecución.`,
+                ``,
+                `**Acción requerida:** relanzar la rutina manualmente:`,
+                `👉 ${routineUrl}`,
+                ``,
+                `Este Issue puede cerrarse manualmente una vez el informe se haya publicado correctamente.`
+              ].join('\n')
+            });
+            console.log(`Issue de alerta creado para ${date}`);
