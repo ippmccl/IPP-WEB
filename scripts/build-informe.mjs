@@ -18,14 +18,10 @@ function validarJSON(data) {
     errores.push(`Campo audiencia inválido: "${data.audiencia}". Valores permitidos: ambos, clinico, neuropsicologia`);
 
   const totalNoticias = (data.nacionales?.length ?? 0) + (data.internacionales?.length ?? 0);
-  if (totalNoticias < 3) errores.push(`Noticias insuficientes: ${totalNoticias} (mínimo 3 entre nacionales e internacionales)`);
-  if (totalNoticias > 5) errores.push(`Demasiadas noticias: ${totalNoticias} (máximo 5 entre nacionales e internacionales)`);
+  if (totalNoticias < 1) errores.push('El JSON no contiene ninguna noticia (nacionales ni internacionales)');
 
   if (!Array.isArray(data.prioridades) || data.prioridades.length !== 3)
     errores.push(`prioridades debe tener exactamente 3 elementos (tiene ${data.prioridades?.length ?? 0})`);
-
-  if (!Array.isArray(data.fuentes_verificadas) || data.fuentes_verificadas.length < 3)
-    errores.push(`fuentes_verificadas debe tener mínimo 3 URLs (tiene ${data.fuentes_verificadas?.length ?? 0})`);
 
   for (const alerta of (data.alertas ?? [])) {
     if (!ESTADOS_VALIDOS.includes(alerta.estado))
@@ -64,6 +60,80 @@ async function actualizarTemasRecientes(data) {
 
   await fs.writeFile(temasPath, JSON.stringify(temas, null, 2), 'utf-8');
   console.log(`temas-recientes.json actualizado (${temas.length} entradas)`);
+}
+
+const TIMEOUT_VERIFICACION_MS = 12000;
+
+async function verificarURL(url) {
+  if (!url || typeof url !== 'string') return false;
+  if (/^URL\d|accedida con|Hashtag|\.\.\./.test(url)) return false; // descartar placeholders
+  try {
+    const controller = new AbortController();
+    const timer = setTimeout(() => controller.abort(), TIMEOUT_VERIFICACION_MS);
+    const res = await fetch(url, {
+      signal: controller.signal,
+      redirect: 'follow',
+      headers: { 'User-Agent': 'Mozilla/5.0 (compatible; IPP-Verifier/1.0)' }
+    });
+    clearTimeout(timer);
+    return res.status < 400;
+  } catch {
+    return false;
+  }
+}
+
+async function verificarYFiltrar(data) {
+  console.log('\nVerificando URLs del contenido...');
+
+  const nacionales = [];
+  for (const n of (data.nacionales || [])) {
+    if (await verificarURL(n.url)) {
+      nacionales.push(n);
+      console.log(`  OK  ${n.url}`);
+    } else {
+      console.log(`  --  descartado (URL inactiva): ${(n.url || 'sin url').slice(0, 90)}`);
+    }
+  }
+
+  const internacionales = [];
+  for (const n of (data.internacionales || [])) {
+    if (await verificarURL(n.url)) {
+      internacionales.push(n);
+      console.log(`  OK  ${n.url}`);
+    } else {
+      console.log(`  --  descartado (URL inactiva): ${(n.url || 'sin url').slice(0, 90)}`);
+    }
+  }
+
+  const papers = [];
+  for (const p of (data.papers || [])) {
+    const doiUrl = p.doi ? `https://doi.org/${p.doi}` : (p.url_verificada || '');
+    if (await verificarURL(doiUrl)) {
+      papers.push(p);
+      console.log(`  OK  DOI ${p.doi}`);
+    } else {
+      console.log(`  --  descartado paper (DOI inactivo): ${p.doi || 'sin doi'}`);
+    }
+  }
+
+  const alertas = [];
+  for (const a of (data.alertas || [])) {
+    if (await verificarURL(a.url)) {
+      alertas.push(a);
+      console.log(`  OK  ${a.url}`);
+    } else {
+      console.log(`  --  descartado alerta (URL inactiva): ${(a.url || 'sin url').slice(0, 90)}`);
+    }
+  }
+
+  const fuentes_verificadas = [
+    ...nacionales.map(n => n.url),
+    ...internacionales.map(n => n.url),
+    ...papers.map(p => p.doi ? `https://doi.org/${p.doi}` : p.url_verificada),
+    ...alertas.map(a => a.url)
+  ].filter(Boolean);
+
+  return { ...data, nacionales, internacionales, papers, alertas, fuentes_verificadas };
 }
 
 const DIAS = ['domingo','lunes','martes','miércoles','jueves','viernes','sábado'];
@@ -143,20 +213,28 @@ async function main() {
     errores.forEach(e => console.error(`  · ${e}`));
     process.exit(1);
   }
-  console.log('✅ JSON validado correctamente');
+  console.log('✅ Estructura JSON válida');
+
+  const dataVerificado = await verificarYFiltrar(data);
+  const totalVerificadas = dataVerificado.nacionales.length + dataVerificado.internacionales.length;
+  if (totalVerificadas < 2) {
+    console.error(`\n❌ Solo ${totalVerificadas} noticia(s) superaron la verificación de URL — se requieren al menos 2`);
+    process.exit(1);
+  }
+  console.log(`\n✅ ${totalVerificadas} noticias verificadas | ${dataVerificado.papers.length} papers | ${dataVerificado.alertas.length} alertas`);
 
   let html = await fs.readFile(tplPath, 'utf-8');
 
   const reemplazos = {
-    '{{TITULO}}': data.titulo,
+    '{{TITULO}}': dataVerificado.titulo,
     '{{FECHA_LARGA}}': fechaLarga(DATE),
-    '{{RESUMEN}}': data.resumen,
-    '{{SECCION_NACIONALES}}': bloqueNoticias(data.nacionales, 'NACIONAL'),
-    '{{SECCION_INTERNACIONALES}}': bloqueNoticias(data.internacionales, 'INTERNACIONAL'),
-    '{{SECCION_PAPERS}}': bloquePapers(data.papers),
-    '{{SECCION_HERRAMIENTAS}}': bloqueHerramientas(data.herramientas),
-    '{{SECCION_ALERTAS}}': bloqueAlertas(data.alertas),
-    '{{PRIORIDADES}}': bloquePrioridades(data.prioridades),
+    '{{RESUMEN}}': dataVerificado.resumen,
+    '{{SECCION_NACIONALES}}': bloqueNoticias(dataVerificado.nacionales, 'NACIONAL'),
+    '{{SECCION_INTERNACIONALES}}': bloqueNoticias(dataVerificado.internacionales, 'INTERNACIONAL'),
+    '{{SECCION_PAPERS}}': bloquePapers(dataVerificado.papers),
+    '{{SECCION_HERRAMIENTAS}}': bloqueHerramientas(dataVerificado.herramientas),
+    '{{SECCION_ALERTAS}}': bloqueAlertas(dataVerificado.alertas),
+    '{{PRIORIDADES}}': bloquePrioridades(dataVerificado.prioridades),
   };
 
   for (const [k, v] of Object.entries(reemplazos)) {
@@ -190,16 +268,16 @@ async function main() {
   filtrados.unshift({
     fecha: fechaLarga(DATE),
     fechaCorta: fechaCorta(DATE),
-    titulo: data.titulo,
-    resumen: data.resumen.slice(0, 220),
+    titulo: dataVerificado.titulo,
+    resumen: dataVerificado.resumen.slice(0, 220),
     link: `${DATE}/informe-${DATE}.html`,
     linkPdf: `${DATE}/informe-${DATE}.pdf`,
-    audiencia: data.audiencia || 'ambos'
+    audiencia: dataVerificado.audiencia || 'ambos'
   });
   await fs.writeFile(jsonPath, JSON.stringify(filtrados, null, 2), 'utf-8');
   console.log(`informes.json actualizado (${filtrados.length} entradas)`);
 
-  await actualizarTemasRecientes(data);
+  await actualizarTemasRecientes(dataVerificado);
 }
 
 main().catch(err => { console.error(err); process.exit(1); });
