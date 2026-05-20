@@ -1,7 +1,25 @@
 [
   {
+    "fecha": "2026-05-20",
+    "titulo": "Realidad Virtual y Tecnología Aplicada a la Rehabilitación Neuropsicológica: Evidencia Actual y Retos Clínicos",
+    "keywords": [
+      "realidad",
+      "virtual",
+      "tecnología",
+      "aplicada",
+      "rehabilitación",
+      "neuropsicológica"
+    ]
+  },
+  {
     "fecha": "2026-05-19",
     "titulo": "Psicología del Sueño y Salud Mental: Nuevas Evidencias y Protocolos Clínicos",
-    "keywords": ["sueño", "insomnio", "TCC-I", "salud mental", "privación del sueño"]
+    "keywords": [
+      "sueño",
+      "insomnio",
+      "TCC-I",
+      "salud mental",
+      "privación del sueño"
+    ]
   }
 ]
