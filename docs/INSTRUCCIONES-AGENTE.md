@@ -156,6 +156,7 @@ El contenido debe ser directamente publicable en la web del IPP, leyéndose como
 
 5.1 Normativa lingüística RAE
 - Corrección gramatical y ortográfica total siguiendo la Real Academia Española vigente.
+- MAYÚSCULAS EN TITULARES — NORMA CRÍTICA: en español los titulares llevan mayúscula únicamente en la primera palabra y en los nombres propios. Nunca en el resto de palabras. Esto aplica al título del informe, a los titulares de noticias y a los titulares del carrusel. Ejemplo correcto: «Psicólogos en atención primaria: inversión histórica y nuevos retos». Ejemplo incorrecto (prohibido): «Psicólogos en Atención Primaria: Inversión Histórica y Nuevos Retos». El incumplimiento de esta norma hace el texto reconocible como generado por IA y destruye la credibilidad institucional del informe.
 - Acentuación técnica: especial énfasis en términos complejos, científicos y compuestos (psicopatología, neuroimagen, microglía).
 - Concordancia: verificar meticulosamente género y número en todas las frases.
 

@@ -25,7 +25,7 @@ El pipeline de GitHub Actions aplica la misma validación como segunda barrera (
 
 ```
 {
-  "titulo":             string        — Titular del informe del día
+  "titulo":             string        — Titular del informe del día. NORMA OBLIGATORIA: solo en mayúscula la primera palabra y los nombres propios. Prohibido poner en mayúscula cada palabra (title case anglosajón). Correcto: «Psicólogos en atención primaria: inversión histórica y nuevos retos». Incorrecto: «Psicólogos en Atención Primaria: Inversión Histórica y Nuevos Retos».
   "resumen":            string        — Resumen rápido (4-6 líneas)
   "audiencia":          string        — enum: "ambos" | "clinico" | "neuropsicologia"
 
@@ -57,7 +57,7 @@ El pipeline de GitHub Actions aplica la misma validación como segunda barrera (
   "tipo":     string  — Etiqueta temática en mayúsculas:
                         "CLÍNICA" | "INVESTIGACIÓN" | "SALUD PÚBLICA"
                         | "NORMATIVA" | "HERRAMIENTA" | "NEUROCIENCIA"
-  "titular":  string  — Titular periodístico conciso
+  "titular":  string  — Titular periodístico conciso. NORMA OBLIGATORIA: solo en mayúscula la primera palabra y los nombres propios. Prohibido el title case. Correcto: «El COP alerta sobre el uso de apps sin evidencia». Incorrecto: «El COP Alerta Sobre el Uso de Apps Sin Evidencia».
   "cuerpo":   string  — Explicación de hechos + impacto sectorial
                         (sin copiar literalmente de la fuente — §2.5)
 }
@@ -111,7 +111,7 @@ El pipeline de GitHub Actions aplica la misma validación como segunda barrera (
   "noticia_seleccionada": string  — Título de la noticia principal elegida (§8.1)
 
   "slide1": {
-    "titular":   string  — Gancho profesional (máximo 10 palabras — §8.2)
+    "titular":   string  — Gancho profesional (máximo 10 palabras — §8.2). NORMA OBLIGATORIA: solo en mayúscula la primera palabra y los nombres propios. Prohibido el title case anglosajón.
     "subtitulo": string  — Subtítulo complementario breve
   }
 
