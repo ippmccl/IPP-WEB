@@ -259,8 +259,8 @@ La presentación debe quedar visualmente como un documento único, sin espacios 
 8.2 Guion de las 5 diapositivas (formato 1:1)
 
 Slide 1 — Portada
-- Titular «gancho» profesional de máximo 10 palabras.
-- Subtítulo breve.
+- Titular «gancho» profesional de máximo 10 palabras. NORMA CRÍTICA: solo en mayúscula la primera palabra y nombres propios. Prohibido el title case. Correcto: «Nuevas evidencias sobre la microglía y la depresión». Incorrecto: «Nuevas Evidencias Sobre la Microglía y la Depresión».
+- Subtítulo breve. Misma norma: solo mayúscula en primera palabra y nombres propios.
 
 Slides 2, 3 y 4 — Cuerpo (desarrollo técnico)
 - Máximo 3 puntos clave por slide.
@@ -278,6 +278,7 @@ Slide 5 — Cierre. Contiene tres elementos:
 - Identidad en cada slide: logo del IPP, nombre completo del instituto y fecha actual en todas y cada una de las 5 diapositivas. La fecha debe escribirse siempre en formato día de mes de año en español (ejemplo: 29 de mayo de 2026). Queda expresamente prohibido el formato ISO yyyy-mm-dd o cualquier orden diferente al día primero.
 
 8.4 Restricciones críticas del carrusel
+- MAYÚSCULAS EN TODO EL CARRUSEL — NORMA ABSOLUTA: en todos los textos del carrusel (titular de portada, subtítulo, puntos clave, cierre) solo va en mayúscula la primera palabra de cada frase y los nombres propios. Nunca el resto de palabras. El incumplimiento hace el contenido reconocible como generado por IA.
 - Tercera persona: nunca «en este carrusel verás…», sino «el análisis presenta…».
 - Prohibición de etiquetas meta: no se pueden escribir títulos como «Llamada a la acción» o «Conclusión» dentro del diseño. El contenido debe hablar por sí solo.
 - Veracidad: si la noticia no es de fuente oficial o no es de 2025-2026, se descarta (ver §2).
