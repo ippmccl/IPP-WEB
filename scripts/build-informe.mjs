@@ -9,6 +9,20 @@ const DATE = process.argv[2] || new Date().toISOString().slice(0, 10);
 
 const ESTADOS_VALIDOS = ['APROBADO', 'EN TRAMITACIÓN', 'EN DESARROLLO', 'PROPUESTA'];
 
+// Normalización automática RAE: solo primera palabra y acrónimos en mayúscula
+function normalizarTituloRAE(titulo) {
+  if (!titulo) return titulo;
+  return titulo.split(' ').map((word, i) => {
+    if (i === 0) return word.charAt(0).toUpperCase() + word.slice(1);
+    // Conservar acrónimos (todo mayúsculas, ≥2 letras): ONU, COP, NICE, PIR, TCC, BOE…
+    if (/^[A-ZÁÉÍÓÚÜÑ]{2,}[.,-]?$/.test(word)) return word;
+    // Conservar siglas con punto (A.P.A., D.S.M.)
+    if (/^([A-Z]\.){2,}$/.test(word)) return word;
+    return word.charAt(0).toLowerCase() + word.slice(1);
+  }).join(' ');
+}
+
+
 function validarJSON(data) {
   const errores = [];
 
@@ -226,7 +240,7 @@ async function main() {
   let html = await fs.readFile(tplPath, 'utf-8');
 
   const reemplazos = {
-    '{{TITULO}}': dataVerificado.titulo,
+    '{{TITULO}}': normalizarTituloRAE(dataVerificado.titulo),
     '{{FECHA_LARGA}}': fechaLarga(DATE),
     '{{RESUMEN}}': dataVerificado.resumen,
     '{{SECCION_NACIONALES}}': bloqueNoticias(dataVerificado.nacionales, 'NACIONAL'),
@@ -268,11 +282,17 @@ async function main() {
   filtrados.unshift({
     fecha: fechaLarga(DATE),
     fechaCorta: fechaCorta(DATE),
-    titulo: dataVerificado.titulo,
+    titulo: normalizarTituloRAE(dataVerificado.titulo),
     resumen: dataVerificado.resumen.slice(0, 220),
     link: `${DATE}/informe-${DATE}.html`,
     linkPdf: `${DATE}/informe-${DATE}.pdf`,
     audiencia: dataVerificado.audiencia || 'ambos'
+  });
+  // Ordenar siempre por fecha descendente (más reciente primero)
+  const MESES_IDX = {ene:0,feb:1,mar:2,abr:3,may:4,jun:5,jul:6,ago:7,sep:8,oct:9,nov:10,dic:11};
+  filtrados.sort((a, b) => {
+    const p = s => { const t = s.split(' '); return new Date(+t[2], MESES_IDX[t[1]], +t[0]); };
+    return p(b.fechaCorta) - p(a.fechaCorta);
   });
   await fs.writeFile(jsonPath, JSON.stringify(filtrados, null, 2), 'utf-8');
   console.log(`informes.json actualizado (${filtrados.length} entradas)`);

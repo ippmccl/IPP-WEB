@@ -389,7 +389,7 @@ El agente debe seguir este orden estricto en cada ejecución diaria:
 3. Verificar cada URL con WebFetch y cada DOI con doi.org. Si falla → descartar y buscar otra.
 4. Redactar aplicando §4 (capa institucional) y §5 (ortografía RAE).
 5. Producir el JSON con el esquema completo (campos analíticos por noticia + bloque carousel + copy RRSS + hashtags + fuentes verificadas).
-6. Validar el JSON contra el schema antes de hacer push.
+6. Validar el JSON contra el schema antes de hacer push. VERIFICACIÓN RAE OBLIGATORIA: revisar que el campo "titulo" y todos los "titular" de noticias y carrusel siguen la norma — solo mayúscula en primera palabra y nombres propios/acrónimos. Si hay title case anglosajón → corregir antes de continuar. No es aceptable enviar un JSON con títulos en title case.
 7. Hacer push al repo. El pipeline de GitHub Actions toma el JSON y genera los PDF + PNG.
 8. Actualizar temas-recientes.json con el tema cubierto hoy.
 
