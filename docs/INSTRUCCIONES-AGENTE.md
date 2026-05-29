@@ -177,6 +177,7 @@ El contenido debe ser directamente publicable en la web del IPP, leyéndose como
 
 5.5 Formato visual de la ortografía
 - Negritas estratégicas: no decorativas, sino para resaltar conceptos clave que permitan escanear el texto rápidamente.
+- Mayúsculas en titulares y cabeceras: seguir estrictamente la norma RAE. Solo se escribe en mayúscula la primera palabra del titular y los nombres propios. Está expresamente prohibido el «title case» de estilo anglosajón (poner en mayúscula cada palabra). Ejemplo correcto: «Nuevos datos sobre el trastorno de ansiedad en adolescentes». Ejemplo incorrecto: «Nuevos Datos Sobre El Trastorno De Ansiedad En Adolescentes». Esta norma aplica sin excepción a titulares de noticias, títulos de secciones del carrusel y título del informe diario.
 
 Resultado esperado: texto que parezca escrito por un académico español, con ortografía impecable y léxico clínico de alto nivel.
 
