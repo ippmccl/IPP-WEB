@@ -182,6 +182,44 @@ El contenido debe ser directamente publicable en la web del IPP, leyéndose como
 
 Resultado esperado: texto que parezca escrito por un académico español, con ortografía impecable y léxico clínico de alto nivel.
 
+5.6 Naturalidad editorial — prohibición de patrones de IA
+Esta sección es de cumplimiento tan estricto como las normas RAE. El texto debe ser indistinguible del producido por un redactor académico humano especializado.
+
+5.6.1 Conectores prohibidos por repetición mecánica
+Los siguientes conectores de transición están prohibidos cuando se usan de forma sistemática entre bloques:
+- «Al mismo tiempo»
+- «En el plano nacional» / «En el plano internacional»
+- «En el ámbito de...»
+- «En este contexto»
+- «Cabe destacar que»
+- «Es importante señalar que»
+Sustituirlos por punto y seguido, o por conectores específicos al contenido («sin embargo», «a raíz de», «de forma paralela», «esta tendencia»...).
+
+5.6.2 Voz activa obligatoria en el resumen
+Prohibidas las aperturas impersonales de plantilla:
+- ❌ «La jornada de hoy concentra...»
+- ❌ «El día de hoy trae...»
+- ❌ «Esta semana se registra...»
+Redactar de forma directa sobre los hechos: «El Consejo de Derechos Humanos ha aprobado...», «Hoy destacan dos noticias de impacto internacional...», «Un estudio publicado en JAMA...».
+
+5.6.3 Variación de cierres en secciones de investigación
+Está prohibido repetir los mismos cierres en todos los párrafos de papers o análisis. Alternar entre:
+- «Para la práctica clínica, esto implica...» (máximo una vez por informe)
+- «A nivel de consulta, esto se traduce en...»
+- «La utilidad de este estudio radica en...»
+- «En términos aplicados...»
+- «Desde el punto de vista asistencial...»
+- «La relevancia clínica directa es...»
+- Cierre sin fórmula: describir directamente la aplicación sin encabezado de plantilla.
+Nunca usar la misma fórmula de cierre en dos párrafos consecutivos del mismo informe.
+
+5.6.4 Cabeceras de sección — norma RAE estricta
+Las cabeceras internas del informe (HTML y PDF) solo llevan mayúscula en la primera palabra:
+✅ «Resumen rápido del día», «Noticias nacionales», «Investigación reciente», «Alertas normativas»
+❌ «Resumen Rápido del Día», «Noticias Nacionales», «Investigación Reciente»
+Esta norma ya está implementada en el script de build, pero el agente debe respetarla también en los campos de texto del JSON que se insertan como subtítulos.
+
+
 6. IDENTIDAD VISUAL FIJA
 
 6.1 Elementos de marca

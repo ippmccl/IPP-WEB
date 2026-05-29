@@ -167,7 +167,7 @@ function fechaCorta(iso) {
 
 function bloqueNoticias(lista, ambito) {
   if (!lista || lista.length === 0) return '';
-  const titulo = ambito === 'NACIONAL' ? 'Noticias Nacionales' : 'Noticias Internacionales';
+  const titulo = ambito === 'NACIONAL' ? 'Noticias nacionales' : 'Noticias internacionales';
   const items = lista.map(n => `
     <div class="news">
       <span class="tag">${n.tipo} · ${ambito}</span>
@@ -186,13 +186,13 @@ function bloquePapers(lista) {
       <p><strong>Hallazgo:</strong> ${p.hallazgo}</p>
       <p><strong>Implicación clínica:</strong> ${p.implicacion}</p>
     </div>`).join('');
-  return `<section class="sec"><div class="sec-header">Publicaciones Científicas Recientes</div>${items}</section>`;
+  return `<section class="sec"><div class="sec-header">Publicaciones científicas recientes</div>${items}</section>`;
 }
 
 function bloqueHerramientas(lista) {
   if (!lista || lista.length === 0) return '';
   const items = lista.map(h => `<p>– <strong>${h.nombre}:</strong> ${h.descripcion}</p>`).join('');
-  return `<section class="sec"><div class="sec-header">Herramientas Clínicas e Instrumentos</div>${items}</section>`;
+  return `<section class="sec"><div class="sec-header">Herramientas clínicas e instrumentos</div>${items}</section>`;
 }
 
 function bloqueAlertas(lista) {
@@ -205,7 +205,7 @@ function bloqueAlertas(lista) {
       <p><strong>${a.titulo}:</strong> ${a.descripcion}</p>
     </div>`;
   }).join('');
-  return `<section class="sec"><div class="sec-header">Alertas Normativas</div>${items}</section>`;
+  return `<section class="sec"><div class="sec-header">Alertas normativas</div>${items}</section>`;
 }
 
 function bloquePrioridades(lista) {
