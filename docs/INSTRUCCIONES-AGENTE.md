@@ -190,7 +190,7 @@ Resultado esperado: texto que parezca escrito por un académico español, con or
 
 6.2 Ubicación en los documentos
 - Informe Diario: marca integrada visualmente en la cabecera principal.
-- Carrusel: nombre del Instituto y fecha completa en cada una de las 5 diapositivas.
+- Carrusel: nombre del Instituto y fecha completa en cada una de las 5 diapositivas. Formato obligatorio de la fecha: día de mes de año en español (ejemplo: 29 de mayo de 2026). Nunca usar formato ISO (yyyy-mm-dd) ni orden mes-día-año.
 - Pie de página del informe: copyright completo © 2026 Instituto Politécnico de Psicología | Observatorio de Actualidad.
 - Pie de página técnico (canvas.drawString): versión abreviada obligatoria © 2026 IPP | Observatorio de Actualidad para evitar solape con @IPP.Psicologia centrado.
 
@@ -273,7 +273,7 @@ Slide 5 — Cierre. Contiene tres elementos:
 
 8.3 Diseño visual y formato del carrusel
 - Dimensiones: formato cuadrado 1:1 de máxima resolución para que no pixele. Contenedor CSS con proporción 1:1 estricta para que todas las diapositivas sean visualmente idénticas al capturar pantalla.
-- Identidad en cada slide: logo del IPP, nombre completo del instituto y fecha actual en todas y cada una de las 5 diapositivas.
+- Identidad en cada slide: logo del IPP, nombre completo del instituto y fecha actual en todas y cada una de las 5 diapositivas. La fecha debe escribirse siempre en formato día de mes de año en español (ejemplo: 29 de mayo de 2026). Queda expresamente prohibido el formato ISO yyyy-mm-dd o cualquier orden diferente al día primero.
 
 8.4 Restricciones críticas del carrusel
 - Tercera persona: nunca «en este carrusel verás…», sino «el análisis presenta…».
