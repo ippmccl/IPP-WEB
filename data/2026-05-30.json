@@ -2,7 +2,6 @@
   "titulo": "Digitalización, IA y marco legal del psicólogo autónomo: claves de mayo de 2026",
   "resumen": "Tres cuestiones de impacto directo en el ejercicio profesional concentran la actualidad de hoy. El Consejo General de la Psicología de España, en línea con un reciente informe de la APA publicado en Monitor on Psychology, alerta sobre los riesgos de las aplicaciones de IA en salud mental: falta de evidencia científica, opacidad en privacidad y riesgo de aislamiento. En el plano normativo, VeriFactu obliga a todos los autónomos sanitarios a adaptar su software de facturación antes de que finalice 2026, con sanciones de hasta 50.000 euros por incumplimiento. El tercer eje es el marco legal vigente para el psicólogo en ejercicio privado: habilitación sanitaria, registro de consulta, RGPD y consentimiento informado en telepsicología, ámbito en el que persisten vacíos deontológicos que conviene documentar con precisión.",
   "audiencia": "ambos",
-
   "nacionales": [
     {
       "tipo": "NORMATIVA",
@@ -19,7 +18,6 @@
       "url": "https://formacionpsicoterapia.com/blog-psicoterapia/aspectos-legales-psicologo-autonomo-espana/"
     }
   ],
-
   "internacionales": [
     {
       "tipo": "INVESTIGACIÓN",
@@ -29,16 +27,13 @@
       "url": "https://www.infobae.com/espana/2026/05/24/inteligencia-artificial-en-salud-mental-entre-las-oportunidades-y-las-dudas-sobre-privacidad-evidencia-cientifica-y-aislamiento/"
     }
   ],
-
   "papers": [],
-
   "herramientas": [
     {
       "nombre": "NeuronUP — plataforma de evaluación y estimulación cognitiva digital",
       "descripcion": "Herramienta de referencia para la rehabilitación neuropsicológica en consulta. Permite diseñar programas personalizados de estimulación cognitiva, registrar la evolución longitudinal y generar informes clínicos automatizados. Dispone de módulo para el paciente (uso en domicilio entre sesiones) y módulo clínico. Especialmente indicada en daño cerebral adquirido, deterioro cognitivo leve, demencias en fase inicial y TDAH en adultos. Integrada en el programa de Especialista en Neuropsicología Clínica Avanzada del ISEP (2026). Acceso mediante suscripción mensual o anual en neuronup.com."
     }
   ],
-
   "alertas": [
     {
       "estado": "EN DESARROLLO",
@@ -51,7 +46,6 @@
       "descripcion": "El marco deontológico actual exige que el paciente sea informado explícitamente y preste consentimiento específico antes de que el profesional utilice herramientas con componente de IA (transcripción automática de sesiones, chatbots de apoyo emocional, análisis de texto clínico). El consentimiento informado general no cubre este uso. La regulación específica para IA en entornos sanitarios se encuentra en tramitación a nivel europeo (AI Act) y aún no cuenta con desarrollo normativo vinculante en España para la práctica clínica individual."
     }
   ],
-
   "prioridades": [
     {
       "titulo": "Verificar cumplimiento de VeriFactu antes del cierre de mayo",
@@ -66,13 +60,11 @@
       "descripcion": "Los psicólogos que atienden pacientes residentes fuera de España —situación frecuente en la práctica online— deben verificar que su ejercicio cumple la normativa del país de residencia del paciente. La colegiación española no garantiza cobertura legal en otros territorios. Antes de iniciar cualquier proceso terapéutico transfronterizo, se recomienda consultar con el colegio profesional y documentar por escrito las condiciones del encuadre."
     }
   ],
-
   "fuentes_verificadas": [
     "https://sanitane.com/guia-impuestos-psicologos-autonomos-2026/",
     "https://formacionpsicoterapia.com/blog-psicoterapia/aspectos-legales-psicologo-autonomo-espana/",
     "https://www.infobae.com/espana/2026/05/24/inteligencia-artificial-en-salud-mental-entre-las-oportunidades-y-las-dudas-sobre-privacidad-evidencia-cientifica-y-aislamiento/"
   ],
-
   "carousel": {
     "noticia_seleccionada": "La APA alerta sobre apps de IA en salud mental: evidencia insuficiente, privacidad opaca y riesgo de aislamiento",
     "slide1": {
@@ -106,7 +98,13 @@
       "cta": "Guárdalo y compártelo con tu equipo. Síguenos en @IPP.Psicologia para más análisis clínicos."
     }
   },
-
   "copy_rrss": "La APA advierte: el 68% de las apps de IA para salud mental tiene privacidad inaceptable. ¿Sabes cómo evaluar las herramientas que recomiendas a tus pacientes? Análisis completo en el informe de hoy.",
-  "hashtags": ["#PsicologíaClínica", "#SaludMentalDigital", "#IAEnPsicología", "#PsicólogoAutónomo", "#VeriFactu2026"]
+  "hashtags": [
+    "#PsicologíaClínica",
+    "#SaludMentalDigital",
+    "#IAEnPsicología",
+    "#PsicólogoAutónomo",
+    "#VeriFactu2026"
+  ],
+  "_rebuild": "template-rae-fix"
 }
