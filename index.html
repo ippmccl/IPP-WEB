@@ -592,7 +592,7 @@ async function init() {
   grid.innerHTML = `<div class="loader" style="grid-column:1/-1"><div class="spinner"></div>Cargando archivo…</div>`;
 
   try {
-    const r = await fetch('informes.json', { cache: 'no-store' });
+    const r = await fetch('informes.json?t=' + Date.now(), { cache: 'no-store' });
     if (!r.ok) throw new Error('HTTP ' + r.status);
     INFORMES = await r.json();
   } catch (e) {
