@@ -97,11 +97,24 @@ for (const carpeta of carpetas) {
 
 // Combinar: nuevas primero (más recientes), luego existentes, ordenar por fecha desc
 const todas = [...nuevas, ...existentes];
-todas.sort((a, b) => {
-  const fa = a.link?.match(/(\d{4}-\d{2}-\d{2})/)?.[1] || a.fechaCorta;
-  const fb = b.link?.match(/(\d{4}-\d{2}-\d{2})/)?.[1] || b.fechaCorta;
-  return fb.localeCompare(fa);
-});
+
+// Extrae ISO date (YYYY-MM-DD) desde el link o desde fechaCorta (ej: "9 may 2026")
+const MESES = {ene:1,feb:2,mar:3,abr:4,may:5,jun:6,jul:7,ago:8,sep:9,oct:10,nov:11,dic:12};
+function toISO(entry) {
+  const fromLink = entry.link?.match(/(\d{4}-\d{2}-\d{2})/)?.[1];
+  if (fromLink) return fromLink;
+  // Parsear fechaCorta: "9 may 2026" → "2026-05-09"
+  const m = entry.fechaCorta?.match(/^(\d{1,2})\s+(\w{3})\s+(\d{4})$/);
+  if (m) {
+    const d = m[1].padStart(2, '0');
+    const mes = MESES[m[2].toLowerCase()] ?? 1;
+    const mesStr = String(mes).padStart(2, '0');
+    return `${m[3]}-${mesStr}-${d}`;
+  }
+  return '0000-00-00';
+}
+
+todas.sort((a, b) => toISO(b).localeCompare(toISO(a)));
 
 await writeFile(SALIDA, JSON.stringify(todas, null, 2) + '\n', 'utf8');
 console.log(`\n✓ ${SALIDA} actualizado con ${todas.length} entradas.`);
