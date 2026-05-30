@@ -1,0 +1,112 @@
+{
+  "titulo": "Digitalización, IA y marco legal del psicólogo autónomo: claves de mayo de 2026",
+  "resumen": "Tres cuestiones de impacto directo en el ejercicio profesional concentran la actualidad de hoy. El Consejo General de la Psicología de España, en línea con un reciente informe de la APA publicado en Monitor on Psychology, alerta sobre los riesgos de las aplicaciones de IA en salud mental: falta de evidencia científica, opacidad en privacidad y riesgo de aislamiento. En el plano normativo, VeriFactu obliga a todos los autónomos sanitarios a adaptar su software de facturación antes de que finalice 2026, con sanciones de hasta 50.000 euros por incumplimiento. El tercer eje es el marco legal vigente para el psicólogo en ejercicio privado: habilitación sanitaria, registro de consulta, RGPD y consentimiento informado en telepsicología, ámbito en el que persisten vacíos deontológicos que conviene documentar con precisión.",
+  "audiencia": "ambos",
+
+  "nacionales": [
+    {
+      "tipo": "NORMATIVA",
+      "titular": "VeriFactu 2026: obligación de facturación electrónica certificada para todos los autónomos sanitarios",
+      "cuerpo": "La Ley Crea y Crece y el reglamento VeriFactu establecen que, a lo largo de 2026, todos los autónomos —incluidos los psicólogos en ejercicio privado— deben utilizar software de facturación que garantice la trazabilidad e inalterabilidad de los registros mediante código QR y firma hash encadenada. Las facturas ya emitidas no pueden modificarse; cualquier corrección exige emitir una factura rectificativa. La Agencia Tributaria podrá verificar la autenticidad de cada factura en tiempo real. Las sanciones por incumplimiento oscilan entre 1.000 y 50.000 euros según el volumen de operaciones. La norma afecta tanto a la consulta privada como a los contratos de colaboración con centros. Los psicólogos que aún utilizan hoja de cálculo o factura manual deben migrar a un sistema certificado antes del cierre del ejercicio.",
+      "fuente": "Sanitane — Guía de impuestos para psicólogos autónomos 2026",
+      "url": "https://sanitane.com/guia-impuestos-psicologos-autonomos-2026/"
+    },
+    {
+      "tipo": "CLÍNICA",
+      "titular": "Marco legal actualizado para el psicólogo autónomo en España: habilitación, RGPD y telepsicología",
+      "cuerpo": "La actividad sanitaria en psicología exige en España habilitación específica —vía PIR o máster habilitante de Psicología General Sanitaria— y colegiación activa en el Colegio Oficial correspondiente. El ejercicio privado requiere, además, autorización del centro o consulta en el registro sanitario autonómico. En materia de protección de datos, el RGPD y la LOPDGDD clasifican los datos clínicos como especialmente protegidos: es obligatorio realizar una Evaluación de Impacto (EIPD), firmar contratos de encargo de tratamiento con las plataformas de videoconferencia y de gestión de historiales, y definir plazos de conservación de al menos cinco años desde el último episodio asistencial. En telepsicología transfronteriza —habitual en la práctica online—, la colegiación española no cubre automáticamente el ejercicio en el país de residencia del paciente; la normativa varía según el territorio.",
+      "fuente": "Formación Psicoterapia — Aspectos legales del psicólogo autónomo en España (marzo 2026)",
+      "url": "https://formacionpsicoterapia.com/blog-psicoterapia/aspectos-legales-psicologo-autonomo-espana/"
+    }
+  ],
+
+  "internacionales": [
+    {
+      "tipo": "INVESTIGACIÓN",
+      "titular": "La APA alerta sobre apps de IA en salud mental: evidencia insuficiente, privacidad opaca y riesgo de aislamiento",
+      "cuerpo": "Un artículo publicado en Monitor on Psychology (APA, mayo 2026) analiza el impacto del uso masivo de aplicaciones de IA en salud mental. Según una encuesta en BMC Public Health citada por la APA, el 41% de la población estadounidense utilizó alguna app de salud mental en el último año. Sin embargo, un estudio publicado en Internet Interventions evidenció que solo 5 de 116 aplicaciones para la depresión alcanzaron una puntuación aceptable de transparencia en privacidad; el 68% recibió una calificación inaceptable, y más de la mitad carecía de política de privacidad identificable. La APA advierte de tres riesgos principales: ausencia de respaldo científico riguroso, opacidad en el tratamiento de datos sensibles, y diseños que incentivan el uso excesivo en detrimento del contacto social presencial. El Consejo General de la Psicología de España se ha hecho eco de estas alertas, recomendando que los profesionales evalúen la vida digital de sus pacientes como parte del proceso de evaluación clínica. El uso de apps de IA como complemento entre sesiones —con consentimiento informado específico y supervisión clínica— podría aportar valor; su uso como sustituto de la terapia representa un riesgo clínico documentado.",
+      "fuente": "Infobae España — Inteligencia Artificial en salud mental: oportunidades y dudas (24 mayo 2026)",
+      "url": "https://www.infobae.com/espana/2026/05/24/inteligencia-artificial-en-salud-mental-entre-las-oportunidades-y-las-dudas-sobre-privacidad-evidencia-cientifica-y-aislamiento/"
+    }
+  ],
+
+  "papers": [],
+
+  "herramientas": [
+    {
+      "nombre": "NeuronUP — plataforma de evaluación y estimulación cognitiva digital",
+      "descripcion": "Herramienta de referencia para la rehabilitación neuropsicológica en consulta. Permite diseñar programas personalizados de estimulación cognitiva, registrar la evolución longitudinal y generar informes clínicos automatizados. Dispone de módulo para el paciente (uso en domicilio entre sesiones) y módulo clínico. Especialmente indicada en daño cerebral adquirido, deterioro cognitivo leve, demencias en fase inicial y TDAH en adultos. Integrada en el programa de Especialista en Neuropsicología Clínica Avanzada del ISEP (2026). Acceso mediante suscripción mensual o anual en neuronup.com."
+    }
+  ],
+
+  "alertas": [
+    {
+      "estado": "EN DESARROLLO",
+      "titulo": "VeriFactu — facturación electrónica certificada para autónomos sanitarios",
+      "descripcion": "El reglamento VeriFactu prevé la obligación de utilizar software de facturación certificado para todos los autónomos en 2026. Su implementación concreta —plazos exactos por perfil de contribuyente y software homologado— se encuentra en fase de desarrollo normativo por parte de la AEAT. Los psicólogos autónomos deben verificar con su asesor fiscal si su herramienta actual está adaptada, dado que los plazos definitivos podrían variar según el tamaño del negocio y el tipo de actividad."
+    },
+    {
+      "estado": "EN TRAMITACIÓN",
+      "titulo": "Consentimiento informado específico para el uso de IA en consulta psicológica",
+      "descripcion": "El marco deontológico actual exige que el paciente sea informado explícitamente y preste consentimiento específico antes de que el profesional utilice herramientas con componente de IA (transcripción automática de sesiones, chatbots de apoyo emocional, análisis de texto clínico). El consentimiento informado general no cubre este uso. La regulación específica para IA en entornos sanitarios se encuentra en tramitación a nivel europeo (AI Act) y aún no cuenta con desarrollo normativo vinculante en España para la práctica clínica individual."
+    }
+  ],
+
+  "prioridades": [
+    {
+      "titulo": "Verificar cumplimiento de VeriFactu antes del cierre de mayo",
+      "descripcion": "Los psicólogos autónomos deben comprobar si su software de facturación actual genera facturas con código QR y hash encadenado, requisitos de VeriFactu. Si utilizan hoja de cálculo o facturación manual, la migración a un sistema certificado es urgente. Plataformas como Sanitane, Holded o Quipu ya están adaptadas. El incumplimiento expone a sanciones de entre 1.000 y 50.000 euros."
+    },
+    {
+      "titulo": "Actualizar el consentimiento informado si se usan herramientas de IA en consulta",
+      "descripcion": "Si el profesional utiliza apps de transcripción, plataformas de apoyo emocional con IA o cualquier herramienta que procese datos clínicos mediante algoritmos, debe incorporar un apartado específico en el consentimiento informado. El documento debe especificar qué herramienta se usa, qué datos procesa, dónde se almacenan y cómo puede el paciente revocar su autorización. El consentimiento general existente no es suficiente."
+    },
+    {
+      "titulo": "Revisar el encuadre legal de la telepsicología transfronteriza",
+      "descripcion": "Los psicólogos que atienden pacientes residentes fuera de España —situación frecuente en la práctica online— deben verificar que su ejercicio cumple la normativa del país de residencia del paciente. La colegiación española no garantiza cobertura legal en otros territorios. Antes de iniciar cualquier proceso terapéutico transfronterizo, se recomienda consultar con el colegio profesional y documentar por escrito las condiciones del encuadre."
+    }
+  ],
+
+  "fuentes_verificadas": [
+    "https://sanitane.com/guia-impuestos-psicologos-autonomos-2026/",
+    "https://formacionpsicoterapia.com/blog-psicoterapia/aspectos-legales-psicologo-autonomo-espana/",
+    "https://www.infobae.com/espana/2026/05/24/inteligencia-artificial-en-salud-mental-entre-las-oportunidades-y-las-dudas-sobre-privacidad-evidencia-cientifica-y-aislamiento/"
+  ],
+
+  "carousel": {
+    "noticia_seleccionada": "La APA alerta sobre apps de IA en salud mental: evidencia insuficiente, privacidad opaca y riesgo de aislamiento",
+    "slide1": {
+      "titular": "Apps de IA en salud mental: qué dice la APA en 2026",
+      "subtitulo": "Evidencia insuficiente, privacidad opaca y riesgo de aislamiento en el 68% de las aplicaciones analizadas"
+    },
+    "slide2": {
+      "puntos": [
+        "Solo 5 de 116 apps para la depresión tienen transparencia aceptable en privacidad",
+        "El 68% recibió calificación inaceptable; más de la mitad sin política de privacidad",
+        "El 41% de usuarios de EE.UU. usó alguna app de salud mental en el último año"
+      ]
+    },
+    "slide3": {
+      "puntos": [
+        "Riesgo principal: sustituir el vínculo terapéutico por interacción algorítmica",
+        "Los diseños que incentivan el uso excesivo deterioran el contacto social presencial",
+        "Menos del 4% de las apps para ansiedad han sido validadas en ensayos clínicos"
+      ]
+    },
+    "slide4": {
+      "puntos": [
+        "Uso como complemento entre sesiones, con consentimiento específico: puede aportar valor",
+        "Uso como sustituto de la terapia: riesgo clínico documentado",
+        "El consentimiento informado general no cubre el uso de herramientas de IA"
+      ]
+    },
+    "slide5": {
+      "mensaje_autoridad": "La utilidad clínica de la IA en salud mental depende de cómo se usa, no de la tecnología en sí. La supervisión profesional es irreemplazable.",
+      "fuente_apa": "American Psychological Association. (2026, mayo). AI mental health apps: Opportunities and caution. Monitor on Psychology. https://www.apa.org/monitor",
+      "cta": "Guárdalo y compártelo con tu equipo. Síguenos en @IPP.Psicologia para más análisis clínicos."
+    }
+  },
+
+  "copy_rrss": "La APA advierte: el 68% de las apps de IA para salud mental tiene privacidad inaceptable. ¿Sabes cómo evaluar las herramientas que recomiendas a tus pacientes? Análisis completo en el informe de hoy.",
+  "hashtags": ["#PsicologíaClínica", "#SaludMentalDigital", "#IAEnPsicología", "#PsicólogoAutónomo", "#VeriFactu2026"]
+}
