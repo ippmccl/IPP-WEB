@@ -1,0 +1,110 @@
+{
+  "titulo": "Psicólogos en atención primaria, debate normativo y déficit global: claves de salud mental, mayo de 2026",
+  "resumen": "El Gobierno ha destinado 56 millones de euros —la mayor partida histórica— a contratar psicólogos en centros de salud y reforzar la prevención del suicidio. En paralelo, el PP ha presentado un plan nacional con hasta 700 millones anuales y la incorporación de 10.000 profesionales. Ambas propuestas emergen en un contexto de demanda creciente: las consultas de salud mental han aumentado un 33% desde 2020 y la tasa española de psicólogos públicos por habitante sigue siendo de las más bajas de la Unión Europea. La OMS, por su parte, confirma que más de mil millones de personas viven con un trastorno mental, mientras la financiación global continúa estancada en el 2% de los presupuestos sanitarios.",
+  "audiencia": "ambos",
+  "nacionales": [
+    {
+      "tipo": "SALUD PÚBLICA",
+      "titular": "El gobierno inyecta 56 millones para psicólogos en atención primaria y prevención del suicidio",
+      "cuerpo": "El Ministerio de Sanidad ha anunciado una inversión de 56 millones de euros para 2026, la mayor cifra destinada hasta la fecha a salud mental. Los fondos se distribuyen en dos bloques: contratación de psicólogos clínicos en centros de salud —con el objetivo de eliminar la derivación obligatoria por médico de familia— y campañas de sensibilización y prevención del suicidio dirigidas especialmente a jóvenes. La distribución territorial dependerá de cada comunidad autónoma. El objetivo declarado es reducir a la mitad los tiempos de espera, que superan los seis meses en varias comunidades, en un plazo de dos años. Para el sector profesional, la medida abre una oportunidad real de incorporación al sistema público, aunque su impacto efectivo dependerá de la ejecución presupuestaria y de la negociación con las CCAA.",
+      "fuente": "Que.es / Ministerio de Sanidad",
+      "url": "https://www.que.es/2026/05/20/inversion-salud-mental-2026-56-millones/"
+    },
+    {
+      "tipo": "NORMATIVA",
+      "titular": "El PP propone un plan nacional de salud mental con hasta 700 millones anuales y 10.000 nuevos profesionales",
+      "cuerpo": "Alberto Núñez Feijóo ha constituido la Mesa por la Salud Mental y presentado un plan nacional que contempla entre 500 y 700 millones de euros anuales adicionales para incorporar aproximadamente 10.000 profesionales: 3.000 psicólogos, 2.000 psiquiatras y 5.000 enfermeros especializados. La propuesta incluye seis ejes: una estrategia nacional infantojuvenil, más plazas de formación especializada (PIR, MIR, EIR), integración de adicciones en la red de salud mental, un plan específico contra el suicidio, ampliación de la cobertura de psicoterapia y rendición de cuentas con transparencia. Feijóo sitúa el déficit de profesionales como «la mayor urgencia del Estado del bienestar», recordando que España invierte el 5% del gasto sanitario en salud mental, la mitad de la media europea. La propuesta tiene rango de PROPUESTA de oposición y requiere tramitación parlamentaria.",
+      "fuente": "Libertad Digital / Partido Popular",
+      "url": "https://www.libertaddigital.com/espana/politica/2026-05-13/feijoo-presenta-un-plan-nacional-de-salud-mental-con-una-inversion-de-hasta-700-millones-al-ano-7403923/"
+    }
+  ],
+  "internacionales": [
+    {
+      "tipo": "SALUD PÚBLICA",
+      "titular": "La OMS confirma que más de mil millones de personas viven con un trastorno mental y la financiación global sigue estancada",
+      "cuerpo": "La Organización Mundial de la Salud publicó en septiembre de 2025 el Mental Health Atlas 2024 y el informe World Mental Health Today, los documentos más completos sobre el estado de la salud mental global desde 2022. Sus conclusiones son contundentes: más de 1.000 millones de personas viven con un trastorno mental, pero la mayoría no recibe atención adecuada. La salud mental representa únicamente el 2% de los presupuestos sanitarios mundiales, sin cambios desde 2017. El gasto por habitante oscila entre 65 dólares en países de renta alta y 0,04 dólares en los de renta baja. La dotación global de profesionales es de 13 trabajadores por 100.000 habitantes, con déficits críticos en países de ingresos medios y bajos. Menos del 10% de los países han completado la transición hacia modelos de atención comunitaria. El suicidio causa 727.000 muertes anuales y es la tercera causa de mortalidad entre los 15 y 29 años. Estos datos contextualizan el debate nacional: España invierte poco, pero no está sola en esa tendencia.",
+      "fuente": "Organización Mundial de la Salud (OMS)",
+      "url": "https://www.who.int/news/item/02-09-2025-who-releases-new-reports-and-estimates-highlighting-urgent-gaps-in-mental-health"
+    }
+  ],
+  "papers": [],
+  "herramientas": [
+    {
+      "nombre": "Recursos de evaluación y seguimiento en psicología clínica de atención primaria",
+      "descripcion": "Con la incorporación progresiva de profesionales a los centros de salud, cobran relevancia los instrumentos de cribado validados para contextos de alta demanda y tiempo limitado: escalas de detección de ansiedad y depresión de aplicación breve, protocolos de evaluación del riesgo suicida adaptados a primaria y registros de derivación con criterios clínicos explícitos. El Ministerio de Sanidad y los colegios oficiales de psicología disponen de guías de práctica clínica de acceso público que pueden orientar la selección de instrumentos según franja de edad y motivo de consulta."
+    }
+  ],
+  "alertas": [
+    {
+      "estado": "EN DESARROLLO",
+      "titulo": "Incorporación de psicólogos clínicos a centros de atención primaria — inversión de 56 millones (2026)",
+      "descripcion": "El Gobierno ha aprobado la partida y establecido el objetivo de reducir listas de espera a la mitad en dos años. La distribución efectiva de los fondos y la convocatoria de plazas dependerán de cada comunidad autónoma. A la fecha de este informe, la medida está en fase de implementación inicial; no existe aún un calendario unificado de contratación ni un mapa de centros beneficiarios publicado. Los profesionales autónomos y los que ejercen en centros privados deben monitorizar si sus CCAA abren convocatorias de integración o colaboración con la red pública."
+    },
+    {
+      "estado": "PROPUESTA",
+      "titulo": "Plan Nacional de Salud Mental del PP — hasta 700 millones anuales y 10.000 nuevos profesionales",
+      "descripcion": "Esta propuesta ha sido presentada por el Partido Popular en mayo de 2026 y no tiene actualmente rango normativo ni tramitación parlamentaria iniciada. Su materialización dependería de un cambio de gobierno o de un pacto de Estado. Sin embargo, el debate que genera es relevante para el sector: visibiliza el déficit de financiación y puede influir en las negociaciones presupuestarias. Se recomienda seguir su evolución a través de los canales oficiales del Congreso de los Diputados."
+    }
+  ],
+  "prioridades": [
+    {
+      "titulo": "Vigilar las convocatorias autonómicas de psicólogos en primaria",
+      "descripcion": "La inversión de 56 millones se canalizará a través de las comunidades autónomas. Los próximos meses serán clave para que aparezcan convocatorias de plazas o acuerdos de colaboración. Si ejerces como autónoma o en centro privado, conviene tener actualizados CV y número de colegiada, y consultar periódicamente el BOE y los boletines autonómicos."
+    },
+    {
+      "titulo": "Revisar y actualizar protocolos de derivación y atención en primaria",
+      "descripcion": "La integración de la psicología en atención primaria implica cambios en los flujos de derivación. Es un buen momento para revisar tus protocolos de acogida, los criterios de triaje y los registros de interconsulta, de modo que estés preparada para coordinar con el sistema público si recibes pacientes derivados o si en algún momento participas en algún programa público."
+    },
+    {
+      "titulo": "Usar el contexto normativo para posicionar la consulta y los servicios online",
+      "descripcion": "El debate público sobre listas de espera y la escasez de profesionales en la sanidad pública genera una ventana de oportunidad comunicativa. Contenido que explique qué hace una psicóloga clínica, cuándo acudir sin esperar a que te deriven y cuáles son las alternativas privadas y online tiene alta relevancia social en este momento. Es un momento idóneo para reforzar la presencia en redes y el posicionamiento de la consulta."
+    }
+  ],
+  "fuentes_verificadas": [
+    "https://www.que.es/2026/05/20/inversion-salud-mental-2026-56-millones/",
+    "https://www.libertaddigital.com/espana/politica/2026-05-13/feijoo-presenta-un-plan-nacional-de-salud-mental-con-una-inversion-de-hasta-700-millones-al-ano-7403923/",
+    "https://congresoanpir.org/",
+    "https://www.who.int/news/item/02-09-2025-who-releases-new-reports-and-estimates-highlighting-urgent-gaps-in-mental-health"
+  ],
+  "carousel": {
+    "noticia_seleccionada": "El gobierno inyecta 56 millones para psicólogos en atención primaria y prevención del suicidio",
+    "slide1": {
+      "titular": "56 millones para psicólogos en tu centro de salud",
+      "subtitulo": "España invierte por primera vez esta cifra en salud mental pública. ¿Qué cambia realmente para ti?"
+    },
+    "slide2": {
+      "puntos": [
+        "Contratación de psicólogos clínicos directamente en centros de salud, sin pasar por el médico de familia",
+        "Campañas de prevención del suicidio dirigidas a jóvenes y personas vulnerables",
+        "Objetivo: reducir listas de espera (hoy +6 meses en varias CCAA) a la mitad en 2 años"
+      ]
+    },
+    "slide3": {
+      "puntos": [
+        "56 millones equivalen a ~700 psicólogos a jornada completa durante un año, apenas suficiente para cubrir jubilaciones previstas",
+        "España invierte el 5% del gasto sanitario en salud mental; la media europea es el 10%",
+        "La OMS confirma que la financiación global lleva 8 años estancada en el 2% de los presupuestos sanitarios"
+      ]
+    },
+    "slide4": {
+      "puntos": [
+        "Si necesitas ayuda ahora: pide cita en tu centro de salud; la derivación puede ser más ágil en los próximos meses",
+        "Si eres profesional: monitoriza convocatorias en tu CCAA y ten actualizados tu CV y número de colegiada",
+        "Línea 024 (gratuita, 24h) para atención a la conducta suicida del Ministerio de Sanidad"
+      ]
+    },
+    "slide5": {
+      "mensaje_autoridad": "Más de 1.000 millones de personas viven con un trastorno mental. La mayoría no recibe ninguna atención. La salud mental sigue representando solo el 2% de los presupuestos sanitarios mundiales.",
+      "fuente_apa": "World Health Organization. (2025). Mental Health Atlas 2024. WHO Press. https://www.who.int/news/item/02-09-2025-who-releases-new-reports-and-estimates-highlighting-urgent-gaps-in-mental-health",
+      "cta": "Síguenos en @IPP.Psicologia para más análisis clínico sin filtros"
+    }
+  },
+  "copy_rrss": "56 millones para llevar psicólogos a tu centro de salud. ¿Un cambio real o un parche? Analizamos qué implica para pacientes y profesionales.",
+  "hashtags": [
+    "#SaludMental",
+    "#PsicologíaClínica",
+    "#AtenciónPrimaria",
+    "#PsicólogosEnPrimaria",
+    "#SaludMentalEspaña"
+  ]
+}
