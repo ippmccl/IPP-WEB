@@ -1,6 +1,6 @@
 {
   "titulo": "Plazas PIR, salud mental infanto-juvenil y evidencia en TCC: claves del 1 de junio de 2026",
-  "resumen": "El Ministerio de Sanidad ha adjudicado 279 plazas PIR de la convocatoria 2025/2026, cinco más que en el ciclo anterior, con incorporación prevista para los días 4 y 5 de junio. El estudio longitudinal EMOChild, publicado por la Confederación Salud Mental España, confirma que el 12 % de la población infanto-juvenil presenta síntomas de gravedad clínica y el 34 % se encuentra en niveles de precaución. En el plano internacional, un metaanálisis publicado en JAMA Psychiatry con 375 ensayos clínicos y casi 33.000 pacientes consolida la eficacia de la terapia cognitivo-conductual en múltiples trastornos mentales, con especial impacto en fobias específicas y trastorno de estrés postraumático. El sector psicológico subraya que estos datos refuerzan la necesidad de invertir en recursos humanos especializados dentro del Sistema Nacional de Salud.",
+  "resumen": "El Ministerio de Sanidad ha adjudicado 279 plazas PIR de la convocatoria 2025/2026, cinco más que en el ciclo anterior, con incorporación prevista para los días 4 y 5 de junio. El estudio longitudinal EMOChild, publicado por la Confederación Salud Mental España, confirma que el 12 % de la población infanto-juvenil presenta síntomas de gravedad clínica y el 34 % se encuentra en niveles de precaución. Como evidencia científica de referencia, un metaanálisis publicado en JAMA Psychiatry en abril de 2025 —con 375 ensayos clínicos y casi 33.000 pacientes— consolida la eficacia de la terapia cognitivo-conductual en múltiples trastornos mentales. El Consejo General de la Psicología de España ha reiterado que el incremento de plazas PIR, aunque positivo, continúa siendo insuficiente para cubrir la demanda real de atención psicológica especializada en el SNS.",
   "audiencia": "ambos",
   "nacionales": [
     {
@@ -20,9 +20,9 @@
   ],
   "internacionales": [
     {
-      "tipo": "INVESTIGACIÓN",
-      "titular": "Metaanálisis en JAMA Psychiatry con 375 ensayos consolida la eficacia de la TCC en adultos",
-      "cuerpo": "Un metaanálisis de alcance internacional publicado en JAMA Psychiatry, en el que ha participado la investigadora de la Universidad de Sevilla Emma Motrico, analiza 375 ensayos clínicos aleatorizados con casi 33.000 pacientes adultos. Los resultados confirman beneficios significativos de la terapia cognitivo-conductual (TCC) en depresión mayor, ansiedad generalizada, trastorno obsesivo-compulsivo y bulimia, con los efectos más potentes en el trastorno de estrés postraumático y las fobias específicas. El trabajo aporta información diferenciada sobre grado de efectividad según diagnóstico y grupo de comparación, lo que facilita la toma de decisiones clínicas basada en evidencia. Los autores señalan la necesidad de seguir investigando en trastornos psicóticos y bipolares, áreas donde la evidencia sigue siendo limitada.",
+      "tipo": "EVIDENCIA CIENTÍFICA",
+      "titular": "Evidencia de referencia: metaanálisis en JAMA Psychiatry confirma eficacia diferencial de la TCC en adultos",
+      "cuerpo": "Publicado online el 16 de abril de 2025 e incluido en el volumen 82 de JAMA Psychiatry, este metaanálisis —con participación de la investigadora Emma Motrico de la Universidad de Sevilla— analiza 375 ensayos clínicos aleatorizados con casi 33.000 pacientes adultos. Los resultados confirman beneficios significativos de la terapia cognitivo-conductual (TCC) en depresión mayor, ansiedad generalizada, trastorno obsesivo-compulsivo y bulimia, con los efectos más potentes en TEPT y fobias específicas. El trabajo diferencia el grado de efectividad por diagnóstico y grupo de comparación, lo que facilita la toma de decisiones clínicas. Los autores señalan que la evidencia en trastornos psicóticos y bipolares sigue siendo limitada y requiere investigación adicional. Se incluye aquí como evidencia científica consolidada relevante para la práctica, no como noticia de actualidad.",
       "fuente": "JAMA Psychiatry / Universidad de Sevilla — Vicerrectorado de Investigación",
       "url": "https://www.investigacion.us.es/noticias/un-estudio-internacional-confirma-la-eficacia-de-la-terapia-cognitivo-conductual-en-diversos"
     }
@@ -107,5 +107,11 @@
     }
   },
   "copy_rrss": "375 ensayos, 33.000 pacientes: la TCC es eficaz en depresión, ansiedad, TEPT y más. La evidencia habla claro. ¿La aplicas en tu práctica?",
-  "hashtags": ["#PsicologíaClínica", "#TerapiaCognitivoConductual", "#SaludMentalInfantil", "#PIR2026", "#EvidenciaClínica"]
+  "hashtags": [
+    "#PsicologíaClínica",
+    "#TerapiaCognitivoConductual",
+    "#SaludMentalInfantil",
+    "#PIR2026",
+    "#EvidenciaClínica"
+  ]
 }
