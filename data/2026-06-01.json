@@ -1,0 +1,111 @@
+{
+  "titulo": "Plazas PIR, salud mental infanto-juvenil y evidencia en TCC: claves del 1 de junio de 2026",
+  "resumen": "El Ministerio de Sanidad ha adjudicado 279 plazas PIR de la convocatoria 2025/2026, cinco más que en el ciclo anterior, con incorporación prevista para los días 4 y 5 de junio. El estudio longitudinal EMOChild, publicado por la Confederación Salud Mental España, confirma que el 12 % de la población infanto-juvenil presenta síntomas de gravedad clínica y el 34 % se encuentra en niveles de precaución. En el plano internacional, un metaanálisis publicado en JAMA Psychiatry con 375 ensayos clínicos y casi 33.000 pacientes consolida la eficacia de la terapia cognitivo-conductual en múltiples trastornos mentales, con especial impacto en fobias específicas y trastorno de estrés postraumático. El sector psicológico subraya que estos datos refuerzan la necesidad de invertir en recursos humanos especializados dentro del Sistema Nacional de Salud.",
+  "audiencia": "ambos",
+  "nacionales": [
+    {
+      "tipo": "NORMATIVA",
+      "titular": "Sanidad adjudica 279 plazas PIR de la convocatoria 2025/2026",
+      "cuerpo": "El Ministerio de Sanidad ha concluido el proceso de adjudicación de plazas de Formación Sanitaria Especializada de la convocatoria 2025/2026, con 279 plazas de Psicología Clínica adjudicadas, cinco más que en la convocatoria anterior (274). La toma de posesión se realizará los días 4 y 5 de junio de 2026, siendo el 5 de junio la fecha oficial de inicio del periodo formativo. El Ministerio también incorpora como novedad un procedimiento extraordinario de adjudicación para cubrir posibles vacantes tras la toma de posesión. El sector viene reclamando de forma sostenida un mayor número de plazas: según el Informe Anual del SNS 2024, solo hay 548 psicólogos clínicos trabajando en atención primaria, y España continúa por debajo de la media europea en ratio de especialistas por habitante.",
+      "fuente": "Infocop — Consejo General de la Psicología de España",
+      "url": "https://www.infocop.es/sanidad-adjudica-las-279-plazas-pir-de-la-convocatoria-2025-2026/"
+    },
+    {
+      "tipo": "SALUD PÚBLICA",
+      "titular": "El 12 % de niños y adolescentes españoles presenta síntomas de gravedad clínica según el estudio EMOChild",
+      "cuerpo": "La Confederación Salud Mental España ha publicado los resultados del Estudio Longitudinal EMOChild, realizado por el Observatorio Español de la Salud Mental Infanto-Juvenil de la Universidad Miguel Hernández. El estudio, que incluyó 10.831 personas de entre 8 y 18 años evaluadas en tres momentos entre 2024 y 2025, revela que el 12 % de la población infanto-juvenil presenta síntomas de gravedad clínica de al menos un problema emocional, y que el 34 % se encuentra en niveles de precaución, con dificultades que pueden evolucionar negativamente si no se detectan a tiempo. El informe recoge recomendaciones dirigidas a las administraciones públicas, a profesionales de la educación y a la sociedad, e incluye datos sobre ideación e intentos de suicidio y autolesión no suicida en adolescentes.",
+      "fuente": "Confederación Salud Mental España",
+      "url": "https://consaludmental.org/centro-documentacion/salud-mental-infanto-juvenil-emochild-2025/"
+    }
+  ],
+  "internacionales": [
+    {
+      "tipo": "INVESTIGACIÓN",
+      "titular": "Metaanálisis en JAMA Psychiatry con 375 ensayos consolida la eficacia de la TCC en adultos",
+      "cuerpo": "Un metaanálisis de alcance internacional publicado en JAMA Psychiatry, en el que ha participado la investigadora de la Universidad de Sevilla Emma Motrico, analiza 375 ensayos clínicos aleatorizados con casi 33.000 pacientes adultos. Los resultados confirman beneficios significativos de la terapia cognitivo-conductual (TCC) en depresión mayor, ansiedad generalizada, trastorno obsesivo-compulsivo y bulimia, con los efectos más potentes en el trastorno de estrés postraumático y las fobias específicas. El trabajo aporta información diferenciada sobre grado de efectividad según diagnóstico y grupo de comparación, lo que facilita la toma de decisiones clínicas basada en evidencia. Los autores señalan la necesidad de seguir investigando en trastornos psicóticos y bipolares, áreas donde la evidencia sigue siendo limitada.",
+      "fuente": "JAMA Psychiatry / Universidad de Sevilla — Vicerrectorado de Investigación",
+      "url": "https://www.investigacion.us.es/noticias/un-estudio-internacional-confirma-la-eficacia-de-la-terapia-cognitivo-conductual-en-diversos"
+    }
+  ],
+  "papers": [
+    {
+      "apa": "Cuijpers, P., et al. (2025). Cognitive behavior therapy for mental disorders in adults: A unified series of meta-analyses. JAMA Psychiatry, 82(6), 563–571.",
+      "doi": "10.1001/jamapsychiatry.2025.0482",
+      "hallazgo": "Metaanálisis de 375 ensayos clínicos aleatorizados (n ≈ 33.000) confirma eficacia de la TCC en múltiples diagnósticos, con los tamaños del efecto más elevados en TEPT y fobias específicas.",
+      "implicacion": "Los profesionales clínicos disponen de un mapa actualizado de efectividad diferencial de la TCC por trastorno, lo que orienta la selección de tratamiento y la derivación en función del diagnóstico principal del paciente."
+    }
+  ],
+  "herramientas": [
+    {
+      "nombre": "Instrumentos de cribado validados para salud mental infanto-juvenil",
+      "descripcion": "El estudio EMOChild subraya la importancia de utilizar instrumentos de evaluación con validación psicométrica en población española de 8 a 18 años para detectar precozmente síntomas emocionales en niveles de precaución antes de que evolucionen a cuadros clínicos. Su aplicación sistemática en entornos escolares y de atención primaria permite identificar a jóvenes en riesgo."
+    }
+  ],
+  "alertas": [
+    {
+      "estado": "APROBADO",
+      "titulo": "El Congreso aprueba el Informe de Salud Mental: más psicólogos en el SNS y humanización de la atención",
+      "descripcion": "El Pleno del Congreso de los Diputados aprobó el 17 de septiembre de 2025, con 313 votos a favor y 33 en contra, el Informe de la Subcomisión para mejorar la protección, la promoción y la atención integral de la salud mental. El documento, publicado en el Boletín Oficial de las Cortes Generales el 8 de julio de 2025, recomienda incrementar el número de especialistas en Psicología Clínica, psiquiatría y enfermería especializada en el SNS, regular las contenciones mecánicas en unidades psiquiátricas, reforzar los dispositivos infanto-juveniles y avanzar en modelos comunitarios. Su aplicación efectiva depende de las medidas presupuestarias que adopte el Gobierno y del desarrollo normativo que lleven a cabo las comunidades autónomas en sus respectivos sistemas de salud."
+    },
+    {
+      "estado": "EN DESARROLLO",
+      "titulo": "Adjudicación de plazas PIR 2025/2026: incorporación el 4 y 5 de junio",
+      "descripcion": "Las 279 personas adjudicatarias de plaza PIR en la convocatoria 2025/2026 deberán contactar con sus comisiones de docencia al día hábil siguiente a la adjudicación y realizar el examen médico previo a la incorporación. La toma de posesión se realizará los días 4 y 5 de junio de 2026. El sector considera insuficiente el número de plazas para cubrir la demanda creciente de atención psicológica especializada en el SNS."
+    }
+  ],
+  "prioridades": [
+    {
+      "titulo": "Revisar la detección precoz en consulta infanto-juvenil",
+      "descripcion": "Los datos del EMOChild indican que uno de cada tres niños y adolescentes presenta síntomas en niveles de precaución. Incorporar cribados sistemáticos con instrumentos validados en las primeras sesiones con pacientes de 8 a 18 años permite identificar a tiempo riesgos que de otro modo pasan desapercibidos hasta convertirse en cuadros clínicos establecidos."
+    },
+    {
+      "titulo": "Actualizar el protocolo de tratamiento con evidencia TCC",
+      "descripcion": "El metaanálisis de JAMA Psychiatry ofrece datos actualizados sobre efectividad diferencial de la TCC por diagnóstico. Revisar los protocolos de intervención internos a la luz de este mapa de evidencia, especialmente para TEPT y fobias específicas, donde los efectos son más potentes, mejora la precisión clínica y la justificación documentada del enfoque terapéutico elegido."
+    },
+    {
+      "titulo": "Seguimiento del proceso PIR para la red profesional",
+      "descripcion": "La adjudicación de 279 plazas PIR con inicio el 5 de junio amplía la red de psicólogos clínicos en formación en el SNS. Para profesionales que supervisan residentes o que trabajan en centros docentes acreditados, es momento de revisar los recursos de supervisión y los acuerdos de rotación clínica disponibles."
+    }
+  ],
+  "fuentes_verificadas": [
+    "https://www.infocop.es/sanidad-adjudica-las-279-plazas-pir-de-la-convocatoria-2025-2026/",
+    "https://consaludmental.org/centro-documentacion/salud-mental-infanto-juvenil-emochild-2025/",
+    "https://www.investigacion.us.es/noticias/un-estudio-internacional-confirma-la-eficacia-de-la-terapia-cognitivo-conductual-en-diversos",
+    "https://www.infocop.es/el-congreso-aprueba-el-informe-de-salud-mental-mas-psicologos-en-el-sns-y-humanizacion-de-la-atencion-integral/"
+  ],
+  "carousel": {
+    "noticia_seleccionada": "Metaanálisis en JAMA Psychiatry con 375 ensayos consolida la eficacia de la TCC en adultos",
+    "slide1": {
+      "titular": "La TCC funciona: 375 ensayos y 33.000 pacientes lo confirman",
+      "subtitulo": "JAMA Psychiatry publica el mayor metaanálisis sobre terapia cognitivo-conductual en adultos"
+    },
+    "slide2": {
+      "puntos": [
+        "375 ensayos clínicos aleatorizados analizados con metodología uniforme",
+        "Eficacia confirmada en depresión mayor, ansiedad, TOC y bulimia",
+        "Efectos más potentes en TEPT y fobias específicas"
+      ]
+    },
+    "slide3": {
+      "puntos": [
+        "El estudio orienta la elección de tratamiento según diagnóstico",
+        "Participación de la Universidad de Sevilla en diseño y validación",
+        "Financiado por el Ministerio de Ciencia, Innovación y Universidades"
+      ]
+    },
+    "slide4": {
+      "puntos": [
+        "Aún se necesita más investigación en trastornos psicóticos y bipolares",
+        "La TCC tiene un 35 % de abandono antes de completar el tratamiento",
+        "La personalización del enfoque mejora la adherencia, especialmente en jóvenes"
+      ]
+    },
+    "slide5": {
+      "mensaje_autoridad": "\"La TCC ofrece beneficios significativos en múltiples trastornos mentales, con los efectos más potentes en TEPT y fobias específicas.\" — Cuijpers et al., JAMA Psychiatry, 2025",
+      "fuente_apa": "Cuijpers, P., et al. (2025). Cognitive behavior therapy for mental disorders in adults. JAMA Psychiatry, 82(6), 563–571. https://doi.org/10.1001/jamapsychiatry.2025.0482",
+      "cta": "Síguenos en @IPP.Psicologia para más evidencia clínica aplicada"
+    }
+  },
+  "copy_rrss": "375 ensayos, 33.000 pacientes: la TCC es eficaz en depresión, ansiedad, TEPT y más. La evidencia habla claro. ¿La aplicas en tu práctica?",
+  "hashtags": ["#PsicologíaClínica", "#TerapiaCognitivoConductual", "#SaludMentalInfantil", "#PIR2026", "#EvidenciaClínica"]
+}
