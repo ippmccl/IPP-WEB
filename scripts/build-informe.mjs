@@ -15,7 +15,7 @@ function normalizarTituloRAE(titulo) {
   return titulo.split(' ').map((word, i) => {
     if (i === 0) return word.charAt(0).toUpperCase() + word.slice(1);
     // Conservar acrónimos (todo mayúsculas, ≥2 letras): ONU, COP, NICE, PIR, TCC, BOE…
-    if (/^[A-ZÁÉÍÓÚÜÑ]{2,}[.,-]?$/.test(word)) return word;
+    if (/^[A-ZÁÉÍÓÚÜÑ]{2,}[.:,-]?$/.test(word)) return word;
     // Conservar siglas con punto (A.P.A., D.S.M.)
     if (/^([A-Z]\.){2,}$/.test(word)) return word;
     return word.charAt(0).toLowerCase() + word.slice(1);
