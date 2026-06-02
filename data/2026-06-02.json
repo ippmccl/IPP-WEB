@@ -1,0 +1,125 @@
+{
+  "titulo": "Trauma, cuidados paliativos y depresión infantojuvenil: claves clínicas del 2 de junio de 2026",
+  "resumen": "El Ministerio de Sanidad publicó la Estrategia de Cuidados Paliativos 2026-2030, aprobada por el CISNS en abril, que reconoce por primera vez de forma explícita la atención psicológica como componente esencial en estos equipos. Desde Nature Reviews Psychology, una revisión de Engelhard et al. propone ampliar el concepto de trauma psicológico más allá de los criterios objetivos del DSM, con implicaciones directas para la práctica clínica. Un estudio en European Child & Adolescent Psychiatry cifra en el 14% la proporción de adolescentes españoles con síntomas clínicamente significativos de al menos un trastorno internalizante, con depresión, TOC y problemas alimentarios al frente. Estas tres líneas apuntan a un momento de actualización conceptual y normativa relevante para la psicología clínica y la neuropsicología.",
+  "audiencia": "ambos",
+  "nacionales": [
+    {
+      "tipo": "NORMATIVA",
+      "titular": "La estrategia de cuidados paliativos 2026-2030 incorpora la atención psicológica como componente esencial",
+      "cuerpo": "El Ministerio de Sanidad ha publicado el documento 2026-2030 para el desarrollo de la Estrategia de Cuidados Paliativos, aprobado por el Consejo Interterritorial del SNS (CISNS) en abril de 2026. El nuevo marco redefine quién necesita cuidados paliativos: ya no se basa solo en el pronóstico terminal, sino en el sufrimiento causado por la enfermedad, lo que amplía sustancialmente la población diana. El 75% de las muertes en España están relacionadas con enfermedades crónicas con necesidades paliativas; de ese porcentaje, el 50% corresponde a patologías no oncológicas como demencias, insuficiencias orgánicas o fragilidad avanzada. La estrategia establece explícitamente que el abordaje psicológico es un componente esencial y fija el Objetivo 2.7, orientado a garantizar el acceso a atención psicológica para pacientes y familiares, incluyendo cribados sistemáticos de malestar psicológico con herramientas validadas e integración en la historia clínica electrónica. Sin embargo, advierte de que varias comunidades autónomas siguen sin contar con psicólogo en sus equipos de cuidados paliativos. El documento establece un modelo escalonado de atención psicológica con cuatro niveles de especialización, en línea con el modelo NICE, y recomienda una dotación orientativa de un profesional de la psicología por cada 35 camas en las unidades específicas.",
+      "fuente": "Infocop — Consejo General de la Psicología de España",
+      "url": "https://www.infocop.es/sanidad-apuesta-por-una-atencion-paliativa-mas-integral-y-reconoce-la-atencion-psicologica-como-un-componente-esencial/"
+    },
+    {
+      "tipo": "CLÍNICA",
+      "titular": "Revisar el concepto de trauma psicológico puede mejorar el acceso a la atención clínica",
+      "cuerpo": "Una revisión publicada en Nature Reviews Psychology (Engelhard et al., 2026) plantea que la definición actual de trauma psicológico del DSM —centrada en características objetivas como muerte, lesiones graves o violencia sexual— deja fuera a personas con síntomas postraumáticos clínicamente significativos cuya experiencia no encaja en esos criterios. Los autores señalan que el riesgo condicional de TEPT tras cualquier acontecimiento traumático definido según DSM-IV es del 4%, pero que ese porcentaje se eleva sustancialmente ante violencia interpersonal (hasta el 20,9% en algunas muestras). El trabajo revisa evidencia sobre el papel de factores subjetivos —interpretación del acontecimiento, vulnerabilidad previa, contexto social, sexo y género femenino, bajos ingresos— y destaca que experiencias como la discriminación racial, el desahucio o el acoso pueden asociarse con síntomas postraumáticos en metaanálisis de 124 estudios, aunque no estén reconocidas como traumáticas por el DSM. Los autores advierten de la necesidad de no patologizar respuestas emocionales normales y defienden una definición más integradora que guíe tanto el acceso al tratamiento como el diseño de estrategias preventivas.",
+      "fuente": "Infocop — Consejo General de la Psicología de España",
+      "url": "https://www.infocop.es/revisar-el-concepto-de-trauma-psicologico-puede-mejorar-la-atencion-clinica/"
+    }
+  ],
+  "internacionales": [
+    {
+      "tipo": "INVESTIGACIÓN",
+      "titular": "El 14% de los adolescentes españoles presenta síntomas clínicamente significativos de al menos un trastorno internalizante",
+      "cuerpo": "Un estudio de la Universidad Miguel Hernández de Elche, publicado en European Child & Adolescent Psychiatry en noviembre de 2025, analizó una muestra representativa de 5.450 niños y adolescentes españoles de 9 a 16 años. Los resultados muestran que el 10,4% de los niños y el 14% de los adolescentes presentan síntomas clínicamente significativos de al menos un trastorno internalizante. En niños, los más frecuentes son depresión (4,7%), ansiedad social (3,6%) y trastorno de ansiedad generalizada (3,4%); en adolescentes destacan el TOC (4,5%), los problemas de conducta alimentaria (4,3%) y la depresión (4,0%). Aunque algunas tasas han aumentado respecto a datos prepandémicos, los autores señalan que se mantienen por debajo de las registradas durante el COVID-19. Los patrones de comorbilidad revelan que la presencia de síntomas depresivos clínicamente significativos incrementa el riesgo de presentar simultáneamente TAG, TEPT y quejas somáticas. El estudio subraya la necesidad de reforzar los servicios de salud mental infanto-juvenil, promover la detección precoz e implementar intervenciones específicas en entornos sanitarios y educativos.",
+      "fuente": "European Child & Adolescent Psychiatry — Springer Nature",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41263954/"
+    }
+  ],
+  "papers": [
+    {
+      "apa": "Engelhard, I. M., Krypotos, A.-M., McNally, R. J., Mertens, G., & van Zuiden, M. (2026). Defining the concept of psychological trauma. Nature Reviews Psychology, 5, 327-337.",
+      "doi": "10.1038/s44159-026-00557-y",
+      "hallazgo": "El TEPT no depende únicamente de las características objetivas del acontecimiento; factores subjetivos como la interpretación, la vulnerabilidad previa, el contexto social y las experiencias indirectas tienen un papel determinante. Acontencimientos no reconocidos por el DSM —discriminación, desahucio, acoso— pueden asociarse con síntomas postraumáticos según un metaanálisis de 124 estudios.",
+      "implicacion": "Ampliar el concepto clínico de trauma permite identificar y tratar pacientes que actualmente no acceden a intervención especializada. La evaluación debe incluir la experiencia subjetiva del acontecimiento, el historial de adversidad y los factores de vulnerabilidad individuales, sin restringirse a los criterios objetivos del diagnóstico formal."
+    },
+    {
+      "apa": "Orgilés, M., Amorós-Reche, V., Morales, A., Marzo, J. C., Piqueras, J. A., & Espada, J. P. (2025). Depression, anxiety, and internalizing symptoms in Spanish children and adolescents: estimated rates and comorbidity patterns. European Child & Adolescent Psychiatry.",
+      "doi": "10.1007/s00787-025-02916-1",
+      "hallazgo": "El 14% de los adolescentes y el 10,4% de los niños españoles presentan síntomas clínicamente significativos de al menos un trastorno internalizante. Los patrones de comorbilidad muestran que la presencia de síntomas depresivos aumenta el riesgo de trastornos asociados como TAG, TEPT y quejas somáticas.",
+      "implicacion": "La evaluación clínica en contextos pediátricos y educativos debe contemplar la comorbilidad internalizante de forma sistemática. Los datos respaldan el diseño de protocolos de detección precoz en atención primaria pediátrica y en entornos escolares."
+    }
+  ],
+  "herramientas": [
+    {
+      "nombre": "Herramientas validadas de cribado de malestar psicológico en cuidados paliativos",
+      "descripcion": "La Estrategia de Cuidados Paliativos 2026-2030 establece la incorporación de instrumentos de cribado de malestar psicológico y emocional validados en la historia clínica electrónica. Su uso sistemático permite detectar precozmente necesidades de atención psicológica en pacientes con enfermedades crónicas avanzadas y en sus familias, y activar los niveles de intervención adecuados según el modelo escalonado de cuatro niveles propuesto."
+    },
+    {
+      "nombre": "Instrumentos de evaluación del trauma con enfoque biopsicosocial",
+      "descripcion": "La revisión de Engelhard et al. subraya la necesidad de incorporar en la evaluación clínica instrumentos que vayan más allá de los criterios objetivos del DSM, contemplando la experiencia subjetiva del acontecimiento, el historial de adversidad acumulada, los factores de vulnerabilidad (género, nivel socioeconómico, historial previo de problemas psicológicos) y las experiencias de trauma indirecto o vicario."
+    }
+  ],
+  "alertas": [
+    {
+      "estado": "APROBADO",
+      "titulo": "Estrategia de cuidados paliativos 2026-2030 — psicología como componente esencial",
+      "descripcion": "El CISNS aprobó en abril de 2026 la Estrategia de Cuidados Paliativos 2026-2030. El documento fija el acceso a atención psicológica como un objetivo específico (2.7) y establece la incorporación del psicólogo o psicóloga clínica en los equipos paliativos multidisciplinares. La implementación real depende de cada comunidad autónoma, y varias aún no cuentan con psicólogo en sus equipos."
+    },
+    {
+      "estado": "EN DESARROLLO",
+      "titulo": "Plan de acción de salud mental 2025-2027 — en fase de implementación autonómica",
+      "descripcion": "El Consejo Interterritorial del SNS aprobó el Plan de Acción de Salud Mental 2025-2027 el 4 de abril de 2025. El plan incluye 8 ejes estratégicos y 101 millones de euros de dotación. La implementación de sus medidas depende de las comunidades autónomas y está en diferentes fases de desarrollo según el territorio."
+    },
+    {
+      "estado": "PROPUESTA",
+      "titulo": "Especialidad PIR de psicología clínica infantil y adolescente — pendiente de análisis de viabilidad",
+      "descripcion": "La creación de una especialidad PIR específica de Psicología Clínica Infantil y de la Adolescencia sigue en fase de análisis de viabilidad por parte del Ministerio de Sanidad. El sector profesional la reclama ante las carencias del programa PIR actual, que solo contempla 6 meses de rotaciones específicas en infancia y juventud. Su avance requiere consenso con las comunidades autónomas."
+    }
+  ],
+  "prioridades": [
+    {
+      "titulo": "Actualizar la práctica en trauma",
+      "descripcion": "La revisión de Engelhard et al. en Nature Reviews Psychology ofrece argumentos sólidos para revisar los protocolos de evaluación del TEPT en consulta. Incorporar la experiencia subjetiva, el trauma indirecto y los factores de vulnerabilidad permite identificar pacientes que actualmente quedan sin cobertura clínica. Es un momento oportuno para revisar los instrumentos de evaluación utilizados habitualmente."
+    },
+    {
+      "titulo": "Posicionarse en cuidados paliativos",
+      "descripcion": "La Estrategia 2026-2030 abre una oportunidad concreta para la psicología clínica y sanitaria: establece la necesidad de psicólogo en los equipos paliativos y fija una dotación de referencia. Para profesionales que trabajan con personas mayores, enfermedades crónicas avanzadas o duelo, es un marco normativo que respalda la demanda de servicios especializados."
+    },
+    {
+      "titulo": "Reforzar la detección precoz en menores",
+      "descripcion": "Los datos del estudio de la UMH evidencian que casi uno de cada siete adolescentes españoles presenta síntomas clínicamente significativos de al menos un trastorno internalizante. La alta comorbilidad entre depresión, TOC, problemas alimentarios y TAG en esta franja exige protocolos de cribado sistemático que incluyan instrumentos específicos para adolescentes."
+    }
+  ],
+  "fuentes_verificadas": [
+    "https://www.infocop.es/sanidad-apuesta-por-una-atencion-paliativa-mas-integral-y-reconoce-la-atencion-psicologica-como-un-componente-esencial/",
+    "https://www.infocop.es/revisar-el-concepto-de-trauma-psicologico-puede-mejorar-la-atencion-clinica/",
+    "https://pubmed.ncbi.nlm.nih.gov/41263954/"
+  ],
+  "carousel": {
+    "noticia_seleccionada": "La estrategia de cuidados paliativos 2026-2030 incorpora la atención psicológica como componente esencial",
+    "slide1": {
+      "titular": "Psicología paliativa: ya es obligación normativa",
+      "subtitulo": "La nueva estrategia 2026-2030 del Ministerio de Sanidad fija el acceso a atención psicológica como objetivo específico en cuidados paliativos"
+    },
+    "slide2": {
+      "puntos": [
+        "El 75% de las muertes en España implican enfermedades crónicas con necesidades paliativas",
+        "El sufrimiento, y no solo el pronóstico terminal, es ahora criterio de intervención",
+        "Dotación orientativa: un psicólogo por cada 35 camas en unidades paliativas"
+      ]
+    },
+    "slide3": {
+      "puntos": [
+        "Objetivo 2.7: garantizar acceso a atención psicológica para pacientes y familias",
+        "Cribado sistemático de malestar psicológico integrado en historia clínica electrónica",
+        "Varias comunidades autónomas aún carecen de psicólogo en sus equipos paliativos"
+      ]
+    },
+    "slide4": {
+      "puntos": [
+        "Modelo escalonado de 4 niveles: desde apoyo básico hasta psicoterapia especializada",
+        "Atención paliativa pediátrica y para adolescentes con necesidades complejas incluida",
+        "Se alerta del sesgo de género en la evaluación del dolor y la atención emocional"
+      ]
+    },
+    "slide5": {
+      "mensaje_autoridad": "El sufrimiento asociado a enfermedades crónicas no puede abordarse desde un enfoque únicamente biomédico. El prisma biopsicosocial es imprescindible.",
+      "fuente_apa": "Ministerio de Sanidad (2026). Estrategia de cuidados paliativos 2026-2030. CISNS.",
+      "cta": "Síguenos en @IPP.Psicologia"
+    }
+  },
+  "copy_rrss": "El Ministerio de Sanidad ya lo dice por escrito: la atención psicológica es componente esencial en cuidados paliativos. La estrategia 2026-2030 fija objetivos concretos y dotación de referencia. ¿Tu comunidad tiene psicólogo en los equipos paliativos?",
+  "hashtags": ["#PsicologíaClínica", "#CuidadosPaliativos", "#SaludMental", "#Trauma", "#PsicologíaInfantil"]
+}
