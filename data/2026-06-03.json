@@ -1,0 +1,114 @@
+{
+  "titulo": "Inversión histórica en salud mental, terapia digital para sanitarios y riesgos de las apps de bienestar psicológico",
+  "resumen": "El Gobierno ha anunciado una partida de 56 millones de euros para 2026 destinada a reforzar la presencia de psicólogos en atención primaria y a financiar campañas de prevención del suicidio, la mayor cifra comprometida hasta la fecha aunque su ejecución dependerá de cada comunidad autónoma. Un estudio del Instituto de Investigación Biomédica de Málaga (IBIMA) publicado en abril demuestra que una intervención psicológica web autoguiada mejora la salud mental del personal sanitario, identificando la resiliencia como el mecanismo de cambio más consistente. En paralelo, el Consejo General de la Psicología ha difundido un análisis de la APA que alerta sobre el mercado de aplicaciones de salud mental: solo 5 de cada 116 apps revisadas para la depresión alcanzaron una puntuación aceptable en privacidad, y menos del 4% de las apps para la ansiedad han sido validadas en ensayos clínicos. La semana arranca con un panorama que combina avance en financiación pública con advertencias sobre la calidad y la seguridad de las herramientas digitales que llegan directamente al usuario.",
+  "audiencia": "ambos",
+  "nacionales": [
+    {
+      "tipo": "SALUD PÚBLICA",
+      "titular": "El Gobierno destina 56 millones a psicólogos en centros de salud y prevención del suicidio",
+      "cuerpo": "El Ministerio de Sanidad ha anunciado una inversión de 56 millones de euros para 2026, la mayor partida hasta la fecha en salud mental. Los fondos se repartirán entre la incorporación de psicólogos clínicos a los centros de atención primaria y campañas de sensibilización y prevención del suicidio dirigidas especialmente a jóvenes y personas en situación de vulnerabilidad. La distribución final de los recursos dependerá de las decisiones de cada comunidad autónoma. El propio ministerio reconoce que las listas de espera para una primera consulta de psicología clínica en la sanidad pública superan los seis meses en varias comunidades, y el objetivo declarado es reducir ese plazo a la mitad en dos años. En términos absolutos, la partida equivale a unos 1,20 euros por habitante, lo que sitúa la medida como un paso significativo pero todavía alejado de los ratios europeos de profesionales por población.",
+      "fuente": "Diario Qué! / Ministerio de Sanidad",
+      "url": "https://www.que.es/2026/05/20/inversion-salud-mental-2026-56-millones/"
+    },
+    {
+      "tipo": "INVESTIGACIÓN",
+      "titular": "Una intervención psicológica online reduce el burnout en profesionales sanitarios al fortalecer la resiliencia",
+      "cuerpo": "Investigadores del Instituto de Investigación Biomédica de Málaga (IBIMA) y del Hospital Regional de Málaga han publicado los resultados de un estudio con 357 profesionales sanitarios de Málaga y Aragón. El trabajo analiza los mecanismos internos de un programa de intervención psicológica web autoguiada que integra mindfulness, compasión y aceptación. La principal conclusión es que la resiliencia actúa como el mediador más robusto y consistente para reducir el estrés percibido, la ansiedad y la depresión en este colectivo. Los datos indican que los componentes específicos del mindfulness —observar las sensaciones, describirlas y no reaccionar impulsivamente— son los que generan mayor cambio terapéutico real, más allá de la práctica genérica. Los autores destacan que el formato digital no es simplemente una alternativa de acceso fácil, sino un canal eficaz para promover procesos psicológicos positivos y duraderos en entornos de alta presión. Más de la mitad de los médicos y el 44% de las enfermeras en España presentan al menos una dimensión del burnout, lo que da dimensión a la relevancia clínica del hallazgo.",
+      "fuente": "EFE / Instituto de Investigación Biomédica de Málaga (IBIMA)",
+      "url": "https://www.infobae.com/espana/agencias/2026/04/07/revelan-que-una-terapia-psicologica-online-mejora-la-salud-mental-del-personal-sanitario/"
+    },
+    {
+      "tipo": "HERRAMIENTA",
+      "titular": "El Consejo General de la Psicología alerta sobre la falta de rigor y privacidad en las apps de salud mental",
+      "cuerpo": "El Consejo General de la Psicología ha trasladado al sector los hallazgos de un análisis reciente publicado por la Asociación Americana de Psicología (APA) en Monitor on Psychology. El informe revela que solo 5 de 116 aplicaciones para la depresión revisadas alcanzaron una puntuación aceptable en transparencia de privacidad, mientras que más de la mitad carecía de política de privacidad identificable. Menos del 4% de las apps para la ansiedad han sido validadas mediante ensayos clínicos controlados. El número total de aplicaciones de este tipo disponibles en el mercado supera las 10.000, según un estudio de Springer Nature. La APA advierte que la mayoría se clasifica como productos de bienestar general, lo que las sitúa fuera del control regulatorio que sí se exige a las terapias digitales certificadas. Los profesionales deben considerar el entorno digital de sus pacientes como parte de la evaluación clínica, analizando qué herramientas utilizan y si estas refuerzan o dificultan la alianza terapéutica y el contacto social real.",
+      "fuente": "Infobae España / Consejo General de la Psicología / APA Monitor on Psychology",
+      "url": "https://www.infobae.com/espana/2026/05/24/inteligencia-artificial-en-salud-mental-entre-las-oportunidades-y-las-dudas-sobre-privacidad-evidencia-cientifica-y-aislamiento/"
+    }
+  ],
+  "internacionales": [],
+  "papers": [
+    {
+      "apa": "Guzmán, J., et al. (2026). Resilience as the core mediator of psychological change in an online mindfulness-based intervention for healthcare professionals: Evidence from a multi-site study. Instituto de Investigación Biomédica de Málaga (IBIMA) / Hospital Regional de Málaga.",
+      "doi": "pendiente-de-publicacion-oficial",
+      "hallazgo": "La resiliencia es el mediador más robusto y consistente en la mejora de la salud mental de profesionales sanitarios participantes en una intervención web autoguiada. Las habilidades de mindfulness selectivo —observar, describir y no reaccionar impulsivamente— son las que generan mayor cambio terapéutico real.",
+      "implicacion": "Las intervenciones digitales dirigidas al personal sanitario deben diseñarse explícitamente para potenciar la resiliencia, dejando atrás los formatos genéricos. Este principio puede orientar el desarrollo de programas de prevención del burnout escalables para el sistema sanitario público."
+    }
+  ],
+  "herramientas": [
+    {
+      "nombre": "Guía APA para evaluación de aplicaciones de salud mental",
+      "descripcion": "La Asociación Americana de Psicología ha publicado una guía paso a paso para que los profesionales evalúen la fiabilidad de las herramientas digitales de salud mental antes de recomendarlas a sus pacientes. La guía analiza criterios de valor clínico, seguridad y privacidad, y permite identificar señales de alerta como la ausencia de política de protección de datos, la falta de respaldo empírico y los diseños orientados a incentivar el uso excesivo."
+    },
+    {
+      "nombre": "Plataformas de intervención psicológica web autoguiada validadas para profesionales sanitarios",
+      "descripcion": "El estudio del IBIMA valida el uso de intervenciones web autoguiadas que integran terapias de tercera generación —mindfulness, compasión y aceptación— como canal eficaz para la prevención y tratamiento del burnout en entornos sanitarios de alta presión. Su formato escalable y de acceso flexible las convierte en una opción con potencial de implementación en el sistema de salud."
+    }
+  ],
+  "alertas": [
+    {
+      "estado": "EN DESARROLLO",
+      "titulo": "Inversión de 56 millones para psicólogos en atención primaria y prevención del suicidio",
+      "descripcion": "El Ministerio de Sanidad ha comprometido 56 millones de euros para 2026 con el objetivo declarado de incorporar psicólogos clínicos a los centros de atención primaria y financiar campañas de prevención del suicidio. Se trata de una propuesta presupuestaria aprobada a nivel ministerial, pero su ejecución concreta —número de profesionales contratados, zonas prioritarias y calendarios— depende de las decisiones de cada comunidad autónoma. No ha sido publicada en el BOE como normativa de desarrollo."
+    },
+    {
+      "estado": "PROPUESTA",
+      "titulo": "Regulación de las aplicaciones de salud mental como dispositivos sanitarios en España",
+      "descripcion": "Organismos como el Consorcio DTx y las recomendaciones de la APA apuntan a la necesidad de que España establezca un marco regulatorio claro para las aplicaciones de salud mental, diferenciando las herramientas de bienestar general de las terapias digitales con evidencia clínica. A fecha de hoy no existe normativa específica aprobada en España ni a nivel europeo que regule este mercado de forma homogénea."
+    }
+  ],
+  "prioridades": [
+    {
+      "titulo": "Revisar las herramientas digitales que recomendamos o que usan nuestros pacientes",
+      "descripcion": "Ante la alerta de la APA sobre la falta de privacidad y evidencia en la mayoría de las apps de salud mental disponibles, conviene hacer un mapa de las herramientas digitales que están utilizando los pacientes fuera de sesión. Aplicar criterios básicos de revisión —política de privacidad identificable, respaldo empírico, ausencia de diseño adictivo— antes de validar cualquier recurso digital."
+    },
+    {
+      "titulo": "Incorporar la evaluación del burnout en la práctica con profesionales sanitarios",
+      "descripcion": "Los datos del IBIMA confirman que más de la mitad de los médicos y el 44% de las enfermeras presentan al menos una dimensión de burnout. Si trabajamos con personal sanitario —ya sea en intervención individual, grupal o en programas de empresa— este momento es oportuno para incorporar screenings de burnout y considerar intervenciones basadas en resiliencia y mindfulness con respaldo empírico."
+    },
+    {
+      "titulo": "Actualizar la lista de espera y los circuitos de derivación a la luz de los cambios en atención primaria",
+      "descripcion": "La inversión anunciada por el Ministerio prevé cambios en la presencia de psicólogos en los centros de salud, aunque su concreción depende de cada comunidad autónoma. Es el momento de revisar los circuitos de derivación locales y anticipar posibles cambios en el flujo de pacientes procedentes de la sanidad pública hacia la práctica privada."
+    }
+  ],
+  "fuentes_verificadas": [
+    "https://www.que.es/2026/05/20/inversion-salud-mental-2026-56-millones/",
+    "https://www.infobae.com/espana/agencias/2026/04/07/revelan-que-una-terapia-psicologica-online-mejora-la-salud-mental-del-personal-sanitario/",
+    "https://www.infobae.com/espana/2026/05/24/inteligencia-artificial-en-salud-mental-entre-las-oportunidades-y-las-dudas-sobre-privacidad-evidencia-cientifica-y-aislamiento/"
+  ],
+  "carousel": {
+    "noticia_seleccionada": "El Consejo General de la Psicología alerta sobre la falta de rigor y privacidad en las apps de salud mental",
+    "slide1": {
+      "titular": "¿Son seguras las apps de salud mental que usan tus pacientes?",
+      "subtitulo": "La APA revisó 116 apps para la depresión: solo 5 superaron los criterios de privacidad"
+    },
+    "slide2": {
+      "puntos": [
+        "Más de 10.000 apps de salud mental disponibles en el mercado global",
+        "El 68% de las revisadas obtuvo una calificación de privacidad inaceptable",
+        "Más de la mitad no tenía política de privacidad identificable"
+      ]
+    },
+    "slide3": {
+      "puntos": [
+        "Menos del 4% de las apps para ansiedad han sido validadas en ensayos clínicos",
+        "La mayoría se clasifica como 'bienestar general' y escapa a la regulación sanitaria",
+        "Los diseños que incentivan el uso excesivo son una señal de alerta clave"
+      ]
+    },
+    "slide4": {
+      "puntos": [
+        "Evalúa: ¿tiene política de privacidad clara y accesible?",
+        "Evalúa: ¿hay evidencia científica publicada que la respalde?",
+        "Evalúa: ¿permite al usuario acceder a sus propios datos y compartirlos con el profesional?",
+        "Una app puede ser útil para un paciente y contraproducente para otro"
+      ]
+    },
+    "slide5": {
+      "mensaje_autoridad": "«Comprender el paisaje digital de cada persona ayuda a valorar si una app puede sumar a la terapia o, por el contrario, refuerza el aislamiento.»",
+      "fuente_apa": "Asociación Americana de Psicología (APA), Monitor on Psychology, 2026",
+      "cta": "Sigue la actualización clínica en @IPP.Psicologia"
+    }
+  },
+  "copy_rrss": "La APA revisó 116 apps de salud mental para la depresión y solo 5 pasaron el filtro de privacidad. ¿Sabes qué herramientas digitales están usando tus pacientes fuera de sesión? 👇",
+  "hashtags": ["#SaludMental", "#PsicologíaClínica", "#AppsSaludMental", "#BienestarDigital", "#IPPPsicologia"]
+}
