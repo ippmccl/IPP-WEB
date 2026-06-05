@@ -1,0 +1,121 @@
+{
+  "titulo": "Inteligencia artificial, psicología jurídica y seguridad digital de menores: claves del 5 de junio de 2026",
+  "nota_editorial": "Las claves prácticas que se recogen a continuación forman parte del análisis editorial del Observatorio de Actualidad del IPP y no constituyen recomendación clínica individualizada.",
+  "resumen": "Un análisis difundido por la APA en su revista Monitor on Psychology confirma que la psicología clínica registra el nivel más bajo de automatización (12%) entre las profesiones estudiadas y el mayor índice de contacto interpersonal (88%), lo que refuerza el valor diferencial de la profesión ante la expansión de la inteligencia artificial. En el ámbito de la protección de menores, la Fundación ANAR ha actualizado su guía sobre el lenguaje oculto que usan niños y adolescentes en redes sociales para eludir filtros y hablar de autolesiones, conductas sexuales de riesgo o situaciones de malestar. En psicología jurídica, el volumen 36 del Anuario de Psicología Jurídica del COP Madrid publica un monográfico sobre violencia de género y un estudio que revela que el 90% de las víctimas de delitos de odio en España no denuncia. A nivel internacional, el número de junio de The American Journal of Psychiatry recoge nueva evidencia sobre el papel del sistema opioide en el efecto antidepresivo de la ketamina en trastorno depresivo mayor.",
+  "audiencia": "ambos",
+  "nacionales": [
+    {
+      "tipo": "INVESTIGACIÓN",
+      "titular": "La psicología, entre las profesiones menos automatizadas y con mayor contacto humano",
+      "cuerpo": "Un artículo publicado en Monitor on Psychology de la APA presenta datos comparativos sobre el nivel de automatización, repetitividad y contacto interpersonal en diferentes especialidades psicológicas. La psicología clínica y de la salud obtiene el resultado más bajo en automatización (12%) y el más alto en contacto con otras personas (88%), junto con una repetitividad de tareas del 21%. La neuropsicología clínica alcanza un 22% de automatización y un 82% de contacto humano. Según el análisis, estas cifras reflejan que la interacción interpersonal constituye el núcleo estructural del ejercicio profesional, y que determinadas herramientas tecnológicas pueden liberar tiempo en tareas rutinarias o administrativas sin reemplazar las funciones relacionales y clínicas que definen la especialidad.",
+      "fuente": "Infocop, basado en Stamm, K., Assefa, M., & Page, C. (2026). APA Monitor on Psychology, 57(1).",
+      "url": "https://www.infocop.es/la-psicologia-entre-las-profesiones-menos-automatizadas-y-con-mayor-contacto-humano/"
+    },
+    {
+      "tipo": "SALUD PÚBLICA",
+      "titular": "Claves para entender el lenguaje oculto de los menores en redes sociales",
+      "cuerpo": "La Fundación ANAR ha actualizado en febrero de 2026 su guía sobre el lenguaje secreto que utilizan menores de edad en redes sociales para eludir los sistemas de detección de las plataformas. Entre los códigos documentados figuran términos que aluden a autolesiones (\"barcode\" para referirse a marcas de cortes, \"trasto\" en comunidades de conductas autolesivas), combinaciones alfanuméricas para hablar de suicidio (\"KMS\"), solicitar encuentros sexuales (\"LH6\", \"LMIRL\") o advertir de la ausencia de supervisión adulta (\"99\"). La guía también identifica códigos utilizados por adultos con fines de grooming. El documento subraya que estas expresiones pueden pasar desapercibidas para familias y profesionales, y recomienda combinar el conocimiento del lenguaje digital con controles parentales, comunicación abierta y supervisión activa.",
+      "fuente": "Infocop, basado en Fundación ANAR: guía 'El lenguaje secreto de los/as menores de edad en redes sociales', actualizada en febrero de 2026.",
+      "url": "https://www.infocop.es/claves-para-entender-el-lenguaje-oculto-de-los-y-las-menores-en-redes-sociales/"
+    },
+    {
+      "tipo": "INVESTIGACIÓN",
+      "titular": "Anuario de psicología jurídica vol. 36: violencia de género, delitos de odio y reincidencia",
+      "cuerpo": "El volumen 36 del Anuario de Psicología Jurídica, coeditado por el COP Madrid, incluye un monográfico sobre violencia de género con estudios sobre regulación emocional en personas condenadas por VG, reconocimiento emocional en víctimas paraguayas y violencia en el noviazgo. Un estudio independiente sobre delitos de odio en España revela que la tasa de denuncia se sitúa en el 10%, de modo que el 90% de las víctimas no notifica el delito, principalmente por dudas sobre si su denuncia será tomada en serio, experiencias previas negativas o desconocimiento de que estos actos constituyen un delito tipificado. Otro trabajo analiza la relación entre victimización infantil y conducta antisocial en adolescentes, encontrando que la victimización indirecta (exposición a violencia en el entorno) es un predictor ligeramente más robusto que la victimización directa. A partir de 2026, la revista adopta modelo de publicación continua.",
+      "fuente": "Infocop, basado en Anuario de Psicología Jurídica, Vol. 36 (I). COP Madrid / Fundación COP Madrid.",
+      "url": "https://www.infocop.es/violencia-de-genero-delitos-de-odio-o-reincidencia-entre-las-novedades-de-anuario-de-psicologia-juridica-vol-36-i/"
+    }
+  ],
+  "internacionales": [
+    {
+      "tipo": "INVESTIGACIÓN",
+      "titular": "The American Journal of Psychiatry, junio 2026: ketamina, depresión severa y riesgo suicida",
+      "cuerpo": "El número de junio de 2026 de The American Journal of Psychiatry (American Psychiatric Association) incluye un estudio crossover aleatorizado sobre las firmas de flujo sanguíneo regional asociadas a la modulación opioide de la ketamina en el trastorno depresivo mayor, junto con una actualización sobre tratamientos somáticos para el riesgo suicida y un consenso Delphi internacional sobre estrategias de prevención de recaída tras terapia electroconvulsiva exitosa. La edición de Psychiatric Services del mismo mes incorpora investigación sobre la efectividad de modelos de atención conductual integrada para la depresión y sobre el papel de la religiosidad en la búsqueda de ayuda en psicosis. Estos trabajos se suman a la evidencia acumulada sobre opciones de intervención en cuadros depresivos graves y conducta suicida.",
+      "fuente": "American Psychiatric Association. News Release, 1 de junio de 2026.",
+      "url": "https://www.psychiatry.org/News-room/News-Releases/June-2026-Issues-of-APA-Journals"
+    }
+  ],
+  "papers": [
+    {
+      "apa": "Autor/as no especificados en la fuente secundaria consultada. (2025). Cuestionario de regulación emocional cognitiva en personas condenadas por un delito de violencia de género. Anuario de Psicología Jurídica, 36.",
+      "doi": "10.5093/apj2025a11",
+      "hallazgo": "La validación en contexto español del Cuestionario de Regulación Emocional Cognitiva en personas condenadas por violencia de género muestra que estrategias como la autoculpabilización se asocian a dinámicas internas (depresión), mientras que la culpabilización de la pareja se relaciona con dinámicas externas (ira y agresividad). La herramienta resulta apta para medir diferentes estrategias de regulación emocional en esta población.",
+      "implicacion": "Los resultados sugieren que puede ser útil incorporar la evaluación diferenciada de estrategias de regulación emocional cognitiva en los programas de intervención con personas condenadas por VG, dado que el perfil de regulación puede orientar el tipo de abordaje terapéutico más adecuado en cada caso."
+    }
+  ],
+  "herramientas": [
+    {
+      "nombre": "Guía de lenguaje digital para la detección de riesgo en menores",
+      "descripcion": "Recurso de orientación para familias y profesionales que recoge y explica los códigos ocultos que utilizan menores en redes sociales para referirse a autolesiones, conductas sexuales de riesgo, situaciones de malestar psicológico y posibles situaciones de grooming. Permite mejorar la detección precoz de señales de alerta en el entorno digital sin necesidad de acceder directamente a los dispositivos del menor. Disponible de forma gratuita a través de la Fundación ANAR."
+    }
+  ],
+  "alertas": [
+    {
+      "estado": "EN DESARROLLO",
+      "titulo": "Jornada sobre interprofesionalidad y límites competenciales en psicología clínica y de la salud (12 de junio de 2026)",
+      "descripcion": "El Consejo General de la Psicología de España organiza para el 12 de junio de 2026 una jornada en formato híbrido, presencial en su sede y online a través de su canal de YouTube, centrada en los límites prácticos en ámbitos interdisciplinares como el dolor crónico, la adherencia al tratamiento, la evaluación neuropsicológica y la valoración de idoneidad en estudios genéticos. La participación puede ser relevante para profesionales en ejercicio en entornos sanitarios multidisciplinares."
+    }
+  ],
+  "prioridades": [
+    {
+      "titulo": "Articular el valor diferencial de la relación terapéutica frente a la automatización",
+      "descripcion": "Dado que los datos difundidos por la APA sitúan a la psicología clínica como la ocupación con menor exposición estructural a la sustitución tecnológica (12% de automatización y 88% de contacto interpersonal), puede ser relevante incorporar esta perspectiva en la comunicación profesional, tanto con pacientes como con derivadores o gestores sanitarios, para explicar por qué la atención psicológica presencial o sincrónica no es equiparable a herramientas automatizadas de bienestar."
+    },
+    {
+      "titulo": "Incluir la evaluación del entorno digital en la exploración psicológica de menores",
+      "descripcion": "La actualización de la guía ANAR sobre lenguaje oculto en redes sociales puede ser útil como herramienta de orientación en la exploración del contexto digital de pacientes en edad pediátrica y adolescente. Puede ser oportuno revisar si en los protocolos de evaluación de riesgo en menores (autolesiones, abuso, conducta suicida) se incorpora de forma sistemática la indagación sobre uso de redes y posibles señales de alerta en el lenguaje digital que describen."
+    },
+    {
+      "titulo": "Actualizar el conocimiento en psicología jurídica aplicada a VG y delitos de odio",
+      "descripcion": "El volumen 36 del Anuario de Psicología Jurídica aporta instrumentos validados en español para la evaluación de regulación emocional en personas condenadas por violencia de género y datos sobre la infranotificación de delitos de odio en España. Para profesionales que trabajan en contextos jurídico-forenses, de atención a víctimas o de intervención con agresores, puede ser útil explorar estos materiales para actualizar tanto los instrumentos de evaluación utilizados como la comprensión del perfil cognitivo-emocional de personas implicadas en dinámicas de violencia."
+    }
+  ],
+  "fuentes_verificadas": [
+    "https://www.infocop.es/la-psicologia-entre-las-profesiones-menos-automatizadas-y-con-mayor-contacto-humano/",
+    "https://www.infocop.es/claves-para-entender-el-lenguaje-oculto-de-los-y-las-menores-en-redes-sociales/",
+    "https://www.infocop.es/violencia-de-genero-delitos-de-odio-o-reincidencia-entre-las-novedades-de-anuario-de-psicologia-juridica-vol-36-i/",
+    "https://www.psychiatry.org/News-room/News-Releases/June-2026-Issues-of-APA-Journals"
+  ],
+  "carousel": {
+    "noticia_seleccionada": "La psicología, entre las profesiones menos automatizadas y con mayor contacto humano",
+    "slide1": {
+      "titular": "La psicologia resiste a la IA: datos que avalan la profesion",
+      "subtitulo": "Un analisis de la APA confirma que la psicologia clinica es la profesion con menor automatizacion y mayor contacto humano"
+    },
+    "slide2": {
+      "puntos": [
+        "Solo el 12% de las tareas de la psicologia clinica son automatizables, el porcentaje mas bajo entre las profesiones analizadas",
+        "El 88% del trabajo implica contacto directo con personas: la interaccion humana es el nucleo de la profesion",
+        "La repetitividad de tareas en psicologia clinica es del 21%, frente al 52% de la neuropsicologia clinica"
+      ]
+    },
+    "slide3": {
+      "puntos": [
+        "La IA puede apoyar tareas administrativas (agenda, datos, facturacion) pero no replica el juicio clinico ni la empatia",
+        "Las habilidades relacionales, la escucha activa y la adaptabilidad son precisamente las menos susceptibles de automatizacion",
+        "Esto convierte el vinculo terapeutico en el principal valor diferencial del psicologo o psicologa frente a las herramientas digitales"
+      ]
+    },
+    "slide4": {
+      "puntos": [
+        "Neuropsicologia clinica: 22% automatizacion, 82% contacto humano",
+        "Psicologia educativa: 17% automatizacion, 85% contacto humano",
+        "Psicologia del trabajo y las organizaciones: 19% automatizacion, 80% contacto humano",
+        "La psicologia clinica encabeza el ranking de menor automatizacion en todas las especialidades estudiadas"
+      ]
+    },
+    "slide5": {
+      "mensaje_autoridad": "Los empleos en psicologia se orientan estructuralmente hacia tareas humanas que dificilmente seran reemplazadas por tecnologia. La conexion humana permanece como un valor insustituible.",
+      "fuente_apa": "Stamm, K., Assefa, M., & Page, C. (2026). How automated and repetitive are psychology jobs? Monitor on Psychology, 57(1). APA.",
+      "cta": "Siguenos en @IPP.Psicologia para mas actualidad del sector"
+    }
+  },
+  "copy_rrss": "La psicologia clinica es la profesion menos automatizable segun la APA: 12% de automatizacion y 88% de contacto humano. El vinculo terapeutico sigue siendo lo que ninguna IA puede reemplazar.",
+  "hashtags": [
+    "#PsicologiaCLINICA",
+    "#InteligenciaArtificial",
+    "#Psicologia",
+    "#SaludMental",
+    "#PsicologosEnEspana"
+  ]
+}
