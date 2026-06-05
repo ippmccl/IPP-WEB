@@ -168,12 +168,18 @@ function fechaCorta(iso) {
 function bloqueNoticias(lista, ambito) {
   if (!lista || lista.length === 0) return '';
   const titulo = ambito === 'NACIONAL' ? 'Noticias nacionales' : 'Noticias internacionales';
-  const items = lista.map(n => `
+  const items = lista.map(n => {
+    const fuenteHtml = n.fuente
+      ? `<p class="noticia-fuente">Fuente: ${n.url ? `<a href="${n.url}" target="_blank" rel="noopener">${n.fuente}</a>` : n.fuente}</p>`
+      : (n.url ? `<p class="noticia-fuente"><a href="${n.url}" target="_blank" rel="noopener">${n.url}</a></p>` : '');
+    return `
     <div class="news">
       <span class="tag">${n.tipo} · ${ambito}</span>
       <h3>${n.titular}</h3>
       <p>${n.cuerpo}</p>
-    </div>`).join('');
+      ${fuenteHtml}
+    </div>`;
+  }).join('');
   return `<section class="sec"><div class="sec-header">${titulo}</div>${items}</section>`;
 }
 
@@ -199,10 +205,12 @@ function bloqueAlertas(lista) {
   if (!lista || lista.length === 0) return '';
   const items = lista.map(a => {
     const cls = a.estado.toLowerCase().replace(/\s+/g, '').replace(/[^a-z]/g, '');
+    const urlHtml = a.url ? `<p class="noticia-fuente"><a href="${a.url}" target="_blank" rel="noopener">Ver fuente</a></p>` : '';
     return `
     <div class="alerta">
       <span class="badge ${cls}">${a.estado}</span>
       <p><strong>${a.titulo}:</strong> ${a.descripcion}</p>
+      ${urlHtml}
     </div>`;
   }).join('');
   return `<section class="sec"><div class="sec-header">Alertas normativas</div>${items}</section>`;
