@@ -1,0 +1,126 @@
+{
+  "titulo": "Crecimiento histórico de psicólogos colegiados, interprofesionalidad y redes sociales en adolescentes: claves del 8 de junio de 2026",
+  "nota_editorial": "Las claves prácticas que se recogen a continuación forman parte del análisis editorial del Observatorio de Actualidad del IPP y no constituyen recomendación clínica individualizada.",
+  "resumen": "El Instituto Nacional de Estadística confirma que la psicología sanitaria española alcanza 47.396 profesionales colegiados en 2025, con un incremento interanual del 8,6%, aunque la proporción de especialistas en Psicología Clínica vía PIR sigue representando apenas el 10% del total. El Consejo General de la Psicología convoca para el 12 de junio una jornada sobre interprofesionalidad y límites competenciales en Psicología Clínica y de la Salud, ante la necesidad de delimitar claramente las competencias profesionales en equipos multiprofesionales. En el plano europeo, la Federación Europea de Asociaciones de Psicólogos ha celebrado su reunión de Consejo en Varsovia y avanza en el fortalecimiento del certificado EuroPsy. Un estudio publicado en 2025 en JMIR y una guía de la Asociación Americana de Psicología aportan evidencia sobre cómo el tipo de contenido que consumen los adolescentes en redes importa más que el tiempo de pantalla en sí para su bienestar mental.",
+  "audiencia": "ambos",
+  "nacionales": [
+    {
+      "tipo": "SALUD PÚBLICA",
+      "titular": "El INE registra 47.396 psicólogos sanitarios colegiados en 2025, con crecimiento del 8,6% y marcada desigualdad territorial",
+      "cuerpo": "Según la Estadística de Profesionales Sanitarios Colegiados del INE, la psicología de la rama de la Sanidad es uno de los colectivos con mayor crecimiento porcentual entre las profesiones sanitarias en España: 47.396 profesionales en 2025 frente a 43.628 en 2024. El 82,2% son mujeres y el 55,1% tiene menos de 45 años, lo que apunta a una profesión en plena renovación generacional. La distribución territorial presenta diferencias significativas: la Comunidad de Madrid concentra la tasa más elevada (203,74 por cada 100.000 habitantes) mientras que Castilla-La Mancha registra la más baja (33,6 por cada 100.000 habitantes). Los datos también evidencian que solo 4.651 profesionales —el 10% del total— están colegiados como especialistas en Psicología Clínica vía PIR, una cifra que organismos como el Defensor del Pueblo han señalado como insuficiente para cubrir las necesidades asistenciales del sistema público.",
+      "fuente": "Infocop — Instituto Nacional de Estadística (INE), Estadística de Profesionales Sanitarios Colegiados 2025",
+      "url": "https://www.infocop.es/estadistica-colegiados-de-la-rama-sanitaria/"
+    },
+    {
+      "tipo": "CLÍNICA",
+      "titular": "El COP convoca jornada sobre interprofesionalidad y límites competenciales en psicología clínica y de la salud",
+      "cuerpo": "El Consejo General de la Psicología de España, a través de su División de Psicología Clínica y de la Salud, celebrará el próximo 12 de junio de 2026 una jornada en formato híbrido —presencial en la sede del COP y en línea a través de YouTube— para reflexionar sobre los límites competenciales de la intervención psicológica en entornos sanitarios multiprofesionales. El encuentro analizará qué elementos de la relación terapéutica son transversales a todas las profesiones sanitarias y cuáles requieren formación y habilitación específica en psicología, con especial atención a ámbitos como el dolor crónico, la adherencia al tratamiento, la evaluación neuropsicológica y la salud mental. La jornada también revisará el marco jurídico aplicable a la delimitación de competencias y abrirá un debate sobre qué contenidos psicológicos deben formar parte de la formación de otros profesionales sanitarios. La inscripción es gratuita.",
+      "fuente": "Infocop — Consejo General de la Psicología de España (COP)",
+      "url": "https://www.infocop.es/apuntate-a-la-jornada-sobre-interprofesionalidad-y-limites-competenciales-en-psicologia-clinica-y-de-la-salud/"
+    }
+  ],
+  "internacionales": [
+    {
+      "tipo": "NORMATIVA",
+      "titular": "La EFPA celebra su reunión de Consejo en Varsovia y refuerza el estándar EuroPsy para la movilidad profesional europea",
+      "cuerpo": "La Federación Europea de Asociaciones de Psicólogos (EFPA) reunió a sus miembros de pleno derecho en Varsovia los días 13 y 14 de mayo de 2026, en el marco del Semestre Europeo de la Psicología en Polonia. Según ha informado la propia EFPA en nota de prensa, el encuentro sirvió para compartir prioridades nacionales, desarrollos normativos y los principales retos de la profesión psicológica en Europa. Uno de los asuntos centrales fue la evolución del certificado EuroPsy —estándar europeo de formación y competencia profesional— cuyo objetivo declarado es garantizar la calidad del ejercicio profesional y facilitar la movilidad de los psicólogos y psicólogas en el ámbito europeo. El Consejo General de la Psicología de España, representado por su coordinador de Relaciones Internacionales, participó activamente en el Comité Nacional EuroPsy.",
+      "fuente": "Infocop — EFPA (European Federation of Psychologists' Associations)",
+      "url": "https://www.infocop.es/la-asociacion-polaca-de-psicologia-acoge-la-reunion-del-consejo-de-la-efpa/"
+    },
+    {
+      "tipo": "SALUD PÚBLICA",
+      "titular": "Redes y adolescentes: el tipo de contenido importa más que el tiempo de pantalla, según guía de la APA difundida por Infocop",
+      "cuerpo": "La Asociación Americana de Psicología (APA) ha publicado una guía basada en la evidencia —«Healthy Teen Video Viewing»— dirigida a familias de adolescentes, cuyo contenido ha sido difundido en medios profesionales de psicología. La guía subraya que la calidad y naturaleza del contenido digital tiene un peso mayor en el bienestar adolescente que la plataforma utilizada o el tiempo total de uso. El documento describe cómo los sistemas de recomendación algorítmica y las funciones sociales —como los «me gusta»— explotan la especial sensibilidad del cerebro adolescente a la retroalimentación social. Advierte sobre contenidos que pueden normalizar agresión, influir en conductas de riesgo o generar expectativas corporales poco realistas; al tiempo que reconoce el potencial positivo de los contenidos que fomentan conductas prosociales o inspiradoras. Como estrategia central, la APA recomienda el co-visionado y el diálogo continuo sobre los contenidos, posicionando al adolescente como experto para favorecer el pensamiento crítico.",
+      "fuente": "Infocop — American Psychological Association (APA), guía Healthy Teen Video Viewing (2025)",
+      "url": "https://www.infocop.es/el-tipo-de-contenido-es-mas-importante-en-la-salud-del-adolescente-que-el-tiempo-frente-a-la-pantalla/"
+    }
+  ],
+  "papers": [
+    {
+      "apa": "Yang, C., Hunhoff, P., Lee, Y., & Abrell, J. (2025). Social media activities with different content characteristics and adolescent mental health: Cross-sectional survey study. Journal of Medical Internet Research, 27, e73098.",
+      "doi": "10.2196/73098",
+      "hallazgo": "En una muestra de 2.105 adolescentes estadounidenses representativa a nivel nacional (edad media 15,39 años), el estudio identificó que cuatro tipos de actividades en redes sociales —comunicación directa íntima, difusión íntima, difusión positiva y consumo de contenido positivo— presentan mecanismos psicosociales diferenciados sobre la depresión y la ansiedad. La difusión de contenido positivo fue la única actividad asociada directamente con menor depresión y ansiedad. Las demás actividades analizadas actuaron como factores de riesgo a través de la ansiedad de aprobación y la comparación social.",
+      "implicacion": "Los resultados sugieren que puede ser relevante incorporar en la evaluación clínica con adolescentes preguntas sobre el tipo de uso que hacen de las redes, más allá del tiempo total de pantalla. Puede ser útil explorar si el adolescente tiende principalmente a consumir contenido ajeno, a publicar sobre sí mismo o a comunicarse de forma directa, ya que cada patrón puede orientar intervenciones diferenciadas sobre comparación social, ansiedad de aprobación o necesidad de apoyo social."
+    }
+  ],
+  "herramientas": [
+    {
+      "nombre": "Guía de visualización saludable de vídeos para familias de adolescentes",
+      "descripcion": "Recurso de comunicación terapéutica basado en la evidencia, diseñado para ayudar a las familias a establecer un diálogo constructivo sobre el consumo de contenido digital. Traducida y adaptada para uso profesional y psicoeducativo, puede servir como material de apoyo en intervenciones con adolescentes y familias, sin requerir formación técnica específica en el ámbito digital. Disponible a través de la web de la Asociación Americana de Psicología."
+    }
+  ],
+  "alertas": [
+    {
+      "estado": "EN DESARROLLO",
+      "titulo": "Desigualdad territorial en la disponibilidad de psicólogos sanitarios en España",
+      "descripcion": "Los datos del INE de 2025 evidencian diferencias significativas en la tasa de psicólogos sanitarios colegiados por comunidad autónoma: la Comunidad de Madrid registra 203,74 por cada 100.000 habitantes, mientras que Castilla-La Mancha se sitúa en 33,6 por cada 100.000. Esta brecha territorial, que diferentes organismos han señalado como un problema de equidad asistencial, continúa siendo un desafío estructural sin un plan normativo específico aprobado en el momento actual. La planificación de los recursos humanos en salud mental depende de las comunidades autónomas en el marco del Sistema Nacional de Salud."
+    },
+    {
+      "estado": "PROPUESTA",
+      "titulo": "Delimitación de competencias entre profesiones sanitarias en entornos multiprofesionales",
+      "descripcion": "El Consejo General de la Psicología de España está promoviendo el debate sobre los límites competenciales de la intervención psicológica en contextos de colaboración interprofesional. Se trata de una discusión en curso —no de una normativa aprobada— que busca clarificar, desde un enfoque técnico, ético y jurídico, qué prácticas requieren formación y habilitación específica en psicología clínica, en ámbitos como el dolor crónico, la adherencia al tratamiento o la evaluación neuropsicológica."
+    }
+  ],
+  "prioridades": [
+    {
+      "titulo": "Revisar el perfil profesional del equipo en proyectos de centro multidisciplinar",
+      "descripcion": "Los datos del INE sobre desigualdad territorial pueden ser relevantes para anticipar la disponibilidad de perfiles especializados en cada comunidad autónoma. Puede ser útil explorar si en el territorio donde se proyecta el centro existe suficiente oferta de psicólogos clínicos vía PIR frente a psicólogos generales sanitarios, y diseñar en consecuencia los procedimientos de derivación interna y los criterios de contratación, especialmente para las especialidades de neuropsicología."
+    },
+    {
+      "titulo": "Clarificar internamente los límites de las intervenciones en equipos interprofesionales",
+      "descripcion": "Ante el creciente trabajo en equipos multidisciplinares —que incluyen fisioterapeutas, enfermeras, trabajadores sociales y otros profesionales de la salud—, puede ser oportuno revisar los procedimientos internos para delimitar qué actuaciones constituyen intervención psicológica clínica y cuáles son elementos transversales del trabajo en equipo. Disponer de un protocolo interno claro puede reducir la inseguridad jurídica y proteger tanto al profesional como al paciente."
+    },
+    {
+      "titulo": "Incorporar la evaluación del uso de contenidos digitales en la práctica clínica con adolescentes",
+      "descripcion": "La evidencia disponible sugiere que preguntar por el tipo de actividad en redes sociales —más que solo por el tiempo de pantalla— puede aportar información clínicamente relevante sobre patrones de comparación social, ansiedad de aprobación o búsqueda de apoyo en el contexto del trabajo terapéutico con adolescentes. Puede ser útil incorporar este eje de evaluación en la anamnesis inicial y en el seguimiento de casos con sintomatología ansiosa o depresiva en población juvenil."
+    }
+  ],
+  "fuentes_verificadas": [
+    "https://www.infocop.es/estadistica-colegiados-de-la-rama-sanitaria/",
+    "https://www.infocop.es/apuntate-a-la-jornada-sobre-interprofesionalidad-y-limites-competenciales-en-psicologia-clinica-y-de-la-salud/",
+    "https://www.infocop.es/la-asociacion-polaca-de-psicologia-acoge-la-reunion-del-consejo-de-la-efpa/",
+    "https://www.infocop.es/el-tipo-de-contenido-es-mas-importante-en-la-salud-del-adolescente-que-el-tiempo-frente-a-la-pantalla/",
+    "https://www.jmir.org/2025/1/e73098"
+  ],
+  "carousel": {
+    "noticia_seleccionada": "El INE registra 47.396 psicólogos sanitarios colegiados en 2025, con crecimiento del 8,6% y marcada desigualdad territorial",
+    "slide1": {
+      "titular": "47.396 psicólogos sanitarios: la profesión crece al 8,6%",
+      "subtitulo": "El INE confirma el avance de la psicología sanitaria en España, aunque persiste la escasez de especialistas clínicos y las desigualdades territoriales"
+    },
+    "slide2": {
+      "puntos": [
+        "47.396 psicólogos/as de la rama sanitaria colegiados/as en España en 2025, un 8,6% más que en 2024",
+        "Solo el 10% son especialistas en Psicología Clínica vía PIR: 4.651 profesionales de un total de 47.396",
+        "El 82,2% de los profesionales colegiados son mujeres; el 55,1% tiene menos de 45 años"
+      ]
+    },
+    "slide3": {
+      "puntos": [
+        "Madrid lidera la tasa territorial: 203,74 psicólogos/as por cada 100.000 habitantes",
+        "Castilla-La Mancha registra la tasa más baja: 33,6 por cada 100.000 habitantes",
+        "La desigualdad territorial sigue siendo un desafío estructural sin plan normativo aprobado"
+      ]
+    },
+    "slide4": {
+      "puntos": [
+        "La psicología sanitaria crece más que la mayoría de profesiones sanitarias en proporción",
+        "El Defensor del Pueblo ha señalado la insuficiencia de especialistas clínicos en el sistema público",
+        "El número de psicólogos sanitarios ha aumentado un 36,1% en los últimos seis años (2020-2025)"
+      ]
+    },
+    "slide5": {
+      "mensaje_autoridad": "El crecimiento del colectivo es sostenido, pero los datos también ponen de manifiesto la necesidad urgente de incrementar la formación especializada y reducir las desigualdades territoriales para garantizar una atención psicológica equitativa.",
+      "fuente_apa": "INE (2026). Estadística de Profesionales Sanitarios Colegiados 2025. Instituto Nacional de Estadística. Difundido por Infocop, 8 de junio de 2026.",
+      "cta": "Síguenos en @IPP.Psicologia para más actualidad del sector"
+    }
+  },
+  "copy_rrss": "El INE confirma 47.396 psicólogos sanitarios colegiados en 2025. La profesión crece un 8,6%, pero solo el 10% son especialistas clínicos vía PIR y la desigualdad territorial sigue siendo una asignatura pendiente. Todo lo que necesitas saber, en el informe diario IPP.",
+  "hashtags": [
+    "#PsicologíaClínica",
+    "#ProfesionalesSanitarios",
+    "#SaludMental",
+    "#Neuropsicología",
+    "#AdolescentesDigitales"
+  ]
+}
