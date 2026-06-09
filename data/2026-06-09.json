@@ -1,0 +1,114 @@
+{
+  "titulo": "Actividad física como herramienta clínica, comunicación sin estigma y prevención de adicciones: claves del 9 de junio de 2026",
+  "nota_editorial": "Las claves prácticas que se recogen a continuación forman parte del análisis editorial del Observatorio de Actualidad del IPP y no constituyen recomendación clínica individualizada.",
+  "resumen": "Una revisión paraguas publicada en la Revista de Psicología Aplicada al Deporte y al Ejercicio Físico, con más de 4,5 millones de participantes, confirma que la actividad física se asocia de forma consistente con mejoras en salud mental, bienestar psicológico y reducción de síntomas depresivos, ansiosos y neurodegenerativos. En el ámbito de la comunicación, el Observatorio de Salud Mental de Feafes Extremadura ha publicado una guía actualizada para periodistas que recuerda que cerca del 90% de la información que recibe la población sobre salud mental procede de los medios, lo que convierte el tratamiento informativo en un factor determinante para combatir el estigma. En el plano internacional, el Centre for Addiction and Mental Health (CAMH) concluye en un nuevo informe que las intervenciones educativas aisladas no reducen el consumo de sustancias, y que solo la combinación de programas cognitivo-conductuales con regulaciones estructurales demuestra eficacia preventiva real, con especial relevancia para el trabajo clínico con adolescentes.",
+  "audiencia": "ambos",
+  "nacionales": [
+    {
+      "tipo": "INVESTIGACIÓN",
+      "titular": "Actividad física y salud mental: una revisión paraguas con más de 4,5 millones de participantes confirma sus beneficios consistentes",
+      "cuerpo": "Un estudio publicado en la Revista de Psicología Aplicada al Deporte y al Ejercicio Físico sintetiza los resultados de 197 revisiones sistemáticas y metaanálisis con un tamaño muestral acumulado de más de 4,5 millones de participantes para analizar los efectos de la actividad física sobre la salud mental en el ciclo vital completo. Entre el 71% y el 82% de los estudios incluidos reportan efectos favorables sobre distintos dominios de la salud mental, siendo el bienestar psicológico el dominio con evidencia más sólida: todos los estudios analizados en este ámbito reportaron beneficios, con mejoras en percepción de salud, calidad del sueño, autoestima, resiliencia y autoconfianza. En depresión y ansiedad, la evidencia también es predominantemente favorable, especialmente cuando la actividad física se combina con intervenciones psicoterapéuticas. Los autores advierten de la heterogeneidad metodológica existente y señalan la necesidad de mayor investigación para precisar las condiciones de eficacia óptima según el dominio clínico.",
+      "fuente": "Infocop — Consejo General de la Psicología de España",
+      "url": "https://www.infocop.es/la-actividad-fisica-muestra-efectos-consistentes-sobre-la-salud-mental-el-bienestar-psicologico-y-la-prevencion-del-malestar-emocional/"
+    },
+    {
+      "tipo": "SALUD PÚBLICA",
+      "titular": "Feafes Extremadura publica una guía para comunicar sobre salud mental sin reproducir estigma",
+      "cuerpo": "El Observatorio de Salud Mental de Feafes Salud Mental Extremadura ha publicado la guía actualizada 'Informar sin estigmatizar', con recomendaciones dirigidas a periodistas y comunicadores sobre el tratamiento responsable de la salud mental en los medios. El documento parte de un dato significativo: cerca del 90% de la información que recibe la población sobre salud mental procede de los medios de comunicación, lo que convierte el rigor informativo en un factor con impacto directo en el estigma, la discriminación y la búsqueda de ayuda profesional. Entre las prácticas identificadas como dañinas, la guía señala el uso de etiquetas diagnósticas como identificadores de personas, los titulares alarmistas que asocian trastorno mental y violencia sin base objetiva, y la banalización de términos clínicos. El decálogo propone dar voz a personas con experiencia en primera persona, documentarse con fuentes especializadas, y seguir recomendaciones específicas en el abordaje de la conducta suicida, incluyendo la difusión de recursos de ayuda como la Línea 024.",
+      "fuente": "Infocop — Consejo General de la Psicología de España",
+      "url": "https://www.infocop.es/informar-con-rigor-y-respeto-sobre-salud-mental-puede-salvar-vidas-y-combatir-el-estigma/"
+    }
+  ],
+  "internacionales": [
+    {
+      "tipo": "SALUD PÚBLICA",
+      "titular": "El CAMH concluye que la educación aislada no previene el consumo de sustancias: solo funciona combinada con regulación y programas cognitivo-conductuales",
+      "cuerpo": "El Centre for Addiction and Mental Health (CAMH, Canadá) ha publicado un informe sobre prevención primaria del daño relacionado con el consumo de sustancias, basado en el análisis de más de 100 revisiones sistemáticas. El documento concluye que las estrategias tradicionales centradas exclusivamente en educación o mensajes de persuasión no reducen el consumo ni previenen los daños: revisiones del programa D.A.R.E. mostraron resultados nulos en 13 de 14 evaluaciones. Por el contrario, los programas que combinan entrenamiento en habilidades cognitivo-conductuales, fortalecimiento de vínculos comunitarios y familiares, e intervenciones motivacionales, sí muestran eficacia sostenida. El informe destaca también la eficacia de las regulaciones estructurales sobre precio, publicidad y disponibilidad: en Lituania, medidas aplicadas entre 2015 y 2018 se asociaron con la evitación de más de 1.000 muertes al año. En relación con la salud mental, el documento señala que el consumo habitual de cannabis en la adolescencia se asocia a un riesgo 11 veces mayor de desarrollar un trastorno psicótico entre los 12 y los 19 años, dato con especial relevancia para el trabajo clínico preventivo con jóvenes.",
+      "fuente": "Infocop — Consejo General de la Psicología de España (difusión del informe del CAMH, Centre for Addiction and Mental Health)",
+      "url": "https://www.infocop.es/regulacion-estricta-e-intervencion-psicologica-y-social-combinacion-clave-para-prevenir-el-dano-por-consumo-de-sustancias/"
+    }
+  ],
+  "papers": [
+    {
+      "apa": "Tristancho-Celis, C., Parra-Jaramillo, L., Quiceno-Florez, C., Sandberg, T., Franco, A., Salazar-Tamayo, D., Vargas-Galeano, M., & Aguirre-Loaiza, H. (2025). Efectos de la actividad física sobre la salud mental: una revisión paraguas de carácter integral. Revista de Psicología Aplicada al Deporte y al Ejercicio Físico, 10, e16, 1-24.",
+      "doi": "10.5093/rpadef2025a16",
+      "hallazgo": "Revisión paraguas de 197 artículos con más de 4,5 millones de participantes. Entre el 71% y el 82% de los estudios reportan efectos favorables de la actividad física sobre la salud mental. El bienestar psicológico es el dominio con mayor consistencia: la totalidad de los estudios analizados reporta efectos positivos. Los efectos son más marcados con actividad de intensidad moderada-vigorosa y cuando se combina con psicoterapia.",
+      "implicacion": "Los resultados sugieren que puede ser relevante incorporar la actividad física como componente complementario en los planes de intervención psicológica, especialmente en casos de depresión, ansiedad y deterioro neurodegenerativo, aunque los autores señalan la necesidad de mayor investigación para determinar las condiciones óptimas de aplicación según diagnóstico y población."
+    }
+  ],
+  "herramientas": [
+    {
+      "nombre": "Guía de comunicación responsable sobre salud mental para medios",
+      "descripcion": "Recurso de acceso abierto elaborado por una entidad de salud mental que ofrece un decálogo práctico para periodistas y comunicadores sobre cómo abordar la salud mental sin reproducir estigma. Incluye recomendaciones específicas para el tratamiento informativo de la conducta suicida, el uso del lenguaje centrado en la persona y la diferenciación entre malestar emocional y trastorno mental grave. Disponible en formato PDF a través de Feafes Salud Mental Extremadura."
+    }
+  ],
+  "alertas": [
+    {
+      "estado": "PROPUESTA",
+      "titulo": "El sector reclama regulación del marketing de sustancias para proteger la salud mental adolescente",
+      "descripcion": "Según el informe del CAMH difundido en medios profesionales de psicología, el sector científico internacional señala que la regulación del precio, la publicidad y la disponibilidad de sustancias como el alcohol y el cannabis es una de las estrategias preventivas con mayor impacto poblacional documentado. En España, la gestión de estas medidas depende de las comunidades autónomas y del marco normativo estatal vigente; no se ha aprobado ninguna medida nueva al respecto en los términos descritos por el informe internacional."
+    }
+  ],
+  "prioridades": [
+    {
+      "titulo": "Actividad física como complemento terapéutico",
+      "descripcion": "Ante la acumulación de evidencia sobre los efectos favorables de la actividad física en depresión, ansiedad y bienestar psicológico, puede ser relevante explorar si los planes de intervención incluyen orientaciones prácticas al respecto, especialmente en pacientes con baja activación conductual o sintomatología depresiva. La intensidad moderada-vigorosa parece asociarse a mayores beneficios, aunque la heterogeneidad metodológica de los estudios obliga a aplicar criterio clínico individualizado."
+    },
+    {
+      "titulo": "Comunicación digital del profesional sin estigmatizar",
+      "descripcion": "Para psicólogos y psicólogas con presencia activa en redes sociales o medios de comunicación, puede ser oportuno revisar el lenguaje utilizado para describir casos, diagnósticos o situaciones de malestar emocional. Evitar etiquetas diagnósticas como identificadores de personas, no asociar trastorno mental con peligrosidad y ofrecer recursos de ayuda cuando se aborden temas sensibles son prácticas que, según la guía revisada, contribuyen a reducir el estigma social y a mejorar la percepción pública de la salud mental."
+    },
+    {
+      "titulo": "Prevención de consumo de sustancias en trabajo con adolescentes",
+      "descripcion": "En el contexto clínico con jóvenes, puede ser útil incorporar una evaluación del consumo de cannabis y otras sustancias como parte habitual de la valoración inicial, teniendo en cuenta que los datos revisados sugieren que el consumo habitual en la adolescencia puede asociarse a un riesgo significativamente mayor de síntomas psicóticos. Los programas con evidencia disponible apuntan al entrenamiento en habilidades sociales, manejo del estrés y técnicas cognitivo-conductuales como estrategias con mayor impacto preventivo."
+    }
+  ],
+  "fuentes_verificadas": [
+    "https://www.infocop.es/la-actividad-fisica-muestra-efectos-consistentes-sobre-la-salud-mental-el-bienestar-psicologico-y-la-prevencion-del-malestar-emocional/",
+    "https://www.infocop.es/informar-con-rigor-y-respeto-sobre-salud-mental-puede-salvar-vidas-y-combatir-el-estigma/",
+    "https://www.infocop.es/regulacion-estricta-e-intervencion-psicologica-y-social-combinacion-clave-para-prevenir-el-dano-por-consumo-de-sustancias/",
+    "https://www.revistapsicologiaaplicadadeporteyejercicio.org/art/rpadef2025a16",
+    "https://dialnet.unirioja.es/servlet/articulo?codigo=10579436"
+  ],
+  "carousel": {
+    "noticia_seleccionada": "Actividad física y salud mental: evidencia de más de 4,5 millones de personas",
+    "slide1": {
+      "titular": "Actividad física y salud mental: lo que dice la ciencia",
+      "subtitulo": "Una revision paraguas con 197 estudios y mas de 4,5 millones de participantes"
+    },
+    "slide2": {
+      "puntos": [
+        "Entre el 71% y el 82% de los estudios reportan efectos favorables sobre la salud mental",
+        "Todos los estudios analizados reportan beneficios para el bienestar psicologico",
+        "Mejoras documentadas en autoestima, calidad del sueno, resiliencia y autoconfianza"
+      ]
+    },
+    "slide3": {
+      "puntos": [
+        "Eficaz como complemento en depresion, ansiedad y trastornos neurodegenerativos",
+        "Actividad de intensidad moderada-vigorosa muestra mejores resultados",
+        "Los efectos se amplifican cuando se combina con intervencion psicologica"
+      ]
+    },
+    "slide4": {
+      "puntos": [
+        "Los beneficios se observan en todas las etapas del ciclo vital",
+        "El ejercicio aerobico, de fuerza y las practicas mente-cuerpo muestran evidencia favorable",
+        "Los autores senalan la necesidad de mas investigacion para precisar condiciones optimas"
+      ]
+    },
+    "slide5": {
+      "mensaje_autoridad": "La actividad fisica de intensidad moderada y vigorosa es la que presenta los mejores resultados en terminos de salud mental, aunque los tamanos del efecto no son concluyentes y existe una notable heterogeneidad en los disenos de los estudios analizados.",
+      "fuente_apa": "Tristancho-Celis et al. (2025). Revista de Psicologia Aplicada al Deporte y al Ejercicio Fisico, 10, e16. DOI: 10.5093/rpadef2025a16",
+      "cta": "Siguenos en @IPP.Psicologia"
+    }
+  },
+  "copy_rrss": "Nueva evidencia sobre los efectos de la actividad fisica en la salud mental, la importancia del lenguaje sin estigma en los medios y lo que la ciencia dice sobre la prevencion de adicciones en adolescentes. Informe completo disponible en ipp.es",
+  "hashtags": [
+    "#Psicologia",
+    "#SaludMental",
+    "#ActividadFisica",
+    "#Psicoterapia",
+    "#IPPActualidad"
+  ]
+}
