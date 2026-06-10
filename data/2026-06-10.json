@@ -1,0 +1,119 @@
+{
+  "titulo": "Carga global de salud mental, narrativa en citas digitales y evidencia en psicoterapia: claves del 10 de junio de 2026",
+  "nota_editorial": "Las claves prácticas que se recogen a continuación forman parte del análisis editorial del Observatorio de Actualidad del IPP y no constituyen recomendación clínica individualizada.",
+  "resumen": "Un estudio publicado en The Lancet confirma que en 2023 aproximadamente 1.170 millones de personas en todo el mundo convivian con algun trastorno mental, lo que representa un incremento del 95,5% respecto a 1990. Por primera vez desde que existe el proyecto Global Burden of Disease, el grupo de 15 a 19 anos registra la mayor carga, con 2.617,3 DALYs por cada 100.000 habitantes. En clave nacional, el Consejo General de la Psicologia publica el segundo numero de 2026 de Papeles del Psicologo, con articulos sobre suicidio en el ambito universitario, micromachismos como riesgo psicosocial invisible y el modelo cognitivo contemporaneo integrador. Un estudio de la APA difundido por Infocop muestra que presentar el perfil en apps de citas como una historia personal genera significativamente mas empatia y mayor interes romantico que listar datos.",
+  "audiencia": "ambos",
+  "nacionales": [
+    {
+      "tipo": "HERRAMIENTA",
+      "titular": "Papeles del psicologo publica su segundo numero de 2026 con articulos sobre suicidio universitario, micromachismos y modelo cognitivo",
+      "cuerpo": "El Consejo General de la Psicologia ha publicado el volumen 47, numero 2 (mayo-agosto 2026) de la revista Papeles del Psicologo, con sello de calidad FECyT. Entre los nueve articulos incluidos destacan, por su impacto en la practica clinica y en la gestion profesional: una revision sobre prevencion, intervencion y posvención del suicidio en el contexto universitario, que aboga por protocolos integrados y un sistema nacional de seguimiento de muertes por suicidio entre estudiantes; un analisis de los micromachismos laborales como riesgo psicosocial invisible con propuesta de evaluacion preventiva desde perspectiva de genero; y una propuesta de modelo cognitivo contemporaneo integrador y multidimensional util para la formulacion clinica. El numero incluye tambien una reflexion sobre los limites de la inteligencia artificial en la replicacion de la mente humana, con implicaciones para el ejercicio profesional de la psicologia.",
+      "fuente": "Infocop — Consejo General de la Psicologia de Espana",
+      "url": "https://www.infocop.es/nuevo-numero-de-2026-de-la-revista-papeles-del-psicologo/"
+    },
+    {
+      "tipo": "INVESTIGACIÓN",
+      "titular": "Presentar el perfil como historia personal en apps de citas genera mas empatia e interes romantico, segun un estudio de la APA",
+      "cuerpo": "Un estudio publicado en Psychology of Popular Media, revista de la Asociacion Americana de Psicologia, analiza el efecto del storytelling en los perfiles de citas online. A traves de tres experimentos con 594 participantes, los resultados muestran que los perfiles que presentan la informacion como una narrativa coherente generan niveles significativamente mas altos de empatia que los perfiles que enumeran datos sueltos. Esta empatia actua como mediador: no aumenta directamente el atractivo percibido, sino que genera conexion emocional, la cual incrementa el interes romantico e incluso la disposicion a iniciar contacto. En el tercer experimento, la combinacion de narrativa visual y escrita produjo los efectos mas pronunciados. Los autores senalan que el mecanismo subyacente es el transporte narrativo, ya ampliamente estudiado en marketing y comunicacion persuasiva, y que los hallazgos tienen implicaciones tanto para el diseno de perfiles digitales como para la comprension psicologica de la conexion emocional en entornos virtuales.",
+      "fuente": "Infocop — difunde estudio publicado en Psychology of Popular Media (APA)",
+      "url": "https://www.infocop.es/contar-tu-historia-personal-en-las-apps-de-citas-aumenta-la-empatia-y-el-interes-romantico-segun-un-estudio/"
+    }
+  ],
+  "internacionales": [
+    {
+      "tipo": "SALUD PÚBLICA",
+      "titular": "Casi 1.170 millones de personas viven con un trastorno mental en el mundo, segun el Global Burden of Disease Study 2023 en The Lancet",
+      "cuerpo": "Un nuevo analisis publicado en The Lancet, basado en los datos del Global Burden of Disease Study 2023, actualiza las tendencias mundiales de prevalencia y carga de los trastornos mentales entre 1990 y 2023 en 204 paises. Los resultados muestran que en 2023 aproximadamente 1.170 millones de personas convivian con algun trastorno mental, frente a los 599 millones estimados en 1990, lo que representa un incremento del 95,5%. La tasa estandarizada por edad se situa en 14.210,7 casos por cada 100.000 habitantes, equivalente a una de cada siete personas. Los trastornos de ansiedad registraron el mayor incremento (+158%) y la depresion mayor le sigue de cerca (+131%). Por primera vez desde que comenzó el proyecto GBD, el grupo de 15 a 19 anos concentra la mayor carga, con 2.617,3 DALYs por cada 100.000 habitantes. Las mujeres presentan una carga superior (2.239,6 DALYs por 100.000) frente a los hombres (1.900,2). Los trastornos mentales se han convertido en la principal causa mundial de anos vividos con discapacidad y generan el 6,1% de toda la carga global de enfermedad, con 171 millones de DALYs. Los autores llaman a reforzar la vigilancia epidemiologica, la prevencion temprana y la cobertura de los servicios de salud mental, especialmente para adolescentes y grupos mas vulnerables.",
+      "fuente": "Infocop — difunde estudio publicado en The Lancet (Global Burden of Disease Study 2023)",
+      "url": "https://www.infocop.es/casi-12-millones-de-personas-en-todo-el-mundo-viven-con-problemas-de-salud-mental-segun-advierte-un-estudio/"
+    }
+  ],
+  "papers": [
+    {
+      "apa": "Birnbaum, G. E., & Zholtack, K. (2026). Once upon a swipe: The impact of storytelling on dating profile appeal. Psychology of Popular Media. https://doi.org/10.1037/ppm0000661",
+      "doi": "10.1037/ppm0000661",
+      "hallazgo": "En tres experimentos con 594 participantes, los perfiles de citas online estructurados como narrativas personales generaron niveles significativamente mas altos de empatia que los perfiles que enumeraban datos. Esta mayor empatia midio el incremento en el interes romantico e incluso en la intencion conductual de iniciar contacto.",
+      "implicacion": "Los resultados sugieren que el mecanismo del transporte narrativo puede orientar la comprension clinica de la vinculacion emocional en entornos digitales y puede ser util como referencia en intervenciones psicoeducativas sobre relaciones y comunicacion; aunque los autores advierten que el efecto a largo plazo en relaciones reales requiere mayor investigacion."
+    },
+    {
+      "apa": "Santomauro, D. F., Miller, P. A., Shadid, J., Hanson, S. W., Vo, A., Roy, D. J., & Aravkin, A. Y. (2026). Updated trends in the global prevalence and burden of mental disorders, 1990-2023: a systematic analysis for the Global Burden of Disease Study 2023. The Lancet, 407(10543), 2040-2064.",
+      "doi": "no especificado en la fuente verificada",
+      "hallazgo": "En 2023, aproximadamente 1.170 millones de personas vivian con algun trastorno mental a nivel mundial (+95,5% respecto a 1990). Los trastornos mentales son la principal causa de anos vividos con discapacidad y generan el 6,1% de la carga global de enfermedad. Por primera vez, el grupo de 15 a 19 anos registra la mayor carga: 2.617,3 DALYs por 100.000 habitantes.",
+      "implicacion": "Los datos sugieren que puede ser relevante incorporar estrategias de deteccion precoz en adolescentes y jovenes adultos en los distintos niveles de atencion psicologica, y que puede ser oportuno revisar los protocolos de derivacion para estos grupos de edad en los contextos clinicos donde se trabaje con poblacion juvenil."
+    }
+  ],
+  "herramientas": [
+    {
+      "nombre": "Evaluacion de tests psicologicos editados en Espana — Duodecima edicion (2026)",
+      "descripcion": "La Comision de Test del Consejo General de la Psicologia ha publicado la duodecima evaluacion de tests editados en Espana, con informes de calidad sobre instrumentos que miden motivacion, inteligencia general, deterioro cognitivo, bienestar emocional, personalidad en adolescentes, conciencia fonologica e inteligencia emocional en ninos. La evaluacion sigue el proceso sistematico de revision por pares del Cuestionario para la Evaluacion de Test Revisado (CET-R v1.1). Esta guia puede resultar util para orientar la seleccion de instrumentos de evaluacion psicologica en funcion de criterios de calidad contrastados, publicada como parte del numero de Papeles del Psicologo vol. 47 n.2 (2026)."
+    }
+  ],
+  "alertas": [
+    {
+      "estado": "PROPUESTA",
+      "titulo": "Suicidio en universitarios: propuesta de sistema nacional de seguimiento y mejora de protocolos conforme a la LOSU",
+      "descripcion": "Un articulo publicado en Papeles del Psicologo (vol. 47, n.2, 2026) revisa estrategias de prevencion, intervencion en crisis y posvencion del suicidio en el contexto universitario. Los autores proponen establecer un sistema nacional de seguimiento de muertes por suicidio en estudiantes y mejorar las politicas institucionales conforme a lo previsto en la Ley Organica del Sistema Universitario (LOSU). Esta propuesta se enmarca en debate academico y profesional; no ha sido implementada como obligacion normativa mediante disposicion publicada en el BOE a la fecha de este informe."
+    }
+  ],
+  "prioridades": [
+    {
+      "titulo": "Adolescentes y jovenes adultos como grupo prioritario en la agenda clinica",
+      "descripcion": "Ante los datos del GBD 2023 en The Lancet que situan al grupo de 15 a 19 anos como el de mayor carga de trastornos mentales por primera vez en la historia de este indicador, puede ser util explorar si los protocolos de evaluacion y derivacion en los contextos donde se trabaja con poblacion adolescente incorporan herramientas de deteccion precoz actualizadas. La elevada carga que se mantiene hasta los 39 anos sugiere que puede ser relevante revisar la continuidad de cuidados entre la etapa adolescente y la adulta joven."
+    },
+    {
+      "titulo": "Micromachismos laborales como riesgo psicosocial en la practica profesional y clinica",
+      "descripcion": "El articulo publicado en Papeles del Psicologo sobre micromachismos en el entorno laboral como riesgo psicosocial invisible puede ser relevante incorporar en dos dimensiones: como marco de comprension del contexto de algunas pacientes que trabajan en entornos con estas dinamicas, y como elemento de analisis en el propio entorno profesional sanitario, donde estas dinamicas tambien pueden presentarse. Los autores proponen una metodologia estructurada de identificacion y prevencion desde perspectiva de genero."
+    },
+    {
+      "titulo": "Narrativa personal como recurso en intervenciones sobre vinculos y comunicacion digital",
+      "descripcion": "Los resultados del estudio sobre storytelling en apps de citas, con el mecanismo del transporte narrativo y la empatia como mediador, pueden ser relevantes para intervenciones en terapia de pareja, psicologia del vinculo o trabajo con adultos sobre habilidades comunicativas en contextos digitales. Puede ser oportuno valorar si el uso de narrativas personales estructuradas forma parte de los recursos disponibles en los formatos de intervencion que se utilizan habitualmente."
+    }
+  ],
+  "fuentes_verificadas": [
+    "https://www.infocop.es/casi-12-millones-de-personas-en-todo-el-mundo-viven-con-problemas-de-salud-mental-segun-advierte-un-estudio/",
+    "https://www.infocop.es/nuevo-numero-de-2026-de-la-revista-papeles-del-psicologo/",
+    "https://www.infocop.es/contar-tu-historia-personal-en-las-apps-de-citas-aumenta-la-empatia-y-el-interes-romantico-segun-un-estudio/",
+    "https://www.infocop.es/primer-numero-de-2026-de-la-revista-de-psicooncologia/"
+  ],
+  "carousel": {
+    "noticia_seleccionada": "Casi 1.170 millones de personas viven con un trastorno mental en el mundo, segun The Lancet",
+    "slide1": {
+      "titular": "1 de cada 7 personas en el mundo tiene un trastorno mental",
+      "subtitulo": "Nuevo analisis global en The Lancet (2026): 1.170 millones de afectados, +95,5% desde 1990"
+    },
+    "slide2": {
+      "puntos": [
+        "Los trastornos de ansiedad crecieron un 158% entre 1990 y 2023",
+        "La depresion mayor aumento un 131% en el mismo periodo",
+        "Los trastornos mentales son hoy la principal causa de discapacidad global"
+      ]
+    },
+    "slide3": {
+      "puntos": [
+        "Por primera vez, los adolescentes de 15 a 19 anos concentran la mayor carga de trastornos mentales",
+        "Las mujeres tienen una carga significativamente superior a la de los hombres",
+        "La carga se mantiene elevada hasta los 39 anos, lo que refuerza la necesidad de intervencion temprana"
+      ]
+    },
+    "slide4": {
+      "puntos": [
+        "171 millones de DALYs atribuibles a trastornos mentales en 2023",
+        "Representan el 6,1% de toda la carga global de enfermedad",
+        "El impacto trasciende la salud: afecta al empleo, la educacion y los sistemas de proteccion social"
+      ]
+    },
+    "slide5": {
+      "mensaje_autoridad": "Responder a las necesidades de salud mental, particularmente de los grupos mas vulnerables, constituye una obligacion ineludible para los sistemas sanitarios y para los responsables de las politicas publicas.",
+      "fuente_apa": "Santomauro et al. (2026). The Lancet, 407(10543), 2040-2064.",
+      "cta": "Siguenos en @IPP.Psicologia para mas actualizaciones del sector"
+    }
+  },
+  "copy_rrss": "1 de cada 7 personas en el mundo convive hoy con un trastorno mental. Los adolescentes de 15 a 19 anos concentran la mayor carga por primera vez. Nuevos datos de The Lancet (2026) que el sector no puede ignorar.",
+  "hashtags": [
+    "#SaludMental",
+    "#Psicologia",
+    "#TheLancet",
+    "#Adolescentes",
+    "#IPPPsicologia"
+  ]
+}
