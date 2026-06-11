@@ -1,0 +1,121 @@
+{
+  "titulo": "Real Decreto 239/2026, prevención del deterioro cognitivo y liderazgo español en evaluación psicológica: claves del 11 de junio de 2026",
+  "nota_editorial": "Las claves prácticas que se recogen a continuación forman parte del análisis editorial del Observatorio de Actualidad del IPP y no constituyen recomendación clínica individualizada.",
+  "resumen": "El Real Decreto 239/2026, de 25 de marzo, publicado en el BOE, introduce la obligación permanente de que los centros y consultas de psicología acrediten la titulación oficial de todo su personal sanitario, con plazo hasta el 1 de enero de 2027 para actualizar los expedientes; la medida afecta también a la atención telemática. En paralelo, la Sociedad Española de Neurología ha publicado en la revista Neurología un documento de consenso que identifica doce factores de riesgo modificables del deterioro cognitivo y la demencia, reforzando el papel preventivo de los profesionales de la salud. Desde el plano internacional, la psicóloga española Paula Elosua Oliden ha sido elegida presidenta electa de la Comisión Internacional de Test, consolidando el liderazgo español en evaluación psicológica. En neurociencia, un artículo publicado en Frontiers in Aging Neuroscience propone reposicionar las intervenciones no farmacológicas como estrategias principales de reserva cognitiva frente al Alzheimer.",
+  "audiencia": "ambos",
+  "nacionales": [
+    {
+      "tipo": "NORMATIVA",
+      "titular": "Real Decreto 239/2026: nuevas obligaciones permanentes de acreditación para consultas y centros de psicología",
+      "cuerpo": "El Real Decreto 239/2026, de 25 de marzo, publicado en el BOE, modifica el Real Decreto 1277/2003 sobre autorización de centros, servicios y establecimientos sanitarios en España. La novedad principal es la incorporación de un nuevo artículo 7 que establece la obligación permanente de garantizar que toda la atención sanitaria sea prestada por profesionales con la titulación oficial y las competencias adecuadas. En psicología, esto implica acreditar, según el caso, el título de Especialista en Psicología Clínica o el Máster Universitario en Psicología General Sanitaria junto con la correspondiente licenciatura o grado. La obligación alcanza a todo el personal con independencia de su modalidad contractual, incluyendo colaboradores externos, autónomos y quienes prestan servicios mediante telepsicología. Los centros deberán disponer de un expediente personal actualizado de cada profesional. El Real Decreto entra en vigor el 1 de julio de 2026 y fija el 1 de enero de 2027 como plazo para que los centros tengan actualizada la información de todo su personal sanitario. Las comunidades autónomas disponen hasta el 1 de julio de 2027 para adaptar su oferta asistencial a las nuevas definiciones normativas.",
+      "fuente": "Infocop — Consejo General de la Psicología de España, a partir del BOE",
+      "url": "https://www.infocop.es/refuerzo-de-las-garantias-de-atencion-sanitaria-y-nuevas-obligaciones-para-consultas-y-centros-de-psicologia-claves-del-nuevo-real-decreto-239-2026/"
+    },
+    {
+      "tipo": "SALUD PÚBLICA",
+      "titular": "Paula Elosua elegida presidenta electa de la Comisión Internacional de Test",
+      "cuerpo": "La psicóloga española Paula Elosua Oliden, catedrática de la Universidad del País Vasco (UPV/EHU), ha sido elegida presidenta electa de la Comisión Internacional de Test (International Test Commission, ITC) tras el proceso electoral cuyas votaciones concluyeron el 30 de mayo de 2026. La ITC es una red internacional integrada por asociaciones profesionales de psicología, comisiones de test y editoriales especializadas, cuya misión es promover estándares de calidad y buenas prácticas en el desarrollo, adaptación y uso de instrumentos de evaluación psicológica y educativa. Elosua cuenta con más de una década de vinculación con la organización: formó parte de su Consejo entre 2010 y 2018, ejerció como Secretaria General entre 2018 y 2022 y recibió la distinción de Fellow de la ITC en 2022. Su elección refuerza la presencia de la psicología española en los órganos de dirección de las principales organizaciones científicas internacionales dedicadas a la evaluación psicológica.",
+      "fuente": "Infocop — Consejo General de la Psicología de España",
+      "url": "https://www.infocop.es/paula-elosua-elegida-presidenta-electa-de-la-comision-internacional-de-test/"
+    },
+    {
+      "tipo": "CLÍNICA",
+      "titular": "La Sociedad Española de Neurología publica un documento de consenso sobre prevención del deterioro cognitivo y la demencia",
+      "cuerpo": "El Grupo de Estudio de Neurogeriatría de la Sociedad Española de Neurología (SEN), junto con expertos en patología cognitiva, ha publicado en la revista Neurología un documento de consenso sobre prevención del deterioro cognitivo y la demencia. El texto identifica doce factores de riesgo modificables que pueden intervenir en diferentes etapas de la vida: bajo nivel educativo en la infancia; hipertensión arterial, obesidad, pérdida de audición, traumatismo craneoencefálico y abuso de alcohol en edades medias; y tabaquismo, depresión, inactividad física, aislamiento social, diabetes y contaminación del aire en edades avanzadas. El documento señala que actuar sobre estos factores puede contribuir a reducir el riesgo de deterioro cognitivo y demencia, y detalla como mecanismos preventivos tanto la reducción del daño neuropatológico vascular como el fortalecimiento de la reserva cognitiva a través del tratamiento de la pérdida auditiva, la atención a la depresión, el contacto social y la estimulación cognitiva. Su objetivo declarado es servir de guía a los profesionales de la salud con interés en estas patologías.",
+      "fuente": "Neurología — revista oficial de la Sociedad Española de Neurología, publicado en Elsevier (abril 2026)",
+      "url": "https://www.elsevier.es/es-revista-neurologia-295-articulo-documento-consenso-sociedad-espanola-neurologia-S021348532500074X"
+    }
+  ],
+  "internacionales": [],
+  "papers": [
+    {
+      "apa": "Yamane, Y., Uchida, T., et al. (2026). Mitigating cognitive decline in Alzheimer's disease dementia by enhancing cognitive reserve through neuroplasticity in addition to amyloid-beta reduction. Frontiers in Aging Neuroscience, 18. https://doi.org/10.3389/fnagi.2026.1769431",
+      "doi": "10.3389/fnagi.2026.1769431",
+      "hallazgo": "Un artículo de opinion publicado en Frontiers in Aging Neuroscience argumenta que las intervenciones no farmacológicas, como la terapia de estimulación cognitiva (CST) y la participación social, deben reposicionarse como estrategias centrales de reserva cognitiva en el Alzheimer, al actuar sobre la neuroplasticidad del cerebro envejecido en lugar de limitarse a reducir la carga patológica de amiloide-beta. Los autores proponen un modelo conceptual que diferencia las vías farmacológica y no farmacológica, y revisan evidencia de neuroimagen y modelos preclínicos para sustentar este planteamiento.",
+      "implicacion": "Los resultados sugieren que puede ser relevante integrar programas de estimulación cognitiva estructurada y participación social como componentes principales del plan de intervención en pacientes con demencia leve a moderada, valorando su contribución a la reserva cognitiva con independencia del tratamiento farmacológico que reciban; la evidencia disponible apoya explorar este enfoque combinado en la práctica neuropsicológica."
+    }
+  ],
+  "herramientas": [
+    {
+      "nombre": "Expediente digital de personal sanitario para centros de psicología",
+      "descripcion": "Para dar cumplimiento al Real Decreto 239/2026 antes del plazo del 1 de enero de 2027, puede ser útil mantener un expediente digital actualizado de cada profesional que incluya copia de la titulación habilitante, la modalidad de vinculación con el centro y el registro de formación en seguridad del paciente. Herramientas de gestión documental ya disponibles en el mercado permiten organizar y centralizar esta información de forma segura, con control de acceso y trazabilidad de actualizaciones."
+    },
+    {
+      "nombre": "Protocolos de evaluación del riesgo de deterioro cognitivo basados en factores modificables",
+      "descripcion": "A partir del documento de consenso de la SEN, puede resultar práctico disponer de un protocolo estructurado de cribado de factores de riesgo modificables —hipertensión, sedentarismo, pérdida auditiva, aislamiento social, depresión— aplicable en consulta neuropsicológica o de psicología clínica con población mayor, como base para orientar recomendaciones preventivas y de estimulación cognitiva."
+    }
+  ],
+  "alertas": [
+    {
+      "estado": "APROBADO",
+      "titulo": "Real Decreto 239/2026: acreditación permanente de titulación en centros sanitarios de psicología",
+      "descripcion": "El Real Decreto 239/2026, de 25 de marzo y publicado en el BOE, modifica el Real Decreto 1277/2003 e introduce la obligación de que los centros y consultas de psicología acrediten de forma permanente la titulación oficial de todo su personal sanitario, incluido el que presta servicios en modalidad telemática o mediante contratos mercantiles. La norma entra en vigor el 1 de julio de 2026. Las consultas y centros disponen hasta el 1 de enero de 2027 para tener actualizados los expedientes de todo su personal sanitario. La gestión de la autorización y supervisión de los centros depende de cada comunidad autónoma, que dispone hasta el 1 de julio de 2027 para adaptar la oferta asistencial registrada a las nuevas definiciones normativas."
+    },
+    {
+      "estado": "APROBADO",
+      "titulo": "Paula Elosua, presidenta electa de la ITC: nuevo hito para la evaluación psicológica española",
+      "descripcion": "Tras el proceso electoral cuyas votaciones concluyeron el 30 de mayo de 2026, la psicóloga española Paula Elosua Oliden ha sido elegida presidenta electa de la Comisión Internacional de Test (ITC). Su incorporación a la presidencia en el futuro puede contribuir a reforzar la influencia de la psicología europea en los estándares internacionales de evaluación psicológica y psicométrica."
+    }
+  ],
+  "prioridades": [
+    {
+      "titulo": "Revisar el expediente de personal antes del plazo del Real Decreto 239/2026",
+      "descripcion": "Puede ser oportuno realizar antes del 1 de enero de 2027 una auditoría interna de todos los profesionales que prestan servicios en la consulta o centro —incluidos colaboradores, autónomos y quienes atienden por telepsicología— verificando que cada uno dispone de la titulación habilitante correspondiente (Especialista en Psicología Clínica o Máster en Psicología General Sanitaria) y que su documentación está archivada y actualizada, para evitar posibles incumplimientos de la nueva normativa."
+    },
+    {
+      "titulo": "Incorporar el cribado de factores modificables de deterioro cognitivo en la práctica con mayores",
+      "descripcion": "A la luz del documento de consenso de la SEN, puede ser relevante incorporar en la valoración neuropsicológica de personas mayores una exploración sistemática de los doce factores de riesgo modificables identificados —con especial atención a pérdida auditiva, depresión, aislamiento social e inactividad física—, como punto de partida para orientar intervenciones preventivas y de estimulación cognitiva adaptadas a cada caso."
+    },
+    {
+      "titulo": "Valorar la estimulación cognitiva grupal como componente del plan de intervención en demencia",
+      "descripcion": "Los datos revisados en el artículo de Frontiers in Aging Neuroscience sobre reserva cognitiva y neuroplasticidad sugieren que puede ser útil explorar la integración de programas de estimulación cognitiva grupal —como la terapia de estimulación cognitiva (CST)— como parte central del plan de intervención en personas con Alzheimer leve o moderado, valorando su contribución a la conectividad funcional cerebral y no únicamente como apoyo sintomático complementario al tratamiento farmacológico."
+    }
+  ],
+  "fuentes_verificadas": [
+    "https://www.infocop.es/refuerzo-de-las-garantias-de-atencion-sanitaria-y-nuevas-obligaciones-para-consultas-y-centros-de-psicologia-claves-del-nuevo-real-decreto-239-2026/",
+    "https://www.infocop.es/paula-elosua-elegida-presidenta-electa-de-la-comision-internacional-de-test/",
+    "https://www.elsevier.es/es-revista-neurologia-295-articulo-documento-consenso-sociedad-espanola-neurologia-S021348532500074X",
+    "https://www.frontiersin.org/journals/aging-neuroscience/articles/10.3389/fnagi.2026.1769431/full"
+  ],
+  "carousel": {
+    "noticia_seleccionada": "Real Decreto 239/2026: nuevas obligaciones permanentes de acreditación para consultas y centros de psicología",
+    "slide1": {
+      "titular": "Nueva normativa: acreditacion obligatoria en centros de psicologia",
+      "subtitulo": "El Real Decreto 239/2026 exige que los centros sanitarios acrediten permanentemente la titulacion de su personal, incluida la atencion telematica"
+    },
+    "slide2": {
+      "puntos": [
+        "El Real Decreto 239/2026 introduce la obligacion permanente de acreditar titulacion oficial en consultas y centros de psicologia",
+        "Afecta a todo el personal: contratados estables, autonomos, colaboradores externos y profesionales de telepsicologia",
+        "La titulacion exigida es el titulo de Especialista en Psicologia Clinica o el Master Universitario en Psicologia General Sanitaria con la licenciatura o grado correspondiente"
+      ]
+    },
+    "slide3": {
+      "puntos": [
+        "Los centros deberan disponer de un expediente actualizado de cada profesional sanitario",
+        "Plazo para actualizar expedientes: 1 de enero de 2027",
+        "Las comunidades autonomas tienen hasta el 1 de julio de 2027 para adaptar la oferta asistencial registrada"
+      ]
+    },
+    "slide4": {
+      "puntos": [
+        "Se recomienda realizar una auditoria interna del personal antes del plazo",
+        "Verificar titulacion habilitante de todos los profesionales, incluyendo los que atienden por telesicologia o contratos mercantiles",
+        "Establecer o actualizar el protocolo de acogida para nuevas incorporaciones con documentacion de seguridad del paciente"
+      ]
+    },
+    "slide5": {
+      "mensaje_autoridad": "La obligacion de acreditar la titulacion del personal pasa a ser permanente y alcanza a todas las modalidades de prestacion del servicio, incluida la atencion telematica. Actuar antes del plazo del 1 de enero de 2027 puede evitar incumplimientos normativos.",
+      "fuente_apa": "BOE. Real Decreto 239/2026, de 25 de marzo. Infocop, 11 de junio de 2026.",
+      "cta": "Siguenos en @IPP.Psicologia"
+    }
+  },
+  "copy_rrss": "El Real Decreto 239/2026 obliga a los centros y consultas de psicologia a acreditar permanentemente la titulacion de todo su personal, incluidos colaboradores y telepsicologos. Plazo: 1 de enero de 2027. Te explicamos que debes hacer.",
+  "hashtags": [
+    "#PsicologiaClinica",
+    "#RealDecreto2026",
+    "#NormativaSanitaria",
+    "#PsicologiaGeneral",
+    "#DeterioroCognitivo"
+  ]
+}
