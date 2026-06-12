@@ -1,0 +1,114 @@
+{
+  "titulo": "Brecha salarial, riesgos psicológicos en el sector investigador y revistas de psicología en el mapa científico internacional: claves del 12 de junio de 2026",
+  "nota_editorial": "Las claves prácticas que se recogen a continuación forman parte del análisis editorial del Observatorio de Actualidad del IPP y no constituyen recomendación clínica individualizada.",
+  "resumen": "El Instituto Nacional de Estadística ha publicado los datos de la Encuesta Anual de Estructura Salarial 2024, que confirman una brecha salarial de género del 16,1% en España: las mujeres percibieron de media 26.904,90 euros frente a los 32.057,55 euros de los hombres, con una diferencia de más de 9.000 euros anuales en el sector sanitario y de servicios sociales. La Agencia Europea para la Seguridad y la Salud en el Trabajo visibiliza en un análisis publicado en OSHwiki los riesgos psicosociales estructurales que afectan al personal investigador, entre ellos la sobrecarga laboral, la precariedad y el aislamiento. Las revistas científicas del Grupo Editorial Psicofundación consolidan su posicionamiento internacional en los índices Scopus CiteScore y SCImago. Y el Consejo Interterritorial del SNS aprobó en mayo el reparto de 56,83 millones de euros para salud mental y prevención del suicidio en 2026.",
+  "audiencia": "ambos",
+  "nacionales": [
+    {
+      "tipo": "SALUD PÚBLICA",
+      "titular": "La brecha salarial persiste en España: las mujeres ganan de media un 16,1% menos, según el INE",
+      "cuerpo": "Los datos de la Encuesta Anual de Estructura Salarial 2024, publicados por el Instituto Nacional de Estadística, revelan que las mujeres percibieron una ganancia media anual de 26.904,90 euros frente a los 32.057,55 euros de los hombres. La diferencia es del 16,1%, equivalente a más de 5.100 euros anuales. El salario medio anual por trabajador se situó en 29.540,26 euros, un 5,3% más que en 2023, pero el crecimiento fue ligeramente mayor para los hombres (5,5%) que para las mujeres (5,1%). La brecha se reproduce en todas las actividades económicas, ocupaciones y comunidades autónomas donde la representación femenina fue estadísticamente significativa. En las actividades sanitarias y de servicios sociales, las mujeres obtuvieron 30.197,10 euros de media frente a los 39.246 euros registrados por los hombres. El INE señala que estas diferencias deben interpretarse considerando variables como el tipo de contrato, la jornada o la ocupación, pero los datos evidencian una desigualdad retributiva generalizada con impacto directo en los determinantes sociales de la salud mental.",
+      "fuente": "Infocop, con datos de la Encuesta Anual de Estructura Salarial 2024 del Instituto Nacional de Estadística (INE)",
+      "url": "https://www.infocop.es/la-brecha-salarial-entre-hombres-y-mujeres-persiste-en-espana-ellas-ganan-de-media-un-161-menos-segun-el-ine/"
+    },
+    {
+      "tipo": "INVESTIGACIÓN",
+      "titular": "Los riesgos psicológicos del personal investigador: una realidad estructural invisibilizada",
+      "cuerpo": "Un análisis publicado en OSHwiki, la enciclopedia científica revisada de la Agencia Europea para la Seguridad y la Salud en el Trabajo (EU-OSHA), describe los riesgos psicosociales que afectan de manera estructural al personal investigador en entornos académicos e institutos de investigación. La sobrecarga de trabajo, la inseguridad laboral derivada de contratos temporales y la dependencia de financiación externa configuran entornos donde el deterioro del bienestar psicológico deja de ser una posibilidad para convertirse en una realidad cotidiana. Una proporción relevante de investigadores supera las 40 horas semanales, y el análisis señala que el aislamiento y la falta de apoyo organizacional agravan especialmente la situación de mujeres investigadoras, doctores internacionales y personal en etapas iniciales de carrera. El documento concluye que la intervención debe ser organizacional más que individual, y que la carga de trabajo es el principal factor que afecta a la salud mental de los académicos.",
+      "fuente": "Infocop, citando a Van den Broek, K. (2026), publicado en OSHwiki de la Agencia Europea para la Seguridad y la Salud en el Trabajo (EU-OSHA)",
+      "url": "https://www.infocop.es/riesgos-psicologicos-y-sociales-que-afectan-al-personal-investigador-una-realidad-invisibilizada/"
+    },
+    {
+      "tipo": "INVESTIGACIÓN",
+      "titular": "Las revistas científicas del Grupo Editorial Psicofundación consolidan su posicionamiento internacional",
+      "cuerpo": "Los índices Scopus CiteScore y SCImago Journal Rank (SJR) correspondientes a 2025 reflejan una evolución positiva para las publicaciones del Grupo Editorial Psicofundación (GEP). Psicothema alcanza un CiteScore de 7,3 y se mantiene en el primer cuartil (Q1) con percentil 87, a tres puntos de entrar en el primer decil de su categoría a nivel internacional. La Revista Iberoamericana de Psicología y Salud (RIPS) registra uno de los mayores avances, pasando de 3,3 a 4,8 puntos en CiteScore y situándose en el segundo cuartil (Q2). Papeles del Psicólogo mantiene 2,2 puntos (Q3) y la Revista de Psicoterapia se incorpora por primera vez a estos índices con 1,2 (Q4). Además, Apuntes de Psicología ha obtenido el reconocimiento Diamond Open Access Standard (DOAS) y el sello de calidad FECYT, confirmando la consolidación de la producción científica española en psicología en el panorama internacional.",
+      "fuente": "Infocop",
+      "url": "https://www.infocop.es/las-revistas-del-grupo-editorial-psicofundacion-avanzan-y-consolidan-su-posicionamiento-internacional/"
+    }
+  ],
+  "internacionales": [
+    {
+      "tipo": "INVESTIGACIÓN",
+      "titular": "La EU-OSHA documenta los riesgos psicosociales del trabajo investigador en Europa",
+      "cuerpo": "La Agencia Europea para la Seguridad y la Salud en el Trabajo ha publicado en OSHwiki un documento de síntesis sobre los riesgos psicosociales que afectan al personal investigador en el ámbito académico y los institutos de investigación a nivel europeo. El análisis concluye que la elevada carga de trabajo, la competitividad del entorno, la inseguridad laboral y el aislamiento son factores estructurales del sistema científico que comprometen el bienestar psicológico de quienes lo sostienen. El documento señala que una proporción relevante de quienes abandonan la carrera investigadora lo hacen debido a la dificultad para encontrar empleo estable y a la incertidumbre sobre su futuro profesional, lo que plantea interrogantes sobre la sostenibilidad del sistema científico europeo.",
+      "fuente": "OSHwiki / Agencia Europea para la Seguridad y la Salud en el Trabajo (EU-OSHA)",
+      "url": "https://oshwiki.osha.europa.eu/en/themes/researchers-and-psychosocial-risks"
+    }
+  ],
+  "papers": [],
+  "herramientas": [
+    {
+      "nombre": "Criterios del CISNS para la financiación de proyectos de salud mental comunitaria 2026",
+      "descripcion": "El Consejo Interterritorial del SNS ha aprobado los criterios de elegibilidad para proyectos que aspiren a financiación pública en salud mental y prevención del suicidio en 2026. Los proyectos deben incorporar orientación comunitaria, garantía de derechos humanos y equidad como criterios obligatorios. Se priorizan intervenciones con equipos móviles de atención comunitaria, hospitalización domiciliaria y programas en entornos vulnerables. Los centros de psicología y equipos multidisciplinares que ofrezcan servicios de salud mental comunitaria pueden consultar estos criterios para orientar posibles propuestas de colaboración con el sistema público."
+    }
+  ],
+  "alertas": [
+    {
+      "estado": "EN DESARROLLO",
+      "titulo": "El CISNS aprueba el reparto de 56,83 millones de euros para salud mental y prevención del suicidio en 2026",
+      "descripcion": "Según informa La Moncloa, el Consejo Interterritorial del Sistema Nacional de Salud aprobó el 22 de mayo de 2026 los criterios de reparto de los fondos destinados al desarrollo de actuaciones en salud mental y prevención del suicidio en el ejercicio 2026. De los fondos aprobados, 39 millones de euros se destinarán a actuaciones del Plan de Acción de Salud Mental y 17,83 millones de euros al Plan de Acción para la Prevención del Suicidio. La ejecución de los proyectos dependerá de cada comunidad autónoma, que deberá presentar memorias técnicas y económicas. No se financiarán proyectos centrados exclusivamente en aumento de camas o reformas estructurales de hospitales de media y larga estancia."
+    }
+  ],
+  "prioridades": [
+    {
+      "titulo": "La brecha salarial como determinante social visible en consulta",
+      "descripcion": "Los datos del INE pueden ser relevantes para contextualizar el impacto que las desigualdades retributivas tienen en el bienestar psicológico de las pacientes, especialmente en mujeres en actividades sanitarias y de servicios sociales donde la diferencia media supera los 9.000 euros anuales. Puede ser útil explorar en la evaluación clínica si las condiciones laborales y económicas están operando como estresores crónicos subyacentes a la sintomatología consultada."
+    },
+    {
+      "titulo": "Riesgos psicosociales en entornos académicos y de investigación",
+      "descripcion": "El análisis de la EU-OSHA puede ser relevante para profesionales que trabajen con pacientes en el ámbito universitario o investigador, un colectivo especialmente expuesto a sobrecarga, precariedad e inestabilidad. Puede ser oportuno revisar si los instrumentos de evaluación empleados incluyen indicadores de riesgos psicosociales laborales específicos de este perfil, más allá de los síntomas clínicos habituales."
+    },
+    {
+      "titulo": "Actualización desde revistas científicas españolas de referencia internacional",
+      "descripcion": "El avance de Psicothema (CiteScore 7,3, Q1) y RIPS (CiteScore 4,8, Q2) en los índices internacionales puede ser útil para orientar la búsqueda de evidencia actualizada en práctica clínica, dado que consolidan su peso como referencias científicas de primer nivel en el contexto hispanohablante e internacional. Puede ser relevante incorporarlas como fuentes habituales de actualización en los campos de psicología clínica y de la salud."
+    }
+  ],
+  "fuentes_verificadas": [
+    "https://www.infocop.es/la-brecha-salarial-entre-hombres-y-mujeres-persiste-en-espana-ellas-ganan-de-media-un-161-menos-segun-el-ine/",
+    "https://www.infocop.es/riesgos-psicologicos-y-sociales-que-afectan-al-personal-investigador-una-realidad-invisibilizada/",
+    "https://www.infocop.es/las-revistas-del-grupo-editorial-psicofundacion-avanzan-y-consolidan-su-posicionamiento-internacional/",
+    "https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/sanidad14/Paginas/2026/220526-reparto-fondos-salud-mental-.aspx",
+    "https://oshwiki.osha.europa.eu/en/themes/researchers-and-psychosocial-risks"
+  ],
+  "carousel": {
+    "noticia_seleccionada": "La brecha salarial entre hombres y mujeres persiste en España: las mujeres ganan de media un 16,1% menos, según el INE",
+    "slide1": {
+      "titular": "Brecha salarial y salud mental: los datos que importan",
+      "subtitulo": "Las mujeres ganan 5.152 euros menos al año. Un determinante social con impacto clínico documentado."
+    },
+    "slide2": {
+      "puntos": [
+        "Las mujeres percibieron de media 26.904,90 euros frente a 32.057,55 euros de los hombres en 2024.",
+        "La diferencia supera los 9.000 euros anuales en el sector sanitario y de servicios sociales.",
+        "La brecha persiste en todas las ocupaciones, actividades y comunidades autónomas."
+      ]
+    },
+    "slide3": {
+      "puntos": [
+        "La desigualdad retributiva actúa como estresor crónico con impacto directo en el bienestar psicológico.",
+        "Las profesionales de la salud son uno de los colectivos con mayor diferencia salarial por sexo.",
+        "Integrar los determinantes sociales en la evaluación clínica mejora la comprensión del caso."
+      ]
+    },
+    "slide4": {
+      "puntos": [
+        "El salario medio anual en España fue 29.540,26 euros en 2024, un 5,3% superior al de 2023.",
+        "El salario más frecuente fue 16.520,18 euros, muy por debajo de la media nacional.",
+        "Casi 3 de cada 10 asalariados percibieron entre 16.000 y 23.000 euros anuales."
+      ]
+    },
+    "slide5": {
+      "mensaje_autoridad": "Las desigualdades económicas no son solo un problema social: son determinantes de salud mental que vemos cada dia en consulta.",
+      "fuente_apa": "Instituto Nacional de Estadística. (2026). Encuesta Anual de Estructura Salarial 2024. INE. https://ine.es/dyngs/Prensa/EAES2024.htm",
+      "cta": "Seguimos el pulso de la actualidad en psicologia. Siguenos en @IPP.Psicologia"
+    }
+  },
+  "copy_rrss": "Las mujeres en España ganan de media 5.152 euros menos que los hombres al ano, segun el INE. En el sector sanitario la diferencia supera los 9.000 euros. La desigualdad economica es uno de los determinantes sociales con mayor impacto en la salud mental. Lo analizamos hoy en el Observatorio IPP.",
+  "hashtags": [
+    "#SaludMental",
+    "#BrechaSalarial",
+    "#PsicologiaClinica",
+    "#DeterminantesSociales",
+    "#IPPObservatorio"
+  ]
+}
