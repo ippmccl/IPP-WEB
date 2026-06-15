@@ -1,0 +1,120 @@
+{
+  "titulo": "Maltrato en la vejez, regulación de la IA y jubilación flexible para autónomos: claves del 15 de junio de 2026",
+  "nota_editorial": "Las claves prácticas que se recogen a continuación forman parte del análisis editorial del Observatorio de Actualidad del IPP y no constituyen recomendación clínica individualizada.",
+  "resumen": "El 15 de junio se conmemora el Día Mundial de Toma de Conciencia del Abuso y Maltrato en la Vejez, con el lema 2026 elegido por Naciones Unidas centrado en pasar de la sensibilización a la prevención efectiva. En el plano normativo, el BOE ha publicado el Real Decreto 416/2026 que amplía la jubilación flexible a personas trabajadoras por cuenta propia, una medida de impacto directo para los psicólogos autónomos que entrará en vigor en agosto. Además, el Gobierno ha remitido al Congreso el Proyecto de Ley Orgánica para regular el buen uso y la gobernanza de la inteligencia artificial, que incluye la prohibición expresa de sistemas de manipulación psicológica y deepfakes sexuales. La confluencia de estos tres temas ilustra la creciente intersección entre psicología, derecho y tecnología que define la agenda profesional de este año.",
+  "audiencia": "ambos",
+  "nacionales": [
+    {
+      "tipo": "SALUD PÚBLICA",
+      "titular": "Día mundial del maltrato en la vejez: Naciones Unidas pone el foco en la prevención efectiva",
+      "cuerpo": "Con motivo del Día Mundial de Toma de Conciencia del Abuso y Maltrato en la Vejez, que se celebra cada 15 de junio, Naciones Unidas ha elegido para 2026 el lema 'Beyond Awareness: Making Elder Abuse Prevention Work' ('Más allá de la sensibilización: hacer que la prevención del maltrato a las personas mayores funcione'). Las estimaciones disponibles indican que aproximadamente una de cada diez personas mayores experimenta alguna forma de abuso, que incluye maltrato físico, psicológico, financiero y sexual, así como negligencia. Entre 2019 y 2030, el número de personas de 60 años o más aumentará un 38% a nivel mundial, pasando de 1.000 millones a 1.400 millones. La esperanza de vida mundial se sitúa actualmente en 73,5 años. La ONU subraya la necesidad de que los sistemas de atención primaria y los servicios sociales cuenten con recursos y formación para reconocer estas situaciones y actuar de manera adecuada, y destaca el papel que pueden desempeñar profesionales sanitarios, empleados bancarios, vecinos y otros miembros de la comunidad en la identificación temprana de casos.",
+      "fuente": "Infocop / Naciones Unidas",
+      "url": "https://www.infocop.es/dia-mundial-de-toma-de-conciencia-del-abuso-y-maltrato-en-la-vejez-mas-alla-de-la-sensibilizacion/"
+    },
+    {
+      "tipo": "NORMATIVA",
+      "titular": "El BOE publica el Real Decreto 416/2026 que amplía la jubilación flexible a personas autónomas",
+      "cuerpo": "El Boletín Oficial del Estado ha publicado el Real Decreto 416/2026, de 27 de mayo, que regula el nuevo régimen jurídico de la jubilación flexible. La principal novedad es la ampliación de esta modalidad a personas pensionistas que desarrollen una actividad por cuenta propia, algo que hasta ahora no estaba contemplado. A partir de su entrada en vigor, los psicólogos autónomos que hayan causado su pensión podrán compatibilizar la actividad profesional con el cobro del 25% de la pensión, siempre que no hubieran estado dados de alta como autónomos en los tres años anteriores a la fecha de la pensión. En el caso de las personas asalariadas, la horquilla de jornada permitida pasa del 25-75% al 33-80%. La norma introduce además incentivos económicos: cuando la jornada parcial sea igual o superior al 55%, el importe de la pensión compatible se incrementará en un 25% adicional para quienes accedan por primera vez transcurridos al menos seis meses desde la jubilación. El real decreto entra en vigor el 28 de agosto de 2026.",
+      "fuente": "Infocop / BOE (Real Decreto 416/2026)",
+      "url": "https://www.infocop.es/el-boe-publica-la-nueva-regulacion-de-la-jubilacion-flexible-que-incorpora-la-actividad-por-cuenta-propia-a-esta-modalidad/"
+    },
+    {
+      "tipo": "NORMATIVA",
+      "titular": "El Gobierno aprueba el proyecto de ley orgánica para regular la IA, con prohibición expresa de manipulación psicológica",
+      "cuerpo": "El Consejo de Ministros, a propuesta del Ministerio para la Transformación Digital y de la Función Pública, ha aprobado el Proyecto de Ley Orgánica para el buen uso y la gobernanza de la inteligencia artificial. El texto adapta al ordenamiento jurídico español el Reglamento Europeo de Inteligencia Artificial, en vigor desde agosto de 2024, y ya ha sido remitido al Congreso de los Diputados para su tramitación parlamentaria. Entre los aspectos de mayor relevancia para la psicología figura la prohibición expresa de sistemas que empleen técnicas subliminales o manipuladoras para influir en el comportamiento sin consentimiento, así como los que exploten vulnerabilidades vinculadas a la edad, la discapacidad o la situación socioeconómica. También se prohíben los sistemas de IA destinados a generar o difundir deepfakes sexuales, una medida que el Gobierno español impulsó en el marco europeo y que la UE acordó incorporar el 7 de mayo de 2026. El régimen sancionador prevé multas de hasta 35 millones de euros o el 7% del volumen de negocio en los casos más graves. La Agencia Española de Supervisión de Inteligencia Artificial (AESIA) asumirá la supervisión central.",
+      "fuente": "Infocop / Ministerio para la Transformación Digital y de la Función Pública",
+      "url": "https://www.infocop.es/supervision-humana-proteccion-de-derechos-y-nuevas-garantias-frente-a-los-riesgos-de-la-ia-el-gobierno-impulsa-una-ley-organica-para-regular-su-uso-y-gobernanza/"
+    }
+  ],
+  "internacionales": [],
+  "papers": [
+    {
+      "apa": "Yan, E., He, J., Lai, D. W. L., Burnes, D., Pillemer, K., & Lachs, M. (2025). Motivational interviewing vs case management for elder abuse intervention: A comparison study. Innovation in Aging, 9(Supplement_2), igaf122.226.",
+      "doi": "10.1093/geroni/igaf122.226",
+      "hallazgo": "Un estudio comparativo con 129 personas mayores que habían dado positivo en cribado de maltrato analizó la eficacia de un programa de entrevista motivacional (EM, 4 sesiones) frente a un programa de gestión de casos (GC, 8 sesiones). Ambas intervenciones mostraron mejoras significativas en severidad del abuso, malestar psicológico y apoyo social. La EM presentó además una mejora significativa en autoeficacia general que no se observó en el grupo de GC. A los tres meses de seguimiento, la severidad del abuso y el malestar psicológico continuaron disminuyendo en el grupo de EM.",
+      "implicacion": "Los resultados sugieren que la entrevista motivacional puede ser una intervención coste-efectiva y de menor carga para reducir la gravedad del maltrato en personas mayores, lo que puede orientar el diseño de protocolos de intervención en entornos comunitarios y de atención primaria donde el tiempo de consulta es limitado."
+    }
+  ],
+  "herramientas": [
+    {
+      "nombre": "Instrumentos de detección del maltrato en personas mayores en atención primaria y comunitaria",
+      "descripcion": "Existen escalas y protocolos de cribado validados para la detección de situaciones de abuso y maltrato en personas mayores que pueden aplicarse en el contexto de la consulta psicológica, la visita domiciliaria o la coordinación con servicios sociales. Su uso sistemático puede contribuir a la identificación temprana de casos en una población con alta tasa de infradenuncia, especialmente cuando el maltrato es de naturaleza psicológica o financiera."
+    }
+  ],
+  "alertas": [
+    {
+      "estado": "APROBADO",
+      "titulo": "Real Decreto 416/2026: jubilación flexible para trabajadores autónomos (en vigor 28 de agosto de 2026)",
+      "descripcion": "El Real Decreto 416/2026, de 27 de mayo, publicado en el BOE, amplía la jubilación flexible a las personas pensionistas que desarrollen actividades por cuenta propia, quienes podrán compatibilizar la pensión de jubilación con el cobro del 25% de su cuantía. La norma también introduce incentivos económicos adicionales para quienes accedan a la jubilación flexible al menos seis meses después de causar la pensión, con incrementos de entre el 15% y el 25% según la jornada parcial acordada. Entra en vigor el 28 de agosto de 2026 y deroga el Real Decreto 1132/2002."
+    },
+    {
+      "estado": "EN TRAMITACIÓN",
+      "titulo": "Proyecto de Ley Orgánica para el buen uso y la gobernanza de la inteligencia artificial",
+      "descripcion": "El Consejo de Ministros ha aprobado y remitido al Congreso de los Diputados el Proyecto de Ley Orgánica para regular la IA en España, adaptando al derecho nacional el Reglamento Europeo de Inteligencia Artificial. El texto prohíbe sistemas de IA que utilicen técnicas de manipulación psicológica, que exploten vulnerabilidades de personas mayores o con discapacidad, y sistemas de generación de deepfakes sexuales. El régimen sancionador prevé multas de hasta 35 millones de euros o el 7% del volumen de negocio en los casos más graves. La norma está pendiente de tramitación parlamentaria y puede ser objeto de enmiendas antes de su aprobación definitiva."
+    }
+  ],
+  "prioridades": [
+    {
+      "titulo": "Incorporar la detección del maltrato en personas mayores a la práctica clínica habitual",
+      "descripcion": "Con motivo del Día Mundial del Maltrato en la Vejez y de los datos recogidos por Naciones Unidas sobre la alta tasa de infradenuncia, puede ser útil revisar si los protocolos de evaluación con personas mayores contemplan preguntas específicas sobre posibles situaciones de abuso físico, psicológico, financiero o negligencia. La coordinación con servicios sociales y el conocimiento de los canales de derivación puede resultar relevante para actuar con la celeridad que estos casos suelen requerir."
+    },
+    {
+      "titulo": "Valorar el impacto del Real Decreto 416/2026 en la planificación profesional como autónomo",
+      "descripcion": "Para los psicólogos que trabajan como autónomos, puede ser oportuno revisar las condiciones de acceso a la nueva jubilación flexible antes de su entrada en vigor en agosto de 2026, especialmente el requisito de no haber estado de alta como autónomo en los tres años anteriores a la pensión y las posibilidades de compatibilidad parcial de ingresos con el cobro de hasta el 25% de la pensión."
+    },
+    {
+      "titulo": "Prepararse para el nuevo marco regulatorio de la IA en psicología",
+      "descripcion": "La Ley Orgánica de gobernanza de la IA en tramitación puede ser relevante para revisar el uso de herramientas digitales en la práctica clínica que impliquen procesamiento de datos de pacientes, chatbots de apoyo o sistemas de apoyo a la decisión clínica. Puede ser útil explorar si las herramientas empleadas cumplen los principios de transparencia, supervisión humana y protección de datos que establece el marco europeo, independientemente de la aprobación definitiva de la ley española."
+    }
+  ],
+  "fuentes_verificadas": [
+    "https://www.infocop.es/dia-mundial-de-toma-de-conciencia-del-abuso-y-maltrato-en-la-vejez-mas-alla-de-la-sensibilizacion/",
+    "https://www.infocop.es/el-boe-publica-la-nueva-regulacion-de-la-jubilacion-flexible-que-incorpora-la-actividad-por-cuenta-propia-a-esta-modalidad/",
+    "https://www.infocop.es/supervision-humana-proteccion-de-derechos-y-nuevas-garantias-frente-a-los-riesgos-de-la-ia-el-gobierno-impulsa-una-ley-organica-para-regular-su-uso-y-gobernanza/",
+    "https://academic.oup.com/innovateage/article/9/Supplement_2/igaf122.226/8411197"
+  ],
+  "carousel": {
+    "noticia_seleccionada": "Día mundial del maltrato en la vejez: Naciones Unidas pone el foco en la prevención efectiva",
+    "slide1": {
+      "titular": "Maltrato en la vejez: es hora de pasar a la prevención",
+      "subtitulo": "Día Mundial 2026: de la sensibilización a la acción real"
+    },
+    "slide2": {
+      "puntos": [
+        "1 de cada 10 personas mayores experimenta alguna forma de abuso",
+        "El maltrato incluye formas físicas, psicológicas, financieras y negligencia",
+        "La tasa de infradenuncia sigue siendo muy alta en todo el mundo",
+        "La explotación financiera es la forma de abuso que crece más rápido"
+      ]
+    },
+    "slide3": {
+      "puntos": [
+        "Entre 2019 y 2030, las personas de 60 años o más aumentarán un 38% en el mundo",
+        "La esperanza de vida mundial es de 73,5 años y se prevé que llegue a 77 en 2050",
+        "Solo el 49,2% de las mujeres mayores de la edad de jubilación reciben pensión contributiva",
+        "El envejecimiento de la población exige reforzar los sistemas de protección y detección"
+      ]
+    },
+    "slide4": {
+      "puntos": [
+        "Los profesionales de la salud son actores clave en la detección temprana",
+        "Los empleados bancarios, vecinos y servicios postales también pueden identificar casos",
+        "La coordinación entre atención primaria y servicios sociales es fundamental",
+        "ONU 2026: 'Hacer que la prevención del maltrato a personas mayores funcione'"
+      ]
+    },
+    "slide5": {
+      "mensaje_autoridad": "Los profesionales de la psicologia tienen un papel esencial en la deteccion temprana del maltrato en personas mayores. Reconocer las señales, conocer los recursos y actuar con celeridad puede marcar la diferencia.",
+      "fuente_apa": "Naciones Unidas (2026). World Elder Abuse Awareness Day. https://www.un.org/en/observances/elder-abuse-awareness-day",
+      "cta": "Mas informacion y recursos en @IPP.Psicologia"
+    }
+  },
+  "copy_rrss": "Hoy, Dia Mundial del Maltrato en la Vejez, Naciones Unidas pide pasar de la sensibilizacion a la prevencion real. 1 de cada 10 personas mayores lo experimenta, y la gran mayoria no lo denuncia. La psicologia tiene mucho que aportar aqui.",
+  "hashtags": [
+    "#MaltratoEnLaVejez",
+    "#PersonasMayores",
+    "#SaludMentalMayor",
+    "#JubilaciónFlexible",
+    "#IAyPsicología"
+  ]
+}
