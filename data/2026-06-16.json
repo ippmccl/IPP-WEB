@@ -1,0 +1,118 @@
+{
+  "titulo": "Atención temprana, vínculos digitales y acceso a la psicología: claves del 16 de junio de 2026",
+  "nota_editorial": "Las claves prácticas que se recogen a continuación forman parte del análisis editorial del Observatorio de Actualidad del IPP y no constituyen recomendación clínica individualizada.",
+  "resumen": "El 16 de junio se celebra el Día Nacional de la Atención Temprana, coincidiendo con el 25.º aniversario de la Federación Española de Asociaciones de Profesionales de Atención Temprana (GAT). La efeméride llega en un contexto de avances normativos —con el primer acuerdo estatal de Atención Temprana aprobado en 2025— y desafíos pendientes en materia de equidad territorial. En el ámbito digital, un artículo en la revista Monitor on Psychology de la APA analiza el fenómeno emergente de los compañeros de inteligencia artificial y los vínculos emocionales que generan, un área que abre nuevas preguntas para la psicología clínica y la investigación. Por último, los datos del Ministerio de Ciencia, Innovación y Universidades muestran que la nota de corte media en el grado de Psicología alcanza el 10,16 sobre 14, reflejo de una demanda universitaria en alza que contrasta con una oferta de plazas públicas prácticamente estancada.",
+  "audiencia": "ambos",
+  "nacionales": [
+    {
+      "tipo": "SALUD PÚBLICA",
+      "titular": "El rol clave del profesional de la psicología en los equipos de atención temprana: día nacional y 25 aniversario del GAT",
+      "cuerpo": "El 16 de junio se celebra el Día Nacional de la Atención Temprana bajo el lema 'Juntos somos Atención Temprana', fecha que conmemora la presentación del Libro Blanco de la Atención Temprana (2000) y el 25.º aniversario de la Federación Española de Asociaciones de Profesionales de Atención Temprana (GAT). Los profesionales y entidades del sector recuerdan que, pese a los avances registrados —entre ellos el primer acuerdo estatal de Atención Temprana aprobado en 2025, con una financiación inicial cercana a los 42 millones de euros y el objetivo declarado de reducir los tiempos de espera a un máximo de 45 días desde la detección de riesgo evolutivo—, persisten desigualdades territoriales relevantes en cobertura, criterios de acceso y disponibilidad de profesionales especializados. El artículo de Infocop destaca el papel del psicólogo o psicóloga en la evaluación del desarrollo infantil, la detección precoz, el acompañamiento familiar y la coordinación interdisciplinar en los equipos de Atención Temprana, subrayando que la intervención psicológica temprana puede favorecer trayectorias evolutivas más positivas y prevenir dificultades posteriores de salud mental.",
+      "fuente": "Infocop — Consejo General de la Psicología de España",
+      "url": "https://www.infocop.es/dia-nacional-de-la-atencion-temprana-2026-juntos-por-el-desarrollo-infantil-las-familias-y-la-prevencion/"
+    },
+    {
+      "tipo": "INVESTIGACIÓN",
+      "titular": "Compañeros digitales y vínculos emocionales: lo que la psicología sabe sobre las relaciones con la IA",
+      "cuerpo": "Un artículo publicado en la revista Monitor on Psychology de la Asociación Americana de Psicología (APA), titulado 'AI chatbots and digital companions are reshaping emotional connection' (Grohol, 2026, ene-feb), analiza el crecimiento acelerado de aplicaciones de compañía basadas en inteligencia artificial y el establecimiento de vínculos emocionales significativos con estos sistemas. Según recoge el artículo, entre 2022 y mediados de 2025 el número de este tipo de aplicaciones aumentó de forma notable. Los especialistas consultados señalan que muchas personas recurren a estos sistemas para satisfacer necesidades legítimas de apoyo emocional y reducción del aislamiento, y que algunos usuarios describen estas relaciones con los mismos términos que emplearían para referirse a relaciones humanas significativas. Sin embargo, los investigadores advierten de que la evidencia científica sobre los efectos a largo plazo es aún escasa, y apuntan riesgos de dependencia emocional y posibles efectos sobre las habilidades sociales y la regulación emocional. El artículo identifica un nuevo campo de estudio para la psicología que abarca el apego hacia sistemas artificiales, los procesos de antropomorfización y los cambios en las dinámicas relacionales contemporáneas.",
+      "fuente": "Infocop, a partir de artículo difundido en APA Monitor on Psychology (Grohol, 2026)",
+      "url": "https://www.infocop.es/companeros-digitales-y-vinculos-emocionales-lo-que-sabemos-sobre-las-relaciones-con-la-ia/"
+    },
+    {
+      "tipo": "SALUD PÚBLICA",
+      "titular": "La nota de corte en Psicología alcanza el 10,16 sobre 14, la más alta entre las titulaciones de ciencias de la salud",
+      "cuerpo": "Un análisis de 2.661 grados y dobles grados de universidades públicas presenciales, elaborado a partir de datos del Ministerio de Ciencia, Innovación y Universidades y publicado en El Mundo, muestra que la nota media de corte en el Grado de Psicología alcanza el 10,16 sobre 14, situándose entre las titulaciones con mayor exigencia de acceso. En el ámbito de las Ciencias de la Salud, el 70% de los grados y dobles grados exige una nota igual o superior a 10 sobre 14, y la nota media de acceso en este campo se sitúa en 10,55. En los dobles grados sanitarios, el 80% exige una nota de 10 o superior, con una nota media de 11,08. El análisis también revela que, en la última década, la demanda para cursar un grado universitario ha aumentado un 26%, mientras que el número de plazas públicas disponibles ha descendido un 0,6%. El dato evidencia la creciente valoración social de la psicología como profesión, pero también el desequilibrio entre la demanda formativa y la oferta de acceso público.",
+      "fuente": "Infocop, a partir de análisis publicado en El Mundo basado en datos del Ministerio de Ciencia, Innovación y Universidades",
+      "url": "https://www.infocop.es/la-nota-de-corte-en-psicologia-alcanza-el-1016/"
+    }
+  ],
+  "internacionales": [],
+  "papers": [
+    {
+      "apa": "González-Blanch, C., Rodríguez-Pérez, N., Camino-Sánchez, M., Bengochea-Seco, R., Montes-Novoa, C., Gil-Sanz, D., Pérez-Monzón, S., Uriz-Zafra, B., Muñiz-Videchea, M., Díaz-Gómez, P., & Priede, A. (2026). Real-world effectiveness of integrating clinical psychologists into primary care: First-year outcomes from a regional programme for common mental disorders in Spain. British Journal of Clinical Psychology, 00, 1–16.",
+      "doi": "10.1111/bjc.70068",
+      "hallazgo": "Un estudio publicado en British Journal of Clinical Psychology evalúa los resultados del primer año del Programa de Psicología Clínica en Atención Primaria de Cantabria, con 1.149 pacientes con síntomas clínicamente significativos de ansiedad y/o depresión. El 73,4% de los participantes experimentó una mejoría clínicamente significativa en al menos uno de los síntomas evaluados, el 51,2% alcanzó criterios de recuperación clínica, y las tasas de empeoramiento fueron muy bajas: 0% en depresión y 0,8% en ansiedad.",
+      "implicacion": "Los resultados sugieren que la integración estable de psicólogos clínicos en equipos de Atención Primaria puede orientar hacia una mejora en la detección y el tratamiento de los trastornos mentales comunes, con tasas de recuperación clínica que los autores consideran comparables a las de programas internacionales como el NHS Talking Therapies del Reino Unido. El estudio puede ser relevante para el debate sobre la consolidación de este modelo en el Sistema Nacional de Salud español."
+    }
+  ],
+  "herramientas": [
+    {
+      "nombre": "Instrumentos estandarizados de evaluación del neurodesarrollo en atención temprana",
+      "descripcion": "En el contexto del Día Nacional de la Atención Temprana, cabe recordar la importancia de contar con instrumentos de evaluación validados para la valoración del desarrollo infantil en las áreas cognitiva, comunicativa, socioemocional, conductual y motora. Estos instrumentos permiten al profesional de la psicología identificar señales de alerta, establecer hipótesis clínicas y fijar objetivos de intervención de forma sistemática y basada en la evidencia, en línea con los estándares de calidad establecidos en el Libro Blanco de la Atención Temprana y las guías de la Federación Española de Asociaciones de Profesionales de Atención Temprana (GAT)."
+    }
+  ],
+  "alertas": [
+    {
+      "estado": "APROBADO",
+      "titulo": "Marco Estratégico Estatal de Soledades 2026-2030",
+      "descripcion": "El Consejo de Ministros aprobó el 24 de febrero de 2026 el primer Marco Estratégico Estatal de Soledades (2026-2030), presentado por el Ministerio de Derechos Sociales, Consumo y Agenda 2030. El marco establece un enfoque transversal para abordar la soledad no deseada en todas las etapas de la vida, situando la pertenencia y la cohesión social como pilares del estado del bienestar. Según el Barómetro del Observatorio Estatal de la Soledad no deseada (Fundación ONCE y Fundación AXA, 2024), el 20% de la población española experimenta soledad no deseada, y dos tercios de ese porcentaje la padecen desde hace más de dos años. El Consejo de Ministros aprobó también la creación de una Mesa Interinstitucional de Soledades para reforzar la coordinación entre administraciones y el Tercer Sector. La gestión e implementación de las medidas concretas depende de las comunidades autónomas y de los acuerdos intersectoriales que se vayan desarrollando en el marco del periodo 2026-2030."
+    },
+    {
+      "estado": "EN DESARROLLO",
+      "titulo": "Primer acuerdo estatal para la mejora de la Atención Temprana",
+      "descripcion": "En 2025, los ministerios de Derechos Sociales, Consumo y Agenda 2030 y de Sanidad, junto con los gobiernos autonómicos, aprobaron el primer acuerdo estatal para la mejora de la Atención Temprana, con el objetivo declarado de avanzar hacia un marco común de calidad y reducir los tiempos de espera hasta un máximo de 45 días desde la detección de una situación de riesgo evolutivo. El acuerdo incorpora una financiación inicial cercana a los 42 millones de euros destinada a reforzar los servicios de Atención Temprana en todo el territorio. La aplicación de las medidas depende de cada comunidad autónoma, y desde el sector se advierte de que persisten desigualdades territoriales en cobertura, criterios de acceso y disponibilidad de profesionales especializados."
+    }
+  ],
+  "prioridades": [
+    {
+      "titulo": "Revisar el rol de la psicología en los equipos de Atención Temprana",
+      "descripcion": "Coincidiendo con el Día Nacional de la Atención Temprana, puede ser relevante explorar las oportunidades de colaboración interdisciplinar en servicios de Atención Temprana y revisar los criterios de derivación y coordinación con otros profesionales del entorno sanitario, educativo y social. Para quienes trabajan con infancia, puede ser útil actualizar el conocimiento sobre modelos centrados en la familia y en entornos naturales, que son los enfoques con mayor respaldo en la evidencia actual."
+    },
+    {
+      "titulo": "Explorar protocolos de evaluación del uso de compañeros digitales en consulta",
+      "descripcion": "La creciente presencia de aplicaciones de compañía basada en inteligencia artificial puede ser oportuno incorporarla como área de exploración en la evaluación inicial, especialmente en pacientes con soledad no deseada, aislamiento social, adolescentes o personas con dificultades en las habilidades sociales. Puede ser relevante anticipar preguntas sobre el tipo de interacciones digitales que el paciente mantiene y valorar si el uso de estas herramientas complementa o puede estar interfiriendo con el establecimiento de vínculos humanos significativos."
+    },
+    {
+      "titulo": "Contextualizar el auge de la demanda de psicología en la práctica y en los proyectos formativos",
+      "descripcion": "El dato de que la nota de corte en Psicología alcanza el 10,16 puede ser útil como indicador de la valoración social de la profesión y del incremento de la demanda en todos los niveles asistenciales. Para profesionales en activo, puede ser relevante considerar que la mayor afluencia de estudiantes a la carrera no se traduce automáticamente en mayor disponibilidad de profesionales especializados a corto plazo, dado el desequilibrio entre plazas formativas públicas y demanda. Esto puede orientar decisiones sobre la gestión de la agenda, la formación de equipos y la organización de los servicios."
+    }
+  ],
+  "fuentes_verificadas": [
+    "https://www.infocop.es/dia-nacional-de-la-atencion-temprana-2026-juntos-por-el-desarrollo-infantil-las-familias-y-la-prevencion/",
+    "https://www.infocop.es/companeros-digitales-y-vinculos-emocionales-lo-que-sabemos-sobre-las-relaciones-con-la-ia/",
+    "https://www.infocop.es/la-nota-de-corte-en-psicologia-alcanza-el-1016/",
+    "https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/bjc.70068",
+    "https://www.dsca.gob.es/en/comunicacion/notas-prensa/gobierno-aprueba-primera-estrategia-detectar-combatir-distintos-tipos"
+  ],
+  "carousel": {
+    "noticia_seleccionada": "El rol clave del profesional de la psicología en los equipos de atención temprana",
+    "slide1": {
+      "titular": "Día nacional de la atención temprana 2026",
+      "subtitulo": "25 años del GAT y nuevos retos para la psicología en la primera infancia"
+    },
+    "slide2": {
+      "puntos": [
+        "El 16 de junio es el Día Nacional de la Atención Temprana, bajo el lema 'Juntos somos Atención Temprana'.",
+        "La Federación GAT cumple 25 años y dedica la campaña a los profesionales que acompañan a familias en momentos decisivos.",
+        "Se aprobó en 2025 el primer acuerdo estatal de Atención Temprana, con financiación inicial de unos 42 millones de euros."
+      ]
+    },
+    "slide3": {
+      "puntos": [
+        "El objetivo declarado del acuerdo es reducir los tiempos de espera a un máximo de 45 días desde la detección de riesgo evolutivo.",
+        "Persisten desigualdades territoriales en cobertura, criterios de acceso y disponibilidad de profesionales especializados.",
+        "La gestión de las medidas depende de cada comunidad autónoma."
+      ]
+    },
+    "slide4": {
+      "puntos": [
+        "El psicólogo o psicóloga evalúa el desarrollo global del niño o la niña: área cognitiva, emocional, social, comunicativa y motora.",
+        "El acompañamiento familiar es parte central del trabajo: reducir la incertidumbre y fortalecer competencias parentales.",
+        "El enfoque centrado en la familia y en entornos naturales es el respaldado por la mayor evidencia disponible."
+      ]
+    },
+    "slide5": {
+      "mensaje_autoridad": "La Atención Temprana no debe entenderse como un recurso asistencial complementario, sino como una inversión estratégica en desarrollo infantil, bienestar familiar, inclusión social y salud mental. Garantizar su acceso universal refuerza la igualdad de oportunidades desde los primeros años de vida.",
+      "fuente_apa": "Infocop / Federación Española de Asociaciones de Profesionales de Atención Temprana (GAT, 2026)",
+      "cta": "Síguenos en @IPP.Psicologia"
+    }
+  },
+  "copy_rrss": "Hoy, Día Nacional de la Atención Temprana, recordamos que intervenir antes marca la diferencia. La psicología tiene un papel irreemplazable en los equipos de AT: evaluar, acompañar a las familias y coordinar con otros profesionales desde el primer momento.",
+  "hashtags": [
+    "#AtenciónTemprana",
+    "#Psicología",
+    "#Infancia",
+    "#SaludMental",
+    "#PsicologíaClínica"
+  ]
+}
