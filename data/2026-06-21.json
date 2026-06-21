@@ -1,0 +1,127 @@
+{
+  "titulo": "Tendencias de la APA, demanda parlamentaria de psicólogos sin PIR y ritmo circadiano en el solsticio: claves del 21 de junio de 2026",
+  "nota_editorial": "Las claves prácticas que se recogen a continuación forman parte del análisis editorial del Observatorio de Actualidad del IPP y no constituyen recomendación clínica individualizada.",
+  "resumen": "La American Psychological Association ha identificado nueve tendencias que marcarán la psicología en 2026, con la inteligencia artificial, la atención integrada y la salud mental infanto-juvenil como ejes centrales. En el plano normativo, distintos grupos parlamentarios reclaman al Gobierno la habilitación temporal de psicólogos generales sanitarios ante un déficit que sitúa a España en 6 profesionales por cada 100.000 habitantes, frente a una media europea de 18, con un coste económico de los trastornos mentales que superó los 31.000 millones de euros en 2023. En clave estacional, el inicio del verano astronómico trae cambios neurológicos documentados que afectan al descanso y al estado de ánimo, con implicaciones directas para la práctica clínica. En el horizonte internacional, el ICAP 2026 convocará del 21 al 25 de julio en Florencia a los principales referentes mundiales de la psicología aplicada.",
+  "audiencia": "ambos",
+  "nacionales": [
+    {
+      "tipo": "NORMATIVA",
+      "titular": "Los grupos parlamentarios exigen habilitar temporalmente a psicólogos generales sanitarios ante el déficit en el SNS",
+      "cuerpo": "Según informa El Español en su Observatorio de la Sanidad, distintos grupos parlamentarios han reclamado al Gobierno la contratación temporal de psicólogos generales sanitarios para funciones preventivas mientras se forman los especialistas. La demanda se enmarca en el contexto recogido en el informe del Senado sobre salud mental: España cuenta con seis psicólogos clínicos por cada 100.000 habitantes, frente a una media europea de 18, mientras la demanda asistencial triplica la oferta disponible. El impacto económico de los trastornos mentales superó los 31.000 millones de euros en 2023, equivalente al 2,2% del PIB, fundamentalmente por bajas laborales y pérdida de productividad. Los grupos parlamentarios también reclaman incluir en los próximos presupuestos una partida plurianual para el refuerzo de plantillas en coordinación con las comunidades autónomas, con el objetivo declarado de alcanzar las ratios europeas en 2031.",
+      "fuente": "El Español, Observatorio de la Sanidad (12 de junio de 2026)",
+      "url": "https://www.elespanol.com/invertia/observatorios/sanidad/20260612/partidos-exigen-gobierno-contratar-psicologos-sin-pir-atender-demanda-asistencial/1003744282723_0.html"
+    },
+    {
+      "tipo": "INVESTIGACIÓN",
+      "titular": "La APA identifica nueve tendencias clave para la psicología en 2026: IA, atención integrada e infancia como ejes",
+      "cuerpo": "Según informa Infocop, la American Psychological Association ha publicado en su revista Monitor on Psychology las nueve tendencias que moldearán la psicología este año. Destacan el uso de inteligencia artificial y datos de dispositivos personales para personalizar tratamientos, el crecimiento de chatbots que transforman los vínculos emocionales, el giro preventivo en la atención a niños y adolescentes, y la necesidad de que los profesionales de la psicología asuman un rol activo en la defensa de la disciplina ante presiones en la financiación de la investigación. La atención integrada —incorporación de servicios psicológicos en atención primaria y áreas especializadas— se describe como una oportunidad y un imperativo: los sistemas que la aplican muestran mayor calidad asistencial, mejores resultados y menores costes en comparación con la atención habitual. La APA subraya también la importancia de la comunicación científica accesible y del bienestar laboral ante la incertidumbre generada por la automatización.",
+      "fuente": "Infocop (15 de enero de 2026), que recoge las tendencias publicadas por la APA en Monitor on Psychology",
+      "url": "https://www.infocop.es/principales-tendencias-que-la-psicologia-debe-tener-cuenta-en-2026-segun-la-apa/"
+    },
+    {
+      "tipo": "SALUD PÚBLICA",
+      "titular": "El solsticio de verano altera el ritmo circadiano y puede provocar insomnio o trastorno afectivo estacional en algunos perfiles",
+      "cuerpo": "El diario Deia recoge en su edición del 21 de junio de 2026 los efectos psicológicos y neurológicos del solsticio de verano, el momento del año con mayor exposición solar. La inhibición de la melatonina se retrasa al prolongarse la luz diurna, lo que puede generar episodios de insomnio o reducir la profundidad del descanso, con impacto en la consolidación de la memoria durante el sueño profundo. El aumento de serotonina mejora el ánimo y la disposición social en la mayoría de la población. Sin embargo, en un segmento reducido de personas, el exceso de luz y calor puede desencadenar el denominado trastorno afectivo estacional de verano, caracterizado por ansiedad, irritabilidad y dificultades de concentración. El artículo señala también que la síntesis de vitamina D se intensifica durante este periodo, con efectos positivos sobre el sistema inmunitario.",
+      "fuente": "Deia (21 de junio de 2026)",
+      "url": "https://www.deia.eus/ciencia-y-tecnologia/2026/06/21/solsticio-verano-desconocidos-cambios-psicologicos-provoca-nosotros-11228769.html"
+    }
+  ],
+  "internacionales": [
+    {
+      "tipo": "INVESTIGACIÓN",
+      "titular": "El ICAP 2026 reunirá en Florencia a los principales referentes mundiales de la psicología aplicada del 21 al 25 de julio",
+      "cuerpo": "Según informa Infocop, la 31ª edición del Congreso Internacional de Psicología Aplicada (ICAP 2026) tendrá lugar del 21 al 25 de julio de 2026 en Florencia (Italia), organizado por la Asociación Internacional de Psicología Aplicada (IAAP) y la Associazione Italiana di Psicologia (AIP). Bajo el lema Nuevas direcciones en Psicología Aplicada, el programa incluye conferencias magistrales a cargo de expertos de Reino Unido, Hong Kong, Japón, Estados Unidos y Canadá, así como sesiones específicas de psicología clínica y comunitaria, evaluación psicológica, gerontología aplicada, psicología educativa y psicología de la salud. El congreso representa una oportunidad de formación continua y de intercambio de investigación innovadora para los profesionales de la psicología aplicada.",
+      "fuente": "Infocop (10 de abril de 2026)",
+      "url": "https://www.infocop.es/el-icap-2026-reunira-a-expertos-internacionales-para-analizar-los-avances-de-la-psicologia-aplicada/"
+    }
+  ],
+  "papers": [],
+  "herramientas": [
+    {
+      "nombre": "Evaluación del ritmo circadiano en consulta clínica",
+      "descripcion": "Al inicio del periodo estival puede ser útil incorporar en la entrevista clínica preguntas sobre calidad del sueño, hora de exposición a la luz y posibles cambios en el estado de ánimo relacionados con la estación. Existen cuestionarios validados para la detección del trastorno afectivo estacional y del insomnio de inicio que pueden orientar la intervención psicológica en pacientes con mayor sensibilidad a los cambios de luz y temperatura."
+    },
+    {
+      "nombre": "Recursos de formación continua en psicología aplicada",
+      "descripcion": "Con el ICAP 2026 previsto para el 21-25 de julio en Florencia, puede ser relevante explorar los repositorios de formación continua de los colegios oficiales de psicología para actualizar conocimientos en las áreas con mayor desarrollo actual: atención integrada, salud mental infanto-juvenil y aplicaciones éticas de la inteligencia artificial en la práctica clínica."
+    }
+  ],
+  "alertas": [
+    {
+      "estado": "PROPUESTA",
+      "titulo": "Habilitación temporal de psicólogos generales sanitarios en el SNS",
+      "descripcion": "Según informa El Español, distintos grupos parlamentarios reclaman la contratación temporal de psicólogos con máster general sanitario para funciones preventivas en la sanidad pública, mientras se incrementan de forma progresiva las plazas PIR. Esta medida, recogida como recomendación en el informe del Senado sobre salud mental, aún no tiene respaldo normativo aprobado y requeriría modificación legal. Su gestión dependería en última instancia de cada comunidad autónoma."
+    },
+    {
+      "estado": "EN DESARROLLO",
+      "titulo": "Plan de Acción de Salud Mental 2025-2027: despliegue por comunidades autónomas",
+      "descripcion": "El Plan de Acción de Salud Mental 2025-2027, aprobado por el Consejo Interterritorial del Sistema Nacional de Salud, se encuentra en fase de desarrollo y aplicación territorial. Su impacto real —incluida la incorporación de psicólogos en atención primaria y la reducción de tiempos de espera— depende de la ejecución concreta de cada comunidad autónoma."
+    },
+    {
+      "estado": "PROPUESTA",
+      "titulo": "Objetivo de alcanzar las ratios europeas de profesionales de salud mental antes de 2031",
+      "descripcion": "El informe del Senado propone que España alcance la ratio europea de profesionales de salud mental por cada 100.000 habitantes en el horizonte de 2031. España se sitúa actualmente en torno a seis psicólogos clínicos por cada 100.000 habitantes, frente a una media europea de 18. Esta propuesta tiene carácter de recomendación parlamentaria y no cuenta aún con calendario normativo ni financiación finalista aprobados."
+    }
+  ],
+  "prioridades": [
+    {
+      "titulo": "Revisión del protocolo de acogida al inicio del verano",
+      "descripcion": "Dado el inicio de la temporada estival y los cambios documentados en el ritmo circadiano, puede ser útil explorar con los pacientes activos posibles alteraciones del sueño, cambios de ánimo o variaciones en la adherencia al tratamiento relacionadas con el calor o la modificación de horarios. Una revisión breve en las primeras sesiones de julio puede anticipar descompensaciones en perfiles vulnerables."
+    },
+    {
+      "titulo": "Seguimiento del debate normativo sobre psicólogos generales sanitarios",
+      "descripcion": "El debate parlamentario sobre la habilitación temporal de psicólogos generales sanitarios puede ser relevante tanto para profesionales que trabajan en el sector público como para quienes gestionan consulta privada, en tanto que puede generar cambios en los circuitos de derivación desde la red pública. Puede ser oportuno mantenerse informado a través del colegio oficial de referencia."
+    },
+    {
+      "titulo": "Incorporación progresiva de la perspectiva de atención integrada",
+      "descripcion": "Las tendencias identificadas por la APA para 2026 colocan la atención integrada —coordinación entre psicología, medicina y servicios sociales— como un modelo de mayor eficacia y eficiencia clínica. Para profesionales con consulta privada, puede ser relevante incorporar protocolos de coordinación con médicos de familia o especialistas, especialmente en pacientes con enfermedades crónicas o alta complejidad clínica."
+    }
+  ],
+  "fuentes_verificadas": [
+    "https://www.elespanol.com/invertia/observatorios/sanidad/20260612/partidos-exigen-gobierno-contratar-psicologos-sin-pir-atender-demanda-asistencial/1003744282723_0.html",
+    "https://www.infocop.es/principales-tendencias-que-la-psicologia-debe-tener-cuenta-en-2026-segun-la-apa/",
+    "https://www.deia.eus/ciencia-y-tecnologia/2026/06/21/solsticio-verano-desconocidos-cambios-psicologicos-provoca-nosotros-11228769.html",
+    "https://www.infocop.es/el-icap-2026-reunira-a-expertos-internacionales-para-analizar-los-avances-de-la-psicologia-aplicada/"
+  ],
+  "carousel": {
+    "noticia_seleccionada": "Los grupos parlamentarios exigen habilitar temporalmente a psicólogos generales sanitarios ante el déficit en el SNS",
+    "slide1": {
+      "titular": "España: 3 veces menos psicólogos que la media europea",
+      "subtitulo": "El Senado y los partidos exigen actuar ante el déficit estructural de profesionales en el SNS"
+    },
+    "slide2": {
+      "puntos": [
+        "6 psicólogos clínicos por cada 100.000 hab. en España, frente a 18 de media en la UE",
+        "La demanda asistencial triplica la oferta de servicios de psicología",
+        "Los trastornos mentales costaron más de 31.000 millones de euros en 2023, el 2,2% del PIB"
+      ]
+    },
+    "slide3": {
+      "puntos": [
+        "Los partidos proponen contratar temporalmente a psicólogos generales sanitarios para funciones preventivas",
+        "El informe del Senado fija como objetivo alcanzar las ratios europeas en 2031",
+        "La gestión final dependerá de cada comunidad autónoma: no hay normativa aprobada aún"
+      ]
+    },
+    "slide4": {
+      "puntos": [
+        "La APA identifica 9 tendencias para 2026: IA, atención integrada, infancia y comunicación científica",
+        "Primer día del verano astronómico: la serotonina sube, la melatonina se retrasa",
+        "ICAP 2026 en Florencia, 21-25 julio: el mayor congreso mundial de psicología aplicada"
+      ]
+    },
+    "slide5": {
+      "mensaje_autoridad": "La integracion de servicios psicologicos en atencion primaria es, segun la APA, tanto una oportunidad como un imperativo para la profesion en 2026",
+      "fuente_apa": "Straight, S. (2026). What's ahead for psychology? 9 trends to watch in 2026. APA Monitor on Psychology, 57(1), 54. Recogido en Infocop, 15 de enero de 2026.",
+      "cta": "Siguenos en @IPP.Psicologia"
+    }
+  },
+  "copy_rrss": "España tiene 3 veces menos psicólogos en la sanidad pública que la media europea. Los partidos proponen actuar ya con una habilitación temporal. Mientras, la APA ya marca las 9 tendencias que moldean la profesión en 2026. Más info en el informe diario del IPP.",
+  "hashtags": [
+    "#SaludMental",
+    "#PsicologiaClinica",
+    "#APA2026",
+    "#ICAP2026",
+    "#PsicologosEnPrimaria"
+  ]
+}
