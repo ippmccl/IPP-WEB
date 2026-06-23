@@ -1,0 +1,118 @@
+{
+  "titulo": "Psicología del deporte, listas de espera y malestar infanto-juvenil: claves del 23 de junio de 2026",
+  "nota_editorial": "Las claves prácticas que se recogen a continuación forman parte del análisis editorial del Observatorio de Actualidad del IPP y no constituyen recomendación clínica individualizada.",
+  "resumen": "El Colegio Oficial de la Psicología de Madrid presenta hoy los resultados del proyecto PsiDE, que muestra mejoras significativas en el bienestar psicológico de más de 1.200 jóvenes futbolistas tras una intervención multidisciplinar en 11 clubes de la Comunidad de Madrid. En paralelo, un análisis difundido en Infocop basado en el informe de Eurofound alerta de que los tiempos de espera para acceder por primera vez a un psicólogo en la sanidad pública española se sitúan en torno a los seis meses, con un retraso estimado de unos 90 días respecto a la media europea. A nivel internacional, la OCDE publica en 2026 un informe que documenta el deterioro sostenido de la salud mental en la población menor de 25 años durante la última década en la mayoría de sus países miembros, con peores indicadores en chicas adolescentes y un aumento del 29% en hospitalizaciones por autolesiones entre 2015 y 2023.",
+  "audiencia": "ambos",
+  "nacionales": [
+    {
+      "tipo": "CLÍNICA",
+      "titular": "Proyecto PsiDE: la psicología del deporte mejora el bienestar de más de 1.200 jóvenes futbolistas en Madrid",
+      "cuerpo": "El Colegio Oficial de la Psicología de Madrid acogió hoy la presentación de los resultados del proyecto PsiDE, una iniciativa de investigación aplicada puesta en marcha por la Fundación del COP Madrid, la Real Federación de Fútbol de Madrid y la Fundación MAPFRE, con evaluación a cargo de la Universidad Autónoma de Madrid. A lo largo de la temporada 2025-2026, un equipo de psicólogos y psicólogas del deporte trabajó en 11 clubes de fútbol base de la Comunidad de Madrid con 89 equipos y 1.246 futbolistas de entre 8 y 18 años. Antes de la intervención, el 35% de los participantes mostraba riesgo de presentar problemas psicológicos; tras ella, ese riesgo se redujo un 4%. Los menores con malestar previo redujeron sus síntomas prácticamente a la mitad. Los clubes también mejoraron el cumplimiento de medidas de salvaguarda, pasando del 75,68% al 85,78%. El programa incidió en deportistas, entrenadores, familias, juntas directivas y delegados de protección a la infancia, con el objetivo de generar un cambio cultural sostenible en el fútbol base.",
+      "fuente": "Infocop / Colegio Oficial de la Psicología de Madrid",
+      "url": "https://www.infocop.es/resultados-del-proyecto-pside-la-psicologia-del-deporte-mejora-el-bienestar-psicologico-de-mas-de-1-200-jovenes-futbolistas-de-la-comunidad-de-madrid/"
+    },
+    {
+      "tipo": "SALUD PÚBLICA",
+      "titular": "Las listas de espera para atención psicológica pública en España: una barrera estructural ante la demanda creciente",
+      "cuerpo": "Un análisis publicado en Infocop, basado en el informe de Eurofound sobre salud mental en Europa, señala que el tiempo de espera para acceder por primera vez a un psicólogo en la sanidad pública española se sitúa a menudo en torno a los seis meses tras la derivación. Según el artículo, que recoge datos del diario El Español, este retraso implicaría unos 90 días por encima de la media estimada en otros países europeos. El 46% de las personas que requieren atención psicológica identifican los tiempos de espera del sistema público como la principal razón para recurrir a la atención privada, cuyo coste estimado se sitúa entre 40 y 70 euros por sesión. Eurofound alerta de que el desajuste entre la demanda y la capacidad asistencial es un problema estructural compartido en Europa, aunque España presenta características especialmente preocupantes: entre 5,6 y 6 psicólogos clínicos por cada 100.000 habitantes, aproximadamente tres veces por debajo de la media europea. Los procesos de incapacidad temporal vinculados a trastornos mentales y del comportamiento alcanzaron 671.618 en 2024, según datos de la UGT recogidos en el artículo, y el coste del absentismo laboral total se estimó en torno a los 92.000 millones de euros anuales, equivalente al 5,8% del PIB, según el Instituto Valenciano de Investigaciones Económicas (Ivie).",
+      "fuente": "Infocop (basado en informe de Eurofound y datos del Ivie y la UGT)",
+      "url": "https://www.infocop.es/las-largas-listas-de-espera-en-espana-una-barrera-clave-para-el-acceso-a-la-atencion-psicologica/"
+    }
+  ],
+  "internacionales": [
+    {
+      "tipo": "INVESTIGACIÓN",
+      "titular": "La OCDE documenta el deterioro sostenido de la salud mental infanto-juvenil durante la última década",
+      "cuerpo": "La OCDE ha publicado en 2026 el informe Child, Adolescent and Youth Mental Health in the 21st Century, que analiza tendencias, factores de riesgo y respuestas políticas en salud mental para menores de 25 años en sus países miembros. El documento, basado en datos nacionales e internacionales, revisión de la literatura científica y entrevistas semiestructuradas a 29 expertos, concluye que en casi todos los países con datos comparables la salud mental juvenil ha empeorado durante la última década. De los once países con datos entre 2012 y 2022, nueve registraron un deterioro medio anual de entre el 3% y el 16% en los indicadores analizados. La proporción de chicas de 15 años que declaraban sentirse bajas de ánimo más de una vez por semana pasó del 28,6% en 2014 al 45,4% en 2022; en los chicos, del 12,1% al 19,4%. La OCDE señala además que las hospitalizaciones por autolesiones en menores de 18 años aumentaron un 29% entre 2015 y 2023 en los 13 países que aportaron datos. El informe advierte de que el 62,5% de los trastornos mentales tiene su inicio antes de los 25 años y que la pandemia de COVID-19 agravó una tendencia ya visible antes de 2020. Entre los factores de riesgo identificados figuran la digitalización, el uso de redes sociales, la presión académica, el bullying y la inseguridad económica.",
+      "fuente": "OCDE / Infocop",
+      "url": "https://www.infocop.es/el-malestar-psicologico-aumenta-entre-la-poblacion-infanto-juvenil-segun-la-ocde/"
+    }
+  ],
+  "papers": [
+    {
+      "apa": "OECD (2026). Child, adolescent and youth mental health in the 21st century. OECD Publishing. https://doi.org/10.1787/1092c3cb-en",
+      "doi": "10.1787/1092c3cb-en",
+      "hallazgo": "En nueve de los once países de la OCDE con datos comparables entre 2012 y 2022 se registró un deterioro anual de entre el 3% y el 16% en los indicadores de salud mental juvenil, con un aumento del 29% en hospitalizaciones por autolesiones en menores de 18 años entre 2015 y 2023.",
+      "implicacion": "Los resultados del informe sugieren que puede ser relevante incorporar programas de detección precoz y apoyo psicológico en entornos educativos y deportivos antes de que el malestar se cronifique, dado que el 62,5% de los trastornos mentales puede tener su inicio antes de los 25 años según los datos presentados."
+    }
+  ],
+  "herramientas": [
+    {
+      "nombre": "Protocolos de evaluación del bienestar psicológico en entornos deportivos y educativos",
+      "descripcion": "Instrumentos de cribado y seguimiento del bienestar psicológico adaptados a poblaciones infanto-juveniles en contextos deportivos y educativos, que permiten identificar niveles de malestar, sintomatología depresiva y factores de riesgo antes de que se desarrollen problemas clínicos de mayor gravedad. Su aplicación en entornos de base, como muestra el proyecto PsiDE, puede orientar intervenciones preventivas de manera coste-eficaz cuando se integran en el trabajo cotidiano de psicólogos del deporte o psicólogos educativos."
+    }
+  ],
+  "alertas": [
+    {
+      "estado": "APROBADO",
+      "titulo": "El Senado aprueba el informe de la Ponencia sobre salud mental y prevención del suicidio",
+      "descripcion": "El Pleno del Senado aprobó el 10 de junio de 2026, por 260 votos a favor y 4 abstenciones, el informe de la Ponencia de Estudio sobre la Salud Mental y la Prevención del Suicidio. El documento, resultado de casi dos años de trabajo y 42 comparecencias de expertos, recomienda incrementar progresivamente las plazas PIR, MIR y EIR hasta alcanzar los estándares europeos en el horizonte de 2031, y plantea la habilitación temporal de psicólogos generales sanitarios para funciones preventivas mientras se forma a especialistas. La implementación de sus recomendaciones dependerá de la voluntad política y de la dotación presupuestaria que cada comunidad autónoma destine al efecto."
+    },
+    {
+      "estado": "EN DESARROLLO",
+      "titulo": "Convocatoria PIR 2025-2026: 280 plazas, un 47,37% más respecto a la convocatoria anterior",
+      "descripcion": "La convocatoria PIR 2025-2026 ofrece 280 plazas de Psicólogo Interno Residente, lo que supone un aumento del 47,37% respecto a la convocatoria precedente. Pese al incremento, profesionales e instituciones del sector advierten de que la ratio de psicólogos clínicos en el sistema público español sigue siendo aproximadamente tres veces inferior a la media europea, y que el incremento de plazas deberá sostenerse progresivamente para aproximarse a los estándares de la Unión Europea."
+    }
+  ],
+  "prioridades": [
+    {
+      "titulo": "Integrar la psicología del deporte en la prevención primaria infanto-juvenil",
+      "descripcion": "Los datos del proyecto PsiDE sugieren que puede ser útil explorar la incorporación de psicólogos del deporte en entornos deportivos de base como factor de protección del bienestar psicológico infanto-juvenil, dado que el 35% de los menores evaluados presentaba riesgo psicológico previo a la intervención. Puede ser relevante replicar estos modelos en otros contextos cotidianos —centros educativos, actividades extraescolares— que faciliten la detección temprana antes de la cronificación."
+    },
+    {
+      "titulo": "Revisar el modelo de acceso a la atención psicológica pública ante el aumento de la demanda",
+      "descripcion": "El desajuste entre la demanda de atención psicológica y la capacidad del sistema público puede ser oportuno abordarlo desde un enfoque escalonado, en el que los casos de menor severidad puedan atenderse en atención primaria con intervenciones psicológicas breves y grupales, reservando los recursos especializados para los casos más complejos. La evidencia disponible sobre terapia cognitivo-conductual grupal transdiagnóstica sugiere que este modelo puede ser coste-eficaz para los trastornos emocionales más frecuentes."
+    },
+    {
+      "titulo": "Fortalecer la detección precoz del malestar psicológico en adolescentes",
+      "descripcion": "Los datos de la OCDE documentan un deterioro sostenido de la salud mental juvenil que en muchos casos precede en años al diagnóstico clínico formal. Puede ser relevante incorporar herramientas de cribado validadas en los protocolos de seguimiento en atención primaria y en los dispositivos de orientación escolar, con especial atención a las chicas adolescentes, que presentan los peores indicadores de bienestar en la mayoría de países de la OCDE."
+    }
+  ],
+  "fuentes_verificadas": [
+    "https://www.infocop.es/resultados-del-proyecto-pside-la-psicologia-del-deporte-mejora-el-bienestar-psicologico-de-mas-de-1-200-jovenes-futbolistas-de-la-comunidad-de-madrid/",
+    "https://www.infocop.es/las-largas-listas-de-espera-en-espana-una-barrera-clave-para-el-acceso-a-la-atencion-psicologica/",
+    "https://www.infocop.es/el-malestar-psicologico-aumenta-entre-la-poblacion-infanto-juvenil-segun-la-ocde/",
+    "https://www.infocop.es/el-senado-aprueba-un-informe-sobre-salud-mental-y-prevencion-del-suicidio-que-reclama-mas-psicologos-y-refuerzo-de-la-atencion-psicologica/"
+  ],
+  "carousel": {
+    "noticia_seleccionada": "La OCDE documenta el deterioro sostenido de la salud mental infanto-juvenil durante la última década",
+    "slide1": {
+      "titular": "Salud mental juvenil: una decada de deterioro segun la OCDE",
+      "subtitulo": "Datos de 11 paises confirman el aumento del malestar psicologico en menores de 25 anos"
+    },
+    "slide2": {
+      "puntos": [
+        "9 de 11 paises registraron deterioro anual del 3% al 16% en salud mental juvenil (2012-2022)",
+        "El 45,4% de las chicas de 15 anos se siente baja de animo frecuentemente en 2022, frente al 28,6% en 2014",
+        "Hospitalizaciones por autolesiones en menores de 18 anos: aumento del 29% entre 2015 y 2023"
+      ]
+    },
+    "slide3": {
+      "puntos": [
+        "El deterioro comenzo antes de la pandemia de COVID-19, entre 2016 y 2019",
+        "El 62,5% de los trastornos mentales tiene su inicio antes de los 25 anos",
+        "28 de 29 expertos consultados confirmaron el empeoramiento real de la salud mental juvenil"
+      ]
+    },
+    "slide4": {
+      "puntos": [
+        "Factores de riesgo: redes sociales, presion academica, bullying, inseguridad economica y ansiedad climatica",
+        "La OCDE recomienda reforzar la prevencion en entornos educativos, familiares y comunitarios",
+        "Las politicas de restriccion digital requieren evaluacion rigurosa: la evidencia sobre sus efectos es aun mixta"
+      ]
+    },
+    "slide5": {
+      "mensaje_autoridad": "El 62,5% de los trastornos mentales tiene su inicio antes de los 25 anos. Actuar a tiempo, en los espacios cotidianos donde crecen los jovenes, es la respuesta mas eficaz.",
+      "fuente_apa": "OECD (2026). Child, adolescent and youth mental health in the 21st century. OECD Publishing. https://doi.org/10.1787/1092c3cb-en",
+      "cta": "Siguenos en @IPP.Psicologia"
+    }
+  },
+  "copy_rrss": "La salud mental de los jovenes lleva una decada deteriorandose. La OCDE lo confirma con datos de 11 paises. El 45% de las chicas de 15 anos se siente baja de animo con frecuencia. La prevencion temprana, en el deporte y la escuela, no es un lujo: es la herramienta mas eficaz que tenemos.",
+  "hashtags": [
+    "#SaludMentalJuvenil",
+    "#OCDE",
+    "#PsicologiaClinica",
+    "#PrevenciónPrimaria",
+    "#SaludMentalEspana"
+  ]
+}
