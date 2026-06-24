@@ -1,0 +1,126 @@
+{
+  "titulo": "Gestión de contingencias, VERI*FACTU y salud mental juvenil: claves del 24 de junio de 2026",
+  "nota_editorial": "Las claves prácticas que se recogen a continuación forman parte del análisis editorial del Observatorio de Actualidad del IPP y no constituyen recomendación clínica individualizada.",
+  "resumen": "La Asociación Americana de Psicología publica evidencia sólida sobre la gestión de contingencias como intervención eficaz en trastornos por consumo de estimulantes, con más de cuatro décadas de respaldo empírico y más de un centenar de estudios. En el plano normativo, el Gobierno mantiene el calendario de VERI*FACTU: los autónomos psicólogos deberán adaptar sus sistemas de facturación antes del 1 de julio de 2027. El informe de la OCDE publicado esta semana confirma el deterioro sostenido de la salud mental juvenil en la mayoría de países de la organización, con datos especialmente preocupantes en adolescentes. Tres ámbitos articulan la actualidad del día: intervención psicológica basada en evidencia, gestión fiscal del autónomo y bienestar psicológico infanto-juvenil.",
+  "audiencia": "ambos",
+  "nacionales": [
+    {
+      "tipo": "CLÍNICA",
+      "titular": "La gestión de contingencias gana impulso como tratamiento de primera línea en el consumo de estimulantes",
+      "cuerpo": "Según informa Infocop, un análisis publicado por la Asociación Americana de Psicología en su revista Monitor on Psychology señala que la gestión de contingencias (contingency management) cuenta con más de cuatro décadas de evidencia acumulada y más de un centenar de estudios que respaldan su eficacia en el tratamiento de los trastornos por consumo de estimulantes. La intervención se basa en el refuerzo conductual mediante incentivos tangibles cuando la persona alcanza objetivos de recuperación, como la abstinencia o la asistencia a sesiones. Los datos revisados muestran que quienes reciben esta intervención presentan menor probabilidad de fallecer que quienes no la reciben, situándola como estrategia con impacto directo en la reducción de la mortalidad. La APA señala que el reconocimiento institucional está creciendo y que las políticas públicas están ampliando los límites de financiación para los incentivos, facilitando su implementación a mayor escala. Actualmente no existen medicamentos aprobados para los trastornos por consumo de estimulantes, lo que refuerza el papel de las intervenciones psicológicas en este ámbito.",
+      "fuente": "Infocop, difundiendo análisis de Monitor on Psychology (APA), abril de 2026",
+      "url": "https://www.infocop.es/intervencion-psicologica-eficaz-que-gana-impulso-frente-a-la-crisis-por-consumo-de-estimulantes/"
+    },
+    {
+      "tipo": "NORMATIVA",
+      "titular": "VERI*FACTU entra en vigor en 2027: lo que deben saber los psicólogos autónomos",
+      "cuerpo": "El Gobierno mantiene sin cambios el calendario del sistema de facturación verificable aprobado por Real Decreto-ley 15/2025, de 2 de diciembre. Los autónomos y demás contribuyentes obligados, incluidos los psicólogos que ejercen por cuenta propia, disponen hasta el 1 de julio de 2027 para adaptar sus sistemas de facturación a los nuevos requisitos técnicos de trazabilidad, integridad e inalterabilidad. La obligación no modifica la fiscalidad, sino la forma de documentarla: las facturas deberán generarse mediante software certificado con identificador único, registro inalterable y código QR verificable. Continuar emitiendo facturas con sistemas no adaptados a partir de la fecha límite podría acarrear sanciones administrativas. Algunos colegios autonómicos de psicología están comenzando a ofrecer sesiones informativas al respecto. La Agencia Tributaria mantiene actualizada su web con guías técnicas y preguntas frecuentes para ayudar a la adaptación. [Estado normativo: EN DESARROLLO — plazo para autónomos: 1 de julio de 2027]",
+      "fuente": "Infocop, 24 de junio de 2026",
+      "url": "https://www.infocop.es/verifactu-entrara-en-vigor-en-2027-recuerda-las-claves-del-nuevo-sistema-de-facturacion-para-autonomos-y-pymes/"
+    }
+  ],
+  "internacionales": [
+    {
+      "tipo": "SALUD PÚBLICA",
+      "titular": "La OCDE confirma el deterioro sostenido de la salud mental juvenil en la última década",
+      "cuerpo": "El informe Child, Adolescent and Youth Mental Health in the 21st Century, publicado por la Organización para la Cooperación y el Desarrollo Económicos en 2026, confirma que la salud mental de los menores de 25 años se ha deteriorado de forma sostenida en la mayoría de países de la organización. Los problemas psicológicos afectan aproximadamente a uno de cada cinco jóvenes, y el 62,5% de los trastornos mentales tendría su inicio antes de los 25 años. De once países con datos comparables, nueve registraron entre 2012 y 2022 un deterioro medio anual de entre el 3% y el 16%. El documento señala diferencias relevantes por sexo y edad: el 68% de las chicas de 15 años declaró presentar múltiples quejas de salud, frente al 36% de los chicos de la misma edad. Las hospitalizaciones por autolesiones en chicas de 0 a 17 años aumentaron un 29% entre 2015 y 2023 en los países con datos disponibles. 28 de los 29 expertos entrevistados confirmaron que la salud mental de los jóvenes ha empeorado durante la última década. La OCDE señala que la pandemia intensificó la tendencia, pero que el deterioro ya era visible antes de 2020. El informe defiende una respuesta preventiva, multisectorial y centrada en los factores de fondo.",
+      "fuente": "OCDE (2026). Child, Adolescent and Youth Mental Health in the 21st Century. OECD Publishing, Paris. doi: 10.1787/1092c3cb-en — difundido por Infocop, 23 de junio de 2026",
+      "url": "https://www.infocop.es/el-malestar-psicologico-aumenta-entre-la-poblacion-infanto-juvenil-segun-la-ocde/"
+    }
+  ],
+  "papers": [
+    {
+      "apa": "OECD (2026). Child, Adolescent and Youth Mental Health in the 21st Century. OECD Publishing, Paris. https://doi.org/10.1787/1092c3cb-en",
+      "doi": "10.1787/1092c3cb-en",
+      "hallazgo": "De 11 países con datos comparables (2012-2022), 9 registraron deterioro medio anual del 3% al 16% en indicadores de salud mental juvenil. Las hospitalizaciones por autolesiones en chicas de 0 a 17 años aumentaron un 29% entre 2015 y 2023. El 68% de las chicas de 15 años declaró múltiples quejas de salud vs. el 36% de los chicos. 28 de 29 expertos confirmaron el empeoramiento real de la salud mental juvenil en la última década.",
+      "implicacion": "Los resultados sugieren que puede ser relevante incorporar en la evaluación de adolescentes una exploración sistemática de los factores contextuales (presión académica, uso de redes sociales, inseguridad socioeconómica) dado que el deterioro no responde a una causa única. El informe puede orientar la planificación de intervenciones preventivas y comunitarias en población infanto-juvenil."
+    }
+  ],
+  "herramientas": [
+    {
+      "nombre": "Gestión de contingencias (contingency management)",
+      "descripcion": "Intervención psicológica basada en principios del aprendizaje y el refuerzo conductual, que proporciona incentivos tangibles al alcanzar objetivos terapéuticos como la abstinencia o la asistencia a sesiones. Con más de cuatro décadas de evidencia y más de un centenar de estudios, se aplica como complemento a otras intervenciones psicológicas en el abordaje de trastornos por consumo de estimulantes. Recomendada por organizaciones científicas internacionales como tratamiento de primera línea en este perfil de paciente."
+    },
+    {
+      "nombre": "Software de facturación certificado según el Reglamento de Sistemas Informáticos de Facturación",
+      "descripcion": "Sistemas informáticos de facturación adaptados al Real Decreto 1007/2023 que garantizan trazabilidad, integridad e inalterabilidad de los registros. Obligatorios para autónomos a partir del 1 de julio de 2027. Generan facturas con identificador único, registro seguro e inalterable y código QR verificable por la Agencia Tributaria. Diferentes proveedores del mercado están en proceso de certificación o ya cuentan con ella."
+    }
+  ],
+  "alertas": [
+    {
+      "estado": "EN DESARROLLO",
+      "titulo": "VERI*FACTU obligatorio para autónomos a partir del 1 de julio de 2027",
+      "descripcion": "El sistema de facturación verificable, cuyo calendario fue ajustado por Real Decreto-ley 15/2025, establece que los autónomos (incluidos psicólogos que ejercen por cuenta propia) deberán usar software certificado para emitir facturas a partir del 1 de julio de 2027. A fecha de junio de 2026, la Agencia Tributaria continúa publicando guías técnicas y preguntas frecuentes. Se recomienda evaluar la compatibilidad del software actual. La falta de adaptación en el plazo puede acarrear sanciones administrativas."
+    },
+    {
+      "estado": "APROBADO",
+      "titulo": "El Senado aprueba informe sobre salud mental y prevención del suicidio con 260 votos a favor",
+      "descripcion": "El Pleno del Senado aprobó el 10 de junio de 2026, por 260 votos a favor y 4 abstenciones, el informe de la Ponencia de Estudio sobre la Salud Mental y la Prevención del Suicidio. El documento propone incrementar progresivamente las plazas PIR, MIR y EIR hasta alcanzar estándares europeos en el horizonte de 2031, y plantea la habilitación temporal de psicólogos generales sanitarios para funciones preventivas mientras se forma a especialistas. Reconoce el suicidio como primera causa de muerte no natural en España. La implementación de las medidas concretas depende de las comunidades autónomas y de la dotación presupuestaria correspondiente."
+    }
+  ],
+  "prioridades": [
+    {
+      "titulo": "Revisar el protocolo de intervención en conductas adictivas con estimulantes",
+      "descripcion": "A la luz de la evidencia acumulada sobre la gestión de contingencias, puede ser útil explorar si los protocolos actuales de consulta incluyen estrategias de refuerzo conductual para pacientes con trastornos por consumo de sustancias. La intervención puede ser relevante incorporarla como complemento cuando se trabaja con adherencia y motivación al cambio en este perfil de paciente, especialmente en ausencia de opciones farmacológicas aprobadas."
+    },
+    {
+      "titulo": "Anticipar la adaptación a VERI*FACTU antes del plazo de julio de 2027",
+      "descripcion": "Para los profesionales que ejercen como autónomos, puede ser oportuno revisar en los próximos meses si el software de facturación actual es compatible con los requisitos técnicos del Reglamento de Sistemas Informáticos de Facturación, o si será necesario migrar a uno certificado. Actuar con antelación puede evitar adaptaciones de última hora y posibles sanciones. Se recomienda consultar la web de la Agencia Tributaria y los canales del colegio autonómico correspondiente."
+    },
+    {
+      "titulo": "Incorporar la evaluación del contexto digital y social en la consulta con adolescentes",
+      "descripcion": "Los datos de la OCDE sugieren que el deterioro de la salud mental juvenil responde a factores acumulados (presión académica, uso de redes sociales, inseguridad socioeconómica, preocupación por el cambio climático). En la evaluación de pacientes adolescentes puede ser relevante explorar sistemáticamente estos factores contextuales, además de los síntomas clínicos, para identificar el peso relativo de cada uno y orientar la intervención de forma más ajustada."
+    }
+  ],
+  "fuentes_verificadas": [
+    "https://www.infocop.es/intervencion-psicologica-eficaz-que-gana-impulso-frente-a-la-crisis-por-consumo-de-estimulantes/",
+    "https://www.infocop.es/verifactu-entrara-en-vigor-en-2027-recuerda-las-claves-del-nuevo-sistema-de-facturacion-para-autonomos-y-pymes/",
+    "https://www.infocop.es/el-malestar-psicologico-aumenta-entre-la-poblacion-infanto-juvenil-segun-la-ocde/",
+    "https://www.infocop.es/el-senado-aprueba-un-informe-sobre-salud-mental-y-prevencion-del-suicidio-que-reclama-mas-psicologos-y-refuerzo-de-la-atencion-psicologica/",
+    "https://www.infocop.es/el-congreso-aprueba-el-informe-de-salud-mental-mas-psicologos-en-el-sns-y-humanizacion-de-la-atencion-integral/"
+  ],
+  "carousel": {
+    "noticia_seleccionada": "La gestión de contingencias gana impulso como tratamiento de primera línea en el consumo de estimulantes",
+    "slide1": {
+      "titular": "Gestión de contingencias: 4 décadas de evidencia en adicciones",
+      "subtitulo": "Una intervención psicológica conductual gana reconocimiento como tratamiento de primera línea ante la crisis por consumo de estimulantes"
+    },
+    "slide2": {
+      "puntos": [
+        "Más de 100 estudios respaldan su eficacia en trastornos por consumo de estimulantes",
+        "Reduce la mortalidad en pacientes comparados con quienes no la reciben",
+        "Se basa en refuerzo conductual: incentivos por abstinencia y asistencia a sesiones",
+        "La APA la sitúa entre los tratamientos con mayor respaldo empírico disponible"
+      ]
+    },
+    "slide3": {
+      "puntos": [
+        "No sustituye otras intervenciones psicológicas, actúa como complemento eficaz",
+        "Sin farmacoterapia aprobada para estimulantes: el peso recae en la psicología",
+        "Las políticas amplían financiación para facilitar su implementación a gran escala",
+        "El reto ya no es demostrar eficacia, sino garantizar su adopción generalizada"
+      ]
+    },
+    "slide4": {
+      "puntos": [
+        "Puede explorarse su incorporación en protocolos de adherencia en la consulta",
+        "Útil en perfiles con baja motivación o dificultad para mantener la abstinencia",
+        "Combina bien con counselling y enfoques cognitivo-conductuales",
+        "El refuerzo positivo como palanca de cambio conductual real y medible"
+      ]
+    },
+    "slide5": {
+      "mensaje_autoridad": "La gestión de contingencias es hoy una de las estrategias con mayor respaldo empírico en el tratamiento del consumo de estimulantes, con décadas de evidencia acumulada y resultados positivos tanto en investigación como en contextos clínicos reales.",
+      "fuente_apa": "American Psychological Association (2026, abril). Monitor on Psychology, 57(3). Difundido por Infocop.",
+      "cta": "Síguenos en @IPP.Psicologia para más actualidad clínica"
+    }
+  },
+  "copy_rrss": "La gestión de contingencias lleva más de 4 décadas de evidencia y más de 100 estudios detrás. Hoy en el informe diario del IPP: intervención en adicciones, VERI*FACTU para autónomos y datos de la OCDE sobre salud mental juvenil.",
+  "hashtags": [
+    "#Psicología",
+    "#SaludMental",
+    "#GestiónDeContingencias",
+    "#Adicciones",
+    "#IPPPsicología"
+  ]
+}
