@@ -1,0 +1,119 @@
+{
+  "titulo": "Terapias de conversion como delito, proteccion digital de menores y psicologia en la IA: claves del 29 de junio de 2026",
+  "nota_editorial": "Las claves practicas que se recogen a continuacion forman parte del analisis editorial del Observatorio de Actualidad del IPP y no constituyen recomendacion clinica individualizada.",
+  "resumen": "El Congreso de los Diputados aprobo el 25 de junio la Proposicion de Ley Organica que incorpora un nuevo articulo al Codigo Penal para penalizar las terapias de conversion contra personas LGTBIQ+, texto que continua su tramitacion en el Senado. Paralelamente, el Proyecto de Ley Organica para la proteccion de menores en entornos digitales avanza en el Parlamento con la propuesta de elevar a 16 anos la edad minima de acceso a redes sociales sin autorizacion parental. En el ambito internacional, un articulo publicado en Nature Reviews Psychology (Zhao, 2026) defiende que los profesionales de la psicologia deben integrarse desde las primeras fases del diseno de los chatbots de IA conversacional, alertando de sus riesgos para la salud mental. Como alerta normativa urgente, el Real Decreto 239/2026 entra en vigor el 1 de julio de 2026, con plazo hasta el 1 de enero de 2027 para que los centros sanitarios tengan actualizados los expedientes de todo su personal.",
+  "audiencia": "ambos",
+  "nacionales": [
+    {
+      "tipo": "NORMATIVA",
+      "titular": "El Congreso aprueba tipificar como delito las terapias de conversion contra personas LGTBIQ+",
+      "cuerpo": "El Pleno del Congreso de los Diputados aprobo el 25 de junio, con 179 votos a favor, 32 en contra y 137 abstenciones, la Proposicion de Ley Organica que modifica la Ley Organica 10/1995 del Codigo Penal para incorporar un nuevo articulo 173 bis que tipifica como delito las terapias de conversion. Segun informa Infocop, la reforma establece penas de prision de seis meses a dos anos y multa de ocho a veinticuatro meses para quienes practiquen metodos orientados a modificar, reprimir o eliminar la orientacion sexual, la identidad sexual o la expresion de genero de una persona cuando afecten a su integridad o salud fisica o mental. Las penas se aplican en su mitad superior cuando la victima sea menor de edad, cuando exista violencia o intimidacion, o cuando haya animo de lucro. Las denominadas terapias de conversion ya estaban prohibidas administrativamente desde la Ley 4/2023, pero hasta ahora no figuraban como delito penal. El texto debe recibir todavia el respaldo del Senado para su aprobacion definitiva y posterior entrada en vigor.",
+      "fuente": "Infocop (publicacion del Consejo General de la Psicologia de Espana)",
+      "url": "https://www.infocop.es/el-congreso-aprueba-tipificar-como-delito-las-terapias-de-conversion-contra-las-personas-lgtbiq/"
+    },
+    {
+      "tipo": "SALUD PUBLICA",
+      "titular": "El proyecto de ley de proteccion digital de menores propone elevar a 16 anos la edad minima en redes sociales",
+      "cuerpo": "El Proyecto de Ley Organica para la proteccion de menores en entornos digitales, en tramitacion parlamentaria desde septiembre de 2025, propone elevar de 14 a 16 anos la edad minima para registrarse en redes sociales sin autorizacion parental. Segun informa el diario Que!, el texto establece que las plataformas deberan implementar sistemas de verificacion de edad reales y eficaces, y que los fabricantes de dispositivos moviles deberan incluir control parental activado por defecto. El proyecto es relevante para la psicologia infantojuvenil: segun los datos que motivaron la iniciativa, el 83,5% de los adolescentes espanoles tiene perfil en tres o mas plataformas y casi la mitad accede por primera vez a contenido pornografico de forma casual durante la navegacion. La Agencia Espanola de Proteccion de Datos ha advertido de que cualquier sistema de verificacion de edad debe garantizar que solo se acredite el rango de edad, sin reutilizacion de datos y con auditorias independientes. La tramitacion parlamentaria completa puede extenderse entre seis meses y dos anos.",
+      "fuente": "Diario Que! (29 de junio de 2026)",
+      "url": "https://www.que.es/2026/06/29/tiktok-hiperconectividad-edad-minima/"
+    }
+  ],
+  "internacionales": [
+    {
+      "tipo": "INVESTIGACION",
+      "titular": "Un articulo en Nature Reviews Psychology reclama integrar la psicologia desde el diseno de los chatbots de IA",
+      "cuerpo": "Un articulo publicado en Nature Reviews Psychology (Zhao, 2026) defiende que la participacion de profesionales de la psicologia en el desarrollo de los sistemas de inteligencia artificial conversacional no debe limitarse a las revisiones eticas, sino estar presente desde las primeras fases de diseno, evaluacion y supervision. La autora advierte de que los chatbots actuales muestran dificultades para identificar adecuadamente senales de riesgo psicologico elevado, como ideacion suicida o sintomas obsesivo-compulsivos. El articulo subraya ademas que las interacciones con estos sistemas pueden activar procesos similares a los de determinadas relaciones sociales, favoreciendo vinculos emocionales unidireccionales y relaciones parasociales. Propone incorporar variables de bienestar emocional, autoeficacia y calidad de la relacion terapeutica en la evaluacion de estos sistemas, en lugar de depender exclusivamente de indicadores de uso o satisfaccion. La difusion de esta posicion fue recogida por Infocop el 29 de junio de 2026.",
+      "fuente": "Infocop, a partir de: Zhao, X. (2026). Nature Reviews Psychology, 5, 304-306",
+      "url": "https://www.infocop.es/urge-integrar-la-ciencia-psicologica-en-el-desarrollo-de-la-ia-conversacional/"
+    }
+  ],
+  "papers": [
+    {
+      "apa": "Zhao, X. (2026). Psychologists must be involved in building conversational AI chatbots. Nature Reviews Psychology, 5, 304-306. https://doi.org/10.1038/s44159-026-00564-z",
+      "doi": "10.1038/s44159-026-00564-z",
+      "hallazgo": "Los chatbots de IA conversacional pueden generar vinculos emocionales unidireccionales y muestran dificultades para detectar adecuadamente senales de riesgo psicologico. Las metricas habituales de satisfaccion o retencion resultan insuficientes para evaluar su impacto en el bienestar.",
+      "implicacion": "Los resultados sugieren que puede ser relevante que los profesionales de la psicologia clinica participen activamente en la evaluacion y supervision de los sistemas de IA conversacional empleados en contextos de salud mental, aportando criterios de bienestar psicologico y experiencia en la deteccion de riesgo."
+    }
+  ],
+  "herramientas": [
+    {
+      "nombre": "Sistemas de verificacion de identidad digital con garantias de privacidad",
+      "descripcion": "La tramitacion de la ley de proteccion digital de menores abre el debate sobre el uso de herramientas de verificacion de edad que permitan acreditar el rango etario sin revelar la identidad, con prohibicion de reutilizacion de datos y sometidas a auditoria independiente. Estas herramientas pueden tener implicaciones en el acceso de menores a plataformas de salud mental digital."
+    }
+  ],
+  "alertas": [
+    {
+      "estado": "APROBADO",
+      "titulo": "Real Decreto 239/2026: plazo de adaptacion para centros de psicologia hasta el 1 de enero de 2027",
+      "descripcion": "El Real Decreto 239/2026, de 25 de marzo, publicado en el BOE el 26 de marzo de 2026, entra en vigor el 1 de julio de 2026. Los centros y consultas sanitarios de psicologia disponen de seis meses, hasta el 1 de enero de 2027, para tener actualizados los expedientes personales de todo su personal sanitario, con independencia de su modalidad contractual o de si prestan servicios de forma presencial o telemática. La obligacion de garantizar la titulacion habilitante (Especialista en Psicologia Clinica o Master en Psicologia General Sanitaria junto con el Grado en Psicologia) pasa a ser permanente y puede ser verificada por las autoridades sanitarias en cualquier momento. La adaptacion de la oferta asistencial por parte de las comunidades autonomas tiene un plazo de hasta el 1 de julio de 2027."
+    },
+    {
+      "estado": "EN TRAMITACION",
+      "titulo": "Tipificacion penal de las terapias de conversion: el texto pasa al Senado",
+      "descripcion": "La Proposicion de Ley Organica que incorpora el articulo 173 bis al Codigo Penal para penalizar las terapias de conversion fue aprobada por el Pleno del Congreso el 25 de junio de 2026. El texto debe recibir todavia el respaldo del Senado antes de su aprobacion definitiva. Segun informa Infocop, la reforma no afecta a los metodos que proporcionen apoyo, acompanamiento o comprension respecto a la orientacion sexual o la identidad de genero, siempre que se desarrollen conforme a los estandares profesionales internacionales."
+    }
+  ],
+  "prioridades": [
+    {
+      "titulo": "Actualizacion documental del personal en centros y consultas antes del 1 de enero de 2027",
+      "descripcion": "Con la entrada en vigor del Real Decreto 239/2026 el 1 de julio de 2026, puede ser util revisar en los proximos meses si todos los profesionales que ejercen en el centro o consulta, incluidos los autonomos y los que prestan servicios por via telematica, tienen actualizado su expediente con la titulacion habilitante correspondiente. Una auditoria interna antes del plazo puede contribuir a evitar incumplimientos."
+    },
+    {
+      "titulo": "Abordaje clinico de la hiperconectividad y el uso de redes sociales en menores",
+      "descripcion": "La tramitacion de la ley de proteccion digital de menores puede ser oportuna para revisar los protocolos de evaluacion de hiperconectividad en la consulta infantojuvenil. Los datos que acompanan al proyecto de ley sugieren que puede ser relevante explorar el historial de uso digital como parte de la anamnesis en adolescentes, especialmente en casos de ansiedad, problemas de sueno o dificultades de regulacion emocional."
+    },
+    {
+      "titulo": "Posicionamiento critico ante el uso de IA conversacional con pacientes",
+      "descripcion": "Los hallazgos del articulo de Zhao (2026) en Nature Reviews Psychology sugieren que puede ser oportuno reflexionar sobre el papel que los chatbots de IA ocupan o pueden ocupar en el acompanamiento de los pacientes fuera de sesion. Evaluar si el sistema utilizado tiene capacidad para detectar senales de riesgo y derivar adecuadamente puede ser un criterio relevante para su uso responsable en contexto clinico."
+    }
+  ],
+  "fuentes_verificadas": [
+    "https://www.infocop.es/el-congreso-aprueba-tipificar-como-delito-las-terapias-de-conversion-contra-las-personas-lgtbiq/",
+    "https://www.infocop.es/urge-integrar-la-ciencia-psicologica-en-el-desarrollo-de-la-ia-conversacional/",
+    "https://www.que.es/2026/06/29/tiktok-hiperconectividad-edad-minima/",
+    "https://www.nature.com/articles/s44159-026-00564-z",
+    "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-6975"
+  ],
+  "carousel": {
+    "noticia_seleccionada": "El Congreso aprueba tipificar como delito las terapias de conversion contra personas LGTBIQ+",
+    "slide1": {
+      "titular": "Terapias de conversion: el Congreso vota que sean delito",
+      "subtitulo": "El texto pasa ahora al Senado para su aprobacion definitiva"
+    },
+    "slide2": {
+      "puntos": [
+        "Aprobado con 179 votos a favor el 25 de junio de 2026 en el Pleno del Congreso",
+        "Se incorpora el articulo 173 bis al Codigo Penal con penas de 6 meses a 2 anos",
+        "Las penas se agravan si la victima es menor de edad o hay animo de lucro"
+      ]
+    },
+    "slide3": {
+      "puntos": [
+        "Ya estaban prohibidas administrativamente desde la Ley 4/2023",
+        "Ahora se propone elevar la respuesta de infraccion administrativa a delito penal",
+        "No afecta a los acompanamentos psicologicos desarrollados conforme a estandares profesionales"
+      ]
+    },
+    "slide4": {
+      "puntos": [
+        "Numerosos organismos internacionales alertan del dano psicologico que producen",
+        "El Consejo General de la Psicologia de Espana ha manifestado su rechazo reiterado a estas practicas",
+        "El texto necesita el respaldo del Senado para entrar en vigor"
+      ]
+    },
+    "slide5": {
+      "mensaje_autoridad": "Las terapias de conversion son perniciosas, carecen de respaldo cientifico y pueden ocasionar graves consecuencias para el bienestar y la salud fisica y mental de quienes las sufren",
+      "fuente_apa": "Infocop, 29 de junio de 2026 (basado en el texto de la Proposicion de Ley Organica aprobada por el Congreso)",
+      "cta": "Siguenos en @IPP.Psicologia"
+    }
+  },
+  "copy_rrss": "El Congreso ha votado que las terapias de conversion sean delito penal. Una noticia relevante para todos los profesionales de la psicologia y para las personas LGTBIQ+. El texto pasa ahora al Senado.",
+  "hashtags": [
+    "#PsicologiaClinica",
+    "#SaludMental",
+    "#TerapiasDeConversion",
+    "#ProteccionDigital",
+    "#IAySalud"
+  ]
+}
