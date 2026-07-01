@@ -1,0 +1,114 @@
+{
+  "titulo": "Retirada de antidepresivos, salud mental juvenil y entrada en vigor de nuevas garantías para consultas de psicología: claves del 1 de julio de 2026",
+  "nota_editorial": "Las claves prácticas que se recogen a continuación forman parte del análisis editorial del Observatorio de Actualidad del IPP y no constituyen recomendación clínica individualizada.",
+  "resumen": "La evidencia científica reciente confirma que las intervenciones psicológicas pueden desempeñar un papel relevante en la prevención de recaídas durante la retirada de antidepresivos, según recoge un análisis publicado por Infocop. El Consejo General de la Psicología ha puesto a disposición del Ministerio de Asuntos Exteriores la intervención de los GIPEC para atender las posibles consecuencias psicológicas del terremoto en Venezuela. El VI Informe Mundial de Salud Mental de AXA, elaborado con Ipsos, sitúa a España como el cuarto país europeo con peor percepción de salud psicológica: el 44% de los jóvenes de 25 a 34 años declara algún trastorno y el coste económico se mantiene como principal barrera de acceso a la ayuda profesional. Además, el Real Decreto 239/2026 entra en vigor hoy, reforzando las garantías de titulación y competencia profesional exigibles a los centros y consultas de psicología. En el ámbito de la investigación, un ensayo clínico publicado en JAMA Psychiatry evalúa la psilocibina combinada con acompañamiento psicoterapéutico en depresión resistente al tratamiento, con resultados mixtos frente a placebo activo.",
+  "audiencia": "ambos",
+  "nacionales": [
+    {
+      "tipo": "CLÍNICA",
+      "titular": "La psicoterapia puede prevenir recaídas en la retirada de antidepresivos, según la evidencia científica reciente",
+      "cuerpo": "Un análisis publicado por Infocop recoge la evidencia científica disponible sobre la retirada de antidepresivos, un proceso que puede asociarse a síntomas de discontinuación de intensidad variable, capaces en ocasiones de confundirse con una recaída depresiva. Un metaanálisis publicado en The Lancet Psychiatry (Henssler et al., 2024) documentó la incidencia y gravedad de estos síntomas tras la reducción o interrupción del tratamiento farmacológico. Por otro lado, distintos metaanálisis —entre ellos los de Breedvelt et al. (2021), publicados en JAMA Psychiatry y en The British Journal of Psychiatry— señalan que las intervenciones psicológicas pueden contribuir a reducir el riesgo de recaída en personas que discontinúan antidepresivos, mientras que el metaanálisis de Guidi y Fava (2021) analiza los modelos de combinación secuencial de farmacoterapia y psicoterapia en el trastorno depresivo mayor. Para la práctica psicológica, esta evidencia subraya la importancia de diferenciar los síntomas de discontinuación de una recaída y de considerar la psicoterapia como recurso en el acompañamiento de estos procesos, en coordinación con el profesional que prescribe la medicación.",
+      "fuente": "Infocop — portal de noticias del Consejo General de la Psicología de España",
+      "url": "https://www.infocop.es/retirada-de-antidepresivos-evidencia-cientifica-sobre-sintomas-de-discontinuacion-recaidas-y-el-papel-de-la-psicoterapia/"
+    },
+    {
+      "tipo": "SALUD PÚBLICA",
+      "titular": "El Consejo General de la Psicología ofrece al Ministerio de Asuntos Exteriores la intervención de los GIPEC tras el terremoto en Venezuela",
+      "cuerpo": "Ante las consecuencias del reciente terremoto ocurrido en Venezuela, el Consejo General de la Psicología de España (COP) ha puesto a disposición del Ministerio de Asuntos Exteriores, Unión Europea y Cooperación la capacidad de intervención de los Grupos de Intervención Psicológica en Emergencias y Catástrofes (GIPEC). El ofrecimiento se formalizó mediante una carta del presidente del COP, Francisco Santolaya Ochando, al secretario de Estado de Asuntos Exteriores y Globales, Diego Martínez Belío, registrada ante la Administración General del Estado. El COP señala que, si las circunstancias lo requieren, los GIPEC podrían prestar apoyo psicológico tanto a familiares de ciudadanos españoles afectados como a ciudadanos venezolanos residentes en España que precisen acompañamiento psicológico. Cualquier actuación se desarrollaría de forma coordinada con el Ministerio y en complementariedad con los recursos públicos existentes.",
+      "fuente": "Infocop — portal de noticias del Consejo General de la Psicología de España",
+      "url": "https://www.infocop.es/el-cop-ofrece-al-ministerio-de-asuntos-exteriores-la-intervencion-de-los-gipec-para-atender-las-consecuencias-psicologicas-del-terremoto-en-venezuela/"
+    },
+    {
+      "tipo": "SALUD PÚBLICA",
+      "titular": "España es el cuarto país europeo con peor percepción de salud mental y el coste económico frena el acceso a la ayuda psicológica, según AXA",
+      "cuerpo": "Según informa el diario Qué!, el VI Informe Mundial de Salud Mental (Mind Health Report) de AXA, elaborado con Ipsos entre 19.000 personas de 18 a 75 años en 18 países, sitúa a España como el cuarto país europeo con peor percepción de salud psicológica, solo por detrás de Reino Unido, Irlanda y Turquía. El 33% de la población española cree padecer algún trastorno de salud mental, porcentaje que se eleva al 44% entre quienes tienen de 25 a 34 años y al 42% entre los de 18 a 24. El 28% de la población española presenta niveles graves o extremos de depresión, ansiedad o estrés, un punto por encima de la media europea (27%). A pesar de estas cifras, el 47% ha visitado a algún profesional de la salud y el 19% ha acudido al psicólogo, aunque el coste económico se mantiene como el principal freno, señalado por el 36% de las personas encuestadas.",
+      "fuente": "Diario Qué!, con datos del VI Informe Mundial de Salud Mental de AXA, elaborado con Ipsos",
+      "url": "https://www.que.es/2026/07/01/salud-mental-jovenes-espana-informe/"
+    }
+  ],
+  "internacionales": [],
+  "papers": [
+    {
+      "apa": "Mertens, L. J., Koslowski, M., Betzler, F., Brand, M., Evens, R., Kärtner, L., Jungaberle, A., Jungaberle, H., Majić, T., Schmitz, C. N., Ströhle, A., Scharf, D., Spangemacher, M., Wolff, M., Assadi, Z., Bahri, S., Becher, L., Färber, L. V., Kirchen, N., Kulakova, E., Kunz, L., Meijer, A., Rohrmoser, B., Wellek, S., Berger, M. M., & Gründer, G. (2026). Efficacy and safety of psilocybin in treatment-resistant major depression: The EPISODE randomized clinical trial. JAMA Psychiatry, 83(5), 448–460. https://doi.org/10.1001/jamapsychiatry.2026.0132",
+      "doi": "10.1001/jamapsychiatry.2026.0132",
+      "hallazgo": "El ensayo clínico EPISODE, con 144 personas con depresión mayor resistente al tratamiento distribuidas en distintos regímenes de dosificación y con apoyo psicoterapéutico asociado, comparó psilocibina (5 mg y 25 mg) frente a un placebo activo (nicotinamida). Los resultados muestran una reducción de síntomas dentro de la primera semana en el grupo de psilocibina, pero el ensayo no logró distinguir la psilocibina del placebo activo en la medida de resultado primaria —mejoría clínicamente significativa— evaluada en la semana 6.",
+      "implicacion": "Los resultados sugieren que la eficacia diferencial de la psilocibina combinada con acompañamiento psicoterapéutico en depresión resistente al tratamiento todavía no está establecida con claridad; los propios autores señalan la dificultad de mantener un cegamiento adecuado como una limitación relevante de este tipo de diseños, lo que puede orientar la lectura crítica de estudios similares."
+    }
+  ],
+  "herramientas": [
+    {
+      "nombre": "Aplicaciones de inteligencia artificial conversacional para el apoyo emocional",
+      "descripcion": "El uso de plataformas de inteligencia artificial conversacional como primer recurso ante dudas de salud mental continúa en aumento, según los datos recogidos en el VI Informe Mundial de Salud Mental de AXA. Estas herramientas pueden ofrecer un primer acompañamiento accesible y disponible en todo momento, pero la evidencia disponible y las propias entidades del sector insisten en que no sustituyen la evaluación y el seguimiento de un profesional de la psicología, en especial en casos de mayor gravedad clínica."
+    }
+  ],
+  "alertas": [
+    {
+      "estado": "APROBADO",
+      "titulo": "El Real Decreto 239/2026 entra en vigor hoy: nuevas garantías de titulación exigibles a centros y consultas de psicología",
+      "descripcion": "El Real Decreto 239/2026, publicado en el BOE el 26 de marzo de 2026, entra en vigor el 1 de julio de 2026. La norma añade un nuevo artículo 7 al Real Decreto 1277/2003 que obliga a los centros, servicios y consultas sanitarias —incluidas las de psicología— a garantizar de forma permanente que la atención se presta por profesionales con titulación oficial y las competencias adecuadas, y a disponer de un expediente personal actualizado de todo el personal sanitario que preste servicios bajo cualquier modalidad o vinculación. Los centros disponen de un plazo de seis meses desde la entrada en vigor —hasta el 1 de enero de 2027— para tener actualizada esta información, mientras que las comunidades autónomas disponen de un año —hasta el 1 de julio de 2027— para adaptar la oferta asistencial a las modificaciones introducidas en los anexos. La supervisión y aplicación práctica de estas obligaciones corresponde a cada comunidad autónoma."
+    }
+  ],
+  "prioridades": [
+    {
+      "titulo": "Diferenciar síntomas de discontinuación de una recaída depresiva",
+      "descripcion": "A la luz de la evidencia reciente sobre retirada de antidepresivos, puede ser útil revisar en consulta el momento de aparición, la duración y las características de los síntomas que refiere el paciente tras reducir o suspender la medicación, para no confundirlos con una recaída y ajustar así el acompañamiento terapéutico."
+    },
+    {
+      "titulo": "Revisión del expediente de personal ante la entrada en vigor del Real Decreto 239/2026",
+      "descripcion": "Con la entrada en vigor de la nueva norma, puede ser oportuno revisar que la consulta o centro disponga de un expediente actualizado con la titulación oficial y, en su caso, la especialidad de cada profesional que presta servicios, de cara al plazo de seis meses previsto para tener esta documentación al día."
+    },
+    {
+      "titulo": "Barreras económicas de acceso como área de reflexión en la oferta de servicios",
+      "descripcion": "Ante los datos que señalan el coste económico como principal freno para buscar ayuda psicológica, puede ser relevante valorar fórmulas que faciliten el acceso —como tarifas escalonadas, sesiones de menor duración o primeras consultas orientativas—, pensando especialmente en la población joven, identificada como la más afectada."
+    }
+  ],
+  "fuentes_verificadas": [
+    "https://www.infocop.es/retirada-de-antidepresivos-evidencia-cientifica-sobre-sintomas-de-discontinuacion-recaidas-y-el-papel-de-la-psicoterapia/",
+    "https://www.infocop.es/el-cop-ofrece-al-ministerio-de-asuntos-exteriores-la-intervencion-de-los-gipec-para-atender-las-consecuencias-psicologicas-del-terremoto-en-venezuela/",
+    "https://www.que.es/2026/07/01/salud-mental-jovenes-espana-informe/",
+    "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-6975",
+    "https://www.axa.com/en/press/press-releases/2026-mind-health-report",
+    "https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2846478"
+  ],
+  "carousel": {
+    "noticia_seleccionada": "España es el cuarto país europeo con peor percepción de salud mental y el coste económico frena el acceso a la ayuda psicológica, según AXA",
+    "slide1": {
+      "titular": "España, cuarto país europeo con peor salud mental",
+      "subtitulo": "El coste económico frena la ayuda psicológica, según AXA"
+    },
+    "slide2": {
+      "puntos": [
+        "El 33% de los españoles cree tener algún trastorno de salud mental",
+        "Entre los jóvenes de 25 a 34 años, la cifra sube al 44%",
+        "España es el cuarto país europeo con peor percepción psicológica"
+      ]
+    },
+    "slide3": {
+      "puntos": [
+        "El 28% presenta niveles graves o extremos de ansiedad, depresión o estrés",
+        "El coste económico es el principal freno para buscar ayuda, según el 36%",
+        "El 19% de los españoles ha acudido al psicólogo en el último año"
+      ]
+    },
+    "slide4": {
+      "puntos": [
+        "Puede ser útil explorar fórmulas de acceso más accesibles para pacientes jóvenes",
+        "La IA puede ofrecer un primer apoyo, pero no sustituye la atención profesional",
+        "Detectar barreras económicas en la primera consulta puede facilitar la continuidad"
+      ]
+    },
+    "slide5": {
+      "mensaje_autoridad": "El coste económico se mantiene como el principal freno para buscar ayuda psicológica, señalado por más de un tercio de la población encuestada.",
+      "fuente_apa": "AXA & Ipsos. (2026). VI Informe Mundial de Salud Mental (Mind Health Report 2026).",
+      "cta": "Síguenos en @IPP.Psicologia"
+    }
+  },
+  "copy_rrss": "España es el cuarto país europeo con peor salud mental y el 44% de los jóvenes de 25 a 34 años dice tener un trastorno. El coste económico sigue siendo la principal barrera para pedir ayuda.",
+  "hashtags": [
+    "#SaludMental",
+    "#Psicología",
+    "#JuventudYSaludMental",
+    "#AccesoALaSalud",
+    "#IPPPsicologia"
+  ]
+}
