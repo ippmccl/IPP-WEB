@@ -1,0 +1,125 @@
+{
+  "titulo": "Reforma de la LOPIVI, intervención del COP en Venezuela y psicólogos en el diseño de IA conversacional: claves del 2 de julio de 2026",
+  "nota_editorial": "Las claves prácticas que se recogen a continuación forman parte del análisis editorial del Observatorio de Actualidad del IPP y no constituyen recomendación clínica individualizada.",
+  "resumen": "El Gobierno ha sometido a audiencia pública el anteproyecto de reforma de la LOPIVI, que prohíbe expresamente el uso del síndrome de alienación parental en procedimientos judiciales y refuerza el derecho de la infancia a ser escuchada. El Consejo General de la Psicología ha ofrecido al Ministerio de Asuntos Exteriores la intervención de los GIPEC para atender las consecuencias psicológicas del terremoto en Venezuela. El Ayuntamiento de Huesca amplía sus recursos de apoyo psicológico dirigidos a personas mayores y sus familias. La Organización Mundial de la Salud ha presentado en el Fragility Forum de Washington su programa Step-by-Step de autoayuda digital para la depresión, con resultados favorables en ensayos clínicos en Líbano. Un artículo publicado en Nature Reviews Psychology defiende la necesidad de incorporar a psicólogos en el diseño de chatbots conversacionales de inteligencia artificial.",
+  "audiencia": "ambos",
+  "nacionales": [
+    {
+      "tipo": "NORMATIVA",
+      "titular": "El Gobierno somete a audiencia pública la reforma de la LOPIVI para reforzar la protección de la infancia",
+      "cuerpo": "El Consejo de Ministros aprobó en primera vuelta, el 5 de mayo de 2026, el anteproyecto de reforma de la LOPIVI, actualmente en trámite de audiencia e información pública hasta el 15 de julio de 2026. El texto prohíbe expresamente la invocación del síndrome de alienación parental en procedimientos judiciales, refuerza el derecho de niños, niñas y adolescentes a ser escuchados, garantiza el acceso a servicios especializados con asistencia psicológica para las víctimas de violencia y exige formación especializada obligatoria para los profesionales que trabajan habitualmente con menores. La gestión y aplicación práctica de estas medidas dependerá del desarrollo normativo posterior.",
+      "fuente": "Infocop (Consejo General de la Psicología de España)",
+      "url": "https://www.infocop.es/el-gobierno-somete-a-audiencia-publica-la-reforma-de-la-lopivi-para-reforzar-la-proteccion-de-la-infancia/"
+    },
+    {
+      "tipo": "SALUD PÚBLICA",
+      "titular": "El COP ofrece al Ministerio de Asuntos Exteriores la intervención de los GIPEC para atender las consecuencias psicológicas del terremoto en Venezuela",
+      "cuerpo": "El Consejo General de la Psicología ha puesto a disposición del Ministerio de Asuntos Exteriores, Unión Europea y Cooperación la capacidad de intervención de los Grupos de Intervención Psicológica en Emergencias y Catástrofes (GIPEC), equipos especializados en atención psicológica en situaciones de crisis. El ofrecimiento, formalizado mediante carta del presidente de la Organización Colegial, Francisco Santolaya Ochando, se enmarca en la coordinación institucional y la complementariedad con los recursos públicos existentes, y quedaría condicionado a que las autoridades competentes lo consideren necesario.",
+      "fuente": "Consejo General de la Psicología de España (Infocop)",
+      "url": "https://www.infocop.es/el-cop-ofrece-al-ministerio-de-asuntos-exteriores-la-intervencion-de-los-gipec-para-atender-las-consecuencias-psicologicas-del-terremoto-en-venezuela/"
+    },
+    {
+      "tipo": "SALUD PÚBLICA",
+      "titular": "El Ayuntamiento de Huesca ofrecerá apoyo psicológico a las personas mayores y sus familias",
+      "cuerpo": "El Ayuntamiento de Huesca ha puesto en marcha una Asesoría Integral para Personas Mayores que integra apoyo psicológico, acompañamiento familiar y orientación jurídica especializada, dirigida a personas mayores de 65 años y a sus familias, con el objetivo de ofrecer una atención integral ante las necesidades que pueden surgir durante el proceso de envejecimiento. La gestión de este tipo de recursos depende de cada administración local.",
+      "fuente": "Infocop, según información del Ayuntamiento de Huesca",
+      "url": "https://www.infocop.es/el-ayuntamiento-de-huesca-amplia-los-recursos-del-area-de-servicios-sociales-dirigidos-a-las-personas-mayores-y-sus-familias/"
+    }
+  ],
+  "internacionales": [
+    {
+      "tipo": "SALUD PÚBLICA",
+      "titular": "La OMS presenta el programa Step-by-Step como innovación destacada en salud mental para contextos humanitarios",
+      "cuerpo": "La Organización Mundial de la Salud, en colaboración con la Organización Panamericana de la Salud y el Programa Nacional de Salud Mental de Líbano, presentó el programa Step-by-Step en el Fragility Forum del Grupo Banco Mundial, celebrado en Washington. Se trata de una intervención digital gratuita y guiada por facilitadores no especializados que, en ensayos clínicos realizados en Líbano con cerca de 1.250 participantes, redujo los síntomas depresivos en más de un 50% en casi la mitad de los participantes libaneses (46%) y en más de un tercio de los participantes sirios (37%), frente a aproximadamente un 14% en quienes no utilizaron el programa. El programa ya se utiliza a nivel nacional en Líbano y Tailandia.",
+      "fuente": "Organización Mundial de la Salud (who.int)",
+      "url": "https://www.who.int/news/item/17-06-2026-who-step-by-step-programme-recognized-as-a-promising-innovation-for-mental-health-in-humanitarian-settings"
+    }
+  ],
+  "papers": [
+    {
+      "apa": "Zhao, X. (2026). Psychologists must be involved in building conversational AI chatbots. Nature Reviews Psychology, 5, 304–306. https://doi.org/10.1038/s44159-026-00564-z",
+      "doi": "10.1038/s44159-026-00564-z",
+      "hallazgo": "La autora sostiene que la participación de profesionales de la psicología es imprescindible en el diseño, desarrollo, evaluación y supervisión de los chatbots conversacionales de IA, dado que algunos sistemas muestran dificultades para reconocer señales de riesgo psicológico elevado o responder adecuadamente ante situaciones de malestar emocional.",
+      "implicacion": "Los resultados sugieren que puede ser relevante que los equipos de desarrollo tecnológico incorporen experiencia psicológica desde las fases iniciales de diseño, y que la evaluación de estos sistemas incluya variables de bienestar emocional además de indicadores de uso o satisfacción."
+    }
+  ],
+  "herramientas": [
+    {
+      "nombre": "Programas de autoayuda psicológica digital basados en evidencia",
+      "descripcion": "Intervenciones digitales guiadas por facilitadores no especializados, orientadas al manejo de síntomas depresivos y de ansiedad mediante módulos estructurados basados en técnicas psicológicas validadas científicamente, especialmente relevantes en contextos de recursos limitados."
+    },
+    {
+      "nombre": "Herramientas de evaluación neuropsicológica digital",
+      "descripcion": "Plataformas de evaluación neuropsicológica digital disponibles en el mercado español, que permiten la administración y corrección automatizada de pruebas cognitivas validadas para uso clínico."
+    }
+  ],
+  "alertas": [
+    {
+      "estado": "EN TRAMITACIÓN",
+      "titulo": "Reforma de la LOPIVI",
+      "descripcion": "El anteproyecto que modifica la Ley Orgánica 8/2021 de protección integral a la infancia y la adolescencia frente a la violencia se encuentra en trámite de audiencia e información pública hasta el 15 de julio de 2026. Entre las medidas propuestas figura la prohibición expresa de invocar el síndrome de alienación parental en procedimientos judiciales, sin que esto suponga aún su aprobación definitiva."
+    }
+  ],
+  "prioridades": [
+    {
+      "titulo": "Actualizar criterios de valoración en casos de custodia y violencia de género",
+      "descripcion": "A la luz de la reforma de la LOPIVI, puede ser útil revisar los protocolos de evaluación psicológica en casos de custodia, dado que el anteproyecto prohíbe expresamente plantear el síndrome de alienación parental como criterio sin aval científico, aunque la medida aún está en tramitación."
+    },
+    {
+      "titulo": "Conocer los recursos de intervención en emergencias y catástrofes",
+      "descripcion": "Puede ser relevante mantenerse informado sobre los protocolos y dispositivos especializados de intervención psicológica en emergencias, como los GIPEC, especialmente para quienes puedan verse implicados en la atención a personas afectadas por catástrofes."
+    },
+    {
+      "titulo": "Revisar el papel de la psicología en el diseño de herramientas de IA conversacional",
+      "descripcion": "Puede ser oportuno explorar cómo se están integrando, o no, criterios psicológicos en las herramientas digitales de apoyo emocional antes de valorar su recomendación a pacientes, dado que la evidencia sugiere limitaciones de estos sistemas para detectar señales de riesgo."
+    }
+  ],
+  "fuentes_verificadas": [
+    "https://www.infocop.es/el-gobierno-somete-a-audiencia-publica-la-reforma-de-la-lopivi-para-reforzar-la-proteccion-de-la-infancia/",
+    "https://www.infocop.es/el-cop-ofrece-al-ministerio-de-asuntos-exteriores-la-intervencion-de-los-gipec-para-atender-las-consecuencias-psicologicas-del-terremoto-en-venezuela/",
+    "https://www.infocop.es/el-ayuntamiento-de-huesca-amplia-los-recursos-del-area-de-servicios-sociales-dirigidos-a-las-personas-mayores-y-sus-familias/",
+    "https://www.who.int/news/item/17-06-2026-who-step-by-step-programme-recognized-as-a-promising-innovation-for-mental-health-in-humanitarian-settings",
+    "https://www.nature.com/articles/s44159-026-00564-z"
+  ],
+  "carousel": {
+    "noticia_seleccionada": "El Gobierno somete a audiencia pública la reforma de la LOPIVI para reforzar la protección de la infancia",
+    "slide1": {
+      "titular": "Reforma de la LOPIVI prohíbe el síndrome de alienación parental",
+      "subtitulo": "El anteproyecto refuerza la atención psicológica a la infancia víctima de violencia"
+    },
+    "slide2": {
+      "puntos": [
+        "El Consejo de Ministros aprobó el anteproyecto en primera vuelta el 5 de mayo de 2026.",
+        "Está en trámite de audiencia pública hasta el 15 de julio de 2026.",
+        "Prohíbe expresamente invocar el síndrome de alienación parental en procedimientos judiciales."
+      ]
+    },
+    "slide3": {
+      "puntos": [
+        "Refuerza el derecho de niños y adolescentes a ser escuchados en todos los procedimientos.",
+        "Garantiza acceso a servicios especializados con asistencia psicológica para las víctimas.",
+        "Consolida el modelo Barnahus para la atención integral a menores víctimas de violencia."
+      ]
+    },
+    "slide4": {
+      "puntos": [
+        "Exige formación especializada obligatoria a profesionales que trabajan habitualmente con menores.",
+        "Prohíbe la custodia compartida cuando exista riesgo para la salud psíquica del menor.",
+        "La aplicación práctica dependerá del desarrollo normativo posterior en cada territorio."
+      ]
+    },
+    "slide5": {
+      "mensaje_autoridad": "La violencia contra la infancia sigue siendo una realidad muy extendida, siendo especialmente preocupante el incremento de la violencia sexual y del acoso escolar.",
+      "fuente_apa": "Infocop (2026). El Gobierno somete a audiencia pública la reforma de la LOPIVI para reforzar la protección de la infancia.",
+      "cta": "síguenos en @IPP.Psicologia"
+    }
+  },
+  "copy_rrss": "El Gobierno somete a audiencia pública la reforma de la LOPIVI: prohíbe expresamente el síndrome de alienación parental y refuerza la atención psicológica a la infancia víctima de violencia.",
+  "hashtags": [
+    "#LOPIVI",
+    "#SaludMental",
+    "#Psicología",
+    "#ProtecciónInfantil",
+    "#IPP"
+  ]
+}
