@@ -1,0 +1,122 @@
+{
+  "titulo": "El BOE refuerza la privacidad del teléfono 024, la OMS publica guía para gobiernos y avances en psicoterapia: claves del 5 de julio de 2026",
+  "nota_editorial": "Las claves prácticas que se recogen a continuación forman parte del análisis editorial del Observatorio de Actualidad del IPP y no constituyen recomendación clínica individualizada.",
+  "resumen": "El Boletín Oficial del Estado publica una resolución que atribuye al Comisionado de Salud Mental del Ministerio de Sanidad la gestión del teléfono 024 y refuerza la privacidad de sus usuarios: las llamadas ya no figurarán en la factura y se tratarán como cobro revertido automático. La Organización Mundial de la Salud presenta una guía dirigida a diez sectores de gobierno para incorporar la salud mental en sus políticas públicas, con una hoja de ruta de ocho pasos. Una encuesta de la Asociación Americana de Psiquiatría revela que el 26% de sus miembros usa ya la inteligencia artificial para la toma de notas clínicas y que el 80% se muestra preocupado por la falta de formación específica en esta tecnología. Un artículo de revisión publicado en World Psychiatry recoge las principales innovaciones dirigidas a mejorar los resultados y el acceso a la psicoterapia.",
+  "audiencia": "ambos",
+  "nacionales": [
+    {
+      "tipo": "NORMATIVA",
+      "titular": "El BOE modifica la titularidad del teléfono 024 y refuerza la privacidad de las llamadas",
+      "cuerpo": "El teléfono 024, canal de ayuda a personas con riesgo de conducta suicida, pasa a tener como entidad prestataria del servicio al Comisionado de Salud Mental del Ministerio de Sanidad, en coherencia con la estructura orgánica establecida por el Real Decreto 718/2024. La resolución, fechada el 4 de junio de 2026 y publicada en el BOE el 17 de junio de 2026, establece que las llamadas al 024 serán gratuitas, no generarán facturación en origen para quien llama y no figurarán en la factura, siendo tratadas por los operadores como llamadas de cobro revertido automático. La modificación responde a una petición del propio Comisionado de Salud Mental, fechada el 2 de marzo de 2026, para reforzar las garantías de privacidad de los usuarios sin declarar un anonimato absoluto. La resolución produce efectos desde el 18 de junio de 2026.",
+      "fuente": "Boletín Oficial del Estado (BOE-A-2026-13201)",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-13201"
+    }
+  ],
+  "internacionales": [
+    {
+      "tipo": "SALUD PÚBLICA",
+      "titular": "La OMS publica una guía para integrar la salud mental en las políticas de diez sectores de gobierno",
+      "cuerpo": "La Organización Mundial de la Salud ha publicado una guía sobre políticas y acciones estratégicas para proteger y promover la salud mental desde diez sectores de gobierno: cultura, arte y deporte; defensa y veteranos; educación; empleo; medio ambiente; salud; interior; justicia; protección social; y desarrollo urbano y rural. El documento, que amplía la guía sobre planes estratégicos de salud mental publicada anteriormente por la OMS, identifica directrices políticas, acciones estratégicas e indicadores de ejemplo para cada sector, y propone una hoja de ruta de ocho pasos para que los gobiernos pasen del compromiso a la acción, desde el diálogo de alto nivel hasta la implementación y evaluación de las políticas.",
+      "fuente": "Organización Mundial de la Salud (OMS)",
+      "url": "https://www.who.int/news/item/24-11-2025-who-launches-new-guidance-to-promote-mental-health-across-all-government-sectors"
+    },
+    {
+      "tipo": "HERRAMIENTA",
+      "titular": "Una encuesta de la Asociación Americana de Psiquiatría refleja uso creciente de inteligencia artificial y falta de formación",
+      "cuerpo": "Una encuesta de la Asociación Americana de Psiquiatría (APA) entre sus miembros muestra que, aunque la mayoría de los psiquiatras no utiliza todavía inteligencia artificial en su práctica, quienes sí lo hacen se muestran optimistas sobre su potencial. El uso más frecuente es el apoyo a la toma de notas clínicas (26%), seguido de la realización de tareas administrativas (16%). El 80% de los encuestados se declara muy o moderadamente preocupado por la falta de formación adecuada en inteligencia artificial entre los profesionales de la salud mental.",
+      "fuente": "American Psychiatric Association (Psychiatry.org)",
+      "url": "https://www.psychiatry.org/news-room/news-releases/survey-of-apa-members-about-ai-use-in-practice"
+    }
+  ],
+  "papers": [
+    {
+      "apa": "Cuijpers, P., Harrer, M., & Furukawa, T. A. (2026). Innovations to improve outcomes and uptake of psychotherapies for mental disorders: A state-of-the-art review. World Psychiatry. https://doi.org/10.1002/wps.70002",
+      "doi": "10.1002/wps.70002",
+      "hallazgo": "La revisión examina las innovaciones más recientes dirigidas a mejorar la eficacia, la eficiencia y el acceso a las psicoterapias para los trastornos mentales, incluyendo el papel creciente del aprendizaje automático en la predicción de resultados, la detección, el diagnóstico y la administración clínica.",
+      "implicacion": "Los autores sugieren que estas innovaciones podrían orientar futuras líneas de mejora en la práctica clínica, aunque su implementación efectiva dependería de más investigación y de la adaptación a cada contexto asistencial."
+    }
+  ],
+  "herramientas": [
+    {
+      "nombre": "Herramientas de inteligencia artificial conversacional en la práctica clínica",
+      "descripcion": "Aplicaciones que distintos profesionales de la salud mental empiezan a incorporar para tareas de apoyo como la documentación clínica o la gestión administrativa; su uso creciente, señalado en encuestas profesionales, plantea la necesidad de una formación específica sobre sus límites y su uso responsable."
+    },
+    {
+      "nombre": "Líneas telefónicas públicas de ayuda ante riesgo de conducta suicida",
+      "descripcion": "Servicios de atención telefónica gratuita, como el 024 en España, que ofrecen apoyo profesional inmediato a personas con ideación o riesgo de conducta suicida, con garantías reforzadas de privacidad para facilitar su uso."
+    }
+  ],
+  "alertas": [
+    {
+      "estado": "APROBADO",
+      "titulo": "Modificación de la titularidad y las garantías de privacidad del teléfono 024",
+      "descripcion": "El BOE ha publicado la resolución que atribuye al Comisionado de Salud Mental del Ministerio de Sanidad la prestación del servicio 024 y establece que las llamadas serán gratuitas y no figurarán en la factura del usuario, con efectos desde el 18 de junio de 2026."
+    },
+    {
+      "estado": "EN DESARROLLO",
+      "titulo": "Hoja de ruta de la OMS para integrar la salud mental en las políticas de gobierno",
+      "descripcion": "La OMS propone una guía con directrices y una hoja de ruta de ocho pasos para que los gobiernos incorporen la salud mental en las políticas de diez sectores; se trata de una propuesta orientativa cuya aplicación depende de la voluntad y los recursos de cada país."
+    }
+  ],
+  "prioridades": [
+    {
+      "titulo": "Privacidad en la derivación a líneas de ayuda telefónica",
+      "descripcion": "A raíz del refuerzo de garantías del 024, puede ser útil revisar cómo se informa a los pacientes sobre la confidencialidad de este tipo de recursos cuando se recomiendan como apoyo entre sesiones."
+    },
+    {
+      "titulo": "Formación específica en inteligencia artificial aplicada a la salud mental",
+      "descripcion": "Dado el porcentaje de profesionales preocupados por la falta de formación en IA, puede ser relevante incorporar en la formación continua contenidos sobre el uso responsable y los límites de estas herramientas."
+    },
+    {
+      "titulo": "Actualización sobre innovaciones en psicoterapia",
+      "descripcion": "A partir de la revisión publicada en World Psychiatry, puede ser oportuno explorar qué innovaciones metodológicas podrían incorporarse de forma gradual a la práctica clínica habitual."
+    }
+  ],
+  "fuentes_verificadas": [
+    "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-13201",
+    "https://www.who.int/news/item/24-11-2025-who-launches-new-guidance-to-promote-mental-health-across-all-government-sectors",
+    "https://www.psychiatry.org/news-room/news-releases/survey-of-apa-members-about-ai-use-in-practice",
+    "https://onlinelibrary.wiley.com/doi/10.1002/wps.70002"
+  ],
+  "carousel": {
+    "noticia_seleccionada": "El BOE refuerza la privacidad del teléfono 024 de ayuda ante el riesgo de suicidio",
+    "slide1": {
+      "titular": "El 024 refuerza la privacidad de sus llamadas",
+      "subtitulo": "El servicio pasa a depender del Comisionado de Salud Mental"
+    },
+    "slide2": {
+      "puntos": [
+        "Las llamadas al 024 ya no aparecerán en la factura del usuario.",
+        "El Comisionado de Salud Mental pasa a ser la entidad prestataria del servicio.",
+        "La resolución produce efectos desde el 18 de junio de 2026."
+      ]
+    },
+    "slide3": {
+      "puntos": [
+        "La OMS publica una guía para diez sectores de gobierno sobre salud mental.",
+        "El 80% de los psiquiatras de la APA pide más formación en IA.",
+        "Un estudio en World Psychiatry revisa innovaciones en psicoterapia."
+      ]
+    },
+    "slide4": {
+      "puntos": [
+        "El 024 atiende llamadas por riesgo de conducta suicida en toda España.",
+        "La guía de la OMS incluye una hoja de ruta de ocho pasos.",
+        "El 26% de los psiquiatras usa IA para la toma de notas clínicas."
+      ]
+    },
+    "slide5": {
+      "mensaje_autoridad": "Reforzar la privacidad de quienes piden ayuda ante el riesgo de suicidio facilita que más personas se atrevan a llamar.",
+      "fuente_apa": "Secretaría de Estado de Telecomunicaciones e Infraestructuras Digitales. (2026). Resolución de 4 de junio de 2026 (BOE-A-2026-13201).",
+      "cta": "síguenos en @IPP.Psicologia"
+    }
+  },
+  "copy_rrss": "El teléfono 024 refuerza la privacidad de sus llamadas y ya no aparecerá en la factura. Te contamos las claves del día.",
+  "hashtags": [
+    "#SaludMental",
+    "#Psicología",
+    "#PrevenciónSuicidio",
+    "#InteligenciaArtificial",
+    "#ObservatorioIPP"
+  ]
+}
