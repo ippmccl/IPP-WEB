@@ -1,0 +1,118 @@
+{
+  "titulo": "Carga global de salud mental en jóvenes, derechos de personas con discapacidad y nuevas directrices de la OMS sobre demencia: claves del 6 de julio de 2026",
+  "nota_editorial": "Las claves prácticas que se recogen a continuación forman parte del análisis editorial del Observatorio de Actualidad del IPP y no constituyen recomendación clínica individualizada.",
+  "resumen": "Un estudio publicado en Molecular Psychiatry confirma que uno de cada seis adolescentes y jóvenes en el mundo presenta algún trastorno mental, con la ansiedad y la depresión como principales causas de discapacidad. El CERMI alerta de que persisten vulneraciones de derechos para las personas con discapacidad psicológica y social en España, especialmente en el empleo y la vivienda, y rechaza el borrador de protocolo del Consejo de Europa sobre el Convenio de Oviedo. En Sevilla, los colegios de psicología y farmacia han firmado un convenio para reforzar la colaboración interprofesional en la atención a pacientes. La Organización Mundial de la Salud convoca para el 16 de julio el lanzamiento de la segunda edición de sus directrices sobre reducción del riesgo de deterioro cognitivo y demencia.",
+  "audiencia": "ambos",
+  "nacionales": [
+    {
+      "tipo": "SALUD PÚBLICA",
+      "titular": "El CERMI advierte de vulneraciones de derechos que persisten en personas con discapacidad psicológica y social",
+      "cuerpo": "El informe \"Derechos Humanos y Discapacidad. Informe España 2025\", elaborado por el CERMI a partir de 145 denuncias por vulneración de derechos, 69 propuestas de mejora y 36 avances registrados, señala que la accesibilidad psicológica y social, el empleo, la vivienda y la protección frente a prácticas coercitivas siguen siendo ámbitos con vulneraciones para las personas con discapacidad psicológica y social en España. El documento recoge que, en 2024, este colectivo registró una tasa de actividad del 27,4%, frente al 35,5% de media del conjunto de personas con discapacidad y al 78,5% de la población sin discapacidad, con una tasa de empleo del 19%. El CERMI manifiesta además su rechazo a un borrador de Protocolo Adicional al Convenio de Oviedo que se tramita en el Consejo de Europa y que, según denuncia la organización, podría permitir tratamientos e ingresos involuntarios en salud mental.",
+      "fuente": "Infocop, sobre el informe del CERMI (Comité Español de Representantes de Personas con Discapacidad)",
+      "url": "https://www.infocop.es/el-cermi-alerta-sobre-las-vulneraciones-de-derechos-que-siguen-afectando-a-las-personas-con-problemas-de-salud-mental-y-discapacidad-psicologica-y-social/"
+    },
+    {
+      "tipo": "CLÍNICA",
+      "titular": "Psicología y farmacia comunitaria firman un convenio de colaboración en Sevilla",
+      "cuerpo": "El Colegio Oficial de Psicología de Andalucía Occidental y el Colegio de Farmacéuticos de Sevilla han firmado un convenio para impulsar la formación conjunta y el trabajo entre ambas profesiones sanitarias, con jornadas, cursos y talleres compartidos. Tras la firma se celebró la sesión formativa \"Psicología y Farmacia Comunitaria\", centrada en la gestión emocional y la adherencia terapéutica en la atención diaria, y ambos colegios recordaron la puesta en marcha de una microcredencial académica de la Universidad de Sevilla, dirigida a que el personal de farmacia pueda desarrollar habilidades de escucha activa y derivar a pacientes hacia servicios psicológicos cuando sea necesario.",
+      "fuente": "Infocop",
+      "url": "https://www.infocop.es/el-cop-andalucia-occidental-y-el-colegio-de-farmaceuticos-de-sevilla-firman-un-convenio-de-colaboracion-para-impulsar-la-formacion-y-el-trabajo-conjunto-entre-profesiones-sanitarias/"
+    }
+  ],
+  "internacionales": [
+    {
+      "tipo": "NEUROCIENCIA",
+      "titular": "La OMS convoca para el 16 de julio el lanzamiento de la segunda edición de sus directrices sobre reducción del riesgo de deterioro cognitivo y demencia",
+      "cuerpo": "La Organización Mundial de la Salud (OMS) ha convocado un webinar global el 16 de julio de 2026 para presentar la segunda edición de sus directrices sobre reducción del riesgo de deterioro cognitivo y demencia, con participación de personas con experiencia vivida, expertos científicos y representantes de países. La organización recuerda que, al no existir tratamientos modificadores de la enfermedad ampliamente accesibles ni cura, la prevención y la reducción del riesgo a lo largo de la vida siguen siendo las estrategias más eficaces para reducir la incidencia futura, y que las directrices actualizadas ofrecen recomendaciones prácticas para que países, sistemas de salud y comunidades integren la reducción del riesgo de demencia en sus políticas y programas.",
+      "fuente": "Organización Mundial de la Salud (OMS)",
+      "url": "https://www.who.int/news-room/events/detail/2026/07/16/default-calendar/webinar--launch-of-the-who-guidelines-on-risk-reduction-of-cognitive-decline-and-dementia--second-edition"
+    }
+  ],
+  "papers": [
+    {
+      "apa": "Zhao, X., Liu, L., Zhang, L., Zhao, P., Jiang, W., & Nahata, M. C. (2026). The global burden of mental and substance use disorders among adolescents and young adults. Molecular Psychiatry, 31, 3880-3897. https://doi.org/10.1038/s41380-026-03503-9",
+      "doi": "10.1038/s41380-026-03503-9",
+      "hallazgo": "En 2021, aproximadamente uno de cada seis adolescentes y jóvenes presentaba algún trastorno mental, con una prevalencia global del 15,2% en adolescentes y del 16,1% en adultos jóvenes. Los trastornos mentales representaron el 27,14% de los años vividos con discapacidad en adolescentes y el 26,62% en adultos jóvenes, con la ansiedad y la depresión como principales contribuyentes. Entre 2019 y 2021 la prevalencia aumentó un 8,79% en adolescentes y un 12,25% en adultos jóvenes, con un impacto mayor en mujeres.",
+      "implicacion": "Los resultados sugieren que puede ser relevante reforzar los sistemas de atención psicológica, mejorar la detección precoz y adaptar las estrategias de intervención a cada etapa del desarrollo, integrando la atención a los trastornos mentales y al consumo de sustancias."
+    }
+  ],
+  "herramientas": [
+    {
+      "nombre": "Microcredenciales universitarias para la detección y derivación en salud mental",
+      "descripcion": "Formaciones breves impulsadas por universidades y colegios profesionales, dirigidas a profesionales sanitarios no especializados en salud mental (farmacia comunitaria, atención primaria), para desarrollar habilidades de escucha activa y derivación hacia servicios psicológicos."
+    }
+  ],
+  "alertas": [
+    {
+      "estado": "EN DESARROLLO",
+      "titulo": "Segunda edición de las directrices de la OMS sobre reducción del riesgo de deterioro cognitivo y demencia",
+      "descripcion": "La OMS presentará el 16 de julio de 2026 la actualización de sus recomendaciones sobre estilo de vida e intervenciones para retrasar o prevenir el deterioro cognitivo y la demencia; su traducción en protocolos concretos dependerá de la adaptación posterior por parte de cada país y sistema de salud."
+    },
+    {
+      "estado": "PROPUESTA",
+      "titulo": "Borrador de Protocolo Adicional al Convenio de Oviedo sobre salud mental",
+      "descripcion": "El CERMI ha manifestado su rechazo a un borrador de Protocolo Adicional al Convenio de Oviedo, actualmente en debate en el Consejo de Europa, que según denuncia la organización podría permitir tratamientos e ingresos involuntarios en el ámbito de la salud mental; se trata de un texto no aprobado y sujeto a discusión."
+    }
+  ],
+  "prioridades": [
+    {
+      "titulo": "Revisar la accesibilidad psicológica en la práctica clínica",
+      "descripcion": "A la luz del informe del CERMI, puede ser útil explorar cómo la consulta y los protocolos de derivación tienen en cuenta las barreras de accesibilidad psicológica y social que enfrentan las personas con discapacidad, especialmente en el ámbito laboral y de vivienda."
+    },
+    {
+      "titulo": "Valorar alianzas interprofesionales para la detección temprana",
+      "descripcion": "Ante iniciativas como la firmada entre psicología y farmacia comunitaria en Sevilla, puede ser relevante explorar colaboraciones similares con otros profesionales de primer contacto para mejorar la detección y la derivación de malestar emocional."
+    },
+    {
+      "titulo": "Actualizar los protocolos de evaluación del deterioro cognitivo",
+      "descripcion": "Con la actualización de las directrices de la OMS prevista para este mes, puede ser oportuno revisar las recomendaciones de estilo de vida y los protocolos de evaluación que se ofrecen a pacientes en riesgo de deterioro cognitivo."
+    }
+  ],
+  "fuentes_verificadas": [
+    "https://www.infocop.es/el-cermi-alerta-sobre-las-vulneraciones-de-derechos-que-siguen-afectando-a-las-personas-con-problemas-de-salud-mental-y-discapacidad-psicologica-y-social/",
+    "https://www.infocop.es/el-cop-andalucia-occidental-y-el-colegio-de-farmaceuticos-de-sevilla-firman-un-convenio-de-colaboracion-para-impulsar-la-formacion-y-el-trabajo-conjunto-entre-profesiones-sanitarias/",
+    "https://www.who.int/news-room/events/detail/2026/07/16/default-calendar/webinar--launch-of-the-who-guidelines-on-risk-reduction-of-cognitive-decline-and-dementia--second-edition",
+    "https://www.nature.com/articles/s41380-026-03503-9"
+  ],
+  "carousel": {
+    "noticia_seleccionada": "Uno de cada seis adolescentes y adultos jóvenes presenta un trastorno mental a nivel mundial",
+    "slide1": {
+      "titular": "Uno de cada seis jóvenes tiene un trastorno mental",
+      "subtitulo": "Ansiedad y depresión encabezan la carga global, según un estudio en Molecular Psychiatry"
+    },
+    "slide2": {
+      "puntos": [
+        "En 2021, el 15,2% de adolescentes y el 16,1% de adultos jóvenes tenían un trastorno mental",
+        "Ansiedad y depresión explican la mayor parte de la discapacidad en ambos grupos",
+        "El TDAH y el autismo predominan en la infancia; ansiedad y depresión, después"
+      ]
+    },
+    "slide3": {
+      "puntos": [
+        "Entre 2019 y 2021 la prevalencia subió un 8,79% en adolescentes y un 12,25% en jóvenes",
+        "El impacto de la pandemia fue mayor en mujeres, ampliando la brecha de género",
+        "El consumo de sustancias, aunque menos prevalente, gana peso en la adultez joven"
+      ]
+    },
+    "slide4": {
+      "puntos": [
+        "Los autores piden reforzar la atención psicológica y la detección precoz en jóvenes",
+        "Recomiendan adaptar las estrategias a cada etapa del desarrollo",
+        "Integrar salud mental y consumo de sustancias puede reducir la discapacidad a largo plazo"
+      ]
+    },
+    "slide5": {
+      "mensaje_autoridad": "Los resultados muestran que los problemas de salud mental son la principal causa de discapacidad en adolescentes y adultos jóvenes a nivel mundial",
+      "fuente_apa": "Zhao et al. (2026). Molecular Psychiatry, 31, 3880-3897",
+      "cta": "síguenos en @IPP.Psicologia"
+    }
+  },
+  "copy_rrss": "Uno de cada seis adolescentes y jóvenes en el mundo convive con un trastorno mental, según un nuevo estudio publicado en Molecular Psychiatry. Ansiedad y depresión encabezan la carga global de discapacidad en estas edades.",
+  "hashtags": [
+    "#SaludMental",
+    "#Psicología",
+    "#AdolescentesySalud",
+    "#Neuropsicología",
+    "#ObservatorioIPP"
+  ]
+}
