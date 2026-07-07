@@ -1,0 +1,118 @@
+{
+  "titulo": "Guía para la salud mental en el trabajo, circuitos cerebrales del duelo prolongado y brecha de datos en salud mental europea: claves del 7 de julio de 2026",
+  "nota_editorial": "Las claves prácticas que se recogen a continuación forman parte del análisis editorial del Observatorio de Actualidad del IPP y no constituyen recomendación clínica individualizada.",
+  "resumen": "La Federación Salud Mental Castilla y León ha publicado una guía centrada en la prevención de riesgos psicosociales en el entorno laboral, recogida por Infocop. Un artículo de National Geographic, también difundido por Infocop, recoge evidencia sobre cómo el trastorno por duelo prolongado podría alterar los circuitos cerebrales de recompensa, apego y regulación emocional. Una revisión publicada en Trends in Neurosciences por Richard Bryant y su equipo respalda esta línea de investigación, vinculando el trastorno con cambios en el núcleo accumbens y la corteza orbitofrontal. La Organización Mundial de la Salud en Europa alerta, por su parte, de la falta de estandarización en la medición de la salud mental en la región, tras revisar 75 estudios con 450 indicadores distintos. En España, el Ministerio de Sanidad ha publicado los resultados provisionales del examen PIR 2025/26, con una tasa de aprobados del 99,40% y mayoría femenina entre quienes acceden a la especialidad.",
+  "audiencia": "ambos",
+  "nacionales": [
+    {
+      "tipo": "SALUD PÚBLICA",
+      "titular": "Una guía plantea medidas para proteger la salud mental en el entorno laboral",
+      "cuerpo": "La Federación Salud Mental Castilla y León ha publicado la guía \"Cuidar la salud mental y el bienestar emocional en el trabajo\", recogida por Infocop. El documento identifica riesgos psicosociales como la sobrecarga, la falta de autonomía o la dificultad para desconectar, y plantea que su prevención corresponde a la organización del trabajo y no solo a la actitud individual. Propone medidas como revisar cargas y ritmos, establecer normas de desconexión y contar con protocolos de actuación ante situaciones difíciles.",
+      "fuente": "Infocop, recogiendo la guía de la Federación Salud Mental Castilla y León",
+      "url": "https://www.infocop.es/una-guia-propone-medidas-para-proteger-la-salud-mental-en-el-entorno-laboral/"
+    },
+    {
+      "tipo": "NEUROCIENCIA",
+      "titular": "El duelo prolongado podría alterar los circuitos cerebrales de recompensa y apego",
+      "cuerpo": "Un artículo publicado por National Geographic y recogido por Infocop describe evidencia sobre el trastorno por duelo prolongado, incorporado al DSM-5-TR en 2022. Según los expertos citados, regiones como la corteza orbitofrontal, el estriado y el núcleo accumbens permanecerían activas ante recuerdos de la persona fallecida, como si el cerebro siguiera esperando su presencia. El artículo señala que alrededor del 4% de las personas en duelo desarrolla este trastorno, y que la terapia específica para el duelo prolongado, estructurada en 16 sesiones, logra mejoría en cerca del 70% de los casos.",
+      "fuente": "National Geographic, recogido por Infocop",
+      "url": "https://www.infocop.es/el-duelo-prolongado-puede-alterar-los-circuitos-cerebrales-de-recompensa-apego-y-regulacion-emocional/"
+    }
+  ],
+  "internacionales": [
+    {
+      "tipo": "INVESTIGACIÓN",
+      "titular": "La OMS/Europa detecta una falta de estandarización en la medición de la salud mental",
+      "cuerpo": "Un estudio de la OMS/Europa ha revisado 75 estudios y ha identificado 450 indicadores distintos utilizados para medir la salud mental en la región europea, lo que evidencia una fragmentación relevante en el seguimiento y la comparación de datos entre países. Más de 143 millones de personas en la región vivían con algún trastorno de salud mental en 2021, un 16% de la población, cifra que se estima aumentó un 25% respecto a los niveles previos a la pandemia. El organismo señala que la mayoría de los indicadores existentes se centran en el estado de salud mental y en los factores de riesgo, mientras que escasean los indicadores sobre la capacidad de los sistemas para prestar servicios de calidad.",
+      "fuente": "OMS/Europa (Oficina Regional para Europa de la Organización Mundial de la Salud)",
+      "url": "https://www.who.int/europe/news/item/25-06-2026-new-study-reveals-gaps-in-how-mental-health-is-measured-in-european-region"
+    }
+  ],
+  "papers": [
+    {
+      "apa": "Bryant, R. A., et al. (2026). A neurobiological perspective on prolonged grief disorder. Trends in Neurosciences. https://doi.org/10.1016/j.tins.2026.01.001",
+      "doi": "10.1016/j.tins.2026.01.001",
+      "hallazgo": "La revisión sistemática vincula el trastorno por duelo prolongado con alteraciones en circuitos cerebrales de recompensa (núcleo accumbens, corteza orbitofrontal) y de regulación emocional (amígdala, ínsula), en comparación con el duelo típico.",
+      "implicacion": "Los autores sugieren que estos hallazgos podrían ayudar a diferenciar el trastorno por duelo prolongado de la depresión y el trastorno de estrés postraumático, aunque advierten de que la investigación en este campo es todavía incipiente y se basa en estudios con muestras reducidas."
+    }
+  ],
+  "herramientas": [
+    {
+      "nombre": "Guías de prevención de riesgos psicosociales en el trabajo",
+      "descripcion": "Documentos de orientación dirigidos a empresas y equipos directivos para identificar factores de riesgo psicosocial y aplicar medidas preventivas de cuidado de la salud mental en el entorno laboral."
+    },
+    {
+      "nombre": "Protocolo psicoterapéutico para el duelo prolongado",
+      "descripcion": "Intervención estructurada en 16 sesiones orientada a facilitar la aceptación de la pérdida, la narración de la historia de la muerte y la reconexión con proyectos vitales en personas con trastorno por duelo prolongado."
+    }
+  ],
+  "alertas": [
+    {
+      "estado": "EN TRAMITACIÓN",
+      "titulo": "Resultados provisionales del examen PIR de Psicología 2025/26",
+      "descripcion": "El Ministerio de Sanidad ha publicado la relación provisional de resultados del examen PIR, con un 99,40% de personas presentadas que superan la puntuación mínima y un 80,96% de mujeres entre quienes acceden a la especialidad en Psicología, sobre 280 plazas convocadas. Los datos son provisionales, a la espera de la relación definitiva de resultados y de la adjudicación de plazas."
+    }
+  ],
+  "prioridades": [
+    {
+      "titulo": "Riesgos psicosociales en la organización del trabajo",
+      "descripcion": "A raíz de la guía publicada, puede ser útil explorar con quienes consultan por malestar laboral si los factores organizativos (cargas, autonomía, liderazgo) están siendo identificados y abordados en su entorno de trabajo, más allá de estrategias individuales de afrontamiento."
+    },
+    {
+      "titulo": "Cribado del duelo prolongado",
+      "descripcion": "Puede ser relevante incorporar una valoración específica del trastorno por duelo prolongado en personas que, transcurridos varios meses tras una pérdida, mantienen un malestar intenso y persistente, dado que su abordaje terapéutico difiere del de la depresión."
+    },
+    {
+      "titulo": "Indicadores de calidad asistencial",
+      "descripcion": "Puede ser oportuno revisar, a nivel de servicio o consulta, qué indicadores propios se emplean para valorar la calidad de la atención prestada, no solo el estado clínico de las personas atendidas, en línea con la brecha señalada por la OMS/Europa."
+    }
+  ],
+  "fuentes_verificadas": [
+    "https://www.infocop.es/una-guia-propone-medidas-para-proteger-la-salud-mental-en-el-entorno-laboral/",
+    "https://www.infocop.es/el-duelo-prolongado-puede-alterar-los-circuitos-cerebrales-de-recompensa-apego-y-regulacion-emocional/",
+    "https://www.who.int/europe/news/item/25-06-2026-new-study-reveals-gaps-in-how-mental-health-is-measured-in-european-region",
+    "https://www.infocop.es/el-9940-de-aspirantes-al-pir-de-psicologia-superan-el-examen-en-la-convocatoria-2025-26-con-fuerte-presencia-femenina/",
+    "https://www.eurekalert.org/news-releases/1116059"
+  ],
+  "carousel": {
+    "noticia_seleccionada": "El duelo prolongado podría alterar los circuitos cerebrales de recompensa y apego",
+    "slide1": {
+      "titular": "Cuando el cerebro no logra soltar la pérdida",
+      "subtitulo": "Lo que revela la ciencia sobre el trastorno por duelo prolongado"
+    },
+    "slide2": {
+      "puntos": [
+        "El trastorno por duelo prolongado se incorporó al DSM-5-TR en 2022.",
+        "Afecta aproximadamente al 4% de las personas que atraviesan un duelo.",
+        "El núcleo accumbens y la corteza orbitofrontal siguen activos ante recuerdos del fallecido."
+      ]
+    },
+    "slide3": {
+      "puntos": [
+        "Una revisión en Trends in Neurosciences liga el trastorno a circuitos de recompensa y apego.",
+        "Estos cambios se solapan con los de la depresión y el estrés postraumático.",
+        "La investigación en este campo todavía es incipiente, según los propios autores."
+      ]
+    },
+    "slide4": {
+      "puntos": [
+        "La terapia específica para el duelo prolongado se estructura en 16 sesiones.",
+        "Cerca del 70% de quienes la reciben mejora de forma notable.",
+        "Identificarlo permite diferenciarlo del duelo que sigue su curso habitual."
+      ]
+    },
+    "slide5": {
+      "mensaje_autoridad": "Reconocer el trastorno por duelo prolongado no implica patologizar el duelo normal, sino identificar aquellos casos en los que el sufrimiento se cronifica y requiere una intervención específica.",
+      "fuente_apa": "Bryant, R. A., et al. (2026). A neurobiological perspective on prolonged grief disorder. Trends in Neurosciences.",
+      "cta": "síguenos en @IPP.Psicologia"
+    }
+  },
+  "copy_rrss": "Cuando el duelo no sigue su curso habitual, el cerebro puede seguir respondiendo como si la persona ausente todavía estuviera presente. Te contamos qué dice la ciencia sobre el trastorno por duelo prolongado.",
+  "hashtags": [
+    "#SaludMental",
+    "#Psicología",
+    "#DueloProlongado",
+    "#Neurociencia",
+    "#IPP"
+  ]
+}
