@@ -49,6 +49,26 @@
   .noticia-fuente a{color:var(--purple-mid);text-decoration:none;word-break:break-all}
   .noticia-fuente a:hover{text-decoration:underline}
   @media print{body{padding:0;background:#fff}.wrap{box-shadow:none;border-radius:0}.back{display:none}.noticia-fuente a{color:var(--text-mid)}}
+  @media screen and (max-width:600px){
+    body{padding:16px 10px}
+    .wrap{border-radius:10px}
+    header{padding:20px 18px;gap:14px;flex-wrap:wrap}
+    .logo-box{width:56px;height:56px;padding:4px}
+    .logo-box img{width:48px;height:48px}
+    .head-text{min-width:0}
+    .head-text h1{font-size:19px;line-height:1.3;word-wrap:break-word;overflow-wrap:break-word}
+    .head-text .fecha{font-size:11px}
+    .back{margin:14px 18px 0;font-size:13px}
+    .content{padding:20px 18px 32px}
+    .sec-header{font-size:18px}
+    .news{padding:12px}
+    .news h3{font-size:15px}
+    .paper{padding:12px 14px}
+    .alerta{padding:12px 14px}
+    .prio{padding:12px 14px}
+    .prio h4{font-size:15px}
+    footer{padding:16px 18px;font-size:11px}
+  }
 </style>
 </head>
 <body>
@@ -72,6 +92,12 @@
       <h3>La Universidad de Navarra reúne en Madrid a especialistas en psicología, tecnología e inteligencia artificial</h3>
       <p>El campus que la Universidad de Navarra tiene en Madrid acoge del 9 al 11 de julio la segunda edición del Congreso Internacional de Psicología, Innovación Tecnológica (IA) y Emprendimiento (CIPIE2026), organizado por la Unidad I+D+i de la Facultad de Educación y Psicología de la universidad. El programa se estructura en tres jornadas —dedicadas al conocimiento, las habilidades y las actitudes ante la innovación— y reúne a profesionales, investigadores y emprendedores del ámbito psicológico para analizar la incorporación de la inteligencia artificial a la práctica y la investigación en psicología.</p>
       <p class="noticia-fuente">Fuente: <a href="https://www.unav.edu/web/congreso-de-psicologia-innovacion-tecnologica-y-emprendimiento" target="_blank" rel="noopener">Universidad de Navarra</a></p>
+    </div>
+    <div class="news">
+      <span class="tag">SALUD PÚBLICA · NACIONAL</span>
+      <h3>El Colegio de Madrid recopila en un documento sus campañas de sensibilización de los últimos tres años</h3>
+      <p>El Colegio Oficial de la Psicología de Madrid ha publicado un documento que reúne el conjunto de campañas de sensibilización desarrolladas desde 2023 junto a sus grupos de trabajo, centradas en la promoción de la salud y el bienestar emocional, la prevención del suicidio, la diversidad —con acciones por el Día del Orgullo LGTBI+, el Día Mundial del Autismo o el Día Internacional de las Personas con Discapacidad— y la protección de colectivos vulnerables frente a la violencia de género, el maltrato infantil o el acoso escolar.</p>
+      <p class="noticia-fuente">Fuente: <a href="https://web.copmadrid.org/actualidad-y-comunicacion/noticias-y-eventos/noticias/la-psicologia-como-herramienta-de-concienciacion-social-el-colegio-reune-en-un-documento-sus-campana-3321" target="_blank" rel="noopener">Colegio Oficial de la Psicología de Madrid</a></p>
     </div></section>
     <section class="sec"><div class="sec-header">Noticias internacionales</div>
     <div class="news">
