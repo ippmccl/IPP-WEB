@@ -1,0 +1,106 @@
+{
+  "titulo": "Congreso internacional de psicología e IA en Madrid, campañas de sensibilización del Colegio de Madrid y el valor económico de la naturaleza para la salud mental: claves del 9 de julio de 2026",
+  "nota_editorial": "Las claves prácticas que se recogen a continuación forman parte del análisis editorial del Observatorio de Actualidad del IPP y no constituyen recomendación clínica individualizada.",
+  "resumen": "La Universidad de Navarra reúne en Madrid, del 9 al 11 de julio, a profesionales e investigadores en el II Congreso Internacional de Psicología, Innovación Tecnológica e Inteligencia Artificial. El Colegio Oficial de la Psicología de Madrid publica un documento que recopila sus campañas de sensibilización desarrolladas desde 2023 sobre salud y bienestar emocional, prevención del suicidio, diversidad y protección de colectivos vulnerables. Un equipo internacional liderado por la Universidad Griffith (Australia) cuantifica en 7 billones de dólares australianos (5 billones de dólares estadounidenses) el valor anual de la naturaleza en beneficios para la salud mental y reclama políticas públicas que la incorporen como infraestructura sanitaria.",
+  "audiencia": "ambos",
+  "nacionales": [
+    {
+      "tipo": "INVESTIGACIÓN",
+      "titular": "La Universidad de Navarra reúne en Madrid a especialistas en psicología, tecnología e inteligencia artificial",
+      "cuerpo": "El campus que la Universidad de Navarra tiene en Madrid acoge del 9 al 11 de julio la segunda edición del Congreso Internacional de Psicología, Innovación Tecnológica (IA) y Emprendimiento (CIPIE2026), organizado por la Unidad I+D+i de la Facultad de Educación y Psicología de la universidad. El programa se estructura en tres jornadas —dedicadas al conocimiento, las habilidades y las actitudes ante la innovación— y reúne a profesionales, investigadores y emprendedores del ámbito psicológico para analizar la incorporación de la inteligencia artificial a la práctica y la investigación en psicología.",
+      "fuente": "Universidad de Navarra",
+      "url": "https://www.unav.edu/web/congreso-de-psicologia-innovacion-tecnologica-y-emprendimiento"
+    },
+    {
+      "tipo": "SALUD PÚBLICA",
+      "titular": "El Colegio de Madrid recopila en un documento sus campañas de sensibilización de los últimos tres años",
+      "cuerpo": "El Colegio Oficial de la Psicología de Madrid ha publicado un documento que reúne el conjunto de campañas de sensibilización desarrolladas desde 2023 junto a sus grupos de trabajo, centradas en la promoción de la salud y el bienestar emocional, la prevención del suicidio, la diversidad —con acciones por el Día del Orgullo LGTBI+, el Día Mundial del Autismo o el Día Internacional de las Personas con Discapacidad— y la protección de colectivos vulnerables frente a la violencia de género, el maltrato infantil o el acoso escolar.",
+      "fuente": "Colegio Oficial de la Psicología de Madrid",
+      "url": "https://web.copmadrid.org/actualidad-y-comunicacion/noticias-y-eventos/noticias/la-psicologia-como-herramienta-de-concienciacion-social-el-colegio-reune-en-un-documento-sus-campana-3321"
+    }
+  ],
+  "internacionales": [
+    {
+      "tipo": "INVESTIGACIÓN",
+      "titular": "Un estudio internacional cifra en 7 billones de dólares australianos el valor anual de la naturaleza para la salud mental",
+      "cuerpo": "Un equipo internacional liderado por la Universidad Griffith (Australia), con participación de investigadores de Chile, China, India y Japón, ha publicado en la revista Communications Health un análisis que atribuye a los espacios naturales protegidos y los parques nacionales un valor anual de 7 billones de dólares australianos (5 billones de dólares estadounidenses) en beneficios para la salud mental. El estudio señala un aumento global del 63 % en ansiedad y del 26 % en depresión durante los últimos 15 años, y sitúa la atención de salud mental en más de la mitad de las consultas médicas actuales, frente a solo el 0,5 % de los fondos públicos de salud que recibe. Los autores proponen incorporar la atención de salud mental basada en la naturaleza como infraestructura pública, con actuaciones coordinadas entre los sectores de sanidad, educación, transporte y parques.",
+      "fuente": "Communications Health (Springer Nature) / Universidad Griffith",
+      "url": "https://www.nature.com/articles/s44528-026-00012-7"
+    }
+  ],
+  "papers": [
+    {
+      "apa": "Buckley, R. C., Brough, P., et al. (2026). Public nature-based mental healthcare. Communications Health, 1(1), 6. https://doi.org/10.1038/s44528-026-00012-7",
+      "doi": "10.1038/s44528-026-00012-7",
+      "hallazgo": "El estudio calcula que los espacios naturales protegidos generan un valor anual de 7 billones de dólares australianos (5 billones de dólares estadounidenses) en beneficios para la salud mental, en un contexto de aumento global del 63 % en ansiedad y del 26 % en depresión durante los últimos 15 años.",
+      "implicacion": "Los resultados sugieren que la exposición regular a entornos naturales podría incorporarse como infraestructura de salud pública, complementando intervenciones ya existentes como la psicoterapia y el tratamiento farmacológico ante una demanda de atención en salud mental que los sistemas sanitarios no logran cubrir en su totalidad."
+    }
+  ],
+  "herramientas": [
+    {
+      "nombre": "Herramientas de inteligencia artificial aplicadas a la evaluación y la práctica psicológica",
+      "descripcion": "Sistemas y aplicaciones que incorporan inteligencia artificial como apoyo a la evaluación, el seguimiento clínico o la gestión de consulta, un ámbito que congresos científicos como el celebrado esta semana en Madrid identifican como área emergente de investigación y práctica profesional en psicología."
+    }
+  ],
+  "alertas": [],
+  "prioridades": [
+    {
+      "titulo": "Explorar el papel de la naturaleza como recurso terapéutico complementario",
+      "descripcion": "A la luz del estudio publicado en Communications Health, puede ser útil explorar cómo incorporar recomendaciones de contacto con espacios naturales dentro de los planes de intervención en ansiedad, estrés o síntomas depresivos, siempre como complemento y no como sustituto de la intervención psicológica."
+    },
+    {
+      "titulo": "Revisar el material de sensibilización disponible para las campañas propias",
+      "descripcion": "Dado el documento publicado por el Colegio de Madrid, puede ser relevante revisar los formatos y contenidos de sensibilización sobre salud mental, prevención del suicidio o diversidad, para valorar su adaptación a la comunicación en redes propias de la consulta."
+    },
+    {
+      "titulo": "Seguir la incorporación de la inteligencia artificial en la práctica psicológica",
+      "descripcion": "Con congresos científicos como el celebrado esta semana en Madrid centrados en IA y psicología, puede ser oportuno mantenerse al tanto de los desarrollos tecnológicos aplicables a la evaluación y el seguimiento clínico, valorando su utilidad y sus límites éticos antes de cualquier incorporación a la práctica."
+    }
+  ],
+  "fuentes_verificadas": [
+    "https://www.unav.edu/web/congreso-de-psicologia-innovacion-tecnologica-y-emprendimiento",
+    "https://web.copmadrid.org/actualidad-y-comunicacion/noticias-y-eventos/noticias/la-psicologia-como-herramienta-de-concienciacion-social-el-colegio-reune-en-un-documento-sus-campana-3321",
+    "https://www.nature.com/articles/s44528-026-00012-7"
+  ],
+  "carousel": {
+    "noticia_seleccionada": "El valor económico de la naturaleza para la salud mental",
+    "slide1": {
+      "titular": "La naturaleza vale 7 billones de dólares en salud mental",
+      "subtitulo": "Un estudio internacional pide políticas públicas que la incorporen como infraestructura sanitaria"
+    },
+    "slide2": {
+      "puntos": [
+        "Ansiedad y depresión han aumentado un 63 % y un 26 % en 15 años.",
+        "Los espacios naturales aportan 7 billones de dólares australianos en beneficios anuales.",
+        "Solo el 0,5 % de los fondos públicos de salud se destina a salud mental."
+      ]
+    },
+    "slide3": {
+      "puntos": [
+        "El estudio, liderado por la Universidad Griffith, se publicó en Communications Health.",
+        "Participan investigadores de Australia, Chile, China, India y Japón.",
+        "Proponen coordinar sanidad, educación, transporte y parques públicos."
+      ]
+    },
+    "slide4": {
+      "puntos": [
+        "La naturaleza puede complementar la psicoterapia, no sustituirla.",
+        "El acceso desigual a espacios naturales limita su aprovechamiento.",
+        "Escuelas y transporte público podrían facilitar ese acceso."
+      ]
+    },
+    "slide5": {
+      "mensaje_autoridad": "Las personas necesitan naturaleza para contrarrestar el burnout, según la profesora Paula Brough, de la Universidad Griffith.",
+      "fuente_apa": "Buckley, R. C., Brough, P., et al. (2026). Public nature-based mental healthcare. Communications Health, 1(1), 6.",
+      "cta": "síguenos en @IPP.Psicologia"
+    }
+  },
+  "copy_rrss": "Un estudio internacional pone cifra al valor de la naturaleza para la salud mental: 7 billones de dólares australianos al año en beneficios, frente a un aumento global del 63 % en ansiedad y del 26 % en depresión en la última década y media.",
+  "hashtags": [
+    "#SaludMental",
+    "#Psicología",
+    "#Neuropsicología",
+    "#BienestarEmocional",
+    "#IPP"
+  ]
+}
