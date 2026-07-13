@@ -1,0 +1,119 @@
+{
+  "titulo": "El CIBER vincula a Galicia Sur en salud mental, la gestión de contingencias gana peso frente a los estimulantes y el COP evalúa siete test psicológicos: claves del 13 de julio de 2026",
+  "nota_editorial": "Las claves prácticas que se recogen a continuación forman parte del análisis editorial del Observatorio de Actualidad del IPP y no constituyen recomendación clínica individualizada.",
+  "resumen": "El Consorcio CIBER ha formalizado la incorporación del Instituto de Investigación Sanitaria Galicia Sur a su red de salud mental (Cibersam), según recoge el BOE del 4 de julio. La Comisión de Test del Consejo General de la Psicología ha publicado su duodécima evaluación de pruebas psicológicas editadas en España, revisando siete instrumentos de cuatro editoriales y un test no comercial. La revista Monitor on Psychology de la APA, recogida por Infocop, sitúa la gestión de contingencias como intervención de referencia frente a la crisis de consumo de estimulantes y repasa las nueve tendencias que marcarán la psicología en 2026, desde la IA hasta la atención integrada.",
+  "audiencia": "ambos",
+  "nacionales": [
+    {
+      "tipo": "NORMATIVA",
+      "titular": "El CIBER vincula al Instituto de Investigación Sanitaria Galicia Sur en su red de salud mental",
+      "cuerpo": "El Consorcio Centro de Investigación Biomédica en Red (CIBER) y la Fundación Pública Galega de Investigación Biomédica Galicia Sur han firmado un convenio, publicado en el BOE del 4 de julio, que vincula al Grupo de Neurociencia Traslacional del Instituto de Investigación Sanitaria Galicia Sur a Cibersam, el área temática de salud mental del CIBER. El acuerdo, con una vigencia inicial de cinco años prorrogable por otros cinco, permite al grupo gallego participar en las convocatorias internas de proyectos del CIBER e integrarse en sus planes científicos anuales; el CIBER compensará los gastos derivados de esta participación con hasta 5.000 euros al año, sin que el convenio conlleve una asignación presupuestaria propia.",
+      "fuente": "BOE (Boletín Oficial del Estado), núm. 162, 4 de julio de 2026",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14558"
+    },
+    {
+      "tipo": "HERRAMIENTA",
+      "titular": "El COP publica la duodécima evaluación de test psicológicos editados en España",
+      "cuerpo": "La Comisión Nacional de Test del Consejo General de la Psicología ha hecho pública su duodécima evaluación de pruebas psicológicas, correspondiente al periodo 2022-2024 y recogida en la revista Papeles del Psicólogo. Un panel de 14 revisores del ámbito universitario ha analizado siete instrumentos -cuatro de las editoriales TEA, Pearson, Habilmind y Giunti Psychometrics, además del Cuestionario de Pfeiffer de evaluación de deterioro cognitivo (SPMSQ), de carácter no comercial- aplicando el Cuestionario para la Evaluación de Test Revisado (CET-R). Los test evaluados cubren ámbitos como la motivación, la inteligencia general, los rasgos de personalidad en adolescentes, el bienestar emocional o la conciencia fonológica, con aplicaciones en psicología educativa, clínica, forense y organizacional.",
+      "fuente": "Infocop (Consejo General de la Psicología de España)",
+      "url": "https://www.infocop.es/publicado-el-informe-de-la-duodecima-evaluacion-de-test-editados-en-espana-realizada-por-la-comision-de-test-del-cop/"
+    }
+  ],
+  "internacionales": [
+    {
+      "tipo": "CLÍNICA",
+      "titular": "La gestión de contingencias gana peso como tratamiento frente al consumo de estimulantes",
+      "cuerpo": "Un análisis publicado por la American Psychological Association en su revista Monitor on Psychology y recogido por Infocop señala que la gestión de contingencias (contingency management) cuenta con más de cuatro décadas de evidencia como intervención eficaz para los trastornos por consumo de estimulantes, sin que existan tratamientos farmacológicos aprobados para este problema. El enfoque, basado en incentivos como recompensas por pruebas de consumo negativas, se asocia según la literatura citada a una reducción de la mortalidad en la práctica clínica real, y ha ido ganando reconocimiento institucional como tratamiento de primera línea, con cambios en las políticas públicas estadounidenses que amplían los límites de financiación para los incentivos utilizados en estos programas.",
+      "fuente": "Infocop, citando a la American Psychological Association, Monitor on Psychology",
+      "url": "https://www.infocop.es/intervencion-psicologica-eficaz-que-gana-impulso-frente-a-la-crisis-por-consumo-de-estimulantes/"
+    },
+    {
+      "tipo": "INVESTIGACIÓN",
+      "titular": "La APA señala nueve tendencias que marcarán la psicología en 2026",
+      "cuerpo": "Un análisis publicado por la American Psychological Association en su revista Monitor on Psychology, recogido por Infocop, identifica nueve tendencias clave para la profesión en 2026: la atención personalizada de la salud mental apoyada en IA y neurociencia, los chatbots y compañeros digitales de IA, un enfoque preventivo hacia la salud mental infanto-juvenil, la defensa activa de los intereses de la disciplina, el impacto de los cambios de política en el acceso a la atención, la incertidumbre laboral, las intervenciones psicológicas ante el cambio climático, la comunicación científica y la atención integrada en los sistemas de salud. El análisis subraya que estas tendencias suponen tanto desafíos como oportunidades para que los y las profesionales de la psicología lideren con conocimiento.",
+      "fuente": "Infocop, citando a la American Psychological Association, Monitor on Psychology",
+      "url": "https://www.infocop.es/principales-tendencias-que-la-psicologia-debe-tener-cuenta-en-2026-segun-la-apa/"
+    }
+  ],
+  "papers": [
+    {
+      "apa": "Recio-Saboya, P. (2026). Duodécima evaluación de test editados en España. Papeles del Psicólogo/Psychologist Papers, 47(2), 106-114.",
+      "doi": "10.70478/pap.psicol.2026.47.12",
+      "hallazgo": "La duodécima evaluación de test de la Comisión Nacional de Test del COP (periodo 2022-2024) revisó siete pruebas psicológicas -incluyendo el Cuestionario de Pfeiffer de deterioro cognitivo (SPMSQ), de carácter no comercial- y detectó dificultades prácticas persistentes en la aplicación homogénea del Cuestionario para la Evaluación de Test Revisado (CET-R) entre los distintos revisores.",
+      "implicacion": "Los resultados sugieren que puede ser conveniente desarrollar guías prácticas y una versión digital del CET-R para mejorar la consistencia entre revisores, lo que podría orientar a que los profesionales de la psicología incorporen esta información técnica en la selección de instrumentos de evaluación."
+    }
+  ],
+  "herramientas": [
+    {
+      "nombre": "Informes oficiales de evaluación de test psicológicos",
+      "descripcion": "Sistemas de valoración técnica y psicométrica -como el aplicado por la Comisión Nacional de Test del COP- que permiten consultar de forma gratuita informes sobre la calidad de los instrumentos de evaluación psicológica disponibles en el mercado español, incluyendo pruebas comerciales y no comerciales."
+    }
+  ],
+  "alertas": [
+    {
+      "estado": "APROBADO",
+      "titulo": "Convenio de vinculación de Galicia Sur a la red de investigación en salud mental del CIBER",
+      "descripcion": "El convenio entre el CIBER y el Instituto de Investigación Sanitaria Galicia Sur, publicado en el BOE del 4 de julio de 2026, formaliza la incorporación de un grupo de investigación gallego a Cibersam por un periodo inicial de cinco años, con una compensación de gastos de hasta 5.000 euros anuales; su gestión y desarrollo dependen de los planes de actuación anuales aprobados por el Consejo Rector del CIBER."
+    }
+  ],
+  "prioridades": [
+    {
+      "titulo": "Consultar los informes de evaluación de test antes de seleccionar instrumentos",
+      "descripcion": "Puede ser útil revisar los informes de la Comisión de Test del COP, disponibles de forma gratuita, antes de incorporar o mantener pruebas psicométricas en la práctica clínica, especialmente en el caso de instrumentos no comerciales como el SPMSQ."
+    },
+    {
+      "titulo": "Explorar el papel de la gestión de contingencias en el abordaje de conductas adictivas",
+      "descripcion": "Puede ser relevante conocer los principios de la gestión de contingencias como complemento a otras intervenciones psicológicas en el tratamiento de trastornos por consumo de sustancias, dado el respaldo empírico acumulado que recoge la literatura citada."
+    },
+    {
+      "titulo": "Anticipar el impacto de la IA en la relación terapéutica",
+      "descripcion": "Puede ser oportuno revisar cómo la irrupción de chatbots y compañeros digitales de IA puede estar afectando a la conexión emocional y a las habilidades sociales de pacientes y usuarios, especialmente en población infanto-juvenil, para poder abordarlo en consulta."
+    }
+  ],
+  "fuentes_verificadas": [
+    "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14558",
+    "https://www.infocop.es/publicado-el-informe-de-la-duodecima-evaluacion-de-test-editados-en-espana-realizada-por-la-comision-de-test-del-cop/",
+    "https://www.infocop.es/intervencion-psicologica-eficaz-que-gana-impulso-frente-a-la-crisis-por-consumo-de-estimulantes/",
+    "https://www.infocop.es/principales-tendencias-que-la-psicologia-debe-tener-cuenta-en-2026-segun-la-apa/"
+  ],
+  "carousel": {
+    "noticia_seleccionada": "El COP publica la duodécima evaluación de test psicológicos editados en España",
+    "slide1": {
+      "titular": "El COP evalúa siete test psicológicos usados en España",
+      "subtitulo": "Duodécima revisión de la Comisión Nacional de Test (2022-2024)"
+    },
+    "slide2": {
+      "puntos": [
+        "Catorce revisores universitarios analizaron siete pruebas de cuatro editoriales y un test no comercial.",
+        "Se evaluaron motivación, inteligencia general, personalidad, bienestar emocional y deterioro cognitivo.",
+        "El Cuestionario de Pfeiffer (SPMSQ), no comercial, se sometió a la misma revisión técnica exigente."
+      ]
+    },
+    "slide3": {
+      "puntos": [
+        "El proceso usa el Cuestionario CET-R, con dos revisores independientes por cada instrumento.",
+        "Los informes finales están disponibles gratis en la web del COP para toda la profesión.",
+        "Ya suman 110 test revisados desde el inicio del sistema de evaluación en 2010."
+      ]
+    },
+    "slide4": {
+      "puntos": [
+        "La coordinadora del estudio sugiere digitalizar el CET-R para reducir errores manuales.",
+        "Se propone reforzar la difusión de resultados y la formación en psicometría."
+      ]
+    },
+    "slide5": {
+      "mensaje_autoridad": "Evaluar la calidad tecnica de los instrumentos que usamos protege a quienes atendemos y refuerza nuestra practica profesional.",
+      "fuente_apa": "Recio-Saboya, P. (2026). Papeles del Psicólogo/Psychologist Papers, 47(2), 106-114.",
+      "cta": "síguenos en @IPP.Psicologia"
+    }
+  },
+  "copy_rrss": "El COP ha revisado siete test psicológicos usados en consulta, incluido uno no comercial para deterioro cognitivo. Te contamos qué han encontrado.",
+  "hashtags": [
+    "#Psicologia",
+    "#SaludMental",
+    "#Neuropsicologia",
+    "#COP",
+    "#PsicologiaClinica"
+  ]
+}
