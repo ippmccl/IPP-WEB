@@ -1,0 +1,120 @@
+{
+  "titulo": "Convenio del COP con Interior, la APA sobre IA en terapia y evidencia sobre la edad legal para beber: claves del 14 de julio de 2026",
+  "nota_editorial": "Las claves prácticas que se recogen a continuación forman parte del análisis editorial del Observatorio de Actualidad del IPP y no constituyen recomendación clínica individualizada.",
+  "resumen": "El Consejo General de la Psicología, el Colegio Oficial de la Psicología de Madrid y la Subsecretaría de Interior han firmado un convenio para promover el bienestar psicológico entre el personal del Ministerio. La Asociación Americana de Psicología recomienda que los profesionales pregunten de forma habitual por el uso de chatbots de inteligencia artificial en consulta, ante el aumento de pacientes que recurren a estas herramientas para apoyo emocional. Un estudio publicado en Journal of Health Economics confirma que elevar la edad legal para beber alcohol de 16 a 18 años en España redujo el consumo adolescente y mejoró el bienestar psicológico y el rendimiento académico. Otro trabajo en Social Science & Medicine alerta de que las consecuencias psicológicas de los accidentes de tráfico, como el estrés postraumático, siguen siendo insuficientemente atendidas a nivel global. Florencia acogerá, del 21 al 25 de julio, la 31ª edición del Congreso Internacional de Psicología Aplicada.",
+  "audiencia": "ambos",
+  "nacionales": [
+    {
+      "tipo": "SALUD PÚBLICA",
+      "titular": "El Consejo General de la Psicología firma un convenio con Interior para el bienestar psicológico de los empleados públicos",
+      "cuerpo": "La Subsecretaría de Interior, el Consejo General de la Psicología de España y el Colegio Oficial de la Psicología de Madrid han firmado un convenio de colaboración para desarrollar actuaciones de información, divulgación, formación, sensibilización y prevención del bienestar psicológico entre el personal de los Servicios Centrales del Ministerio del Interior. El acuerdo, rubricado por Susana Crisóstomo, Francisco Santolaya y Timanfaya Hernández, incluye también campañas de comunicación conjuntas.",
+      "fuente": "Infocop (Consejo General de la Psicología de España)",
+      "url": "https://www.infocop.es/el-consejo-general-de-la-psicologia-el-ministerio-del-interior-y-el-cop-madrid-suscriben-un-convenio-para-promover-la-salud-mental-y-el-bienestar-psicologico/"
+    }
+  ],
+  "internacionales": [
+    {
+      "tipo": "CLÍNICA",
+      "titular": "La American Psychological Association recomienda preguntar de forma habitual por el uso de inteligencia artificial en consulta",
+      "cuerpo": "Según informa Infocop, la Asociación Americana de Psicología (APA) considera que los psicólogos deberían incorporar de forma habitual preguntas sobre el uso de chatbots de inteligencia artificial generativa en la evaluación clínica. Según una encuesta de la propia APA, el 77% de los psicólogos afirma que sus pacientes utilizan estas herramientas y más de un tercio señala que algunos las emplean como apoyo adicional para la salud mental. La organización advierte de que estos sistemas no sustituyen la atención psicológica y pueden entrañar riesgos, especialmente para personas con ansiedad, trastorno obsesivo-compulsivo, alteraciones del pensamiento o aislamiento social.",
+      "fuente": "Infocop (Consejo General de la Psicología de España), sobre American Psychological Association",
+      "url": "https://www.infocop.es/la-apa-recomienda-abordar-el-uso-de-la-inteligencia-artificial-en-la-evaluacion-psicologica/"
+    },
+    {
+      "tipo": "INVESTIGACIÓN",
+      "titular": "Florencia acogerá del 21 al 25 de julio el 31º Congreso Internacional de Psicología Aplicada",
+      "cuerpo": "La ciudad de Florencia (Italia) será sede de la 31ª edición del Congreso Internacional de Psicología Aplicada (ICAP 2026), organizado por la International Association of Applied Psychology y la Associazione Italiana di Psicologia bajo el lema Nuevas direcciones en Psicología Aplicada. El programa incluye conferencias magistrales y ponencias divididas por áreas, entre ellas Psicología Clínica y Comunitaria, Psicología de la Salud y Gerontología Aplicada.",
+      "fuente": "Infocop (Consejo General de la Psicología de España)",
+      "url": "https://www.infocop.es/el-icap-2026-reunira-a-expertos-internacionales-para-analizar-los-avances-de-la-psicologia-aplicada/"
+    }
+  ],
+  "papers": [
+    {
+      "apa": "Bagues, M., & Villa, C. (2025). Minimum legal drinking age and educational outcomes. Journal of Health Economics, 104, 103078.",
+      "doi": "10.1016/j.jhealeco.2025.103078",
+      "hallazgo": "Elevar la edad mínima legal para beber de 16 a 18 años en regiones españolas (implementado de forma escalonada entre 2007 y 2019) se asoció con una reducción del consumo de alcohol adolescente (-7% en los últimos 30 días, -17% en episodios de embriaguez), una disminución del uso de ansiolíticos e hipnosedantes (-7% en el último mes, -10% en el último año) y una mejora en los resultados de las pruebas PISA de lectura y ciencias.",
+      "implicacion": "Los resultados sugieren que las políticas de restricción del acceso al alcohol en la adolescencia pueden tener efectos positivos sobre el bienestar psicológico y el rendimiento académico, aunque los propios autores señalan que el estudio no analiza de forma directa el riesgo de suicidio."
+    },
+    {
+      "apa": "Groce, N., Chatukuta, M., Mont, D., Pinilla-Roncancio, M., Hanass-Hancock, J., Raja, D. S., & McClain-Nhlapo, C. (2026). Road traffic accidents and disability: A global health concern. Social Science & Medicine, 400, 119163.",
+      "doi": "10.1016/j.socscimed.2026.119163",
+      "hallazgo": "Los accidentes de tráfico son la octava causa de muerte en el mundo y la principal entre niños y adultos jóvenes, con aproximadamente 1,19 millones de fallecimientos en 2021. El estudio documenta una falta de datos homogéneos sobre discapacidad derivada de estos accidentes y señala que las consecuencias psicológicas, como el estrés, la ansiedad y el trastorno de estrés postraumático, siguen siendo un componente poco atendido en los programas de rehabilitación, sobre todo en países de ingresos bajos y medios.",
+      "implicacion": "Los autores plantean que puede ser relevante integrar la dimensión psicológica en los programas de atención y rehabilitación tras accidentes de tráfico, y advierten de que la falta de seguimiento tras el alta dificulta conocer el impacto real a largo plazo."
+    }
+  ],
+  "herramientas": [
+    {
+      "nombre": "Protocolo de cribado clínico sobre el uso de inteligencia artificial en terapia",
+      "descripcion": "Conjunto de preguntas estandarizadas para incorporar en la evaluación habitual, orientadas a explorar si el paciente utiliza chatbots de inteligencia artificial generativa como apoyo emocional, qué beneficios percibe y si alguna respuesta le ha resultado perjudicial."
+    }
+  ],
+  "alertas": [
+    {
+      "estado": "APROBADO",
+      "titulo": "Convenio de colaboración entre el Consejo General de la Psicología, el COP Madrid y la Subsecretaría de Interior",
+      "descripcion": "El convenio, firmado por Susana Crisóstomo (Subsecretaria de Interior), Francisco Santolaya (presidente del COP) y Timanfaya Hernández (decana del COP Madrid), contempla actividades de información, divulgación, formación, sensibilización y prevención del bienestar psicológico entre el personal de los Servicios Centrales del Ministerio del Interior."
+    }
+  ],
+  "prioridades": [
+    {
+      "titulo": "Cribado del uso de IA en la evaluación clínica",
+      "descripcion": "A la luz de la recomendación de la APA, puede ser útil explorar de forma habitual con los pacientes si utilizan chatbots de inteligencia artificial como apoyo emocional, qué beneficios perciben y si alguna respuesta les ha resultado perjudicial."
+    },
+    {
+      "titulo": "Prevención del consumo de alcohol en la adolescencia",
+      "descripcion": "A la luz de la evidencia publicada, puede ser relevante incorporar en el trabajo con familias y centros educativos información sobre el vínculo entre el acceso al alcohol, el bienestar psicológico y el rendimiento académico en la adolescencia."
+    },
+    {
+      "titulo": "Atención psicológica tras accidentes de tráfico y lesiones traumáticas",
+      "descripcion": "Dada la escasa atención documentada a las secuelas psicológicas de los accidentes de tráfico, puede ser oportuno revisar si los protocolos de intervención en trauma contemplan de forma explícita el cribado de estrés, ansiedad y sintomatología postraumática en estos pacientes."
+    }
+  ],
+  "fuentes_verificadas": [
+    "https://www.infocop.es/el-consejo-general-de-la-psicologia-el-ministerio-del-interior-y-el-cop-madrid-suscriben-un-convenio-para-promover-la-salud-mental-y-el-bienestar-psicologico/",
+    "https://www.infocop.es/la-apa-recomienda-abordar-el-uso-de-la-inteligencia-artificial-en-la-evaluacion-psicologica/",
+    "https://www.infocop.es/elevar-la-edad-legal-para-beber-reduce-el-consumo-en-adolescentes-con-efectos-positivos-sobre-su-bienestar-psicologico/",
+    "https://www.infocop.es/los-accidentes-de-trafico-conllevan-consecuencias-psicologicas-persistentes-que-siguen-siendo-invisibilizadas-segun-un-estudio/",
+    "https://www.infocop.es/el-icap-2026-reunira-a-expertos-internacionales-para-analizar-los-avances-de-la-psicologia-aplicada/"
+  ],
+  "carousel": {
+    "noticia_seleccionada": "Elevar la edad legal para beber reduce el consumo en adolescentes, con efectos positivos sobre su bienestar psicológico",
+    "slide1": {
+      "titular": "Subir la edad legal para beber mejora el bienestar adolescente",
+      "subtitulo": "Estudio en regiones españolas (2003-2019), Journal of Health Economics"
+    },
+    "slide2": {
+      "puntos": [
+        "60% de adolescentes de 14 a 17 años consumió alcohol en los últimos 30 días (ESTUDES).",
+        "Elevar la edad legal a 18 años redujo el consumo un 7% y las borracheras un 17%.",
+        "La compra directa de alcohol en establecimientos bajó 12 puntos porcentuales."
+      ]
+    },
+    "slide3": {
+      "puntos": [
+        "El uso de ansiolíticos e hipnosedantes bajó un 7% en el último mes y un 10% en el año.",
+        "Mejoraron los resultados en lectura y ciencias según las pruebas PISA.",
+        "Aumentó 2,1 puntos la probabilidad de acceder a la universidad."
+      ]
+    },
+    "slide4": {
+      "puntos": [
+        "El estudio no analiza directamente el riesgo de suicidio, aunque cita evidencia sobre alcohol y ansiedad.",
+        "Las reformas se aplicaron de forma escalonada: Castilla y León (2007), Galicia (2011), Asturias (2015), Baleares (2019).",
+        "Puede ser útil incorporar esta evidencia en programas de prevención familiar y escolar."
+      ]
+    },
+    "slide5": {
+      "mensaje_autoridad": "Retrasar el acceso legal al alcohol reduce significativamente su consumo en adolescentes, con efectos positivos sobre su bienestar psicológico y su rendimiento académico.",
+      "fuente_apa": "Bagues, M., & Villa, C. (2025). Minimum legal drinking age and educational outcomes. Journal of Health Economics, 104, 103078.",
+      "cta": "síguenos en @IPP.Psicologia para más claves de actualidad en psicología"
+    }
+  },
+  "copy_rrss": "Un nuevo estudio confirma que subir la edad legal para beber alcohol de 16 a 18 años reduce el consumo adolescente y mejora su bienestar psicológico y rendimiento académico.",
+  "hashtags": [
+    "#PsicologiaClinica",
+    "#SaludMental",
+    "#Adolescencia",
+    "#PrevencionAlcohol",
+    "#IPPPsicologia"
+  ]
+}
