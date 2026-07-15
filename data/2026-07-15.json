@@ -1,0 +1,112 @@
+{
+  "titulo": "Barómetro Sanitario 2026, nuevas plazas PIR y funciones ejecutivas en dislexia y discalculia: claves del 15 de julio de 2026",
+  "nota_editorial": "Las claves prácticas que se recogen a continuación forman parte del análisis editorial del Observatorio de Actualidad del IPP y no constituyen recomendación clínica individualizada.",
+  "resumen": "El Ministerio de Sanidad ha publicado la primera oleada del Barómetro Sanitario 2026, que sitúa en el 18,2% a la población que ha necesitado atención por salud mental en el último año. La Comisión de Recursos Humanos del Sistema Nacional de Salud ha aprobado 293 plazas PIR para la convocatoria de Formación Sanitaria Especializada de 2027, trece más que en la edición anterior. El Colegio Oficial de la Psicología de Madrid ha cerrado una jornada sobre psicología perinatal centrada en la vulnerabilidad emocional del posparto y el vínculo madre-bebé. Un estudio publicado en Psicología Educativa vincula la dislexia y la discalculia con déficits comunes en funciones ejecutivas.",
+  "audiencia": "ambos",
+  "nacionales": [
+    {
+      "tipo": "SALUD PÚBLICA",
+      "titular": "El 18,2% de la población española ha necesitado atención por salud mental en el último año, según el Barómetro Sanitario 2026",
+      "cuerpo": "La primera oleada del Barómetro Sanitario 2026, realizada por el Ministerio de Sanidad en colaboración con el Centro de Investigaciones Sociológicas sobre 2.602 entrevistas, indica que el 18,2% de la población ha necesitado consultar a un profesional sanitario en el último año por un problema de salud mental o malestar psicológico. De quienes recibieron atención en la sanidad pública, un 43,1% fue atendido principalmente por su médico o médica de familia, un 31% por psiquiatría y un 16,9% por psicología. El tiempo medio de espera desde la derivación en atención primaria hasta la primera consulta especializada es de 90,1 días, y entre consultas de seguimiento se eleva a 147,7 días. Un 23,8% de quienes buscaron ayuda recurrió directamente a un profesional privado mediante pago directo. El informe señala además que el 48,8% de la población considera difícil encontrar información fiable sobre salud mental.",
+      "fuente": "Infocop (Consejo General de la Psicología de España), citando datos del Ministerio de Sanidad y el CIS — Barómetro Sanitario 2026",
+      "url": "https://www.infocop.es/casi-uno-de-cada-cinco-espanoles-ha-necesitado-atencion-por-problemas-de-salud-mental-en-el-ultimo-ano-segun-el-barometro-sanitario-2026/"
+    },
+    {
+      "tipo": "NORMATIVA",
+      "titular": "Sanidad aprueba 293 plazas PIR para la convocatoria de Formación Sanitaria Especializada de 2027",
+      "cuerpo": "La Comisión de Recursos Humanos del Sistema Nacional de Salud ha aprobado una oferta de 12.850 plazas de Formación Sanitaria Especializada para 2027, de las que 293 corresponden a la especialidad de Psicología Clínica (PIR), trece más que en la convocatoria anterior. El Ministerio de Sanidad señala que desde 2018 el sistema ha incrementado su capacidad formativa en 4.448 plazas, un 53% más. Las pruebas selectivas se celebrarán el 23 de enero de 2027, con un examen de 200 preguntas más 10 de reserva. La convocatoria incorpora, como novedad, equipos pasivos de detección de dispositivos electrónicos ocultos como medida contra el fraude tecnológico.",
+      "fuente": "Infocop (Consejo General de la Psicología de España), citando datos del Ministerio de Sanidad",
+      "url": "https://www.infocop.es/sanidad-aprueba-una-oferta-de-293-plazas-pir-para-la-convocatoria-de-formacion-sanitaria-especializada-de-2027/"
+    },
+    {
+      "tipo": "CLÍNICA",
+      "titular": "El Colegio Oficial de la Psicología de Madrid aborda la vulnerabilidad emocional de la etapa perinatal en su jornada Psicología Perinatal",
+      "cuerpo": "La jornada Psicología Perinatal, organizada por el Colegio Oficial de la Psicología de Madrid dentro del proyecto Psicología que Transforma, ha concluido que la maternidad no protege por sí sola del malestar emocional y que el periodo perinatal puede suponer una etapa de especial vulnerabilidad, con posible aparición o intensificación de síntomas de depresión, ansiedad, trastorno obsesivo compulsivo, trauma o duelo. Entre las conclusiones se señala la falta de recursos especializados, programas intensivos y ratios adecuadas en los hospitales españoles, así como la inexistencia actual de unidades madre-bebé para casos de trastorno mental grave. El colegio destaca la importancia de integrar la psicología clínica en los equipos de los servicios maternoinfantiles y de poner el foco en la prevención durante los primeros 1.000 días de vida del bebé.",
+      "fuente": "Colegio Oficial de la Psicología de Madrid (Infocop)",
+      "url": "https://www.infocop.es/psicologia-perinatal-el-cuidado-de-la-salud-mental-en-una-etapa-de-vulnerabilidad-conclusiones/"
+    }
+  ],
+  "internacionales": [],
+  "papers": [
+    {
+      "apa": "Castro Cañizares, D., Mazuera Velázquez, T., & Estévez Pérez, N. (2026). Comparative study of executive functioning in schoolchildren with dyslexia, dyscalculia, and comorbidity of both disorders. Psicología Educativa, 32, Article e260447. https://doi.org/10.5093/psed2026a4",
+      "doi": "10.5093/psed2026a4",
+      "hallazgo": "En una muestra de 289 escolares de Educación Primaria de Santiago de Chile, los grupos con dislexia, discalculia y comorbilidad de ambos trastornos mostraron un rendimiento significativamente inferior en memoria de trabajo visoespacial, control inhibitorio, flexibilidad cognitiva e inteligencia fluida frente al grupo sin dificultades de aprendizaje. La flexibilidad cognitiva fue la única función ejecutiva con diferencias significativas entre el grupo con dislexia y el grupo con discalculia, y el grupo con comorbilidad presentó el rendimiento más bajo en conjunto, aunque sin significación estadística frente a los otros grupos con dificultades.",
+      "implicacion": "Los resultados sugieren que las dificultades específicas del aprendizaje podrían estar asociadas a déficits en capacidades cognitivas de dominio general y no únicamente a alteraciones específicas de lectura o cálculo, lo que puede orientar la inclusión de la valoración de funciones ejecutivas en los procesos de evaluación y diagnóstico de la dislexia y la discalculia."
+    }
+  ],
+  "herramientas": [
+    {
+      "nombre": "Baterías de evaluación psicopedagógica y neuropsicológica digital",
+      "descripcion": "Herramientas de evaluación digital disponibles en el mercado español que permiten valorar funciones ejecutivas como memoria de trabajo, control inhibitorio y flexibilidad cognitiva en el contexto de dificultades específicas del aprendizaje, complementando la exploración clínica tradicional."
+    }
+  ],
+  "alertas": [
+    {
+      "estado": "APROBADO",
+      "titulo": "Oferta de 293 plazas PIR para la Formación Sanitaria Especializada 2027",
+      "descripcion": "La Comisión de Recursos Humanos del Sistema Nacional de Salud ha aprobado la oferta de plazas que se incorporará a la orden de convocatoria de las pruebas selectivas de 2027, con 293 plazas para Psicología Clínica, trece más que en la convocatoria anterior. La gestión de la formación especializada corresponde al Ministerio de Sanidad en coordinación con las comunidades autónomas."
+    }
+  ],
+  "prioridades": [
+    {
+      "titulo": "Revisión de circuitos de derivación ante el aumento de la demanda",
+      "descripcion": "Con tiempos medios de espera de 90,1 días hasta la primera consulta especializada en salud mental, puede ser oportuno revisar los circuitos internos de derivación y priorización clínica, especialmente en casos de mayor vulnerabilidad."
+    },
+    {
+      "titulo": "Seguimiento de la oferta de plazas de especialización",
+      "descripcion": "Con la ampliación a 293 plazas PIR para 2027, puede ser útil incorporar esta información en la orientación a profesionales en formación o en proceso de acreditación de la especialidad en Psicología Clínica."
+    },
+    {
+      "titulo": "Valoración de funciones ejecutivas en dificultades del aprendizaje",
+      "descripcion": "A la luz de la nueva evidencia sobre dislexia y discalculia, puede ser relevante explorar la incorporación de pruebas de memoria de trabajo, control inhibitorio y flexibilidad cognitiva dentro de la evaluación neuropsicológica de las dificultades específicas del aprendizaje."
+    }
+  ],
+  "fuentes_verificadas": [
+    "https://www.infocop.es/casi-uno-de-cada-cinco-espanoles-ha-necesitado-atencion-por-problemas-de-salud-mental-en-el-ultimo-ano-segun-el-barometro-sanitario-2026/",
+    "https://www.infocop.es/sanidad-aprueba-una-oferta-de-293-plazas-pir-para-la-convocatoria-de-formacion-sanitaria-especializada-de-2027/",
+    "https://www.infocop.es/psicologia-perinatal-el-cuidado-de-la-salud-mental-en-una-etapa-de-vulnerabilidad-conclusiones/",
+    "https://www.infocop.es/un-estudio-vincula-la-dislexia-y-la-discalculia-con-deficits-comunes-en-funciones-ejecutivas/"
+  ],
+  "carousel": {
+    "noticia_seleccionada": "El 18,2% de la población española ha necesitado atención por salud mental en el último año, según el Barómetro Sanitario 2026",
+    "slide1": {
+      "titular": "1 de cada 5 españoles ha necesitado ayuda psicológica",
+      "subtitulo": "Datos de la primera oleada del Barómetro Sanitario 2026"
+    },
+    "slide2": {
+      "puntos": [
+        "El 18,2% de la población consultó por salud mental en el último año",
+        "El 16,9% de la atención pública en salud mental la dio psicología",
+        "El 43,1% pasó primero por el médico de familia"
+      ]
+    },
+    "slide3": {
+      "puntos": [
+        "Espera media de 90,1 días hasta la primera consulta especializada",
+        "Entre seguimientos, la espera sube a 147,7 días",
+        "El 23,8% acudió directamente a un profesional privado"
+      ]
+    },
+    "slide4": {
+      "puntos": [
+        "El 48,8% dice que es difícil encontrar información fiable sobre salud mental",
+        "La demanda joven sigue creciendo, según los expertos del sector",
+        "El sistema público mantiene una valoración positiva del 52,5%"
+      ]
+    },
+    "slide5": {
+      "mensaje_autoridad": "El 18,2% de la población española ha necesitado consultar a un profesional sanitario en el ultimo ano por un problema de salud mental o por un malestar psicologico o emocional.",
+      "fuente_apa": "Ministerio de Sanidad y Centro de Investigaciones Sociológicas. (2026). Barómetro Sanitario 2026, primera oleada.",
+      "cta": "síguenos en @IPP.Psicologia"
+    }
+  },
+  "copy_rrss": "El Barómetro Sanitario 2026 confirma lo que la consulta ya venía mostrando: 1 de cada 5 personas ha necesitado ayuda psicológica este último año, y la espera media hasta la primera cita especializada supera los tres meses.",
+  "hashtags": [
+    "#SaludMental",
+    "#Psicologia",
+    "#BarometroSanitario",
+    "#PIR",
+    "#Neuropsicologia"
+  ]
+}
