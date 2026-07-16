@@ -1,0 +1,113 @@
+{
+  "titulo": "Ley de violencia vicaria, psicología en los eSports y alternativa a la terapia electroconvulsiva: claves del 16 de julio de 2026",
+  "nota_editorial": "Las claves prácticas que se recogen a continuación forman parte del análisis editorial del Observatorio de Actualidad del IPP y no constituyen recomendación clínica individualizada.",
+  "resumen": "El Consejo de Ministros aprueba el Proyecto de Ley Orgánica de medidas en materia de violencia vicaria, que incorpora por primera vez una definición jurídica de esta forma de violencia en el ordenamiento español y modifica diez normas, entre ellas el Código Civil y el Código Penal. El Colegio Oficial de Psicología de Andalucía Occidental colabora con LaLiga y los ayuntamientos de Sevilla y Córdoba en talleres de prevención del acoso entre iguales en el deporte. Un artículo de Monitor on Psychology, revista de la Asociación Americana de Psicología, describe el papel creciente de la psicología ante los problemas de salud mental detectados en jugadores profesionales de eSports. Un ensayo publicado en The Lancet Psychiatry confirma que la terapia electroconvulsiva magnética iguala en eficacia a la terapia electroconvulsiva convencional, con una tasa de empeoramiento de la memoria mucho menor.",
+  "audiencia": "ambos",
+  "nacionales": [
+    {
+      "tipo": "NORMATIVA",
+      "titular": "El Gobierno aprueba el proyecto de ley orgánica de medidas en materia de violencia vicaria",
+      "cuerpo": "El Consejo de Ministros ha aprobado el Proyecto de Ley Orgánica de medidas en materia de violencia vicaria, que incorpora por primera vez una definición jurídica específica de esta forma de violencia en el ordenamiento español y la incluye como circunstancia agravante por razón de género en el Código Penal. El texto modifica diez normas, entre ellas el Código Civil y la Ley Orgánica de Protección Jurídica del Menor, e introduce cambios en materia de patria potestad, guarda y custodia y régimen de visitas cuando existan indicios fundados de violencia, además de reforzar la obligación de escuchar a los menores antes de decidir sobre la custodia. El proyecto inicia ahora su tramitación parlamentaria.",
+      "fuente": "Infocop (Consejo General de la Psicología de España), citando al Consejo de Ministros",
+      "url": "https://www.infocop.es/el-gobierno-aprueba-el-proyecto-de-ley-organica-de-medidas-en-materia-de-violencia-vicaria/"
+    },
+    {
+      "tipo": "CLÍNICA",
+      "titular": "El Colegio de Psicología de Andalucía Occidental colabora con LaLiga en talleres de prevención del acoso en el deporte",
+      "cuerpo": "El Colegio Oficial de Psicología de Andalucía Occidental ha participado, en colaboración con los ayuntamientos de Sevilla y Córdoba, en talleres formativos de sensibilización y prevención del bullying organizados por LaLiga y dirigidos a clubes deportivos, centros educativos y entidades deportivas. Las sesiones, impartidas por el responsable del Grupo de Psicología del Deporte del colegio, abordaron la definición y tipologías del acoso, sus consecuencias psicológicas y sociales, la normativa vigente que obliga a intervenir en los contextos deportivos y los protocolos de actuación disponibles, e incluyeron un espacio específico de trabajo con madres, padres y personas tutoras.",
+      "fuente": "Infocop (Consejo General de la Psicología de España), citando al Colegio Oficial de Psicología de Andalucía Occidental (COP-AO)",
+      "url": "https://www.infocop.es/el-cop-andalucia-occidental-colabora-con-laliga-y-los-ayuntamientos-de-sevilla-y-cordoba-en-talleres-de-sensibilizacion-y-prevencion-del-bullying-en-el-deporte/"
+    }
+  ],
+  "internacionales": [
+    {
+      "tipo": "INVESTIGACIÓN",
+      "titular": "La psicología irrumpe en los eSports: entre el alto rendimiento, el bienestar mental y la prevención del desgaste",
+      "cuerpo": "Un artículo publicado en Monitor on Psychology, revista de la Asociación Americana de Psicología (APA), y recogido por Infocop, analiza el papel creciente de la psicología en el ecosistema de los eSports, una industria valorada entre 1.600 y 24.900 millones de dólares y con más de 220 millones de jugadores y jugadoras en todo el mundo. El texto recoge datos de un estudio con jugadores profesionales de Counter-Strike en el que aproximadamente uno de cada cuatro refirió síntomas moderadamente graves o graves de depresión y cerca del 73% mostró bajos niveles de bienestar mental, si bien casi el 70% señaló no tener acceso a apoyo en salud mental. El artículo describe también la denominada 'cultura del grind', con sesiones de entrenamiento que pueden superar las 22 horas semanales, y señala la necesidad de desarrollar estándares internacionales y estudios longitudinales para esta disciplina emergente.",
+      "fuente": "Infocop (Consejo General de la Psicología de España), citando a Andoh, E. (2026), Monitor on Psychology, American Psychological Association (APA)",
+      "url": "https://www.infocop.es/la-psicologia-irrumpe-en-los-esports-entre-el-alto-rendimiento-el-bienestar-mental-y-la-prevencion-del-desgaste/"
+    }
+  ],
+  "papers": [
+    {
+      "apa": "Blumberger, D. M., McClintock, S. M., Thorpe, K. E., et al. (2026). Confirmatory efficacy and safety trial of magnetic seizure therapy versus right unilateral ultra-brief electroconvulsive therapy in depression (CREST–MST): a randomised, double-blind, non-inferiority trial in Canada and the USA. The Lancet Psychiatry, 13(5), 376-386.",
+      "doi": "10.1016/S2215-0366(26)00060-X",
+      "hallazgo": "El ensayo CREST-MST, aleatorizado, doble ciego y realizado en tres centros académicos de Canadá y Estados Unidos con 239 participantes con depresión grave no psicótica, encontró que la terapia electroconvulsiva magnética (MST) alcanzó una eficacia no inferior a la terapia electroconvulsiva unilateral ultra-breve (ECT) en la remisión de los síntomas depresivos (22,5% frente a 27,8%) y en la respuesta clínica (47% frente a 48%). La MST mostró además una tasa mucho menor de empeoramiento de la memoria autobiográfica (3% frente a 17% en el grupo de ECT).",
+      "implicacion": "Los resultados sugieren que la terapia electroconvulsiva magnética podría constituir una alternativa con menor impacto cognitivo a la terapia electroconvulsiva convencional en depresión resistente al tratamiento, aunque los propios autores señalan que el reclutamiento se detuvo antes de lo previsto y que la muestra tuvo escasa diversidad, por lo que la aplicabilidad a otras poblaciones y su disponibilidad regulatoria requieren más investigación."
+    }
+  ],
+  "herramientas": [
+    {
+      "nombre": "Protocolos de cribado de bienestar psicológico en deportistas y jugadores de alto rendimiento",
+      "descripcion": "Instrumentos de valoración del malestar emocional, la calidad del sueño y el síndrome de desgaste aplicables en contextos de alta exigencia competitiva, tanto en el deporte tradicional como en los eSports, para su uso en la práctica clínica y en programas de acompañamiento psicológico."
+    }
+  ],
+  "alertas": [
+    {
+      "estado": "EN TRAMITACIÓN",
+      "titulo": "Proyecto de Ley Orgánica de medidas en materia de violencia vicaria",
+      "descripcion": "El Consejo de Ministros ha aprobado el proyecto de ley, que da inicio a su tramitación parlamentaria. El texto incorpora una definición jurídica de la violencia vicaria, la añade como agravante por razón de género en el Código Penal y modifica diez normas, entre ellas el Código Civil, en materia de patria potestad, guarda y custodia y régimen de visitas."
+    }
+  ],
+  "prioridades": [
+    {
+      "titulo": "Protocolos de valoración ante violencia vicaria en la práctica clínica y pericial",
+      "descripcion": "Con la tramitación parlamentaria del proyecto de ley, puede ser oportuno revisar los protocolos de valoración del riesgo en violencia de género que contemplen a hijos, hijas y otros familiares menores como posibles víctimas instrumentales, especialmente en informes periciales de guarda y custodia."
+    },
+    {
+      "titulo": "Cribado del bienestar psicológico en jóvenes con alta dedicación a los eSports",
+      "descripcion": "A la luz de la evidencia sobre malestar emocional y baja percepción de bienestar en jugadores profesionales, puede ser útil incorporar preguntas sobre hábitos de juego, sueño y presión competitiva en la evaluación de adolescentes y jóvenes usuarios de videojuegos competitivos."
+    },
+    {
+      "titulo": "Seguimiento de alternativas a la terapia electroconvulsiva en depresión resistente",
+      "descripcion": "Puede ser relevante mantenerse informada sobre el desarrollo de la terapia electroconvulsiva magnética como posible opción con menor impacto cognitivo, de cara a una derivación informada, aunque su disponibilidad regulatoria en España es aún incierta."
+    }
+  ],
+  "fuentes_verificadas": [
+    "https://www.infocop.es/el-gobierno-aprueba-el-proyecto-de-ley-organica-de-medidas-en-materia-de-violencia-vicaria/",
+    "https://www.infocop.es/el-cop-andalucia-occidental-colabora-con-laliga-y-los-ayuntamientos-de-sevilla-y-cordoba-en-talleres-de-sensibilizacion-y-prevencion-del-bullying-en-el-deporte/",
+    "https://www.infocop.es/la-psicologia-irrumpe-en-los-esports-entre-el-alto-rendimiento-el-bienestar-mental-y-la-prevencion-del-desgaste/",
+    "https://www.technologynetworks.com/neuroscience/news/magnetic-seizure-therapy-rivals-electroconvulsive-therapy-for-major-depression-411787"
+  ],
+  "carousel": {
+    "noticia_seleccionada": "El Gobierno aprueba el proyecto de ley orgánica de medidas en materia de violencia vicaria",
+    "slide1": {
+      "titular": "España define legalmente la violencia vicaria",
+      "subtitulo": "El Gobierno aprueba el proyecto de ley y modifica diez normas"
+    },
+    "slide2": {
+      "puntos": [
+        "Se incorpora como agravante por razón de género en el Código Penal",
+        "Permite privar la patria potestad ante sentencia firme por delitos graves",
+        "Amplía la definición de víctimas a hijos, hijas y otros familiares menores"
+      ]
+    },
+    "slide3": {
+      "puntos": [
+        "Refuerza la obligación de escuchar a los menores antes de decidir la custodia",
+        "Agiliza los procesos de patria potestad mediante juicio verbal",
+        "El proyecto inicia ahora su tramitación parlamentaria en el Congreso"
+      ]
+    },
+    "slide4": {
+      "puntos": [
+        "Protege también a personas mayores con discapacidad bajo tutela o guarda",
+        "Amplía la Estadística de Víctimas Mortales por Violencia de Género",
+        "Incorpora formación específica sobre violencia vicaria para operadores jurídicos"
+      ]
+    },
+    "slide5": {
+      "mensaje_autoridad": "Es una ley pionera a nivel europeo que viene a dar respuesta a todas las víctimas y sus familiares.",
+      "fuente_apa": "Redondo, A. (2026). Declaraciones de la ministra de Igualdad tras el Consejo de Ministros, recogidas por Infocop.",
+      "cta": "síguenos en @IPP.Psicologia"
+    }
+  },
+  "copy_rrss": "El Gobierno aprueba el proyecto de ley sobre violencia vicaria: España tendrá, por primera vez, una definición jurídica específica de esta forma de violencia.",
+  "hashtags": [
+    "#ViolenciaVicaria",
+    "#PsicologíaForense",
+    "#SaludMental",
+    "#ProtecciónDeMenores",
+    "#Psicología"
+  ]
+}
