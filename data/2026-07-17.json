@@ -1,0 +1,119 @@
+{
+  "titulo": "Ley de profesiones de la intervención social, decálogo contra el estigma en las adicciones y riesgos de los chatbots de IA en salud mental: claves del 17 de julio de 2026",
+  "nota_editorial": "Las claves prácticas que se recogen a continuación forman parte del análisis editorial del Observatorio de Actualidad del IPP y no constituyen recomendación clínica individualizada.",
+  "resumen": "El Pleno del Congreso aprueba una amplia reforma de las leyes de discapacidad y dependencia que incorpora el compromiso de impulsar, en el plazo de un año, una futura ley de profesiones de la intervención social reclamada históricamente por la psicología. La UNAD publica un decálogo para informar sobre las adicciones sin estigmatizar, respaldado por la Asociación de la Prensa de Madrid. El Colegio de Psicología de Castilla-La Mancha pone en marcha un programa de apoyo psicológico para personas con enfermedades raras y sus familias. Un estudio publicado en Acta Psychiatrica Scandinavica identifica casos de empeoramiento de síntomas psiquiátricos asociados al uso de chatbots de IA en pacientes con enfermedad mental grave. Un artículo de la Revista de Estudios Sociales plantea la necesidad de abordar la salud mental en contextos de conflicto desde un enfoque comunitario y no solo clínico.",
+  "audiencia": "ambos",
+  "nacionales": [
+    {
+      "tipo": "NORMATIVA",
+      "titular": "El Congreso aprueba la reforma de las leyes de discapacidad y dependencia, con el compromiso de impulsar una futura ley de profesiones de la intervención social",
+      "cuerpo": "El Pleno del Congreso de los Diputados ha aprobado el Proyecto de Ley por el que se modifican el Texto Refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social y la Ley 39/2006, de Promoción de la Autonomía Personal y Atención a las personas en situación de dependencia. El texto, que ahora continúa su tramitación en el Senado, incorpora el compromiso de que el Gobierno remita a las Cortes Generales, en el plazo de un año desde la entrada en vigor de la norma, un Proyecto de Ley de Profesiones de la Intervención Social, a iniciativa del Grupo Parlamentario Junts y por propuesta del Consejo General de la Psicología. La reforma incorpora además un nuevo artículo sobre atención integral y comunitaria en salud mental, refuerza el papel de la atención psicológica en los procesos de habilitación y rehabilitación de las personas con discapacidad, y prohíbe el internamiento involuntario por razón de discapacidad salvo en situaciones de urgencia vital.",
+      "fuente": "Infocop (Consejo General de la Psicología de España)",
+      "url": "https://www.infocop.es/el-congreso-aprueba-el-proyecto-de-ley-que-modifica-las-leyes-de-discapacidad-y-dependencia-en-cuyo-texto-se-preve-impulsar-una-futura-ley-de-profesiones-de-la-intervencion-social/"
+    },
+    {
+      "tipo": "SALUD PÚBLICA",
+      "titular": "La UNAD publica un decálogo para informar sobre las adicciones sin estigmatizar",
+      "cuerpo": "La Comisión de Comunicación de UNAD, la Red de Atención a las Adicciones, ha elaborado el decálogo ‘Cómo informar sin estigmatizar a las personas con adicciones’, tras analizar la cobertura mediática de las adicciones en medios estatales, autonómicos y locales. El documento recomienda, entre otras cuestiones, evitar términos como ‘yonki’, ‘toxicómano’ o ‘drogadicta’; no asociar automáticamente el consumo problemático con la delincuencia; abordar las adicciones desde una perspectiva sociosanitaria y no solo policial o judicial; y diversificar las fuentes consultadas, incorporando a profesionales, personas investigadoras y personas con experiencia directa. La iniciativa cuenta con el respaldo de la Asociación de la Prensa de Madrid, que colaborará en su difusión.",
+      "fuente": "Infocop (Consejo General de la Psicología de España), citando a UNAD",
+      "url": "https://www.infocop.es/informar-sin-estigmatizar-la-unad-publica-un-decalogo-para-mejorar-el-tratamiento-informativo-de-las-adicciones-desde-el-respeto-y-el-rigor/"
+    },
+    {
+      "tipo": "CLÍNICA",
+      "titular": "El Colegio de Psicología de Castilla-La Mancha pone en marcha un programa de apoyo psicológico para personas con enfermedades raras y sus familias",
+      "cuerpo": "Desde el pasado mes de mayo, el Colegio Oficial de Psicología de Castilla-La Mancha, en colaboración con la Unidad de Enfermedades Raras de la Consejería de Sanidad de la Junta de Comunidades de Castilla-La Mancha, cuenta con un Programa de Apoyo Psicológico dirigido a personas con enfermedades raras y sus familias. El programa contempla tres fases de intervención: la atención tras un diagnóstico reciente, el apoyo a familias en situaciones de claudicación ante la complejidad del cuidado diario, y el acompañamiento en el final de la vida para prevenir el duelo patológico. Las intervenciones son realizadas por profesionales de la psicología colegiados con formación específica en psicología clínica o sanitaria, intervención en trauma e intervención en crisis.",
+      "fuente": "Infocop (Consejo General de la Psicología de España)",
+      "url": "https://www.infocop.es/el-copclm-cuenta-con-un-programa-de-apoyo-psicologico-dirigido-a-personas-con-enfermedades-raras-y-sus-familias/"
+    }
+  ],
+  "internacionales": [],
+  "papers": [
+    {
+      "apa": "Olsen, S. G., Østergaard, S. D., et al. (2026). Potentially Harmful Consequences of Artificial Intelligence (AI) Chatbot Use Among Patients With Mental Illness: Early Data From a Large Psychiatric Service System. Acta Psychiatrica Scandinavica.",
+      "doi": "10.1111/acps.70068",
+      "hallazgo": "Al examinar los registros electrónicos de casi 54.000 personas con enfermedad mental, el equipo de investigación de la Universidad de Aarhus identificó 38 pacientes en cuyas notas clínicas el uso de chatbots de IA parecía asociarse a un empeoramiento de delirios y, en menor medida, de manía, ideación suicida o trastornos alimentarios.",
+      "implicacion": "Los propios autores señalan que el estudio no establece una relación causal directa, pero los resultados sugieren que el uso de chatbots de IA podría implicar riesgos para personas con enfermedad mental grave, como la esquizofrenia o el trastorno bipolar, y los investigadores reclaman más investigación controlada y regulación específica de esta tecnología."
+    },
+    {
+      "apa": "López-López, W., Urzúa, A., Gantiva, C., Reyes-Rivera, M.-J., y Cano-Sierra, L. (2026). Salud mental, conflictos sociales y cultura de paz. Revista de Estudios Sociales, 95, 3-13.",
+      "doi": "10.7440/res95.2026.01",
+      "hallazgo": "El artículo, que introduce un número monográfico de la revista, plantea que el modelo biomédico tradicional resulta insuficiente para explicar el impacto psicológico de los conflictos sociales, y propone entender la salud mental en estos contextos como un proceso colectivo vinculado a los determinantes sociales, la memoria y la construcción de paz.",
+      "implicacion": "Los autores sugieren que las intervenciones limitadas al ámbito clínico individual pueden resultar insuficientes en contextos de violencia, y plantean que puede ser útil incorporar enfoques comunitarios y multidimensionales en la atención psicológica de poblaciones afectadas por conflictos."
+    }
+  ],
+  "herramientas": [],
+  "alertas": [
+    {
+      "estado": "EN TRAMITACIÓN",
+      "titulo": "Reforma de las leyes de discapacidad y dependencia",
+      "descripcion": "El Pleno del Congreso ha aprobado el proyecto de ley que modifica el Texto Refundido de la Ley General de derechos de las personas con discapacidad y la Ley 39/2006 de dependencia. El texto continúa ahora su tramitación en el Senado antes de su eventual aprobación definitiva y publicación en el BOE."
+    },
+    {
+      "estado": "PROPUESTA",
+      "titulo": "Futura ley de profesiones de la intervención social",
+      "descripcion": "El proyecto de ley aprobado incorpora el compromiso de que el Gobierno remita a las Cortes Generales, en el plazo de un año desde la entrada en vigor de la norma, un proyecto de ley de profesiones de la intervención social, una regulación reclamada históricamente por el Consejo General de la Psicología, el Consejo de Trabajo Social y el Consejo de Educación Social."
+    }
+  ],
+  "prioridades": [
+    {
+      "titulo": "Revisar el lenguaje sobre adicciones en la comunicación profesional",
+      "descripcion": "A raíz del decálogo publicado por la UNAD, puede ser útil revisar el lenguaje empleado en materiales divulgativos, redes sociales o informes para evitar términos estigmatizantes hacia las personas con adicciones."
+    },
+    {
+      "titulo": "Explorar el uso de chatbots de IA con pacientes vulnerables",
+      "descripcion": "Dada la evidencia preliminar sobre posibles riesgos del uso de chatbots de IA en personas con enfermedad mental grave, puede ser relevante abordar este tema de forma proactiva en la anamnesis y el seguimiento de determinados perfiles clínicos."
+    },
+    {
+      "titulo": "Seguir la tramitación de la futura regulación de la intervención social",
+      "descripcion": "Puede ser oportuno seguir de cerca la tramitación parlamentaria de la reforma de las leyes de discapacidad y dependencia, y del futuro proyecto de ley de profesiones de la intervención social, por su posible impacto en el ejercicio profesional de la psicología."
+    }
+  ],
+  "fuentes_verificadas": [
+    "https://www.infocop.es/el-congreso-aprueba-el-proyecto-de-ley-que-modifica-las-leyes-de-discapacidad-y-dependencia-en-cuyo-texto-se-preve-impulsar-una-futura-ley-de-profesiones-de-la-intervencion-social/",
+    "https://www.infocop.es/informar-sin-estigmatizar-la-unad-publica-un-decalogo-para-mejorar-el-tratamiento-informativo-de-las-adicciones-desde-el-respeto-y-el-rigor/",
+    "https://www.infocop.es/el-copclm-cuenta-con-un-programa-de-apoyo-psicologico-dirigido-a-personas-con-enfermedades-raras-y-sus-familias/",
+    "https://onlinelibrary.wiley.com/doi/10.1111/acps.70068",
+    "https://revistas.uniandes.edu.co/index.php/res/article/view/12774"
+  ],
+  "carousel": {
+    "noticia_seleccionada": "El Congreso aprueba la reforma de discapacidad y dependencia con el compromiso de una futura ley de profesiones de la intervención social",
+    "slide1": {
+      "titular": "Congreso aprueba reforma clave para la psicología social",
+      "subtitulo": "Compromiso de regular las profesiones de la intervención social en un año"
+    },
+    "slide2": {
+      "puntos": [
+        "El Pleno del Congreso aprueba la reforma de las leyes de discapacidad y dependencia.",
+        "El texto incluye el compromiso de una futura ley de profesiones de la intervención social.",
+        "La psicología, la educación social y el trabajo social carecen hoy de regulación estatal específica."
+      ]
+    },
+    "slide3": {
+      "puntos": [
+        "La reforma refuerza la atención psicológica dentro de los procesos de habilitación y rehabilitación.",
+        "Prohíbe el internamiento involuntario por discapacidad, salvo urgencia vital, y limita las sujeciones.",
+        "Reconoce la atención integral y comunitaria en salud mental como un derecho de la persona."
+      ]
+    },
+    "slide4": {
+      "puntos": [
+        "El texto pasa ahora al Senado antes de su aprobación definitiva y publicación en el BOE.",
+        "La futura ley de profesiones definiría competencias y formación mínima en la intervención social.",
+        "La medida responde a una demanda histórica del Consejo General de la Psicología."
+      ]
+    },
+    "slide5": {
+      "mensaje_autoridad": "El Consejo General de la Psicología viene reclamando desde la legislatura pasada un marco común que regule las profesiones de la intervención social.",
+      "fuente_apa": "Infocop (Consejo General de la Psicología de España), 17 de julio de 2026",
+      "cta": "síguenos en @IPP.Psicologia"
+    }
+  },
+  "copy_rrss": "El Congreso ha dado luz verde a una reforma que abre la puerta a una futura ley de profesiones de la intervención social, una demanda histórica de la psicología. Te contamos qué cambia.",
+  "hashtags": [
+    "#psicología",
+    "#saludmental",
+    "#intervenciónsocial",
+    "#discapacidad",
+    "#IA"
+  ]
+}
