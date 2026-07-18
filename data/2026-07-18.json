@@ -1,0 +1,118 @@
+{
+  "titulo": "Psicólogos ven insuficiente el aumento de plazas PIR, jornada de buen trato a mayores y la UE plantea limitar las redes sociales a menores: claves del 18 de julio de 2026",
+  "nota_editorial": "Las claves prácticas que se recogen a continuación forman parte del análisis editorial del Observatorio de Actualidad del IPP y no constituyen recomendación clínica individualizada.",
+  "resumen": "Sanidad oferta 293 plazas de Psicólogo Interno Residente para la convocatoria de 2027, solo 13 más que el año anterior, una cifra que el sector califica de insuficiente ante las listas de espera de 4 a 5 meses para una primera consulta pública. El Colegio Oficial de Psicología de Madrid celebra la VII Jornada de Buen Trato a las Personas Mayores, coincidiendo con el Día Mundial de Toma de Conciencia del Abuso y Maltrato en la Vejez. La Comisión Europea propone prohibir el acceso a las redes sociales a los menores de 13 años y establecer un sistema de acceso gradual supervisado para adolescentes, tras un informe que vincula el uso intensivo de estas plataformas con problemas de salud mental. Un ensayo clínico publicado en The Lancet, con más de 1.000 personas mayores de 11 países latinoamericanos, muestra que una intervención multidominio de estilo de vida mejora la cognición global frente a las recomendaciones generales de salud.",
+  "audiencia": "ambos",
+  "nacionales": [
+    {
+      "tipo": "SALUD PÚBLICA",
+      "titular": "Los psicólogos ven insuficiente el aumento de plazas del PIR para 2027",
+      "cuerpo": "El Ministerio de Sanidad ofertará 293 plazas de Psicólogo Interno Residente (PIR) para la convocatoria de 2027, solo 13 más que las 280 de este año. Según informa El Español, profesionales como Antonio Cano, presidente de la Sociedad Española para el Estudio de la Ansiedad y el Estrés, califican el incremento de insuficiente ante una espera media de 4 a 5 meses para la primera consulta pública en la sanidad pública. El mismo medio recoge que el Consejo General de la Psicología denuncia que el compromiso inicial del Ministerio era alcanzar las 400 plazas.",
+      "fuente": "El Español (Observatorio de la Sanidad)",
+      "url": "https://www.elespanol.com/invertia/observatorios/sanidad/20260716/psicologos-ven-ridiculo-ofertar-plazas-pir-mejorar-salud-mental-no-prioritario/1003744322516_0.html"
+    },
+    {
+      "tipo": "CLÍNICA",
+      "titular": "El Colegio de Psicología de Madrid celebra su VII jornada de buen trato a las personas mayores",
+      "cuerpo": "El Colegio Oficial de Psicología de Madrid ha celebrado la VII edición de las Jornadas de Buen Trato a las Personas Mayores, organizadas por su Grupo de Trabajo por la Promoción del Buen Trato a las Personas Mayores, coincidiendo con el Día Mundial de Toma de Conciencia del Abuso y Maltrato en la Vejez. El encuentro reunió a profesionales de la Psicología, la Psicogerontología y la Neuropsicología para abordar la prevención del maltrato y la promoción de entornos de cuidado seguros, empáticos y respetuosos con las personas mayores.",
+      "fuente": "Colegio Oficial de Psicología de Madrid (COPM)",
+      "url": "https://web.copmadrid.org/actualidad-y-comunicacion/noticias-y-eventos/noticias/el-colegio-impulsa-la-cultura-del-envejecimiento-saludable-con-la-vii-jornada-especializada-en-bueno-3331"
+    }
+  ],
+  "internacionales": [
+    {
+      "tipo": "NORMATIVA",
+      "titular": "La Comisión Europea propone prohibir las redes sociales a los menores de 13 años",
+      "cuerpo": "Según informa el medio Moncloa, la Comisión Europea ha propuesto prohibir el acceso a las redes sociales a los menores de 13 años y establecer un sistema de acceso gradual y supervisado para los adolescentes. La propuesta, presentada el 14 de julio de 2026, se apoya en datos según los cuales los niños europeos dedican entre cuatro y seis horas diarias a estas plataformas y casi un 60% presenta problemas de desarrollo socioemocional y de salud mental. La medida debe continuar su tramitación en las instituciones comunitarias antes de poder convertirse en norma, y España, por su parte, tramita en el Congreso su propia ley de protección de menores en el entorno digital.",
+      "fuente": "Moncloa.com",
+      "url": "https://www.moncloa.com/2026/07/14/ue-prohibe-redes-sociales-menores-3399240/"
+    }
+  ],
+  "papers": [
+    {
+      "apa": "LatAm-FINGERS Initiative Investigators. (2026). Multidomain lifestyle intervention for the prevention of cognitive decline in at-risk older adults in Latin America (LatAm-FINGERS): a single-blind, multicentre, randomised controlled trial. The Lancet. https://doi.org/10.1016/S0140-6736(26)01278-X",
+      "doi": "10.1016/S0140-6736(26)01278-X",
+      "hallazgo": "El ensayo, con más de 1.000 adultos de entre 60 y 77 años en 11 países latinoamericanos, encontró una mejora de la cognición global en el grupo con intervención multidominio (actividad física, pauta dietética, entrenamiento cognitivo, compromiso social y control cardiovascular) frente al grupo de recomendaciones generales de salud.",
+      "implicacion": "Los resultados sugieren que un programa de estilo de vida culturalmente adaptado puede orientar estrategias de prevención del deterioro cognitivo en poblaciones con recursos sanitarios limitados, aunque su traslado a la práctica clínica individual requiere más investigación."
+    }
+  ],
+  "herramientas": [
+    {
+      "nombre": "Plataformas de estimulación cognitiva digital",
+      "descripcion": "Herramientas de estimulación cognitiva digital validadas para uso clínico que permiten diseñar programas de entrenamiento personalizados en personas con deterioro cognitivo, en línea con el enfoque multidominio que respalda la evidencia científica reciente."
+    }
+  ],
+  "alertas": [
+    {
+      "estado": "APROBADO",
+      "titulo": "Sanidad convoca 293 plazas PIR de Psicología Clínica para 2027",
+      "descripcion": "El Ministerio de Sanidad ha fijado en 293 las plazas de Psicólogo Interno Residente para la convocatoria de 2027, 13 más que en 2026. El sector, a través de organizaciones como el Consejo General de la Psicología y la Sociedad Española de Psicología Clínica, considera la cifra insuficiente ante el déficit de especialistas y las listas de espera."
+    },
+    {
+      "estado": "PROPUESTA",
+      "titulo": "La Comisión Europea propone prohibir las redes sociales a menores de 13 años",
+      "descripcion": "La Comisión Europea ha propuesto un veto al acceso de menores de 13 años a las redes sociales y un sistema de acceso gradual supervisado para adolescentes. La propuesta, presentada el 14 de julio de 2026, debe seguir su tramitación en las instituciones europeas antes de poder convertirse en norma."
+    }
+  ],
+  "prioridades": [
+    {
+      "titulo": "Gestión de la espera en consulta",
+      "descripcion": "Ante una espera media de 4 a 5 meses para la primera consulta pública, puede ser útil explorar protocolos de acogida y cribado inicial que prioricen los casos de mayor riesgo mientras se resuelve la lista de espera."
+    },
+    {
+      "titulo": "Buen trato y detección del maltrato en personas mayores",
+      "descripcion": "A raíz de la Jornada del COPM, puede ser relevante incorporar a la valoración con pacientes mayores preguntas específicas sobre posibles situaciones de maltrato o negligencia en su entorno de cuidado."
+    },
+    {
+      "titulo": "Uso de redes sociales en la consulta con menores y familias",
+      "descripcion": "Con la propuesta europea sobre el acceso de menores a redes sociales en debate, puede ser oportuno revisar con las familias los hábitos de uso digital y su relación con el bienestar emocional de niños y adolescentes."
+    }
+  ],
+  "fuentes_verificadas": [
+    "https://www.elespanol.com/invertia/observatorios/sanidad/20260716/psicologos-ven-ridiculo-ofertar-plazas-pir-mejorar-salud-mental-no-prioritario/1003744322516_0.html",
+    "https://web.copmadrid.org/actualidad-y-comunicacion/noticias-y-eventos/noticias/el-colegio-impulsa-la-cultura-del-envejecimiento-saludable-con-la-vii-jornada-especializada-en-bueno-3331",
+    "https://www.moncloa.com/2026/07/14/ue-prohibe-redes-sociales-menores-3399240/",
+    "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01278-X/abstract"
+  ],
+  "carousel": {
+    "noticia_seleccionada": "Los psicólogos ven insuficiente el aumento de plazas del PIR para 2027",
+    "slide1": {
+      "titular": "Solo 13 plazas psicológicas más para 2027",
+      "subtitulo": "Sanidad oferta 293 vacantes PIR pese al déficit de especialistas"
+    },
+    "slide2": {
+      "puntos": [
+        "Sanidad ofertará 293 plazas PIR de Psicología Clínica para la convocatoria 2027",
+        "Solo 13 más que este año, pese al aumento de la demanda asistencial",
+        "Los españoles esperan de media 4 a 5 meses para una primera consulta"
+      ]
+    },
+    "slide3": {
+      "puntos": [
+        "La ministra se había comprometido a llegar a 400 plazas, según el COP",
+        "Algunas comunidades contratan psicólogos sin especialidad ante la escasez",
+        "Los colegios profesionales advierten del riesgo para la calidad asistencial"
+      ]
+    },
+    "slide4": {
+      "puntos": [
+        "El aumento de plazas PIR ha sido mínimo cada año desde 2023",
+        "Las sociedades científicas piden reforzar la Formación Sanitaria Especializada",
+        "El debate conecta con la falta de especialistas en Atención Primaria"
+      ]
+    },
+    "slide5": {
+      "mensaje_autoridad": "Con este aumento es obvio que no hay un objetivo prioritario, precisa Antonio Cano, presidente de la Sociedad Española para el Estudio de la Ansiedad y el Estrés",
+      "fuente_apa": "Villafranca, V. (16 de julio de 2026). Los psicólogos ven ridículo ofertar 13 plazas más en el PIR 2027. El Español.",
+      "cta": "síguenos en @IPP.Psicologia"
+    }
+  },
+  "copy_rrss": "Solo 13 plazas PIR más para 2027, pese a que los españoles esperan de media entre 4 y 5 meses para su primera consulta de psicología en la sanidad pública.",
+  "hashtags": [
+    "#PsicologiaClinica",
+    "#PIR2027",
+    "#SaludMental",
+    "#PsicologosEspaña",
+    "#ListasDeEspera"
+  ]
+}
