@@ -1,0 +1,119 @@
+{
+  "titulo": "Secuelas psicológicas invisibilizadas en accidentes de tráfico, abandono en el primer año de Psicología y proyecto europeo por la salud mental juvenil: claves del 19 de julio de 2026",
+  "nota_editorial": "Las claves prácticas que se recogen a continuación forman parte del análisis editorial del Observatorio de Actualidad del IPP y no constituyen recomendación clínica individualizada.",
+  "resumen": "Un estudio publicado en Social Science & Medicine alerta de que las secuelas psicológicas de los accidentes de tráfico —estrés, ansiedad y trastorno de estrés postraumático— siguen sin integrarse de forma habitual en los programas de rehabilitación, especialmente en países de ingresos bajos y medios. En España, Infocop recoge que la tasa de abandono en primer curso de Psicología alcanza el 31,6%, muy por encima de la media general de las titulaciones universitarias. El Colegio Oficial de Psicología de Andalucía Occidental y el Colegio de Farmacéuticos de Sevilla han firmado un convenio de colaboración para impulsar la formación conjunta entre ambas profesiones sanitarias. En el ámbito internacional, el Instituto de la Mente Infantil (Child Mind Institute) advierte de que no todo problema de atención en la infancia equivale a TDAH, y la Universidad de Durham participa en SUPPORT-Y, un proyecto europeo de 4,4 millones de euros para mejorar la salud mental de los jóvenes.",
+  "audiencia": "ambos",
+  "nacionales": [
+    {
+      "tipo": "INVESTIGACIÓN",
+      "titular": "El primer año en Psicología: una etapa clave para adaptarse y prevenir el abandono",
+      "cuerpo": "El Informe CYD 2025, elaborado por la Fundación CYD y recogido por Infocop, sitúa a Psicología entre las titulaciones con mayor presión de demanda en las universidades públicas presenciales. En el curso 2023-2024, el grado registró una tasa de rendimiento del 76,9% y una tasa de abandono en primer año del 31,6%, frente al 22,1% de media general de las titulaciones universitarias. El abandono fue del 17,1% en la modalidad presencial y del 44,7% en la modalidad a distancia, y las mujeres presentaron mejores resultados académicos y menor tasa de abandono que los hombres. El informe atribuye estas cifras a una combinación de factores —expectativas previas, acompañamiento disponible, estrategias de estudio y circunstancias personales— y no a una única causa.",
+      "fuente": "Fundación CYD (Informe CYD 2025), recogido por Infocop",
+      "url": "https://www.infocop.es/el-primer-ano-en-psicologia-una-etapa-clave-para-adaptarse-y-prevenir-el-abandono/"
+    },
+    {
+      "tipo": "SALUD PÚBLICA",
+      "titular": "El COP Andalucía Occidental y el Colegio de Farmacéuticos de Sevilla firman un convenio de colaboración",
+      "cuerpo": "El Colegio Oficial de Psicología de Andalucía Occidental y el Real e Ilustre Colegio Oficial de Farmacéuticos de Sevilla han firmado un convenio de colaboración para impulsar la formación conjunta, la divulgación y el trabajo entre ambas profesiones sanitarias. El acuerdo contempla la organización conjunta de jornadas, cursos y talleres, y se enmarca en la microcredencial académica «Mentally Friendly» de la Universidad de Sevilla, orientada a que los farmacéuticos comunitarios puedan desarrollar escucha activa y derivar a pacientes hacia servicios psicológicos cuando sea necesario.",
+      "fuente": "COP Andalucía Occidental, difundido por Infocop",
+      "url": "https://www.infocop.es/el-cop-andalucia-occidental-y-el-colegio-de-farmaceuticos-de-sevilla-firman-un-convenio-de-colaboracion-para-impulsar-la-formacion-y-el-trabajo-conjunto-entre-profesiones-sanitarias/"
+    }
+  ],
+  "internacionales": [
+    {
+      "tipo": "CLÍNICA",
+      "titular": "No todos los problemas de atención son TDAH: claves para una detección eficaz en la infancia y la adolescencia",
+      "cuerpo": "Con motivo del Día Internacional del TDAH, el Instituto de la Mente Infantil (Child Mind Institute) señala que la falta de atención en la infancia y la adolescencia puede tener múltiples causas más allá del trastorno por déficit de atención e hiperactividad, como la ansiedad, los pensamientos intrusivos, el estrés prolongado o dificultades específicas de aprendizaje. La institución subraya que ningún diagnóstico de TDAH debería basarse en observaciones aisladas y que es imprescindible una evaluación exhaustiva que recoja información del entorno familiar y escolar antes de intervenir.",
+      "fuente": "Child Mind Institute, recogido por Infocop",
+      "url": "https://www.infocop.es/no-todos-los-problemas-de-atencion-son-tdah-claves-para-una-deteccion-eficaz-en-la-infancia-y-la-adolescencia/"
+    },
+    {
+      "tipo": "INVESTIGACIÓN",
+      "titular": "Investigadores europeos se unen para abordar la salud mental de los jóvenes",
+      "cuerpo": "La Universidad de Durham participa en SUPPORT-Y (Supporting the Mental Health of Youth in Education, Training and Work), un proyecto financiado con 4,4 millones de euros por el programa Horizon Europe de la Unión Europea. La iniciativa, coordinada por la Universidad de Finlandia Oriental, reúne a doce socios de ocho países —entre ellos Bélgica, Estonia, Alemania, Letonia, Malta y Portugal— y trabajará con jóvenes de entre 12 y 25 años para desarrollar herramientas de apoyo a la salud mental en la escuela, la formación profesional y el entorno laboral durante los próximos cinco años, con inicio previsto en otoño de 2026.",
+      "fuente": "Universidad de Durham",
+      "url": "https://www.durham.ac.uk/news-events/latest-news/2026/07/european-researchers-join-forces-to-address-mental-health-challenges/"
+    }
+  ],
+  "papers": [
+    {
+      "apa": "Groce, N., Chatukuta, M., Mont, D., Pinilla-Roncancio, M., Hanass-Hancock, J., Raja, D. S., & McClain-Nhlapo, C. (2026). Road traffic accidents and disability: A global health concern. Social Science & Medicine, 400, 119163.",
+      "doi": "10.1016/j.socscimed.2026.119163",
+      "hallazgo": "Los accidentes de tráfico son la octava causa de muerte en el mundo y la principal entre la infancia y las personas jóvenes, con aproximadamente 1,19 millones de fallecimientos en 2021. Entre el 5% y el 25% de las personas lesionadas desarrollan discapacidad a largo plazo, con secuelas físicas, psicológicas, intelectuales y sensoriales que incluyen estrés, ansiedad y trastorno de estrés postraumático. El estudio señala que los servicios psicológicos rara vez forman parte de los programas de rehabilitación, sobre todo en países de ingresos bajos y medios.",
+      "implicacion": "Los autores sugieren que puede ser necesario un enfoque integrado que conecte la seguridad vial con las políticas de discapacidad e incorpore la dimensión psicológica en los programas de atención y rehabilitación tras un accidente de tráfico."
+    }
+  ],
+  "herramientas": [
+    {
+      "nombre": "Plataformas de teleterapia con cifrado de extremo a extremo",
+      "descripcion": "Herramientas de videoconsulta psicológica disponibles en el mercado que incorporan cifrado de extremo a extremo y están adaptadas a los requisitos del RGPD para la atención online."
+    },
+    {
+      "nombre": "Software de evaluación neuropsicológica digital",
+      "descripcion": "Plataformas de evaluación y estimulación cognitiva digital validadas para uso clínico, que permiten la aplicación y corrección de pruebas neuropsicológicas de forma remota."
+    }
+  ],
+  "alertas": [],
+  "prioridades": [
+    {
+      "titulo": "Evaluación diferencial de los problemas de atención en la infancia",
+      "descripcion": "Puede ser útil explorar protocolos de evaluación diferencial ante quejas de atención en la infancia y la adolescencia, distinguiendo el TDAH de la ansiedad, los pensamientos intrusivos, el estrés prolongado o las dificultades de aprendizaje antes de plantear un diagnóstico."
+    },
+    {
+      "titulo": "Dimensión psicológica en la atención a víctimas de accidentes de tráfico",
+      "descripcion": "Puede ser relevante incorporar el cribado de síntomas de estrés, ansiedad y trastorno de estrés postraumático en la atención a personas con discapacidad sobrevenida por accidentes de tráfico, dado que los servicios psicológicos rara vez forman parte habitual de los programas de rehabilitación."
+    },
+    {
+      "titulo": "Acompañamiento en el primer año de estudios de Psicología",
+      "descripcion": "Puede ser oportuno revisar, para quienes colaboran con universidades o supervisan prácticas, los protocolos de acompañamiento y tutoría dirigidos a estudiantes de primer curso de Psicología, dado el elevado porcentaje de abandono académico registrado en esta etapa."
+    }
+  ],
+  "fuentes_verificadas": [
+    "https://www.infocop.es/el-primer-ano-en-psicologia-una-etapa-clave-para-adaptarse-y-prevenir-el-abandono/",
+    "https://www.infocop.es/el-cop-andalucia-occidental-y-el-colegio-de-farmaceuticos-de-sevilla-firman-un-convenio-de-colaboracion-para-impulsar-la-formacion-y-el-trabajo-conjunto-entre-profesiones-sanitarias/",
+    "https://www.infocop.es/no-todos-los-problemas-de-atencion-son-tdah-claves-para-una-deteccion-eficaz-en-la-infancia-y-la-adolescencia/",
+    "https://www.durham.ac.uk/news-events/latest-news/2026/07/european-researchers-join-forces-to-address-mental-health-challenges/",
+    "https://www.infocop.es/los-accidentes-de-trafico-conllevan-consecuencias-psicologicas-persistentes-que-siguen-siendo-invisibilizadas-segun-un-estudio/"
+  ],
+  "carousel": {
+    "noticia_seleccionada": "Los accidentes de tráfico conllevan consecuencias psicológicas persistentes que siguen siendo invisibilizadas, según un estudio",
+    "slide1": {
+      "titular": "Accidentes de tráfico: secuelas psicológicas todavía invisibles",
+      "subtitulo": "Un estudio internacional alerta de la falta de atención psicológica tras el alta"
+    },
+    "slide2": {
+      "puntos": [
+        "Los accidentes de tráfico causan 1,19 millones de muertes al año en el mundo.",
+        "Entre el 5% y el 25% de las personas lesionadas desarrollan discapacidad a largo plazo.",
+        "El estrés, la ansiedad y el TEPT son secuelas frecuentes tras el accidente."
+      ]
+    },
+    "slide3": {
+      "puntos": [
+        "Los servicios psicológicos rara vez forman parte de los programas de rehabilitación.",
+        "El acceso a atención psicológica tras el alta es limitado y poco adaptado.",
+        "Existe una desconexión entre la seguridad vial y las políticas de discapacidad."
+      ]
+    },
+    "slide4": {
+      "puntos": [
+        "Los costes del accidente pueden suponer el 10% de los ingresos familiares anuales.",
+        "Puede ser útil incorporar cribado psicológico en los programas de rehabilitación física.",
+        "La dimensión psicológica debería integrarse en la atención a víctimas de tráfico."
+      ]
+    },
+    "slide5": {
+      "mensaje_autoridad": "El estudio concluye que es imprescindible incluir la dimensión psicológica, junto con el estrés, la ansiedad y el TEPT, en los programas de atención y rehabilitación tras un accidente de tráfico.",
+      "fuente_apa": "Groce, N., Chatukuta, M., Mont, D., Pinilla-Roncancio, M., Hanass-Hancock, J., Raja, D. S., & McClain-Nhlapo, C. (2026). Road traffic accidents and disability: A global health concern. Social Science & Medicine, 400, 119163.",
+      "cta": "síguenos en @IPP.Psicologia"
+    }
+  },
+  "copy_rrss": "Los accidentes de tráfico no solo dejan secuelas físicas: el estrés, la ansiedad y el TEPT siguen sin formar parte habitual de la rehabilitación, según un estudio internacional.",
+  "hashtags": [
+    "#SaludMental",
+    "#Psicología",
+    "#AccidentesDeTráfico",
+    "#TEPT",
+    "#Rehabilitación"
+  ]
+}
