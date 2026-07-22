@@ -1,0 +1,108 @@
+{
+  "titulo": "El Gobierno destina 56,8 millones a salud mental y prevención del suicidio, un máster de psicología sanitaria actualiza su plan de estudios y un estudio de UCL respalda la prescripción social para adolescentes en espera",
+  "nota_editorial": "Las claves prácticas que se recogen a continuación forman parte del análisis editorial del Observatorio de Actualidad del IPP y no constituyen recomendación clínica individualizada.",
+  "resumen": "El Consejo de Ministros autorizó, el pasado 12 de mayo, la distribución de 56,8 millones de euros entre comunidades autónomas e INGESA para reforzar la Estrategia de Salud Mental 2022-2026 y el Plan de Acción para la Prevención del Suicidio. La Universidad Europea Miguel de Cervantes ha publicado en el BOE la modificación del plan de estudios de su Máster Universitario en Psicología General Sanitaria, con nuevas asignaturas optativas como Psicología Oncológica o Peritaje Psicológico. Un estudio de UCL, realizado con más de 550 adolescentes derivados a servicios de salud mental infanto-juvenil en Inglaterra, sugiere que la prescripción social puede mejorar la conducta, las relaciones y la resiliencia mientras esperan tratamiento especializado, aunque no se observaron cambios en síntomas de depresión, ansiedad o estrés. Un ensayo clínico aleatorizado publicado en JAMA Network Open encuentra mejoras clínicas superiores con un tratamiento centrado en el afecto positivo frente a un tratamiento centrado en el afecto negativo, en adultos con depresión o ansiedad y baja afectividad positiva.",
+  "audiencia": "ambos",
+  "nacionales": [
+    {
+      "tipo": "NORMATIVA",
+      "titular": "El Gobierno autoriza 56,8 millones de euros para salud mental y prevención del suicidio en 2026",
+      "cuerpo": "El Consejo de Ministros autorizó, el 12 de mayo de 2026, la distribución territorial de 56.830.000 euros entre comunidades autónomas e INGESA para el ejercicio 2026: 39 millones de euros para el Plan de Acción de Salud Mental 2025-2027 y 17,83 millones de euros para el Plan de Acción para la Prevención del Suicidio. Los fondos mantienen la cuantía del ejercicio anterior y priorizan el refuerzo de recursos humanos, la atención comunitaria, la desinstitucionalización y el abordaje específico de la salud mental perinatal, infantil y adolescente. Las comunidades autónomas y el INGESA deberán presentar proyectos y memorias justificativas para acceder a la financiación; quedan excluidas de este reparto la Comunidad Foral de Navarra y el País Vasco por su régimen foral.",
+      "fuente": "Ministerio de Sanidad",
+      "url": "https://www.sanidad.gob.es/gabinete/notasPrensa.do?id=6904"
+    },
+    {
+      "tipo": "NORMATIVA",
+      "titular": "La Universidad Europea Miguel de Cervantes publica en el BOE la modificación de su máster en psicología general sanitaria",
+      "cuerpo": "El BOE del 21 de julio de 2026 publica la resolución de la Universidad Europea Miguel de Cervantes que modifica el plan de estudios de su Máster Universitario en Psicología General Sanitaria, tras el informe favorable de la Agencia para la Calidad del Sistema Universitario de Castilla y León. El nuevo plan mantiene 90 créditos ECTS distribuidos en asignaturas obligatorias (36 ECTS), optativas (12 ECTS), prácticas externas (30 ECTS) y trabajo fin de máster (12 ECTS), e incorpora optativas como Psicofarmacología, Psicoterapias de tercera generación, Adicciones, Psicología Oncológica, Trastornos alimentarios y Peritaje Psicológico.",
+      "fuente": "BOE (Boletín Oficial del Estado)",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-15939"
+    }
+  ],
+  "internacionales": [
+    {
+      "tipo": "INVESTIGACIÓN",
+      "titular": "Un estudio de UCL sugiere que la prescripción social puede ayudar a adolescentes en lista de espera de salud mental",
+      "cuerpo": "Un estudio de la University College London (UCL), publicado en la revista European Child & Adolescent Psychiatry, analizó a más de 550 adolescentes de entre 11 y 18 años derivados a servicios de salud mental infanto-juvenil (CAMHS) en Inglaterra, comparando a quienes recibieron derivaciones de prescripción social durante la espera con quienes no las recibieron. Los jóvenes que participaron en prescripción social mostraron mejoras en la conducta, en las relaciones con otras personas y en la resiliencia, aunque el equipo investigador no encontró evidencia de cambios en síntomas de depresión, ansiedad o estrés en el seguimiento a seis meses. Según la autora principal del estudio, la prescripción social no sustituye a los tratamientos psicológicos basados en la evidencia, sino que puede aportar apoyo durante la espera. En Inglaterra, más de 350.000 niños y jóvenes esperaban atención especializada de salud mental a finales de 2024, con tiempos medios de espera de casi ocho meses.",
+      "fuente": "UCL News",
+      "url": "https://www.ucl.ac.uk/news/2026/jul/social-prescribing-may-help-young-people-awaiting-mental-health-care"
+    }
+  ],
+  "papers": [
+    {
+      "apa": "Meuret, A. E., Rosenfield, D., Wang, E., Hough, C. M., Ritz, T., & Craske, M. G. (2026). Positive affect treatment for depression, anxiety, and low positive affect: A randomized clinical trial. JAMA Network Open, 9(4), e267403.",
+      "doi": "10.1001/jamanetworkopen.2026.7403",
+      "hallazgo": "En un ensayo multicéntrico con 98 personas adultas con depresión o ansiedad y baja afectividad positiva, el tratamiento centrado en el afecto positivo (PAT), dirigido a reforzar la anticipación, el disfrute y el aprendizaje de recompensas, produjo mejoras clínicas superiores a las de un tratamiento centrado en el afecto negativo (NAT).",
+      "implicacion": "Los resultados sugieren que puede ser relevante considerar intervenciones centradas específicamente en el procesamiento de la recompensa como complemento a los abordajes centrados en la reducción del afecto negativo, en personas con anhedonia marcada."
+    }
+  ],
+  "herramientas": [],
+  "alertas": [
+    {
+      "estado": "APROBADO",
+      "titulo": "Distribución de 56,8 millones de euros para salud mental y prevención del suicidio en 2026",
+      "descripcion": "El reparto de fondos entre comunidades autónomas e INGESA ya está autorizado por el Consejo de Ministros; su ejecución efectiva depende de que cada comunidad autónoma presente proyectos y memorias justificativas, por lo que la disponibilidad real de los recursos en cada territorio puede variar."
+    }
+  ],
+  "prioridades": [
+    {
+      "titulo": "Financiación autonómica en salud mental",
+      "descripcion": "Puede ser útil consultar si la comunidad autónoma o el centro donde se ejerce está entre los que presentan proyectos para acceder a los nuevos fondos, especialmente en líneas de atención comunitaria y salud mental infantojuvenil."
+    },
+    {
+      "titulo": "Apoyo en listas de espera",
+      "descripcion": "A la luz del estudio de UCL, puede ser oportuno explorar qué recursos comunitarios o de apoyo social existen en el entorno de trabajo para acompañar a pacientes, especialmente adolescentes, durante los periodos de espera de tratamiento especializado."
+    },
+    {
+      "titulo": "Actualización en tratamientos centrados en el afecto positivo",
+      "descripcion": "Puede ser relevante revisar la literatura reciente sobre intervenciones orientadas al procesamiento de la recompensa como posible complemento en casos de depresión o ansiedad con anhedonia marcada."
+    }
+  ],
+  "fuentes_verificadas": [
+    "https://www.sanidad.gob.es/gabinete/notasPrensa.do?id=6904",
+    "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-15939",
+    "https://www.ucl.ac.uk/news/2026/jul/social-prescribing-may-help-young-people-awaiting-mental-health-care",
+    "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2848142"
+  ],
+  "carousel": {
+    "noticia_seleccionada": "El Gobierno autoriza 56,8 millones de euros para salud mental y prevención del suicidio en 2026",
+    "slide1": {
+      "titular": "56,8 millones de euros para salud mental en 2026",
+      "subtitulo": "El Consejo de Ministros autoriza el reparto entre comunidades autónomas"
+    },
+    "slide2": {
+      "puntos": [
+        "39 millones de euros para el Plan de Acción de Salud Mental 2025-2027",
+        "17,83 millones de euros para la prevención del suicidio",
+        "Se mantiene la misma cuantía que en el ejercicio anterior"
+      ]
+    },
+    "slide3": {
+      "puntos": [
+        "Prioridad para recursos humanos y atención comunitaria",
+        "Atención específica a salud mental perinatal, infantil y adolescente",
+        "Navarra y País Vasco quedan fuera por su régimen foral"
+      ]
+    },
+    "slide4": {
+      "puntos": [
+        "Las comunidades autónomas deben presentar proyectos y memorias justificativas",
+        "La ejecución real depende de cada territorio",
+        "El reparto se somete al Consejo Interterritorial del Sistema Nacional de Salud"
+      ]
+    },
+    "slide5": {
+      "mensaje_autoridad": "Esta inversión, que asciende a un total de 56.830.000 euros, se divide en dos grandes bloques: 39 millones de euros para acciones en materia de salud mental y 17,83 millones de euros para la prevención del suicidio.",
+      "fuente_apa": "Ministerio de Sanidad. (2026, 12 de mayo). El Gobierno autoriza la distribución de 56,8 millones de euros para reforzar la Salud Mental y la Prevención del Suicidio en 2026.",
+      "cta": "Síguenos en @IPP.Psicologia"
+    }
+  },
+  "copy_rrss": "El Gobierno autoriza 56,8 millones de euros para salud mental y prevención del suicidio en 2026, mientras un estudio de UCL respalda la prescripción social como apoyo para adolescentes en lista de espera.",
+  "hashtags": [
+    "#SaludMental",
+    "#Psicologia",
+    "#PsicologiaClinica",
+    "#PrevencionSuicidio",
+    "#NeuroPsicologia"
+  ]
+}
