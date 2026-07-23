@@ -1,0 +1,120 @@
+{
+  "titulo": "La soledad no deseada retroalimenta el malestar psicológico, se prorroga el convenio de atención psicosocial en emergencias y la resiliencia explica la mejoría en sanitarios: claves del 23 de julio de 2026",
+  "nota_editorial": "Las claves prácticas que se recogen a continuación forman parte del análisis editorial del Observatorio de Actualidad del IPP y no constituyen recomendación clínica individualizada.",
+  "resumen": "El Observatorio Estatal SoledadES confirma que la soledad no deseada y los problemas de salud mental mantienen una relación bidireccional que se retroalimenta, con un 58,4% de las personas con soledad que presentan también malestar psicológico. El Ministerio de Sanidad prorroga hasta el 30 de noviembre de 2027 el convenio con la Comunitat Valenciana y Castilla-La Mancha para la atención psicosocial comunitaria en emergencias y catástrofes, con una aportación total de 6.989.919,49 euros. Un ensayo clínico con 357 profesionales sanitarios de Aragón y Málaga identifica la resiliencia como el principal mecanismo psicológico que explica la mejoría tras una intervención digital basada en mindfulness y terapias de tercera generación. Un grupo internacional coordinado por la OMS propone seis indicadores estandarizados para monitorizar la salud mental perinatal. El 31º Congreso Internacional de Psicología Aplicada reúne en Florencia a la comunidad de psicología aplicada en torno a los Objetivos de Desarrollo Sostenible.",
+  "audiencia": "ambos",
+  "nacionales": [
+    {
+      "tipo": "SALUD PÚBLICA",
+      "titular": "La soledad no deseada y los problemas de salud mental se retroalimentan mutuamente, según SoledadES",
+      "cuerpo": "El informe Soledad no deseada y salud mental en España 2026, del Observatorio Estatal SoledadES (Fundación ONCE y Fundación AXA), basado en una encuesta a 4.100 personas, señala que el 20,2% de la población adulta vive actualmente soledad no deseada y el 24,0% presenta problemas de salud mental. La soledad es casi cinco veces más frecuente entre quienes tienen problemas de salud mental (49,1%) que entre quienes no los tienen (11,0%), y el 43,8% de quienes acumulan ambas situaciones ha tenido pensamientos autolesivos o suicidas, frente al 2,1% de quienes no presentan ninguna de las dos.",
+      "fuente": "Observatorio Estatal de la Soledad No Deseada (SoledadES), difundido por Infocop",
+      "url": "https://www.infocop.es/la-soledad-no-deseada-y-los-problemas-de-salud-mental-mantienen-una-relacion-bidireccional-que-se-retroalimenta-segun-soledades/"
+    },
+    {
+      "tipo": "NORMATIVA",
+      "titular": "El Ministerio de Sanidad prorroga hasta 2027 el convenio de atención psicosocial en emergencias y catástrofes",
+      "cuerpo": "Una resolución publicada en el BOE recoge la adenda de prórroga y modificación del convenio entre el Ministerio de Sanidad, la Fundación Estatal Salud, Infancia y Bienestar Social, la Comunitat Valenciana y Castilla-La Mancha para la atención comunitaria en salud mental en emergencias y desastres naturales, cuya vigencia se extiende ahora hasta el 30 de noviembre de 2027. El coste total asciende a 6.989.919,49 euros, de los que el Ministerio de Sanidad aporta 6.702.243,54 euros.",
+      "fuente": "BOE (Boletín Oficial del Estado) — Ministerio de Sanidad",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-15927"
+    }
+  ],
+  "internacionales": [
+    {
+      "tipo": "INVESTIGACIÓN",
+      "titular": "Florencia acoge el 31º Congreso Internacional de Psicología Aplicada centrado en los Objetivos de Desarrollo Sostenible",
+      "cuerpo": "El Congreso Internacional de Psicología Aplicada (ICAP), organizado cada cuatro años por la International Association of Applied Psychology (IAAP) junto con la Associazione Italiana di Psicologia, reúne del 21 al 25 de julio en Florencia a la comunidad internacional de psicología aplicada bajo el lema New Directions in Applied Psychology, con un foco declarado en la contribución de la psicología a los Objetivos de Desarrollo Sostenible de Naciones Unidas.",
+      "fuente": "International Association of Applied Psychology (IAAP) — ICAP 2026",
+      "url": "https://www.icap2026.org/"
+    }
+  ],
+  "papers": [
+    {
+      "apa": "Guerrero-Pertiñez, G., Carbonell-Aranda, V., Pérez-Guerrero, G., Dawood-Hristova, J. J., Pérez-Aranda, A., Fernández-Martínez, S., Monreal-Bartolomé, A., Barceló-Soler, A., García-Campayo, J., López del Hoyo, Y., Herrera-Imbroda, J., Goodman-Casanova, J. M., & Guzman-Parra, J. (2026). Resilience as a mediator in a web-based intervention (MINDxYOU) to reduce stress among health care professionals: Stepped-wedge cluster randomized trial. JMIR Mental Health, 13, e82905.",
+      "doi": "10.2196/82905",
+      "hallazgo": "En un ensayo aleatorizado con 357 profesionales sanitarios de Aragón y Málaga, la resiliencia fue el único mecanismo que mantuvo un efecto mediador significativo sobre la reducción del estrés tras el programa digital MINDxYOU, mientras que ciertas facetas de mindfulness (observar, describir, no reaccionar) mostraron un papel mediador menos consistente, y la compasión y la aceptación no resultaron mediadoras significativas.",
+      "implicacion": "Los resultados sugieren que puede ser relevante priorizar el entrenamiento en resiliencia dentro de los programas digitales de prevención del malestar dirigidos a profesionales sanitarios."
+    },
+    {
+      "apa": "Palestra, F., Dua, T., McNab, S., Layton, E., Kennedy, E. C., Homer, C. S. E., Fisher, J., Honikman, S., Hill, Z., Moran, A. C., Chowdhary, N., & Salisbury, T. T. (2026). No maternal health without perinatal mental health: A framework for standardized indicators. Frontiers in Global Women's Health, 7, 1860039.",
+      "doi": "10.3389/fgwh.2026.1860039",
+      "hallazgo": "Un grupo internacional coordinado por la Organización Mundial de la Salud propone un marco de seis indicadores (tres primarios y tres secundarios) para monitorizar de forma estandarizada la salud mental perinatal a escala global, ante la ausencia actual de indicadores sistemáticos en los sistemas de información sanitaria.",
+      "implicacion": "Puede orientar la incorporación de cribado sistemático de síntomas depresivos y de indicadores de acceso a apoyo psicológico durante el embarazo y el posparto en los sistemas sanitarios nacionales."
+    }
+  ],
+  "herramientas": [
+    {
+      "nombre": "Programas de intervención psicológica digital autoguiada",
+      "descripcion": "Programas online estructurados en módulos (mindfulness, aceptación, compasión) dirigidos a la prevención del malestar psicológico en profesionales sanitarios, con evidencia reciente sobre el papel mediador de la resiliencia en su eficacia."
+    }
+  ],
+  "alertas": [
+    {
+      "estado": "APROBADO",
+      "titulo": "Prórroga del convenio estatal de atención psicosocial en emergencias y catástrofes hasta 2027",
+      "descripcion": "El convenio entre el Ministerio de Sanidad, la Comunitat Valenciana y Castilla-La Mancha para la atención comunitaria en salud mental en emergencias queda prorrogado hasta el 30 de noviembre de 2027, con una aportación total de 6.989.919,49 euros, de los que el Ministerio de Sanidad asume 6.702.243,54 euros."
+    }
+  ],
+  "prioridades": [
+    {
+      "titulo": "Explorar la soledad no deseada en la valoración clínica",
+      "descripcion": "puede ser útil explorar la presencia de soledad no deseada junto al malestar psicológico en la valoración inicial, dada la relación bidireccional que describe el informe de SoledadES."
+    },
+    {
+      "titulo": "Reforzar la resiliencia en programas digitales para sanitarios",
+      "descripcion": "puede ser relevante incorporar el entrenamiento específico en resiliencia en los programas de intervención psicológica online dirigidos a profesionales sanitarios, a la luz de los hallazgos del estudio MINDxYOU."
+    },
+    {
+      "titulo": "Revisar el cribado de salud mental perinatal",
+      "descripcion": "puede ser oportuno revisar si los protocolos de cribado perinatal disponibles contemplan indicadores estandarizados como los propuestos por el grupo coordinado por la OMS."
+    }
+  ],
+  "fuentes_verificadas": [
+    "https://www.infocop.es/la-soledad-no-deseada-y-los-problemas-de-salud-mental-mantienen-una-relacion-bidireccional-que-se-retroalimenta-segun-soledades/",
+    "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-15927",
+    "https://www.icap2026.org/",
+    "https://www.infocop.es/la-resiliencia-emerge-como-el-principal-mecanismo-de-cambio-de-una-intervencion-psicologica-online-dirigida-al-personal-sanitario/",
+    "https://www.infocop.es/no-hay-salud-materna-sin-salud-mental-expertos-internacionales-proponen-un-marco-de-indicadores-para-monitorizar-la-salud-mental-perinatal/"
+  ],
+  "carousel": {
+    "noticia_seleccionada": "SoledadES: la soledad no deseada y los problemas de salud mental se retroalimentan",
+    "slide1": {
+      "titular": "Soledad no deseada y salud mental se retroalimentan",
+      "subtitulo": "Informe SoledadES 2026, con 4.100 personas encuestadas en España"
+    },
+    "slide2": {
+      "puntos": [
+        "20,2% de la población adulta vive hoy soledad no deseada en España",
+        "24,0% presenta problemas de salud mental, diagnosticados o no",
+        "El malestar psicológico ha subido desde el 18,3% registrado en 2024"
+      ]
+    },
+    "slide3": {
+      "puntos": [
+        "La soledad es casi 5 veces más frecuente con malestar psicológico (49,1% frente a 11,0%)",
+        "El 58,4% de quienes sienten soledad presenta también problemas de salud mental",
+        "El 43,8% con ambos problemas ha tenido pensamientos autolesivos o suicidas"
+      ]
+    },
+    "slide4": {
+      "puntos": [
+        "El apoyo social protege: la soledad baja hasta cerca del 10% con red amplia",
+        "El 77,6% cree difícil reconocer ante otros un problema de salud mental",
+        "El informe pide respuestas sanitarias, sociales y comunitarias conjuntas"
+      ]
+    },
+    "slide5": {
+      "mensaje_autoridad": "El informe concluye que la soledad no deseada y la salud mental constituyen dos de los principales retos sociales y sanitarios de la actualidad, con una relación estrecha que exige estrategias integrales.",
+      "fuente_apa": "Observatorio Estatal de la Soledad No Deseada (SoledadES). (2026). Soledad no deseada y salud mental en España 2026. Fundación ONCE y Fundación AXA.",
+      "cta": "síguenos en @IPP.Psicologia"
+    }
+  },
+  "copy_rrss": "Uno de cada cinco adultos en España vive soledad no deseada y casi uno de cada cuatro presenta problemas de salud mental: el nuevo informe de SoledadES confirma que ambos fenómenos se retroalimentan. Te contamos las claves en el blog.",
+  "hashtags": [
+    "#IPPPsicologia",
+    "#SaludMental",
+    "#SoledadNoDeseada",
+    "#Psicología",
+    "#BienestarEmocional"
+  ]
+}
