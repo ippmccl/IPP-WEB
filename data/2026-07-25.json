@@ -1,0 +1,129 @@
+{
+  "titulo": "El COPCLM activa un teléfono de apoyo tras los incendios en Castilla-La Mancha, el autocuidado se vincula a la autoeficacia clínica y Papeles del Psicólogo plantea evaluar los micromachismos en el trabajo: claves del 25 de julio de 2026",
+  "nota_editorial": "Las claves prácticas que se recogen a continuación forman parte del análisis editorial del Observatorio de Actualidad del IPP y no constituyen recomendación clínica individualizada.",
+  "resumen": "El Colegio Oficial de Psicología de Castilla-La Mancha ha puesto en marcha un teléfono de atención psicológica para las personas afectadas por los incendios forestales que arrasan la Sierra Norte de Guadalajara. Un estudio publicado en Journal of Contemporary Psychotherapy señala que las estrategias cognitivas de autocuidado y el desarrollo profesional continuo son los principales predictores de la autoeficacia en psicólogos clínicos, mientras que la experiencia acumulada por sí sola no muestra ese efecto. Papeles del Psicólogo propone incorporar la evaluación de los micromachismos laborales dentro de los procesos de prevención de riesgos psicosociales de las organizaciones. Un grupo internacional coordinado por la Organización Mundial de la Salud plantea un marco de seis indicadores para monitorizar la salud mental perinatal a escala global. Un estudio publicado en Nature Mental Health vincula la serotonina con una menor «rigidez de creencias», un mecanismo que podría estar relacionado con las obsesiones.",
+  "audiencia": "ambos",
+  "nacionales": [
+    {
+      "tipo": "SALUD PÚBLICA",
+      "titular": "El COPCLM habilita un teléfono de atención psicológica para los afectados por los incendios forestales de Castilla-La Mancha",
+      "cuerpo": "El Colegio Oficial de Psicología de Castilla-La Mancha ha puesto en marcha la línea 665 65 84 72, disponible de lunes a domingo de 10:00 a 20:00 horas, para atender a las personas afectadas por los incendios forestales que se están produciendo en la región, entre ellos el declarado en la localidad de La Mierla, que ha arrasado en torno a 29.000 hectáreas de la Sierra Norte de Guadalajara. El Colegio ya había habilitado líneas similares ante danas, temporales, la pandemia de covid-19 y los terremotos de Venezuela.",
+      "fuente": "Infocop (Consejo General de la Psicología de España)",
+      "url": "https://www.infocop.es/el-copclm-vuelve-a-habilitar-un-numero-de-telefono-de-asistencia-psicologica-en-esta-ocasion-para-atender-a-las-personas-afectadas-por-los-incendios-forestales-de-castilla-la-mancha/"
+    },
+    {
+      "tipo": "INVESTIGACIÓN",
+      "titular": "Un estudio analiza el coste psicológico del activismo surgido de la precariedad económica en España",
+      "cuerpo": "Una investigación publicada en Political Psychology y desarrollada durante nueve años analiza dos colectivos sevillanos nacidos tras la Gran Recesión, Corrala Utopía y Flo6x8, para explicar cómo la precariedad económica, los desahucios y la inseguridad laboral impulsaron a sus integrantes hacia un «activismo por necesidad». El estudio describe cómo la participación colectiva ayudó a transformar sentimientos de culpa y estigmatización en identidades políticas activas, aunque también advierte de un desgaste psicológico y emocional significativo asociado a la implicación prolongada en contextos de precariedad.",
+      "fuente": "Infocop, citando Political Psychology",
+      "url": "https://www.infocop.es/el-coste-psicologico-y-social-del-activismo-nacido-de-la-necesidad/"
+    },
+    {
+      "tipo": "INVESTIGACIÓN",
+      "titular": "Papeles del Psicólogo plantea incorporar los micromachismos laborales a la evaluación de riesgos psicosociales",
+      "cuerpo": "Un artículo publicado en Papeles del Psicólogo por investigadores de la Universitat Jaume I revisa el impacto de los micromachismos en el entorno laboral, conductas sutiles y normalizadas que la evidencia científica asocia con estrés, ansiedad, agotamiento emocional y deterioro de la autoestima en las trabajadoras. Los autores proponen una metodología de evaluación, basada en cuestionarios, entrevistas semiestructuradas y grupos de discusión, para integrar estas conductas dentro de los procesos de prevención de riesgos laborales que ya exige la Ley de Prevención de Riesgos Laborales, aunque esta integración específica no está recogida de forma expresa en la normativa vigente.",
+      "fuente": "Infocop, citando Papeles del Psicólogo/Psychologist Papers",
+      "url": "https://www.infocop.es/los-micromachismos-en-el-trabajo-un-riesgo-psicologico-y-social-invisible-con-importantes-consecuencias-para-la-salud-mental/"
+    }
+  ],
+  "internacionales": [
+    {
+      "tipo": "INVESTIGACIÓN",
+      "titular": "El autocuidado se vincula a una mayor autoeficacia en psicólogos clínicos, según un estudio portugués",
+      "cuerpo": "Una investigación del ISPA-Instituto Universitário de Lisboa, publicada en Journal of Contemporary Psychotherapy con una muestra de 207 psicólogos y psicólogas clínicas portuguesas, concluye que las estrategias cognitivas de autocuidado y el desarrollo profesional continuo son los predictores más fuertes de la autoeficacia profesional, explicando el 26,5% de su variabilidad. En cambio, variables como los años de experiencia clínica, la supervisión o la terapia personal no mostraron una relación estadísticamente significativa una vez controlada la edad.",
+      "fuente": "Infocop, citando Journal of Contemporary Psychotherapy",
+      "url": "https://www.infocop.es/mas-alla-de-la-experiencia-el-autocuidado-emerge-como-factor-clave-en-la-confianza-profesional-de-los-y-las-profesionales-de-la-psicologia-clinica/"
+    },
+    {
+      "tipo": "SALUD PÚBLICA",
+      "titular": "Un grupo internacional coordinado por la OMS propone seis indicadores para monitorizar la salud mental perinatal",
+      "cuerpo": "Un artículo de perspectiva publicado en Frontiers in Global Women's Health, elaborado por un grupo de expertos coordinado por la Organización Mundial de la Salud junto con el grupo asesor MoNITOR, propone un marco de seis indicadores, tres primarios y tres secundarios, para monitorizar la salud mental durante el embarazo y el primer año tras el parto a escala internacional. Los autores estiman que entre un 10% y un 20% de las mujeres experimentan depresión durante el embarazo o el posparto y advierten de que los sistemas de vigilancia sanitaria actuales apenas incorporan indicadores específicos sobre esta cuestión.",
+      "fuente": "Infocop, citando Frontiers in Global Women's Health",
+      "url": "https://www.infocop.es/no-hay-salud-materna-sin-salud-mental-expertos-internacionales-proponen-un-marco-de-indicadores-para-monitorizar-la-salud-mental-perinatal/"
+    }
+  ],
+  "papers": [
+    {
+      "apa": "Conceição, V. A., Petzschner, F. H., Cole, D. M., Wellstein, K. V., Müller, D., Raman, S., & Maia, T. V. (2026). Serotonin reduces belief stickiness. Nature Mental Health. https://doi.org/10.1038/s44220-026-00621-9",
+      "doi": "10.1038/s44220-026-00621-9",
+      "hallazgo": "Un estudio aleatorizado, doble ciego y controlado con placebo, que administró una dosis única del ISRS escitalopram, encontró que niveles plasmáticos más altos de escitalopram se asociaron con una menor «rigidez de creencias» (la tendencia a mantener una creencia pese a la evidencia contraria) y con una mejor inferencia sobre el estado del mundo. Las personas con más síntomas obsesivos mostraron una mayor rigidez de creencias.",
+      "implicacion": "Los resultados sugieren un posible mecanismo por el que la serotonina podría influir en los procesos cognitivos relacionados con las obsesiones, y pueden orientar futura investigación clínica sobre el tratamiento farmacológico del TOC, aunque se trata de un hallazgo preliminar."
+    }
+  ],
+  "herramientas": [
+    {
+      "nombre": "Metodologías de evaluación de riesgos psicosociales con perspectiva de género",
+      "descripcion": "Protocolos que combinan cuestionarios, entrevistas semiestructuradas y grupos de discusión para identificar conductas de discriminación sutil en el entorno laboral, dentro de los procesos de prevención de riesgos psicosociales de las organizaciones."
+    }
+  ],
+  "alertas": [
+    {
+      "estado": "PROPUESTA",
+      "titulo": "Incorporación de los micromachismos laborales a la evaluación de riesgos psicosociales",
+      "descripcion": "Investigadores de la Universitat Jaume I proponen integrar la evaluación de los micromachismos dentro de los procesos de prevención de riesgos laborales que exige la Ley de Prevención de Riesgos Laborales, una integración que, según plantean, no está recogida de forma expresa en la normativa vigente y dependería de su desarrollo específico por parte de las organizaciones."
+    }
+  ],
+  "prioridades": [
+    {
+      "titulo": "Reforzar el autocuidado profesional",
+      "descripcion": "puede ser útil priorizar estrategias cognitivas de autocuidado y formación continua en la rutina profesional, dado que un estudio reciente las señala como el predictor más fuerte de la autoeficacia clínica, por encima de los años de experiencia."
+    },
+    {
+      "titulo": "Visibilizar los micromachismos en el entorno laboral",
+      "descripcion": "puede ser relevante incorporar preguntas sobre conductas sutiles de discriminación de género en las evaluaciones organizacionales, combinando herramientas cuantitativas y cualitativas, tal y como plantea el estudio publicado en Papeles del Psicólogo."
+    },
+    {
+      "titulo": "Acompañar el desgaste emocional del activismo por necesidad",
+      "descripcion": "puede ser oportuno explorar en consulta cómo la participación en colectivos comunitarios puede transformar la culpa y el estigma en identidades activas, sin perder de vista el riesgo de agotamiento emocional asociado a una implicación prolongada en contextos de precariedad."
+    }
+  ],
+  "fuentes_verificadas": [
+    "https://www.infocop.es/el-copclm-vuelve-a-habilitar-un-numero-de-telefono-de-asistencia-psicologica-en-esta-ocasion-para-atender-a-las-personas-afectadas-por-los-incendios-forestales-de-castilla-la-mancha/",
+    "https://www.infocop.es/el-coste-psicologico-y-social-del-activismo-nacido-de-la-necesidad/",
+    "https://www.infocop.es/los-micromachismos-en-el-trabajo-un-riesgo-psicologico-y-social-invisible-con-importantes-consecuencias-para-la-salud-mental/",
+    "https://www.infocop.es/mas-alla-de-la-experiencia-el-autocuidado-emerge-como-factor-clave-en-la-confianza-profesional-de-los-y-las-profesionales-de-la-psicologia-clinica/",
+    "https://www.infocop.es/no-hay-salud-materna-sin-salud-mental-expertos-internacionales-proponen-un-marco-de-indicadores-para-monitorizar-la-salud-mental-perinatal/",
+    "https://www.nature.com/articles/s44220-026-00621-9"
+  ],
+  "carousel": {
+    "noticia_seleccionada": "El autocuidado se vincula a una mayor autoeficacia en psicólogos clínicos",
+    "slide1": {
+      "titular": "El autocuidado, clave en la autoeficacia de los psicólogos clínicos",
+      "subtitulo": "Un estudio con 207 profesionales portugueses explica el 26,5% de la variabilidad en la confianza profesional"
+    },
+    "slide2": {
+      "puntos": [
+        "Las estrategias cognitivas de autocuidado predicen mejor la autoeficacia que la experiencia.",
+        "El desarrollo profesional continuo también se asocia con mayor confianza clínica.",
+        "La edad se relaciona con más autoeficacia, incluso controlando la experiencia."
+      ]
+    },
+    "slide3": {
+      "puntos": [
+        "La supervisión clínica y la terapia personal no mostraron relación significativa.",
+        "Más horas de trabajo clínico se asocian con menor equilibrio personal.",
+        "El apoyo profesional y el equilibrio vida-trabajo muestran una relación moderada."
+      ]
+    },
+    "slide4": {
+      "puntos": [
+        "El estudio se publicó en Journal of Contemporary Psychotherapy en 2026.",
+        "La muestra incluyó a 207 psicólogos y psicólogas clínicas portuguesas.",
+        "Los autores piden integrar el autocuidado desde la formación inicial."
+      ]
+    },
+    "slide5": {
+      "mensaje_autoridad": "El autocuidado constituye un componente relevante en la percepción de competencia profesional de los psicólogos clínicos, según Gomes y Dias Neto (2026)",
+      "fuente_apa": "Gomes, I., & Dias Neto, D. (2026). Self-Care and Personal Therapy in the Development of Clinical Psychologists' Self-Efficacy. Journal of Contemporary Psychotherapy. https://doi.org/10.1007/s10879-026-09714-z",
+      "cta": "síguenos en @IPP.Psicologia"
+    }
+  },
+  "copy_rrss": "El autocuidado, y no solo los años de experiencia, predice la confianza profesional de los psicólogos clínicos. Repasamos las claves de la actualidad en psicología de hoy.",
+  "hashtags": [
+    "#Psicología",
+    "#SaludMental",
+    "#Autocuidado",
+    "#PsicologíaClínica",
+    "#Neuropsicología"
+  ]
+}
