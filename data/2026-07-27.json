@@ -1,0 +1,120 @@
+{
+  "titulo": "El COP Madrid activa apoyo psicológico ante los incendios, la OMS marca en el 45% el riesgo prevenible de demencia y un estudio en Nature redibuja el mapa genético de los trastornos psiquiátricos: claves del 27 de julio de 2026",
+  "nota_editorial": "Las claves prácticas que se recogen a continuación forman parte del análisis editorial del Observatorio de Actualidad del IPP y no constituyen recomendación clínica individualizada.",
+  "resumen": "El Colegio Oficial de la Psicología de Madrid ha activado un dispositivo de intervención psicológica para atender a las personas desplazadas por los incendios que afectan a la Comunidad de Madrid, en coordinación con los servicios de emergencia. La Organización Mundial de la Salud ha publicado nuevas directrices que sitúan en un 45% el riesgo de demencia relacionado con factores modificables como el aislamiento social o la inactividad física. El Consejo General de la Psicología, a través de la Plataforma Control Z, reclama elevar a los 16 años la edad de acceso a las redes sociales mientras avanza la tramitación del proyecto de ley sobre protección de menores en entornos digitales. Un estudio publicado en Nature con más de un millón de casos agrupa 14 trastornos psiquiátricos en cinco factores genéticos compartidos, y un ensayo publicado en el International Journal of Neuropsychopharmacology confirma que los beneficios de la estimulación del nervio vago se mantienen en la mayoría de pacientes con depresión resistente al tratamiento tras dos años de seguimiento.",
+  "audiencia": "ambos",
+  "nacionales": [
+    {
+      "tipo": "SALUD PÚBLICA",
+      "titular": "El COP Madrid activa un dispositivo de intervención psicológica ante los incendios en la Comunidad de Madrid",
+      "cuerpo": "Ante los incendios que afectan a distintos municipios de la Comunidad de Madrid, el Colegio Oficial de la Psicología de Madrid ha puesto a disposición de la Administración los recursos de la Psicología de Emergencias. El dispositivo, coordinado con los servicios de emergencia, ofrece primeros auxilios psicológicos y apoyo emocional a las personas desplazadas por el fuego.",
+      "fuente": "Colegio Oficial de la Psicología de Madrid",
+      "url": "https://web.copmadrid.org/actualidad-y-comunicacion/noticias-y-eventos/noticias/el-colegio-oficial-de-la-psicologia-de-madrid-activa-un-dispositivo-de-intervencion-psicologica-ante-3343"
+    },
+    {
+      "tipo": "SALUD PÚBLICA",
+      "titular": "El Consejo General de la Psicología reclama elevar a los 16 años la edad de acceso a las redes sociales",
+      "cuerpo": "A través de la Plataforma Control Z, de la que forma parte junto a otras sociedades científicas, el Consejo General de la Psicología de España propone retrasar hasta los 16 años la edad de acceso a las redes sociales, frente a los 14 años que marca la normativa vigente. La medida, planteada como propuesta y no como norma aprobada, se enmarca en el debate sobre el Proyecto de Ley Orgánica para la protección de las personas menores en los entornos digitales, actualmente en tramitación parlamentaria.",
+      "fuente": "Infocop (entrevista a José Antonio Luengo, vicepresidente primero del Consejo General de la Psicología de España)",
+      "url": "https://www.infocop.es/impacto-del-uso-inadecuado-de-las-tecnologias-en-la-salud-y-la-salud-mental-de-la-infancia-y-la-adolescencia-mirar-hacia-otro-lado-supone-una-irresponsabilidad-entrevista-a-jose-antonio-luengo/"
+    }
+  ],
+  "internacionales": [
+    {
+      "tipo": "NEUROCIENCIA",
+      "titular": "La OMS sitúa en un 45% el riesgo de demencia asociado a factores modificables",
+      "cuerpo": "La Organización Mundial de la Salud ha publicado una segunda edición de sus directrices sobre reducción del riesgo de deterioro cognitivo y demencia. Según el organismo, factores modificables como el tabaquismo, el consumo de alcohol, el aislamiento social, la inactividad física, la contaminación atmosférica y enfermedades no transmisibles como la hipertensión o la diabetes pueden representar cerca del 45% del riesgo. Actualmente, más de 57 millones de personas viven con demencia en el mundo, con cerca de 10 millones de nuevos diagnósticos cada año.",
+      "fuente": "Organización Mundial de la Salud",
+      "url": "https://www.who.int/es/news/item/15-07-2026-new-who-guidelines--up-to-45--of-dementia-risk-could-be-prevented-or-delayed"
+    }
+  ],
+  "papers": [
+    {
+      "apa": "Grotzinger, A. D., Werme, J., Peyrot, W. J., et al. (2026). Mapping the genetic landscape across 14 psychiatric disorders. Nature, 649(8096), 406-415. https://doi.org/10.1038/s41586-025-09820-3",
+      "doi": "10.1038/s41586-025-09820-3",
+      "hallazgo": "El análisis de datos genéticos de más de un millón de casos con 14 trastornos psiquiátricos de inicio infantil y adulto identifica cinco factores genéticos subyacentes que explican, de media, alrededor del 66% de la varianza genética de cada trastorno, y 238 loci genéticos asociados a más de uno de estos factores.",
+      "implicacion": "Los resultados sugieren que los diagnósticos psiquiátricos comparten una base genética considerable, lo que podría orientar en el futuro clasificaciones y abordajes más biológicamente informados, aunque los propios autores señalan que se trata de hallazgos a nivel poblacional y no de aplicación diagnóstica individual inmediata."
+    },
+    {
+      "apa": "Conway, C. R., Rush, A. J., Aaronson, S. T., et al. (2026). Durability of the benefit of vagus nerve stimulation in markedly treatment-resistant major depression: A RECOVER trial report. International Journal of Neuropsychopharmacology, 29(1), pyaf080. https://doi.org/10.1093/ijnp/pyaf080",
+      "doi": "10.1093/ijnp/pyaf080",
+      "hallazgo": "En el estudio de extensión a largo plazo del ensayo RECOVER, con 214 personas con depresión mayor marcadamente resistente al tratamiento, los beneficios en síntomas depresivos, funcionamiento diario y calidad de vida obtenidos tras 12 meses de estimulación del nervio vago adyuvante se mantuvieron en aproximadamente el 80% de quienes continuaron con el tratamiento durante 24 meses.",
+      "implicacion": "Los resultados sugieren que la estimulación del nervio vago puede ofrecer un beneficio sostenido en el tiempo para un subgrupo de pacientes con depresión muy resistente al tratamiento, aunque se trata de un estudio abierto de un solo brazo en su fase de extensión, por lo que puede orientar futuras decisiones clínicas en combinación con otros abordajes."
+    }
+  ],
+  "herramientas": [
+    {
+      "nombre": "Plataformas de estimulación cognitiva digital validadas para uso clínico",
+      "descripcion": "Programas y aplicaciones de entrenamiento y estimulación cognitiva que, según las directrices de la OMS, pueden formar parte de las intervenciones dirigidas a reducir el riesgo de deterioro cognitivo en adultos con capacidad cognitiva normal o deterioro cognitivo leve, siempre dentro de un abordaje profesional supervisado."
+    }
+  ],
+  "alertas": [
+    {
+      "estado": "EN TRAMITACIÓN",
+      "titulo": "Proyecto de Ley Orgánica para la protección de las personas menores en los entornos digitales",
+      "descripcion": "El proyecto normativo, actualmente en tramitación parlamentaria, aborda la protección de la infancia y la adolescencia en el entorno digital. El Consejo General de la Psicología de España, a través de la Plataforma Control Z, reclama que contemple elevar a los 16 años la edad de acceso a las redes sociales, frente a los 14 años vigentes, aunque esta medida es, por el momento, una propuesta del sector y no una disposición aprobada."
+    }
+  ],
+  "prioridades": [
+    {
+      "titulo": "Protocolos de primeros auxilios psicológicos ante emergencias",
+      "descripcion": "Ante episodios de incendios forestales y sus efectos en la salud mental, puede ser útil revisar los protocolos de primeros auxilios psicológicos y tener localizados los recursos de intervención en emergencias del colegio profesional de referencia."
+    },
+    {
+      "titulo": "Acompañamiento en el uso de pantallas y redes sociales",
+      "descripcion": "Ante el debate sobre el acceso de menores a las redes sociales y la tramitación del proyecto de ley de protección digital, puede ser relevante incorporar en consulta pautas de uso saludable de dispositivos y estrategias de prevención del uso problemático de internet con familias y adolescentes."
+    },
+    {
+      "titulo": "Prevención del deterioro cognitivo en personas mayores",
+      "descripcion": "Dado el peso de los factores de riesgo modificables señalado por la OMS, puede ser oportuno incorporar en la práctica neuropsicológica cribados y recomendaciones de estimulación cognitiva, actividad física y manejo de factores cardiometabólicos con personas mayores."
+    }
+  ],
+  "fuentes_verificadas": [
+    "https://web.copmadrid.org/actualidad-y-comunicacion/noticias-y-eventos/noticias/el-colegio-oficial-de-la-psicologia-de-madrid-activa-un-dispositivo-de-intervencion-psicologica-ante-3343",
+    "https://www.infocop.es/impacto-del-uso-inadecuado-de-las-tecnologias-en-la-salud-y-la-salud-mental-de-la-infancia-y-la-adolescencia-mirar-hacia-otro-lado-supone-una-irresponsabilidad-entrevista-a-jose-antonio-luengo/",
+    "https://www.who.int/es/news/item/15-07-2026-new-who-guidelines--up-to-45--of-dementia-risk-could-be-prevented-or-delayed",
+    "https://www.nature.com/articles/s41586-025-09820-3",
+    "https://academic.oup.com/ijnp/article/29/1/pyaf080/8423597"
+  ],
+  "carousel": {
+    "noticia_seleccionada": "El COP Madrid activa un dispositivo de intervención psicológica ante los incendios en la Comunidad de Madrid",
+    "slide1": {
+      "titular": "El COP Madrid activa apoyo psicológico ante los incendios",
+      "subtitulo": "Primeros auxilios psicológicos para las personas desplazadas por el fuego"
+    },
+    "slide2": {
+      "puntos": [
+        "El Colegio pone a disposición recursos de Psicología de Emergencias",
+        "Se atiende a las personas evacuadas con primeros auxilios psicológicos",
+        "La actuación se coordina con los servicios de emergencia de la Comunidad de Madrid"
+      ]
+    },
+    "slide3": {
+      "puntos": [
+        "La exposición a catástrofes puede generar estrés, ansiedad y síntomas postraumáticos",
+        "Los primeros auxilios psicológicos ayudan a estabilizar emocionalmente a los afectados",
+        "La atención temprana puede reducir el riesgo de secuelas psicológicas duraderas"
+      ]
+    },
+    "slide4": {
+      "puntos": [
+        "Buscar apoyo en profesionales colegiados y acreditados en psicología de emergencias",
+        "Limitar la exposición a noticias sobre el incendio para reducir el estrés",
+        "Mantener rutinas y hábitos que aporten sensación de normalidad y seguridad"
+      ]
+    },
+    "slide5": {
+      "mensaje_autoridad": "Es clave contar con profesionales de la Psicología expertos en el abordaje de catástrofes y emergencias, señala el Colegio Oficial de la Psicología de Madrid.",
+      "fuente_apa": "Colegio Oficial de la Psicología de Madrid. (2026, 25 de julio). El Colegio Oficial de la Psicología de Madrid activa un dispositivo de intervención psicológica ante los incendios en la Comunidad de Madrid. https://web.copmadrid.org/actualidad-y-comunicacion/noticias-y-eventos/noticias/el-colegio-oficial-de-la-psicologia-de-madrid-activa-un-dispositivo-de-intervencion-psicologica-ante-3343",
+      "cta": "síguenos en @IPP.Psicologia"
+    }
+  },
+  "copy_rrss": "El COP Madrid activa apoyo psicológico para las personas desplazadas por los incendios, mientras la OMS recuerda que casi la mitad del riesgo de demencia depende de factores que se pueden modificar. Todos los detalles, en el informe de hoy del IPP.",
+  "hashtags": [
+    "#PsicologíaClínica",
+    "#SaludMental",
+    "#Neuropsicología",
+    "#PsicologíaDeEmergencias",
+    "#COPMadrid"
+  ]
+}
