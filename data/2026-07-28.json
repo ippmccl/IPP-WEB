@@ -1,0 +1,113 @@
+{
+  "titulo": "El COP Madrid detalla la adhesión a la telepsicología, EEUU revela que solo el 34% recibe un tratamiento adecuado y un estudio en American Journal of Psychiatry diferencia la genética metabólica de los trastornos graves: claves del 28 de julio de 2026",
+  "nota_editorial": "Las claves prácticas que se recogen a continuación forman parte del análisis editorial del Observatorio de Actualidad del IPP y no constituyen recomendación clínica individualizada.",
+  "resumen": "El Colegio Oficial de la Psicología de Madrid ha publicado los requisitos para adherirse al Código de Buenas Prácticas en TelePsicología, dirigido a centros, profesionales y plataformas con sede fiscal en la Comunidad de Madrid. Un estudio de RTI International, financiado por la Substance Abuse and Mental Health Services Administration y publicado en Psychiatric Services, encuentra que el 61% de los adultos estadounidenses con un trastorno psiquiátrico en el último año recibió tratamiento, aunque solo el 34% accedió a una atención mínimamente adecuada. Las últimas ediciones de las revistas de la American Psychiatric Association recogen investigación sobre terapéutica digital, patrones de consumo de sustancias y telesalud rural. Un estudio publicado en American Journal of Psychiatry describe patrones divergentes de solapamiento genético entre los trastornos mentales graves y los marcadores metabólicos.",
+  "audiencia": "ambos",
+  "nacionales": [
+    {
+      "tipo": "NORMATIVA",
+      "titular": "El COP Madrid detalla los requisitos para adherirse al Código de Buenas Prácticas en TelePsicología",
+      "cuerpo": "El Colegio Oficial de la Psicología de Madrid ha publicado los requisitos para solicitar el Compromiso de Adhesión al Código de Buenas Prácticas en TelePsicología, dirigido a centros, profesionales y plataformas de telepsicología con sede fiscal en la Comunidad de Madrid. La adhesión exige completar un curso gratuito ofrecido por el Colegio y cumplir con las guías de competencias y de seguridad de la información elaboradas por el Consejo General de la Psicología. Para los centros y profesionales que ya prestan servicios de intervención psicológica online, la adhesión formaliza el compromiso de colaborar con el Colegio en el desarrollo de buenas prácticas en este ámbito.",
+      "fuente": "Colegio Oficial de la Psicología de Madrid (COPM)",
+      "url": "https://web.copmadrid.org/actualidad-y-comunicacion/noticias-y-eventos/noticias/adhesion-al-codigo-de-buenas-practicas-en-telepsicologia-del-colegio-3344"
+    }
+  ],
+  "internacionales": [
+    {
+      "tipo": "SALUD PÚBLICA",
+      "titular": "Un estudio de RTI International cifra en el 34% la atención mínimamente adecuada en EEUU",
+      "cuerpo": "Un estudio de RTI International, financiado mediante un acuerdo de cooperación con la Substance Abuse and Mental Health Services Administration (SAMHSA) y publicado en Psychiatric Services, ha analizado entrevistas clínicas a 4.764 adultos de entre 18 y 65 años, recogidas entre 2020 y 2022. El 24,9% de la muestra presentó un trastorno psiquiátrico en el último año, con un 15,4% de trastorno depresivo mayor y un 10,0% de trastorno de ansiedad generalizada. El 61% de las personas con un trastorno recibió algún tratamiento, pero solo el 34% recibió una atención considerada mínimamente adecuada según los estándares de las guías clínicas. El estudio también encontró que los hombres, los adultos negros no hispanos y los adultos hispanos tuvieron menos probabilidad de recibir tratamiento y de recibir una atención mínimamente adecuada.",
+      "fuente": "RTI International",
+      "url": "https://www.rti.org/news/large-scale-us-mental-health-treatment-study"
+    },
+    {
+      "tipo": "INVESTIGACIÓN",
+      "titular": "Las revistas de la American Psychiatric Association destacan investigación sobre terapéutica digital y telesalud rural",
+      "cuerpo": "La American Psychiatric Association ha publicado las últimas ediciones de cuatro de sus revistas científicas: The American Journal of Psychiatry, Psychiatric Services, American Journal of Psychotherapy y Psychiatric Research and Clinical Practice. Los números incluyen investigación sobre determinantes sociales de la salud en los trastornos psiquiátricos, recomendaciones de la FDA y los Centros de Servicios de Medicare y Medicaid (CMS) sobre terapéutica digital en psiquiatría, riesgos psiquiátricos asociados a chatbots basados en grandes modelos de lenguaje y atención mediante telesalud a veteranos en zonas rurales de Estados Unidos.",
+      "fuente": "American Psychiatric Association, difundido a través de EurekAlert!",
+      "url": "https://www.eurekalert.org/news-releases/1134466"
+    }
+  ],
+  "papers": [
+    {
+      "apa": "Andreassen, O. A., et al. (2026). Divergent patterns of genetic overlap between severe mental disorders and metabolic markers. American Journal of Psychiatry. https://doi.org/10.1176/appi.ajp.20250259",
+      "doi": "10.1176/appi.ajp.20250259",
+      "hallazgo": "El estudio encontró que los patrones de correlación genética entre el trastorno depresivo mayor, la diabetes tipo 2, la enfermedad coronaria y el índice de masa corporal fueron altamente similares entre sí, pero de dirección opuesta a los patrones hallados para la esquizofrenia y el trastorno bipolar. Los autores identificaron 1.056 genes compartidos entre estos trastornos y los marcadores metabólicos, vinculados a procesos de actividad metabólica, función mitocondrial y procesos sinápticos.",
+      "implicacion": "Los resultados sugieren que los trastornos mentales graves podrían compartir mecanismos biológicos distintos con la salud cardiometabólica según el diagnóstico, lo que puede orientar futuras líneas de investigación sobre el seguimiento del riesgo metabólico en cada trastorno, sin que esto implique una aplicación clínica inmediata."
+    }
+  ],
+  "herramientas": [
+    {
+      "nombre": "Plataformas de telepsicología con adhesión a códigos de buenas prácticas",
+      "descripcion": "Sistemas de intervención psicológica online que cumplen los requisitos de seguridad de la información y las guías de competencias establecidas por los colegios oficiales de psicología para la prestación de servicios a distancia."
+    }
+  ],
+  "alertas": [
+    {
+      "estado": "APROBADO",
+      "titulo": "Código de Buenas Prácticas en TelePsicología del COP Madrid",
+      "descripcion": "El Colegio Oficial de la Psicología de Madrid mantiene abierto el procedimiento de adhesión a su Código de Buenas Prácticas en TelePsicología. La adhesión es voluntaria y se gestiona directamente ante el Colegio para centros, profesionales y plataformas con sede fiscal en la Comunidad de Madrid."
+    }
+  ],
+  "prioridades": [
+    {
+      "titulo": "Revisar el cumplimiento de buenas prácticas en telepsicología",
+      "descripcion": "Puede ser útil revisar si la prestación de servicios de intervención psicológica online cumple con las guías de competencias y de seguridad de la información recogidas en los códigos de buenas prácticas de los colegios oficiales."
+    },
+    {
+      "titulo": "Matizar la comunicación sobre el acceso a tratamiento",
+      "descripcion": "Puede ser relevante incorporar en la comunicación con pacientes y en redes profesionales la distinción entre recibir tratamiento y recibir una atención mínimamente adecuada, tal como refleja el estudio de RTI International."
+    },
+    {
+      "titulo": "Seguir la investigación sobre solapamiento genético y metabólico",
+      "descripcion": "Puede ser oportuno explorar cómo la evidencia sobre marcadores metabólicos y trastornos mentales graves puede informar, sin sustituir el criterio clínico individualizado, el seguimiento del riesgo cardiometabólico en pacientes con trastornos graves."
+    }
+  ],
+  "fuentes_verificadas": [
+    "https://web.copmadrid.org/actualidad-y-comunicacion/noticias-y-eventos/noticias/adhesion-al-codigo-de-buenas-practicas-en-telepsicologia-del-colegio-3344",
+    "https://www.rti.org/news/large-scale-us-mental-health-treatment-study",
+    "https://www.eurekalert.org/news-releases/1134466",
+    "https://psychiatryonline.org/doi/10.1176/appi.ajp.20250259"
+  ],
+  "carousel": {
+    "noticia_seleccionada": "El COP Madrid detalla los requisitos para adherirse al Código de Buenas Prácticas en TelePsicología",
+    "slide1": {
+      "titular": "El COP Madrid detalla la adhesión a la telepsicología",
+      "subtitulo": "Requisitos para centros, profesionales y plataformas online"
+    },
+    "slide2": {
+      "puntos": [
+        "El Código de Buenas Prácticas en TelePsicología aplica a entidades con sede fiscal en Madrid.",
+        "Cubre a centros, profesionales y plataformas que prestan servicios de psicología online.",
+        "El curso de buenas prácticas es gratuito para los colegiados del COPM."
+      ]
+    },
+    "slide3": {
+      "puntos": [
+        "La adhesión exige completar el curso y solicitar el certificado correspondiente.",
+        "El compromiso implica colaborar con el Colegio en el desarrollo de buenas prácticas.",
+        "Incluye pautas de seguridad de la información para plataformas de intervención online."
+      ]
+    },
+    "slide4": {
+      "puntos": [
+        "Puede ser útil revisar el cumplimiento de estos requisitos en la práctica online.",
+        "La adhesión es voluntaria y se gestiona directamente ante el Colegio Oficial.",
+        "Refuerza la trazabilidad y la calidad percibida de los servicios de telepsicología."
+      ]
+    },
+    "slide5": {
+      "mensaje_autoridad": "Las entidades y los profesionales que se adhieren a este Código de Conducta se comprometen a colaborar con el Colegio en acciones encaminadas al desarrollo, análisis e impulso de las buenas prácticas con relación a la TelePsicología o intervención psicológica online.",
+      "fuente_apa": "Colegio Oficial de la Psicología de Madrid. (2026, 27 de julio). Adhesión al Código de Buenas Prácticas en TelePsicología del Colegio. https://web.copmadrid.org/actualidad-y-comunicacion/noticias-y-eventos/noticias/adhesion-al-codigo-de-buenas-practicas-en-telepsicologia-del-colegio-3344",
+      "cta": "síguenos en @IPP.Psicologia"
+    }
+  },
+  "copy_rrss": "El COP Madrid ha detallado los requisitos para adherirse al Código de Buenas Prácticas en TelePsicología, dirigido a centros, profesionales y plataformas que prestan servicios de psicología online.",
+  "hashtags": [
+    "#Psicología",
+    "#TelePsicología",
+    "#SaludMental",
+    "#COPMadrid",
+    "#PsicologíaClínica"
+  ]
+}
