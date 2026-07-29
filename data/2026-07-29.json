@@ -1,0 +1,120 @@
+{
+  "titulo": "El COPCLM impulsa un programa de apoyo psicológico para enfermedades raras, España tramita la ley de protección de menores en entornos digitales y un documento de consenso de la Sociedad Española de Neurología marca pautas para prevenir la demencia: claves del 29 de julio de 2026",
+  "nota_editorial": "Las claves prácticas que se recogen a continuación forman parte del análisis editorial del Observatorio de Actualidad del IPP y no constituyen recomendación clínica individualizada.",
+  "resumen": "El Colegio Oficial de Psicología de Castilla-La Mancha mantiene en marcha, desde mayo, un programa de apoyo psicológico dirigido a personas con enfermedades raras y sus familias, articulado en tres fases de intervención. El Gobierno confía en que el Congreso apruebe durante el otoño de 2026 la Ley de protección de las personas menores de edad en los entornos digitales, que eleva a 16 años la edad para consentir el tratamiento de datos personales y exige controles parentales activados por defecto. Un documento de consenso de la Sociedad Española de Neurología revisa los factores de riesgo modificables del deterioro cognitivo y la demencia para orientar la práctica clínica. Las revistas de la Asociación Americana de Psiquiatría dedican, por su parte, el número de julio a la regulación de las terapias digitales y a los patrones de consumo de sustancias. Un metaanálisis publicado en The Lancet Psychiatry concluye que la retirada lenta de antidepresivos con apoyo psicológico previene recaídas de forma similar a mantener el tratamiento.",
+  "audiencia": "ambos",
+  "nacionales": [
+    {
+      "tipo": "SALUD PÚBLICA",
+      "titular": "El COPCLM pone en marcha un programa de apoyo psicológico para personas con enfermedades raras y sus familias",
+      "cuerpo": "El Colegio Oficial de Psicología de Castilla-La Mancha, en colaboración con la Unidad de Enfermedades Raras de la Consejería de Sanidad de la región, mantiene en funcionamiento desde mayo el Programa de Apoyo Psicológico Dirigido a Personas con Enfermedades Raras y sus Familias. El proyecto se organiza en tres fases de intervención: acompañamiento en el momento del diagnóstico reciente, atención a las familias ante situaciones de sobrecarga cotidiana y acompañamiento en el tramo final de la vida para prevenir el duelo patológico. Las intervenciones las llevan a cabo profesionales de la psicología colegiados, con formación específica en Psicología Clínica o Sanitaria, intervención en trauma e intervención en crisis.",
+      "fuente": "Infocop (Consejo General de la Psicología de España)",
+      "url": "https://www.infocop.es/el-copclm-cuenta-con-un-programa-de-apoyo-psicologico-dirigido-a-personas-con-enfermedades-raras-y-sus-familias/"
+    },
+    {
+      "tipo": "NORMATIVA",
+      "titular": "España tramita en el Congreso la ley de protección de menores en entornos digitales",
+      "cuerpo": "La ministra de Juventud e Infancia, Sira Rego, ha señalado que confía en que la Ley para la protección de las personas menores de edad en los entornos digitales sea aprobada durante el otoño de 2026 en el Congreso de los Diputados, según un comunicado de La Moncloa. La norma, actualmente en tramitación, contempla elevar de 14 a 16 años la edad mínima para consentir el tratamiento de datos personales, obligar a los fabricantes a activar por defecto sistemas de control parental en los dispositivos y prohibir con carácter general el acceso de menores a mecanismos de recompensa aleatoria (loot boxes) en videojuegos y plataformas. Incluye también medidas en el ámbito sanitario orientadas a la detección precoz y la atención especializada a menores con patologías asociadas al uso inadecuado de dispositivos. La elaboración del texto ha contado con un comité de 50 personas expertas impulsado por el Ministerio de Juventud e Infancia.",
+      "fuente": "La Moncloa (Gobierno de España)",
+      "url": "https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/juventud-e-infancia/paginas/2026/220626-rego-ley-entornos-digitales.aspx"
+    }
+  ],
+  "internacionales": [
+    {
+      "tipo": "HERRAMIENTA",
+      "titular": "Las revistas de la Asociación Americana de Psiquiatría abordan la regulación de las terapias digitales",
+      "cuerpo": "El número de julio de The American Journal of Psychiatry, publicación de la Asociación Americana de Psiquiatría (APA), incluye un comentario de un grupo de trabajo del Consejo de Investigación de la APA sobre el papel de la FDA y de los Centros de Servicios de Medicare y Medicaid (CMS) en la regulación de las terapias digitales en psiquiatría, descrito como una nueva frontera para la disciplina. El mismo número recoge un estudio sobre los patrones de consumo de sustancias en función de la identidad sexual en personas de Estados Unidos. La revista Psychiatric Research and Clinical Practice, también de la APA, publica en este número un trabajo sobre la atención por telesalud a veteranos de zonas rurales a través del sistema de videoconsulta de la Administración de Veteranos.",
+      "fuente": "Psychiatry.org (American Psychiatric Association)",
+      "url": "https://www.psychiatry.org/News-room/News-Releases/July-2026-Issues-of-APA-Journals"
+    }
+  ],
+  "papers": [
+    {
+      "apa": "Gil Moreno, M., Terrón Cuadrado, C., Manzano Palomo, M., Delgado Álvarez, A., Eimil Ortiz, M., García Ribas, G., et al. (2026). Documento de consenso de la Sociedad Española de Neurología sobre prevención del deterioro cognitivo y la demencia. Neurología, 41, 501918.",
+      "doi": "10.1016/j.nrl.2025.501918",
+      "hallazgo": "El grupo de expertos en patología cognitiva y el Grupo de Estudio de Neurogeriatría de la Sociedad Española de Neurología han revisado la evidencia disponible sobre los factores de riesgo modificables del deterioro cognitivo y la demencia, señalando que solo la nutrición y la actividad física se valoran de forma unánime en todos los documentos de consenso internacionales analizados.",
+      "implicacion": "Los autores plantean que el documento puede orientar a los profesionales sanitarios en el abordaje preventivo del deterioro cognitivo, aunque señalan que la calidad de la evidencia disponible varía según el factor de riesgo considerado."
+    },
+    {
+      "apa": "Zaccolotti, D., et al. (2026). Comparison of antidepressant deprescribing strategies in individuals with clinically remitted depression: a systematic review and network meta-analysis. The Lancet Psychiatry, 13(1), 24-36.",
+      "doi": "10.1016/S2215-0366(25)00330-X",
+      "hallazgo": "El metaanálisis en red, que sintetiza 76 ensayos controlados aleatorizados con más de 17.000 participantes, encuentra evidencia de calidad moderada de que la retirada lenta del antidepresivo combinada con apoyo psicológico previene las recaídas durante el año siguiente en una medida similar a mantener el tratamiento a dosis estándar.",
+      "implicacion": "Los resultados sugieren que la retirada lenta con apoyo psicológico podría ser preferible a la interrupción abrupta o rápida, aunque los propios autores señalan limitaciones en la calidad de parte de la evidencia incluida."
+    }
+  ],
+  "herramientas": [
+    {
+      "nombre": "Marcos de regulación sanitaria para terapias digitales en salud mental",
+      "descripcion": "Marcos regulatorios emergentes, como los que están valorando agencias sanitarias en Estados Unidos, orientados a garantizar seguridad y evidencia clínica antes del uso terapéutico de aplicaciones y programas de intervención psicológica digital."
+    }
+  ],
+  "alertas": [
+    {
+      "estado": "EN TRAMITACIÓN",
+      "titulo": "Ley de protección de menores en entornos digitales",
+      "descripcion": "El Gobierno prevé que el Congreso apruebe durante el otoño de 2026 la ley que elevaría a 16 años la edad mínima para consentir el tratamiento de datos personales y establecería controles parentales activados por defecto; el desarrollo de las medidas sanitarias asociadas dependerá de su reglamento posterior."
+    }
+  ],
+  "prioridades": [
+    {
+      "titulo": "Programas de apoyo psicológico en enfermedades poco frecuentes",
+      "descripcion": "Puede ser útil explorar modelos de intervención por fases, como diagnóstico reciente, sobrecarga familiar y acompañamiento al final de la vida, similares al implementado por el COPCLM, especialmente en consultas que atienden a familias con diagnósticos de baja prevalencia."
+    },
+    {
+      "titulo": "Detección de riesgos digitales en la clínica con menores y adolescentes",
+      "descripcion": "Puede ser relevante incorporar a la anamnesis preguntas sobre el uso de dispositivos y redes sociales, dado que la futura ley prevé nuevas medidas de detección precoz en el ámbito sanitario para patologías asociadas al uso inadecuado de pantallas."
+    },
+    {
+      "titulo": "Factores de riesgo modificables en el deterioro cognitivo",
+      "descripcion": "Puede ser oportuno revisar con las personas mayores los factores de riesgo modificables, como la actividad física, el sueño o el control vascular, recogidos en el documento de consenso de la Sociedad Española de Neurología, sin sustituir la valoración neuropsicológica individualizada."
+    }
+  ],
+  "fuentes_verificadas": [
+    "https://www.infocop.es/el-copclm-cuenta-con-un-programa-de-apoyo-psicologico-dirigido-a-personas-con-enfermedades-raras-y-sus-familias/",
+    "https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/juventud-e-infancia/paginas/2026/220626-rego-ley-entornos-digitales.aspx",
+    "https://www.psychiatry.org/News-room/News-Releases/July-2026-Issues-of-APA-Journals",
+    "https://www.elsevier.es/es-revista-neurologia-295-articulo-documento-consenso-sociedad-espanola-neurologia-S021348532500074X",
+    "https://www.thelancet.com/journals/lanpsy/article/PIIS2215-0366(25)00330-X/abstract"
+  ],
+  "carousel": {
+    "noticia_seleccionada": "España tramita en el Congreso la ley de protección de menores en entornos digitales",
+    "slide1": {
+      "titular": "España tramita la ley de protección digital infantil",
+      "subtitulo": "El Gobierno prevé su aprobación en el Congreso durante el otoño de 2026"
+    },
+    "slide2": {
+      "puntos": [
+        "Eleva de 14 a 16 años la edad para consentir el tratamiento de datos personales.",
+        "Obliga a los fabricantes a activar por defecto los controles parentales en los dispositivos.",
+        "Prohíbe con carácter general el acceso de menores a las loot boxes de videojuegos y plataformas."
+      ]
+    },
+    "slide3": {
+      "puntos": [
+        "Incluye medidas sanitarias de detección precoz ante el uso inadecuado de dispositivos.",
+        "Contempla planes de formación en ciudadanía digital para los centros educativos.",
+        "Un comité de 50 personas expertas ha orientado el contenido de la norma."
+      ]
+    },
+    "slide4": {
+      "puntos": [
+        "La ministra de Juventud e Infancia confía en un amplio consenso parlamentario.",
+        "España fue invitada a un coloquio internacional sobre digitalización con Reino Unido y Australia.",
+        "La votación en el Congreso se prevé en los próximos meses."
+      ]
+    },
+    "slide5": {
+      "mensaje_autoridad": "Los entornos digitales tienen que dejar de funcionar bajo la ley de la selva, según la ministra de Juventud e Infancia, Sira Rego.",
+      "fuente_apa": "La Moncloa. (2026). Sira Rego: España tendrá en otoño una ley puntera para regular los entornos digitales. Gobierno de España.",
+      "cta": "síguenos en @IPP.Psicologia"
+    }
+  },
+  "copy_rrss": "España tramita la ley de protección de menores en entornos digitales, el COPCLM presenta su programa de apoyo psicológico para enfermedades raras y un documento de consenso de la Sociedad Española de Neurología revisa cómo prevenir el deterioro cognitivo.",
+  "hashtags": [
+    "#SaludMental",
+    "#Psicologia",
+    "#ProteccionDigital",
+    "#Neuropsicologia",
+    "#Neurologia"
+  ]
+}
