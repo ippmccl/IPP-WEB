@@ -1,0 +1,127 @@
+{
+  "titulo": "El INE registra 3.808 suicidios provisionales en 2025, un estudio de Papeles del Psicólogo alerta de la ideación suicida universitaria y Nature Reviews Psychology plantea un enfoque transdiagnóstico para la hiperacusia y la misofonía: claves del 30 de julio de 2026",
+  "nota_editorial": "Las claves prácticas que se recogen a continuación forman parte del análisis editorial del Observatorio de Actualidad del IPP y no constituyen recomendación clínica individualizada.",
+  "resumen": "El Instituto Nacional de Estadística registra 3.808 suicidios provisionales en 2025, un 3,7% menos que el año anterior, aunque la cifra definitiva no se conocerá hasta diciembre. Un estudio publicado en Papeles del Psicólogo alerta de que uno de cada cinco estudiantes universitarios españoles ha tenido pensamientos suicidas en las dos semanas previas a ser encuestado, sobre una muestra de 59.605 estudiantes impulsada por el Ministerio de Universidades. Una revisión en Nature Reviews Psychology propone abordar la hiperacusia y la misofonía desde un enfoque transdiagnóstico, dados los mecanismos y perfiles clínicos que comparten con otros trastornos. Un ensayo publicado en The Lancet Psychiatry muestra que un modelo de cribado escolar seguido de terapia cognitivo-conductual accesible redujo los problemas de ansiedad en niños de primaria, y una investigación en European Journal of Psychotraumatology documenta cómo la trata de personas erosiona la confianza interpersonal de las personas supervivientes.",
+  "audiencia": "ambos",
+  "nacionales": [
+    {
+      "tipo": "SALUD PÚBLICA",
+      "titular": "El INE registra 3.808 suicidios provisionales en 2025, un 3,7% menos que en 2024",
+      "cuerpo": "El Instituto Nacional de Estadística ha publicado los datos provisionales de su Estadística de Defunciones según la Causa de Muerte correspondientes a 2025. El documento recoge 19.042 fallecimientos por causas externas, de los que 3.808 corresponden a suicidios, un 3,7% menos que el año anterior y la tercera causa de muerte externa, por detrás de las caídas accidentales y los ahogamientos. El propio INE advierte de que estas cifras podrían estar infraestimadas, ya que las autopsias de las muertes por causas externas requieren más tiempo que las de las muertes naturales, por lo que los datos definitivos no se conocerán hasta diciembre de 2026.",
+      "fuente": "Instituto Nacional de Estadística (INE), según recoge Infocop",
+      "url": "https://www.infocop.es/en-2025-se-registraron-3-808-suicidios-en-espana-segun-datos-provisionales-del-ine/"
+    },
+    {
+      "tipo": "INVESTIGACIÓN",
+      "titular": "Uno de cada cinco estudiantes universitarios españoles refiere pensamientos suicidas recientes",
+      "cuerpo": "Un artículo publicado en Papeles del Psicólogo, elaborado por Alexander Muela (Universidad del País Vasco) y Jon García-Ormaza (Red de Salud Mental de Bizkaia), recopila los principales datos sobre salud mental en el ámbito universitario español. El mayor estudio realizado hasta la fecha en este ámbito, impulsado por el Ministerio de Universidades con la participación de 59.605 estudiantes, encontró que la mitad del alumnado presentaba ansiedad moderada o grave y sintomatología depresiva, y que uno de cada cinco había tenido pensamientos suicidas en las dos semanas previas a la encuesta. Los autores reclaman reforzar los Servicios de Atención Psicológica universitarios, cuya oferta obligatoria y gratuita establece la Ley Orgánica del Sistema Universitario, y señalan que más de la mitad de quienes presentan pensamientos suicidas o autolesiones no reciben ningún tipo de atención durante su etapa universitaria.",
+      "fuente": "Papeles del Psicólogo/Psychologist Papers, según recoge Infocop",
+      "url": "https://www.infocop.es/uno-de-cada-cinco-estudiantes-universitarios-ha-tenido-pensamientos-suicidas-recientes/"
+    }
+  ],
+  "internacionales": [
+    {
+      "tipo": "INVESTIGACIÓN",
+      "titular": "Un cribado escolar reduce la ansiedad infantil en un ensayo publicado en The Lancet Psychiatry",
+      "cuerpo": "Un equipo de la Universidad de Oxford ha publicado en The Lancet Psychiatry los resultados de un ensayo controlado aleatorizado con 84 escuelas de Inglaterra, financiado por el National Institute for Health and Care Research. De los 409 menores que dieron positivo en un cribado de ansiedad realizado a través de las familias, la mitad recibió apoyo mediante una herramienta online basada en terapia cognitivo-conductual dirigida a los padres, y la otra mitad recibió la atención escolar habitual. A los 12 meses, el 61% de los menores del grupo de intervención había dejado de cumplir criterios de problemas de ansiedad, frente al 38% del grupo de control, con beneficios que se mantenían a los 24 meses según el profesorado.",
+      "fuente": "Nuffield Department of Population Health, Universidad de Oxford",
+      "url": "https://www.ndph.ox.ac.uk/news/mental-health-pathway-reduces-children-anxiety-problems"
+    },
+    {
+      "tipo": "INVESTIGACIÓN",
+      "titular": "Un estudio del Reino Unido documenta cómo la trata de personas erosiona la confianza interpersonal",
+      "cuerpo": "Coincidiendo con el Día Mundial contra la Trata, un estudio cualitativo elaborado por investigadores del University College London y la Helen Bamber Foundation, publicado en European Journal of Psychotraumatology, analiza cómo se configura y se rompe la confianza en uno mismo, en los demás y en las instituciones a lo largo de la experiencia de trata. Los autores señalan que quienes captan a las víctimas no suelen ser desconocidos, sino familiares, amistades o parejas, lo que agrava después la dificultad para volver a confiar, y concluyen que una atención informada por el trauma, con relaciones seguras y consistentes, puede facilitar la reconstrucción de la confianza tras la explotación.",
+      "fuente": "European Journal of Psychotraumatology, según recoge Infocop",
+      "url": "https://www.infocop.es/reconstruir-la-confianza-un-elemento-clave-para-la-recuperacion-de-las-personas-supervivientes-de-trata/"
+    }
+  ],
+  "papers": [
+    {
+      "apa": "Scheerer, N. E., Rosenthal, M. Z., Birmingham, E., Carson, T. B., Van Esch, N., Williams, Z., Iarocci, G., & Jahn, K. N. (2026). Transdiagnostic mechanisms of decreased sound tolerance. Nature Reviews Psychology, 5, 402–419.",
+      "doi": "10.1038/s44159-026-00565-y",
+      "hallazgo": "La hiperacusia y la misofonía comparten reactividad emocional, evitación de sonidos concretos e hipersensibilidad sensorial, y ambas aumentan de gravedad junto con la ansiedad y los síntomas depresivos. Las prevalencias estimadas oscilan entre el 15% y el 17% para la hiperacusia y entre el 2% y el 18% para la misofonía clínicamente relevante, según el método de evaluación empleado.",
+      "implicacion": "Los autores sugieren que un enfoque transdiagnóstico, centrado en los mecanismos compartidos más que en categorías diagnósticas separadas, podría orientar el desarrollo de herramientas de evaluación y tratamientos personalizados, aunque advierten de que todavía no existen pruebas diagnósticas de referencia ni protocolos de tratamiento validados."
+    }
+  ],
+  "herramientas": [
+    {
+      "nombre": "Plataformas de apoyo psicológico online basadas en TCC dirigidas a la infancia",
+      "descripcion": "Herramientas digitales de apoyo parental basadas en terapia cognitivo-conductual, pensadas para ampliar el acceso al tratamiento de la ansiedad infantil cuando se combinan con un cribado previo en el entorno escolar."
+    },
+    {
+      "nombre": "Software de facturación electrónica certificado según VeriFactu",
+      "descripcion": "Herramientas de facturación adaptadas a la normativa VeriFactu, de utilidad para profesionales autónomos de la psicología que deban adecuar su sistema de facturación a los nuevos requisitos legales."
+    }
+  ],
+  "alertas": [
+    {
+      "estado": "APROBADO",
+      "titulo": "Plan de Acción para la Prevención del Suicidio 2025-2027",
+      "descripcion": "El Consejo Interterritorial del Sistema Nacional de Salud aprobó en febrero de 2025 el primer Plan de Acción para la Prevención del Suicidio, orientado a reducir la conducta suicida y reforzar la coordinación entre administraciones y agentes implicados, según recoge Infocop a raíz de los datos provisionales de suicidio del INE correspondientes a 2025."
+    }
+  ],
+  "prioridades": [
+    {
+      "titulo": "Cribado temprano de ansiedad infantil en coordinación con el entorno escolar",
+      "descripcion": "A raíz de la evidencia publicada en The Lancet Psychiatry, puede ser útil explorar protocolos breves de cribado y coordinación con centros escolares cuando se atiende a menores con síntomas de ansiedad."
+    },
+    {
+      "titulo": "Enfoque transdiagnóstico ante quejas de hipersensibilidad auditiva",
+      "descripcion": "Puede ser relevante incorporar una valoración transdiagnóstica cuando un paciente refiera intolerancia a sonidos cotidianos, explorando su posible relación con ansiedad, TDAH o TEA, en línea con la evidencia recogida en Nature Reviews Psychology."
+    },
+    {
+      "titulo": "Revisión de protocolos ante ideación suicida en población joven",
+      "descripcion": "Puede ser oportuno revisar los propios protocolos de detección y derivación ante ideación suicida en adolescentes y adultos jóvenes, dado el contexto reflejado por los datos del INE y por el estudio publicado en Papeles del Psicólogo sobre población universitaria."
+    }
+  ],
+  "fuentes_verificadas": [
+    "https://www.infocop.es/en-2025-se-registraron-3-808-suicidios-en-espana-segun-datos-provisionales-del-ine/",
+    "https://www.infocop.es/uno-de-cada-cinco-estudiantes-universitarios-ha-tenido-pensamientos-suicidas-recientes/",
+    "https://www.infocop.es/la-intolerancia-a-los-sonidos-cotidianos-podria-entenderse-mejor-desde-un-enfoque-transdiagnostico/",
+    "https://www.infocop.es/reconstruir-la-confianza-un-elemento-clave-para-la-recuperacion-de-las-personas-supervivientes-de-trata/",
+    "https://www.ndph.ox.ac.uk/news/mental-health-pathway-reduces-children-anxiety-problems",
+    "https://www.nature.com/articles/s44159-026-00565-y",
+    "https://www.thelancet.com/journals/lanpsy/article/PIIS2215-0366(26)00064-7/fulltext"
+  ],
+  "carousel": {
+    "noticia_seleccionada": "La intolerancia a los sonidos cotidianos podría entenderse mejor desde un enfoque transdiagnóstico",
+    "slide1": {
+      "titular": "Hiperacusia y misofonía: un mismo problema, distintos síntomas",
+      "subtitulo": "Nature Reviews Psychology propone un enfoque transdiagnóstico"
+    },
+    "slide2": {
+      "puntos": [
+        "La hiperacusia afecta entre el 15% y el 17% en las muestras estudiadas.",
+        "La misofonía clínica afecta al 4,6% de adultos en Estados Unidos.",
+        "Ambas comparten mecanismos con ansiedad, TDAH, TEA y TOC."
+      ]
+    },
+    "slide3": {
+      "puntos": [
+        "No existen aún pruebas diagnósticas de referencia para ninguna de las dos.",
+        "La misofonía se evalúa para su posible inclusión en la próxima CIE.",
+        "Cerca del 90% de familias con hijos con autismo reporta este problema."
+      ]
+    },
+    "slide4": {
+      "puntos": [
+        "La terapia sonora y la terapia cognitivo-conductual pueden aliviar los síntomas.",
+        "No hay tratamientos curativos, pero sí abordajes personalizados por caso.",
+        "Los autores piden protocolos de evaluación estandarizados y más investigación."
+      ]
+    },
+    "slide5": {
+      "mensaje_autoridad": "Los autores señalan que estudiar estas alteraciones de forma aislada ha limitado el desarrollo de evaluaciones y tratamientos eficaces",
+      "fuente_apa": "Scheerer et al. (2026). Nature Reviews Psychology, 5, 402-419.",
+      "cta": "síguenos en @IPP.Psicologia"
+    }
+  },
+  "copy_rrss": "¿Te molestan sonidos que a otras personas no parecen afectarles? La ciencia empieza a entender por qué ocurre y qué se puede hacer al respecto.",
+  "hashtags": [
+    "#Psicología",
+    "#Neuropsicología",
+    "#SaludMental",
+    "#Misofonía",
+    "#Hiperacusia"
+  ]
+}
