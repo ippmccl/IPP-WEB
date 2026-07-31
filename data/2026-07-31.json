@@ -1,0 +1,119 @@
+{
+  "titulo": "El vínculo temprano y la implicación paterna marcan el desarrollo infantil, Red Acoge alerta de las barreras de las personas migrantes con discapacidad y la psicología del deporte reclama su reconocimiento legal: claves del 31 de julio de 2026",
+  "nota_editorial": "Las claves prácticas que se recogen a continuación forman parte del análisis editorial del Observatorio de Actualidad del IPP y no constituyen recomendación clínica individualizada.",
+  "resumen": "El Consejo General de la Psicología difunde a través de Infocop la evidencia de la OMS y UNICEF sobre el papel del vínculo temprano y la implicación paterna en el desarrollo psicológico infantil. Red Acoge documenta las barreras interseccionales que agravan el malestar psicológico de las personas migrantes con discapacidad en España. La División de Psicología de la Actividad Física y el Deporte del COP reclama el reconocimiento normativo de la especialidad, todavía pendiente de regulación legal. En el ámbito internacional, un ensayo aleatorizado del Karolinska Institutet publicado en JAMA Network Open muestra una mejoría rápida de los síntomas depresivos tras una dosis única de psilocibina, aunque los propios autores señalan incertidumbres sobre sus efectos a largo plazo. Un estudio del Buck Institute publicado en Aging Cell aporta nuevas claves sobre cómo la variante genética APOE2 protege a las neuronas frente al daño en el ADN y al envejecimiento celular.",
+  "audiencia": "ambos",
+  "nacionales": [
+    {
+      "tipo": "CLÍNICA",
+      "titular": "El vínculo temprano y la implicación de los padres, claves para el desarrollo psicológico infantil",
+      "cuerpo": "El Consejo General de la Psicología, a través de Infocop, recoge la evidencia científica reunida por la Organización Mundial de la Salud (OMS) y UNICEF sobre el papel del vínculo temprano entre bebés y cuidadores en el desarrollo cerebral, emocional y psicológico infantil. Los informes «Cuidado cariñoso y sensible para todos los recién nacidos» y «Cuidado cariñoso y sensible e implicación de los hombres» señalan que más del 80% del cerebro se forma en los primeros tres años de vida y que la implicación afectuosa y equitativa de los padres se asocia con una menor incidencia de problemas conductuales en los niños y con menos problemas psicológicos en mujeres jóvenes. Los organismos advierten además de que una de cada seis mujeres presenta síntomas de depresión posparto, por lo que consideran fundamental que los profesionales sanitarios ofrezcan apoyo emocional a las familias durante el embarazo y los primeros años de vida.",
+      "fuente": "Infocop (Consejo General de la Psicología de España), con datos de la OMS y UNICEF",
+      "url": "https://www.infocop.es/el-apoyo-emocional-y-la-implicacion-de-los-padres-claves-para-el-desarrollo-psicologico-infantil/"
+    },
+    {
+      "tipo": "SALUD PÚBLICA",
+      "titular": "Barreras que vulneran derechos y agravan el malestar psicológico de las personas migrantes con discapacidad",
+      "cuerpo": "Infocop recoge la guía «Migrar con discapacidad: derechos, barreras y acompañamiento», elaborada por la federación Red Acoge, que documenta cómo el racismo institucional, las barreras administrativas y la falta de accesibilidad sitúan a las personas migrantes con discapacidad en una posición de especial desprotección. La guía señala que, según el Observatorio Permanente de la Inmigración, en 2018 solo el 2,2% de las personas migrantes residentes en España tenía reconocida oficialmente una discapacidad, cifra que la propia entidad considera una infraestimación por las dificultades de acceso al diagnóstico. El documento recomienda un acompañamiento psicológico y social integral, con enfoque antirracista y anticapacitista, que tenga en cuenta el duelo migratorio, la soledad no deseada y el riesgo de discriminación de este colectivo.",
+      "fuente": "Infocop (Consejo General de la Psicología de España), con datos de Red Acoge",
+      "url": "https://www.infocop.es/barreras-que-vulneran-derechos-y-agravan-el-malestar-psicologico-de-las-personas-migrantes-con-discapacidad/"
+    },
+    {
+      "tipo": "NORMATIVA",
+      "titular": "La psicología del deporte reclama su reconocimiento legal como especialidad, según el COP",
+      "cuerpo": "Enrique Cantón Chirivella, coordinador de la División de Psicología de la Actividad Física y el Deporte (PACFD) del Consejo General de la Psicología de España, explica en una entrevista publicada en la Revista de Psicología Aplicada al Deporte y al Ejercicio Físico y recogida por Infocop que la especialidad ha crecido de forma sostenida desde los años ochenta, pero que su consolidación definitiva pasa por avanzar hacia el reconocimiento normativo. Según Cantón, el primer paso debería producirse dentro de la propia profesión, mediante un consenso entre el Consejo General de la Psicología y la Conferencia de Decanos de Facultades de Psicología, antes de trasladar la demanda al ámbito político para promover las modificaciones legislativas necesarias. La especialidad cuenta ya con un proceso nacional de acreditación como experto en Psicología del Deporte, puesto en marcha en 2017, y con el certificado europeo EuroPsy Specialist in Sport Psychology, impulsado por la Federación Europea de Asociaciones de Psicólogos.",
+      "fuente": "Infocop (Consejo General de la Psicología de España), entrevista a Enrique Cantón Chirivella",
+      "url": "https://www.infocop.es/la-psicologia-del-deporte-avanza-hacia-su-consolidacion-como-especialidad-profesional-aunque-persisten-retos-para-su-reconocimiento-y-regulacion/"
+    }
+  ],
+  "internacionales": [],
+  "papers": [
+    {
+      "apa": "Yngwe, H., Plavén-Sigray, P., Ekman, C. J., Henje, E., Berglund, A., Tiger, M., Beckman, M., & Lundberg, J. (2026). Acute and late effects of psilocybin on symptoms in major depression: A randomized clinical trial. JAMA Network Open. https://doi.org/10.1001/jamanetworkopen.2026.12589",
+      "doi": "10.1001/jamanetworkopen.2026.12589",
+      "hallazgo": "En un ensayo aleatorizado y doble ciego con 35 personas con depresión moderada a grave, una dosis única de 25 mg de psilocibina, combinada con apoyo psicoterapéutico, redujo la puntuación en la escala MADRS una media de 9,7 puntos frente a 2,4 puntos en el grupo placebo a los ocho días, diferencia que se mantuvo a los 15 y 42 días. A las seis semanas, el 53% del grupo psilocibina estaba en remisión frente al 6% del grupo placebo, aunque esta diferencia dejó de ser significativa al año.",
+      "implicacion": "Los autores, del Karolinska Institutet, sugieren que la psilocibina podría constituir una alternativa cuando se necesita una reducción rápida de los síntomas depresivos, aunque advierten de que los efectos a largo plazo son inciertos, de que podrían ser necesarios tratamientos repetidos para evitar recaídas y de que el tratamiento no está exento de riesgos, ya que dos participantes presentaron ansiedad grave y persistente. Los investigadores señalan además que la dificultad para mantener el cegamiento en este tipo de ensayos podría haber influido en los resultados, por lo que reclaman estudios de mayor tamaño antes de extraer conclusiones para la práctica clínica."
+    },
+    {
+      "apa": "Gerónimo-Olvera, C., Ellerby, L. M., et al. (2026). Exceptional longevity modifying allele APOE2 promotes DNA signaling pathways resisting cellular senescence in human neurons. Aging Cell, 25(5), e70494. https://doi.org/10.1111/acel.70494",
+      "doi": "10.1111/acel.70494",
+      "hallazgo": "Un estudio del Buck Institute for Research on Aging con neuronas humanas derivadas de células madre pluripotentes inducidas y con tejido hipocampal de ratones muestra que la variante genética APOE2, ya asociada en estudios poblacionales a la longevidad excepcional y a un menor riesgo de alzhéimer, ayuda a las neuronas a mantener la integridad de su ADN y a resistir la senescencia celular. Las neuronas con APOE2 acumularon significativamente menos daño en el ADN y se recuperaron más rápido tras ser sometidas a estrés por radiación o quimioterapia, en comparación con las variantes APOE3 y APOE4.",
+      "implicacion": "Los autores señalan que el mecanismo molecular exacto por el que APOE2 protege el ADN neuronal todavía debe definirse, y plantean que futuros estudios podrían explorar si compuestos que imiten su efecto o terapias dirigidas a la reparación del ADN podrían ofrecer una protección similar en personas portadoras de la variante APOE4. Se trata de resultados en modelos celulares y animales, por lo que su traslación a la práctica clínica en humanos está aún por confirmar."
+    }
+  ],
+  "herramientas": [
+    {
+      "nombre": "Acreditación europea EuroPsy Specialist in Sport Psychology",
+      "descripcion": "Certificación europea impulsada por la Federación Europea de Asociaciones de Psicólogos (EFPA) que reconoce la formación y competencia específica de los profesionales de la psicología del deporte, como complemento al proceso nacional de acreditación como experto en Psicología del Deporte gestionado por el Consejo General de la Psicología de España."
+    }
+  ],
+  "alertas": [
+    {
+      "estado": "PROPUESTA",
+      "titulo": "Reconocimiento normativo de la Psicología del Deporte como especialidad",
+      "descripcion": "El coordinador de la División de Psicología de la Actividad Física y el Deporte del Consejo General de la Psicología plantea la necesidad de avanzar hacia el reconocimiento legal de la especialidad, aunque señala que este proceso requiere primero un consenso dentro de la propia profesión, entre el Consejo General de la Psicología y la Conferencia de Decanos de Facultades de Psicología, antes de poder trasladar la demanda al ámbito político para promover los cambios legislativos necesarios. Se trata, por tanto, de una propuesta del sector todavía sin desarrollo normativo."
+    }
+  ],
+  "prioridades": [
+    {
+      "titulo": "Vínculo temprano y trabajo con familias",
+      "descripcion": "A la luz de la evidencia de la OMS y UNICEF, puede ser útil explorar cómo incorporar pautas sobre el vínculo temprano, la implicación paterna y el apoyo emocional perinatal en el trabajo con familias y en la atención a la primera infancia."
+    },
+    {
+      "titulo": "Enfoque interseccional con población migrante",
+      "descripcion": "Ante las barreras documentadas por Red Acoge, puede ser relevante revisar los protocolos de acompañamiento a personas migrantes con discapacidad incorporando una perspectiva interseccional que tenga en cuenta el duelo migratorio y el riesgo de discriminación acumulada."
+    },
+    {
+      "titulo": "Seguimiento de la evidencia sobre psicodélicos en depresión",
+      "descripcion": "Dado el interés creciente por los tratamientos con psilocibina, puede ser oportuno seguir la evidencia científica que se vaya publicando, sin perder de vista que se trata de un tratamiento no autorizado en la práctica clínica habitual en España y que los propios autores señalan incertidumbres sobre sus efectos a largo plazo."
+    }
+  ],
+  "fuentes_verificadas": [
+    "https://www.infocop.es/el-apoyo-emocional-y-la-implicacion-de-los-padres-claves-para-el-desarrollo-psicologico-infantil/",
+    "https://www.infocop.es/barreras-que-vulneran-derechos-y-agravan-el-malestar-psicologico-de-las-personas-migrantes-con-discapacidad/",
+    "https://www.infocop.es/la-psicologia-del-deporte-avanza-hacia-su-consolidacion-como-especialidad-profesional-aunque-persisten-retos-para-su-reconocimiento-y-regulacion/",
+    "https://news.ki.se/single-dose-of-psilocybin-provided-rapid-relief-from-depression-in-new-study",
+    "https://www.buckinstitute.org/news/longevity-linked-apoe2-gene-variant-helps-neurons-repair-dna-and-resist-aging/"
+  ],
+  "carousel": {
+    "noticia_seleccionada": "El vínculo temprano y la implicación de los padres, claves para el desarrollo psicológico infantil",
+    "slide1": {
+      "titular": "El vínculo temprano moldea el desarrollo psicológico infantil",
+      "subtitulo": "Lo que confirma la evidencia de la OMS y UNICEF"
+    },
+    "slide2": {
+      "puntos": [
+        "Más del 80% del cerebro se forma en los primeros tres años de vida",
+        "El feto puede oír desde la semana 28 de gestación",
+        "La interacción sensible con los cuidadores es clave en el desarrollo temprano"
+      ]
+    },
+    "slide3": {
+      "puntos": [
+        "La implicación afectuosa de los padres reduce los problemas conductuales infantiles",
+        "Una de cada seis mujeres presenta síntomas de depresión posparto",
+        "El apoyo emocional a las familias favorece el vínculo y la salud mental"
+      ]
+    },
+    "slide4": {
+      "puntos": [
+        "El contacto piel con piel reduce la ansiedad y la depresión posparto",
+        "La separación temprana puede aumentar la ansiedad en los progenitores",
+        "Compartir la crianza mejora el bienestar de toda la familia"
+      ]
+    },
+    "slide5": {
+      "mensaje_autoridad": "El cuidado cariñoso y sensible durante los primeros años mejora la salud, la productividad y la cohesión social a lo largo de toda la vida",
+      "fuente_apa": "Organización Mundial de la Salud y UNICEF, recogido por Infocop (Consejo General de la Psicología de España), 2026",
+      "cta": "síguenos en @IPP.Psicologia"
+    }
+  },
+  "copy_rrss": "El vínculo temprano y la implicación de los padres marcan el desarrollo psicológico infantil, según la evidencia recogida por la OMS y UNICEF. Te contamos las claves.",
+  "hashtags": [
+    "#PsicologíaInfantil",
+    "#SaludMental",
+    "#CrianzaRespetuosa",
+    "#DesarrolloInfantil",
+    "#Psicología"
+  ]
+}
