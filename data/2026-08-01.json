@@ -1,0 +1,113 @@
+{
+  "titulo": "Un estudio de la Revista de Psicoterapia vincula el relato del yo con la evolución clínica, la Sociedad Española de Neurología alerta de la exclusión de fármacos para el alzhéimer inicial de la financiación pública y el Royal College of Paediatrics and Child Health constata el aumento de trastornos mentales graves en la infancia británica",
+  "nota_editorial": "Las claves prácticas que se recogen a continuación forman parte del análisis editorial del Observatorio de Actualidad del IPP y no constituyen recomendación clínica individualizada.",
+  "resumen": "Un estudio publicado en la Revista de Psicoterapia muestra que la forma en que dos jóvenes con ansiedad y depresión se describían a sí mismas cambió a lo largo de una intervención terapéutica basada en la identidad, junto con una reducción de su malestar psicológico. La Sociedad Española de Neurología ha expresado su preocupación por la decisión de la Comisión Interministerial de Precios de los Medicamentos, adoptada el 15 de julio de 2026, de no incluir en la financiación pública los fármacos lecanemab y donanemab para el alzhéimer inicial, y solicita que se reconsidere. En el Reino Unido, el Royal College of Paediatrics and Child Health ha actualizado su indicador de salud mental infantil dentro del informe State of Child Health 2026, que registra un aumento del 12,5% al 20,3% en la proporción de menores de 8 a 16 años con un trastorno mental «probable» entre 2020 y 2023. Los tres casos ilustran, desde ángulos distintos, cómo la identidad narrativa, el acceso a tratamientos y los entornos digitales atraviesan la práctica clínica actual.",
+  "audiencia": "ambos",
+  "nacionales": [
+    {
+      "tipo": "INVESTIGACIÓN",
+      "titular": "La forma en que nos describimos refleja la evolución durante la psicoterapia",
+      "cuerpo": "Un estudio publicado en la Revista de Psicoterapia analiza cómo cambia la narrativa del propio «yo» en dos jóvenes con ansiedad y depresión tras una intervención terapéutica basada en la identidad. Los autores, de la Universitat de Barcelona, emplearon la autocaracterización, una técnica narrativa propuesta por George A. Kelly que consiste en pedir a la persona que se describa en tercera persona, como si un amigo cercano describiera al personaje principal de una obra de teatro. Al comparar las autocaracterizaciones realizadas al inicio y al final del tratamiento, el análisis mostró cambios en la manera de narrar el sí mismo en ambas participantes, junto con una reducción de los síntomas de depresión, ansiedad y estrés en uno de los dos casos. Los autores señalan que el estudio se basa únicamente en dos casos clínicos y que la lectura complementaria realizada con el modelo de personalidad HEXACO no constituye una medida psicométrica estandarizada, por lo que plantean seguir investigando con muestras de mayor tamaño.",
+      "fuente": "Revista de Psicoterapia (UNED)",
+      "url": "https://revistas.uned.es/index.php/rdp/article/view/47450"
+    },
+    {
+      "tipo": "SALUD PÚBLICA",
+      "titular": "La Sociedad Española de Neurología pide reconsiderar la exclusión de dos fármacos para el alzhéimer inicial de la financiación pública",
+      "cuerpo": "La Sociedad Española de Neurología (SEN) ha manifestado su preocupación por la decisión adoptada el 15 de julio de 2026 por la Comisión Interministerial de Precios de los Medicamentos de no incluir en la financiación pública los fármacos lecanemab y donanemab para el tratamiento de la enfermedad de Alzheimer inicial, lo que limita su acceso a la prescripción privada. Según explica la SEN, ambos fármacos cuentan con la aprobación de comercialización de la Agencia Europea del Medicamento (EMA) tras la evaluación de su eficacia y seguridad. La sociedad científica considera que restringir el acceso a la prescripción privada introduce una barrera económica y solicita a la Comisión Interministerial que reconsidere la resolución, mostrando su disposición a colaborar con las autoridades sanitarias, las comunidades autónomas y las asociaciones de pacientes para definir circuitos asistenciales. El Grupo de Estudio de Conducta y Demencias de la SEN ha publicado además un documento de consenso con recomendaciones de expertos para la aplicación de estos fármacos en la práctica clínica.",
+      "fuente": "Sociedad Española de Neurología (SEN)",
+      "url": "https://www.sen.es/noticias-y-actividades/noticias-sen/3956-preocupacion-ante-la-decision-de-no-financiacion-por-el-sistema-nacional-de-salud-de-lecanemab-y-donanemab-para-la-enfermedad-de-alzheimer"
+    }
+  ],
+  "internacionales": [
+    {
+      "tipo": "SALUD PÚBLICA",
+      "titular": "El Royal College of Paediatrics and Child Health constata un aumento sostenido de los trastornos mentales graves en la infancia en el Reino Unido",
+      "cuerpo": "El indicador de salud mental del informe State of Child Health 2026, del Royal College of Paediatrics and Child Health (RCPCH), actualizado el 14 de julio de 2026, señala que en Inglaterra la proporción de menores de 8 a 16 años con un trastorno mental «probable» aumentó del 12,5% al 20,3% entre 2020 y 2023, mientras que la proporción con trastornos «posibles» (menos graves) se mantuvo estable, lo que indica que el incremento se concentra en los cuadros más severos. En Gales, la proporción estimada de personas de 8 a 24 años con una condición de salud mental se duplicó en veinte años, pasando de 1 de cada 10 en 2004 a 1 de cada 5 en 2023. El informe también recoge que el acceso al apoyo psicológico a través del centro escolar descendió del 59,8% al 53,1% entre 2022 y 2023 entre quienes presentaban un trastorno probable. Entre los factores que el RCPCH asocia a estos resultados se encuentran la pobreza, el trauma infantil, el aislamiento social y los daños derivados de los entornos digitales, como el ciberacoso o la exposición a contenidos inapropiados para la edad.",
+      "fuente": "Royal College of Paediatrics and Child Health (RCPCH)",
+      "url": "https://www.rcpch.ac.uk/work-we-do/state-of-child-health/mental-health"
+    }
+  ],
+  "papers": [
+    {
+      "apa": "Narváez-Villarreal, J. F., & Feixas, G. (2026). Evaluación del cambio identitario mediante la autocaracterización: Aplicación en una intervención basada en la identidad para jóvenes con depresión y ansiedad. Revista de Psicoterapia, 37(134), 95-109.",
+      "doi": "10.5944/rdp.v37i134.47450",
+      "hallazgo": "En dos jóvenes con ansiedad y depresión, la comparación de autocaracterizaciones narrativas al inicio y al final de una intervención basada en la identidad mostró cambios en la forma de narrar el sí mismo, junto con una reducción del malestar psicológico en uno de los dos casos, aunque otros elementos centrales de la identidad permanecieron estables.",
+      "implicacion": "Los autores sugieren que la autocaracterización podría orientar la exploración del cambio identitario en momentos relevantes del proceso terapéutico, aunque señalan que, al tratarse de solo dos casos, los resultados no permiten extraer conclusiones generalizables sin investigación adicional con muestras más amplias."
+    }
+  ],
+  "herramientas": [
+    {
+      "nombre": "Documentos de consenso clínico para nuevos fármacos frente al deterioro cognitivo",
+      "descripcion": "Documentos elaborados por grupos de expertos de sociedades científicas que recogen recomendaciones para la aplicación en la práctica asistencial de nuevos tratamientos farmacológicos frente al deterioro cognitivo, orientados a mejorar los circuitos diagnósticos y la toma de decisiones clínicas ante la incorporación de nuevas terapias."
+    }
+  ],
+  "alertas": [
+    {
+      "estado": "APROBADO",
+      "titulo": "La Comisión Interministerial de Precios de los Medicamentos excluye lecanemab y donanemab de la financiación pública",
+      "descripcion": "El 15 de julio de 2026, la Comisión Interministerial de Precios de los Medicamentos adoptó la decisión de no incluir en la financiación pública del Sistema Nacional de Salud los fármacos lecanemab y donanemab para la enfermedad de Alzheimer inicial, pese a contar con la aprobación de comercialización de la Agencia Europea del Medicamento. La Sociedad Española de Neurología ha solicitado que se reconsidere esta resolución."
+    }
+  ],
+  "prioridades": [
+    {
+      "titulo": "Explorar técnicas narrativas como complemento a la evaluación clínica",
+      "descripcion": "A la luz del estudio sobre autocaracterización, puede ser útil explorar técnicas narrativas de este tipo como complemento a la evaluación habitual en procesos terapéuticos centrados en la identidad, siempre teniendo en cuenta que la evidencia disponible procede todavía de un número muy reducido de casos."
+    },
+    {
+      "titulo": "Mantenerse informada sobre el acceso a nuevos tratamientos frente al alzhéimer",
+      "descripcion": "Dada la decisión de no financiación pública de lecanemab y donanemab, puede ser relevante mantenerse informada sobre la evolución de este debate para poder orientar con precisión a las familias que pregunten por estas opciones de tratamiento, dejando claro que su acceso actual queda limitado al ámbito privado."
+    },
+    {
+      "titulo": "Prestar atención al peso de los entornos digitales en la salud mental infantil",
+      "descripcion": "A partir de los datos del RCPCH sobre el aumento de trastornos mentales graves en la infancia, puede ser oportuno revisar en la práctica clínica con menores el papel de los entornos digitales, el aislamiento y el acceso al apoyo psicológico en el entorno escolar como factores asociados a tener en cuenta."
+    }
+  ],
+  "fuentes_verificadas": [
+    "https://revistas.uned.es/index.php/rdp/article/view/47450",
+    "https://www.infocop.es/la-forma-en-que-nos-describimos-refleja-la-evolucion-durante-la-psicoterapia/",
+    "https://www.sen.es/noticias-y-actividades/noticias-sen/3956-preocupacion-ante-la-decision-de-no-financiacion-por-el-sistema-nacional-de-salud-de-lecanemab-y-donanemab-para-la-enfermedad-de-alzheimer",
+    "https://www.rcpch.ac.uk/work-we-do/state-of-child-health/mental-health"
+  ],
+  "carousel": {
+    "noticia_seleccionada": "La forma en que nos describimos refleja la evolución durante la psicoterapia",
+    "slide1": {
+      "titular": "Cómo nos describimos cambia durante la psicoterapia",
+      "subtitulo": "Un estudio de la Revista de Psicoterapia analiza el relato del yo en terapia"
+    },
+    "slide2": {
+      "puntos": [
+        "La autocaracterización pide describirse en tercera persona, como un amigo cercano.",
+        "La técnica, de George Kelly, favorece el autodistanciamiento y la reflexión sobre la identidad.",
+        "Se aplicó a dos jóvenes con ansiedad y depresión en terapia basada en la identidad."
+      ]
+    },
+    "slide3": {
+      "puntos": [
+        "Ambas participantes cambiaron su forma de narrarse entre el inicio y el final del proceso.",
+        "Una de ellas mostró mayor integración de la identidad y menos malestar psicológico.",
+        "La otra reconoció más su sufrimiento, aunque algunos rasgos centrales permanecieron estables."
+      ]
+    },
+    "slide4": {
+      "puntos": [
+        "El estudio se basa en solo dos casos clínicos, una limitación reconocida por los autores.",
+        "La lectura con el modelo HEXACO es interpretativa, no una medida psicométrica estandarizada.",
+        "Los autores plantean repetir la técnica en distintos momentos de la terapia."
+      ]
+    },
+    "slide5": {
+      "mensaje_autoridad": "La autocaracterización puede constituir una herramienta útil para explorar el cambio identitario durante la psicoterapia.",
+      "fuente_apa": "Narváez-Villarreal, J. F., & Feixas, G. (2026). Revista de Psicoterapia, 37(134), 95-109.",
+      "cta": "síguenos en @IPP.Psicologia"
+    }
+  },
+  "copy_rrss": "Cómo nos describimos a nosotros mismos cambia a lo largo de la terapia, y ese cambio en el relato puede reflejar la evolución clínica. Te contamos qué encontró este estudio.",
+  "hashtags": [
+    "#Psicoterapia",
+    "#PsicologiaClinica",
+    "#SaludMental",
+    "#Identidad",
+    "#Neuropsicologia"
+  ]
+}
