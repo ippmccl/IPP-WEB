@@ -1,0 +1,123 @@
+{
+  "titulo": "El Gobierno aprueba el estatuto del artista, el Consejo General de la Psicología reclama subir a 16 años el acceso a redes sociales y Francia veta las plataformas a los menores de 15: claves del 2 de agosto de 2026",
+  "nota_editorial": "Las claves prácticas que se recogen a continuación forman parte del análisis editorial del Observatorio de Actualidad del IPP y no constituyen recomendación clínica individualizada.",
+  "resumen": "El Consejo de Ministros aprueba el nuevo estatuto del artista, que introduce un procedimiento único para el trabajo de menores de 16 años y obliga a contar con una persona coordinadora de intimidad en escenas de carácter íntimo o sexual. El Consejo General de la Psicología, a través de la Plataforma Control Z, reclama elevar a los 16 años la edad de acceso a redes sociales. Francia se convierte en el primer país de la Unión Europea en aprobar una ley que prohibirá el acceso a redes sociales a los menores de 15 años a partir de septiembre. Una revisión sistemática publicada en The Lancet Psychiatry no encuentra evidencia que respalde el uso de cannabinoides para la ansiedad, la depresión o el trastorno de estrés postraumático.",
+  "audiencia": "ambos",
+  "nacionales": [
+    {
+      "tipo": "NORMATIVA",
+      "titular": "El Consejo de Ministros aprueba el nuevo estatuto del artista con más garantías para los menores",
+      "cuerpo": "El Consejo de Ministros ha aprobado el Real Decreto que regula la relación laboral especial de las personas artistas en artes escénicas, audiovisuales y musicales. La norma incorpora, por primera vez, un procedimiento único para todo el territorio nacional para el trabajo artístico de los menores de 16 años, hace obligatoria la figura de la persona coordinadora de intimidad en escenas íntimas o sexuales y adapta los protocolos de prevención del acoso a la temporalidad característica del sector. El Gobierno se compromete además a constituir comisiones técnicas para desarrollar la formación y la recualificación profesional del sector.",
+      "fuente": "Consejo de Ministros, a través de nota informativa de La Moncloa y del Ministerio de Trabajo y Economía Social, recogida por Infocop",
+      "url": "https://www.infocop.es/el-gobierno-aprueba-el-nuevo-estatuto-del-artista-con-medidas-para-reforzar-la-prevencion-del-acoso-y-proteger-a-los-y-las-menores/"
+    },
+    {
+      "tipo": "SALUD PÚBLICA",
+      "titular": "El Consejo General de la Psicología reclama retrasar a los 16 años el acceso a las redes sociales",
+      "cuerpo": "José Antonio Luengo, vicepresidente primero del Consejo General de la Psicología de España y miembro del grupo gestor de la Plataforma Control Z, ha explicado en una entrevista concedida a Infocop las propuestas de esta iniciativa, en la que participan sociedades científicas de Psicología, Pediatría, Psiquiatría y Neurología. La Plataforma reclama elevar de los 14 a los 16 años la edad de referencia para el acceso a redes sociales, junto con medidas de desconexión digital, detección temprana del uso problemático de Internet y mayor transparencia de las empresas tecnológicas. La gestión de estas medidas dependerá, en su caso, del desarrollo del Proyecto de Ley Orgánica para la protección de las personas menores en los entornos digitales, actualmente en tramitación parlamentaria.",
+      "fuente": "Infocop (Consejo General de la Psicología de España)",
+      "url": "https://www.infocop.es/impacto-del-uso-inadecuado-de-las-tecnologias-en-la-salud-y-la-salud-mental-de-la-infancia-y-la-adolescencia-mirar-hacia-otro-lado-supone-una-irresponsabilidad-entrevista-a-jose-antonio-luengo/"
+    }
+  ],
+  "internacionales": [
+    {
+      "tipo": "NORMATIVA",
+      "titular": "Francia se convierte en el primer país de la UE en prohibir las redes sociales a menores de 15 años",
+      "cuerpo": "Según informa Infocop, la Asamblea Nacional francesa aprobó el pasado 21 de julio, por 279 votos a favor y 81 en contra, la Proposición de Ley que prohibirá el acceso a redes sociales a los menores de 15 años, impulsada por el presidente Emmanuel Macron. La prohibición de crear nuevas cuentas se aplicará desde el 1 de septiembre de 2026, y se extenderá a las cuentas ya existentes a partir del 1 de enero de 2027. El texto queda pendiente de su promulgación y publicación oficial, así como de una eventual revisión por el Consejo Constitucional francés. La Comisión Europea ha acogido favorablemente la medida y trabaja en una regulación común, mientras países como España, Grecia, Dinamarca, Eslovenia, Suecia y Austria valoran iniciativas similares.",
+      "fuente": "Infocop, citando a la Asamblea Nacional de Francia",
+      "url": "https://www.infocop.es/francia-aprueba-prohibir-el-acceso-a-las-redes-sociales-a-menores-de-15-anos-y-se-convierte-en-el-primer-pais-de-la-ue-en-adoptar-esta-medida/"
+    }
+  ],
+  "papers": [
+    {
+      "apa": "Wilson, J., Freeman, T. P., et al. (2026). The efficacy and safety of cannabinoids for the treatment of mental disorders and substance use disorders: a systematic review and meta-analysis. The Lancet Psychiatry, 13(4), 304.",
+      "doi": "10.1016/S2215-0366(26)00015-5",
+      "hallazgo": "La revisión sistemática, que analizó 54 ensayos clínicos aleatorizados con 2.477 participantes publicados entre 1980 y mayo de 2025, no encontró evidencia de que los cannabinoides sean eficaces para el tratamiento de la ansiedad, la depresión o el trastorno de estrés postraumático. Se observaron señales positivas limitadas, con evidencia de calidad generalmente baja, en el trastorno por consumo de cannabis, el síndrome de Tourette, el trastorno del espectro autista y el insomnio.",
+      "implicacion": "Los resultados sugieren que la evidencia disponible no respaldaría, por el momento, la prescripción rutinaria de cannabinoides para la ansiedad, la depresión o el TEPT, lo que puede orientar la valoración clínica de estas alternativas terapéuticas hacia intervenciones con mayor respaldo empírico."
+    }
+  ],
+  "herramientas": [
+    {
+      "nombre": "Herramientas de control parental y gestión del tiempo de pantalla",
+      "descripcion": "Aplicaciones y funciones nativas de los principales sistemas operativos móviles que permiten limitar el tiempo de uso, restringir contenidos y supervisar la actividad de menores en dispositivos conectados."
+    }
+  ],
+  "alertas": [
+    {
+      "estado": "APROBADO",
+      "titulo": "Nuevo estatuto del artista",
+      "descripcion": "El Consejo de Ministros ha aprobado el Real Decreto que regula la relación laboral especial de las personas artistas, con un procedimiento único para el trabajo artístico de menores de 16 años y la obligación de contar con una persona coordinadora de intimidad en escenas íntimas o sexuales."
+    },
+    {
+      "estado": "EN TRAMITACIÓN",
+      "titulo": "Prohibición de redes sociales a menores en Francia",
+      "descripcion": "La Asamblea Nacional francesa ha aprobado la ley que prohibirá el acceso a redes sociales a los menores de 15 años a partir del 1 de septiembre de 2026, aunque el texto está pendiente de su promulgación oficial y de una eventual revisión por el Consejo Constitucional."
+    },
+    {
+      "estado": "PROPUESTA",
+      "titulo": "Elevar a 16 años la edad de acceso a redes sociales en España",
+      "descripcion": "La Plataforma Control Z, de la que forma parte el Consejo General de la Psicología de España, reclama elevar de los 14 a los 16 años la edad de referencia para el acceso a redes sociales, una medida que no está aprobada y cuyo desarrollo dependería del Proyecto de Ley Orgánica para la protección de las personas menores en los entornos digitales, actualmente en tramitación parlamentaria."
+    }
+  ],
+  "prioridades": [
+    {
+      "titulo": "Abordar el uso de pantallas en la consulta con familias",
+      "descripcion": "A la luz del debate normativo europeo sobre la edad de acceso a redes sociales, puede ser útil explorar con las familias los hábitos digitales de niños, niñas y adolescentes como parte habitual de la valoración clínica, especialmente en casos de sintomatología ansiosa o del estado de ánimo."
+    },
+    {
+      "titulo": "Actualizar el criterio sobre cannabinoides en salud mental",
+      "descripcion": "Dada la ausencia de evidencia sólida encontrada en la revisión de The Lancet Psychiatry, puede ser relevante incorporar esta información al orientar a pacientes que consultan sobre el uso de cannabinoides para la ansiedad, la depresión o el TEPT, sin sustituir la valoración médica correspondiente."
+    },
+    {
+      "titulo": "Revisar protocolos si se trabaja con menores en el ámbito artístico",
+      "descripcion": "Para quienes intervienen con población infantil y adolescente vinculada a actividades artísticas, puede ser oportuno revisar las nuevas garantías del estatuto del artista, en particular las relativas a la prevención del acoso y la protección de menores, de cara a coordinarse con otros agentes implicados."
+    }
+  ],
+  "fuentes_verificadas": [
+    "https://www.infocop.es/el-gobierno-aprueba-el-nuevo-estatuto-del-artista-con-medidas-para-reforzar-la-prevencion-del-acoso-y-proteger-a-los-y-las-menores/",
+    "https://www.infocop.es/impacto-del-uso-inadecuado-de-las-tecnologias-en-la-salud-y-la-salud-mental-de-la-infancia-y-la-adolescencia-mirar-hacia-otro-lado-supone-una-irresponsabilidad-entrevista-a-jose-antonio-luengo/",
+    "https://www.infocop.es/francia-aprueba-prohibir-el-acceso-a-las-redes-sociales-a-menores-de-15-anos-y-se-convierte-en-el-primer-pais-de-la-ue-en-adoptar-esta-medida/",
+    "https://www.thelancet.com/journals/lanpsy/article/PIIS2215-0366(26)00015-5/fulltext"
+  ],
+  "carousel": {
+    "noticia_seleccionada": "Francia prohíbe el acceso a redes sociales a menores de 15 años",
+    "slide1": {
+      "titular": "Francia prohíbe las redes sociales a menores de 15 años",
+      "subtitulo": "La Asamblea Nacional aprueba la ley por 279 votos a favor y 81 en contra"
+    },
+    "slide2": {
+      "puntos": [
+        "La prohibición de nuevas cuentas empieza el 1 de septiembre de 2026",
+        "Desde enero de 2027 alcanzará también a las cuentas ya existentes",
+        "Las plataformas deberán verificar la edad de las personas usuarias"
+      ]
+    },
+    "slide3": {
+      "puntos": [
+        "España, Grecia, Dinamarca, Eslovenia, Suecia y Austria valoran medidas similares",
+        "La Comisión Europea trabaja en una regulación común para menores",
+        "Reino Unido ya restringe el acceso de menores de 16 años"
+      ]
+    },
+    "slide4": {
+      "puntos": [
+        "La ley está pendiente de promulgación y de revisión constitucional en Francia",
+        "El Consejo General de la Psicología reclama subir a 16 años la edad de acceso en España",
+        "La Plataforma Control Z pide reforzar la prevención del uso problemático de Internet"
+      ]
+    },
+    "slide5": {
+      "mensaje_autoridad": "Mirar hacia otro lado supone una irresponsabilidad, según José Antonio Luengo, vicepresidente primero del Consejo General de la Psicología de España",
+      "fuente_apa": "Villamarín, S. (2026, 27 de julio). Impacto del uso inadecuado de las redes sociales y las tecnologías en la salud mental infanto-juvenil: entrevista a J.A. Luengo. Infocop.",
+      "cta": "síguenos en @IPP.Psicologia"
+    }
+  },
+  "copy_rrss": "Francia ya no deja crear cuentas en redes sociales a menores de 15 años. El debate sobre la edad mínima de acceso digital también avanza en España.",
+  "hashtags": [
+    "#SaludMental",
+    "#Psicología",
+    "#RedesSociales",
+    "#InfanciaYAdolescencia",
+    "#ControlZ"
+  ]
+}
