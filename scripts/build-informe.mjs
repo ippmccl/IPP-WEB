@@ -10,14 +10,46 @@ const DATE = process.argv[2] || new Date().toISOString().slice(0, 10);
 const ESTADOS_VALIDOS = ['APROBADO', 'EN TRAMITACIÓN', 'EN DESARROLLO', 'PROPUESTA'];
 
 // Normalización automática RAE: solo primera palabra y acrónimos en mayúscula
+// IMPORTANTE: si el título ya viene en formato RAE correcto (con nombres propios
+// en mayúscula, ej. "Francia", "Consejo General de la Psicología"), NO debe tocarse.
+// Solo se fuerza la normalización cuando el título llega en Title Case (mayoría de
+// palabras de contenido capitalizadas), síntoma de que no se aplicó la norma de estilo.
+const STOPWORDS_RAE = new Set([
+  'el','la','los','las','de','del','y','e','o','u','en','a','con','para',
+  'por','un','una','unos','unas','al','que','se','su','sus','sin','sobre',
+  'entre','desde','hasta','como','más','menos'
+]);
+
+function esAcronimoRAE(word) {
+  return /^[A-ZÁÉÍÓÚÜÑ]{2,}[.:,-]?$/.test(word) || /^([A-Z]\.){2,}$/.test(word);
+}
+
 function normalizarTituloRAE(titulo) {
   if (!titulo) return titulo;
-  return titulo.split(' ').map((word, i) => {
+  const words = titulo.split(' ');
+
+  // Detectar si el título viene en Title Case: proporción de palabras de
+  // contenido (no stopwords, no acrónimos, no la primera) que empiezan en mayúscula.
+  let candidatas = 0;
+  let capitalizadas = 0;
+  words.forEach((word, i) => {
+    if (i === 0 || esAcronimoRAE(word)) return;
+    const limpio = word.replace(/[.,:;!?()«»"]/g, '').toLowerCase();
+    if (STOPWORDS_RAE.has(limpio) || limpio === '') return;
+    candidatas++;
+    if (/^[A-ZÁÉÍÓÚÜÑ]/.test(word)) capitalizadas++;
+  });
+  const ratioMayusculas = candidatas ? capitalizadas / candidatas : 0;
+
+  // Si menos del 40% de las palabras de contenido están en mayúscula, el título
+  // ya sigue la norma RAE (solo primera palabra y nombres propios) y se respeta tal cual.
+  if (ratioMayusculas < 0.4) return titulo;
+
+  // En caso contrario, se asume Title Case y se normaliza a formato RAE,
+  // preservando acrónimos y siglas.
+  return words.map((word, i) => {
     if (i === 0) return word.charAt(0).toUpperCase() + word.slice(1);
-    // Conservar acrónimos (todo mayúsculas, ≥2 letras): ONU, COP, NICE, PIR, TCC, BOE…
-    if (/^[A-ZÁÉÍÓÚÜÑ]{2,}[.:,-]?$/.test(word)) return word;
-    // Conservar siglas con punto (A.P.A., D.S.M.)
-    if (/^([A-Z]\.){2,}$/.test(word)) return word;
+    if (esAcronimoRAE(word)) return word;
     return word.charAt(0).toLowerCase() + word.slice(1);
   }).join(' ');
 }
