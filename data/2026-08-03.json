@@ -1,0 +1,114 @@
+{
+  "titulo": "Los psicólogos alertan del uso creciente de chatbots en terapia, la UE exige transparencia a la IA conversacional y un estudio confirma el potencial restaurador del Camino de Santiago: claves del 3 de agosto de 2026",
+  "nota_editorial": "Las claves prácticas que se recogen a continuación forman parte del análisis editorial del Observatorio de Actualidad del IPP y no constituyen recomendación clínica individualizada.",
+  "resumen": "La American Psychological Association confirma que tres de cada cuatro psicólogos y psicólogas estadounidenses tienen pacientes que ya hablan de inteligencia artificial en terapia, con un 39% que reconoce haberla usado para autodiagnosticarse. La Comisión Europea, por su parte, empieza a exigir desde el 2 de agosto que los chatbots informen a las personas usuarias de que interactúan con una máquina. Un estudio de la Universidad de Santiago de Compostela y la Universidad del País Vasco confirma el elevado potencial restaurador que peregrinos y peregrinas atribuyen al Camino de Santiago. Investigadores de la University College London documentan cómo la trata de personas fractura la confianza interpersonal y qué papel puede jugar la atención informada por el trauma en su reconstrucción. Un ensayo de seguimiento a dos años respalda el beneficio duradero de la estimulación del nervio vago en depresión gravemente resistente al tratamiento.",
+  "audiencia": "ambos",
+  "nacionales": [
+    {
+      "tipo": "INVESTIGACIÓN",
+      "titular": "Un estudio confirma el potencial restaurador psicológico del Camino de Santiago",
+      "cuerpo": "Una investigación enmarcada en la Psicología Ambiental, desarrollada por Mar Durán y Eulogio Real (Universidad de Santiago de Compostela) y César San Juan (Universidad del País Vasco), ha encuestado a 1.080 peregrinos y peregrinas y encuentra una puntuación media de 4,31 sobre 5 en potencial restaurador. El análisis muestra que las actitudes positivas hacia el Camino predicen un mayor potencial restaurador, relación que está parcialmente mediada por la norma moral asociada a realizarlo y por el miedo al delito: cuanto menor es la percepción de inseguridad, mayor es el potencial restaurador percibido. Los autores proponen entender el Camino como un paisaje terapéutico en el que se combinan el entorno natural, el significado cultural y espiritual y la percepción de seguridad.",
+      "fuente": "Revista Iberoamericana de Psicología y Salud (RIPS), vía Infocop",
+      "url": "https://www.infocop.es/las-actitudes-positivas-los-valores-asociados-y-la-percepcion-de-seguridad-factores-que-explican-el-potencial-restaurador-que-los-peregrinos-atribuyen-al-camino-de-santiago/"
+    }
+  ],
+  "internacionales": [
+    {
+      "tipo": "INVESTIGACIÓN",
+      "titular": "Un estudio detalla cómo se rompe y se reconstruye la confianza en las personas supervivientes de trata",
+      "cuerpo": "Coincidiendo con el Día Mundial contra la Trata, un estudio cualitativo de investigadores de la University College London y la Helen Bamber Foundation, basado en entrevistas a personas supervivientes, muestra que la confianza interpersonal se ve afectada antes, durante y después de la situación de explotación, y no únicamente mientras esta se produce. Los autores señalan que una atención profesional informada por el trauma, junto con relaciones seguras y consistentes, puede desempeñar un papel clave en la reconstrucción de esa confianza. El estudio advierte también de que experiencias de detención por motivos migratorios o un trato percibido como criminalizador por parte de las autoridades pueden reforzar la desconfianza institucional y dificultar la recuperación.",
+      "fuente": "European Journal of Psychotraumatology, vía Infocop",
+      "url": "https://www.infocop.es/reconstruir-la-confianza-un-elemento-clave-para-la-recuperacion-de-las-personas-supervivientes-de-trata/"
+    },
+    {
+      "tipo": "CLÍNICA",
+      "titular": "La mayoría de psicólogos estadounidenses declara que sus pacientes ya usan inteligencia artificial en salud mental",
+      "cuerpo": "Según recoge el blog especializado Health Populi a partir de la encuesta 2026 Chatbots and Mental Health Survey de la American Psychological Association (APA), realizada entre el 9 y el 26 de abril de 2026 a 1.242 psicólogos y psicólogas colegiados en Estados Unidos, el 77% afirma que sus pacientes han hablado de su uso de IA y un 39% señala que la han empleado para intentar autodiagnosticarse un problema de salud mental. Un 13% de los profesionales identifica pacientes que han desarrollado con un chatbot una relación de tipo íntimo. El 97% de los encuestados considera que estas herramientas podrían reforzar sin querer conductas o creencias disfuncionales, y el 85% no cree que vayan a sustituir nunca a un terapeuta humano, aunque un 40% ve un papel útil de la IA cuando no hay un profesional disponible.",
+      "fuente": "Health Populi, sobre datos de la APA (2026 Chatbots and Mental Health Survey)",
+      "url": "http://www.healthpopuli.com/2026/06/17/most-psychologists-say-their-patients-use-ai-for-mental-health-support-recommendations-on-chatbotsand-ai-from-the-apa/"
+    }
+  ],
+  "papers": [
+    {
+      "apa": "Conway, C. R., Rush, A. J., Sackeim, H. A., Aaronson, S. T., Bunker, M. T., Gordon, C., George, M. S., et al. (2026). Durability of the benefit of vagus nerve stimulation in markedly treatment-resistant major depression: a RECOVER trial report. International Journal of Neuropsychopharmacology, 29(1), pyaf080.",
+      "doi": "10.1093/ijnp/pyaf080",
+      "hallazgo": "En una muestra de 214 personas adultas con depresión mayor moderada-grave y al menos 4 ensayos antidepresivos fallidos en el episodio actual, los beneficios en síntomas, funcionamiento diario y calidad de vida obtenidos tras 12 meses de estimulación del nervio vago adyuvante se mantuvieron en aproximadamente el 80% de quienes continuaron el tratamiento hasta los 24 meses, y una parte de quienes no habían mostrado una mejoría significativa al año la alcanzó durante el segundo año de seguimiento.",
+      "implicacion": "Los resultados sugieren que la estimulación del nervio vago puede aportar un beneficio duradero incluso en los casos de depresión más resistentes al tratamiento farmacológico y psicológico convencional, si bien se trata de una población muy específica y de un dispositivo implantable sujeto a indicación médica especializada."
+    }
+  ],
+  "herramientas": [
+    {
+      "nombre": "Plataformas de inteligencia artificial conversacional orientadas al bienestar emocional",
+      "descripcion": "Aplicaciones y chatbots de uso general que un porcentaje creciente de pacientes utiliza para hablar de su malestar emocional, buscar apoyo o incluso autodiagnosticarse, sin que ello sustituya la evaluación ni el criterio de un profesional de la salud mental."
+    }
+  ],
+  "alertas": [
+    {
+      "estado": "APROBADO",
+      "titulo": "La Comisión Europea empieza a exigir transparencia sobre el uso de IA conversacional",
+      "descripcion": "Desde el 2 de agosto de 2026, el Reglamento europeo de Inteligencia Artificial obliga a los chatbots y otros sistemas de IA interactiva a informar a las personas usuarias de que están interactuando con una máquina y no con un ser humano, según ha anunciado la Comisión Europea. La norma también exige el etiquetado de contenidos generados o alterados por IA, incluidos los deepfakes."
+    }
+  ],
+  "prioridades": [
+    {
+      "titulo": "Explorar cómo abordar el uso de IA por parte de los pacientes en consulta",
+      "descripcion": "A la luz de los datos de la encuesta de la APA, puede ser útil explorar cómo preguntar de forma abierta si el o la paciente utiliza chatbots u otras herramientas de IA para gestionar su malestar, sin emitir juicios y valorando su función real en cada caso concreto."
+    },
+    {
+      "titulo": "Puede ser relevante revisar la información sobre IA que se ofrece a los pacientes",
+      "descripcion": "Con la entrada en vigor de las nuevas obligaciones europeas de transparencia, puede ser oportuno revisar qué información reciben los y las pacientes sobre las herramientas digitales o de IA que se les puedan recomendar como complemento del tratamiento, dejando claro en todo momento que no sustituyen la atención profesional."
+    },
+    {
+      "titulo": "Valorar el papel de la naturaleza y el movimiento en algunos procesos terapéuticos",
+      "descripcion": "Los hallazgos sobre el potencial restaurador de experiencias como el Camino de Santiago pueden ser un punto de partida para explorar, cuando resulte pertinente, el papel de las actividades en la naturaleza o el ejercicio físico como recurso complementario en algunos procesos terapéuticos."
+    }
+  ],
+  "fuentes_verificadas": [
+    "https://www.infocop.es/las-actitudes-positivas-los-valores-asociados-y-la-percepcion-de-seguridad-factores-que-explican-el-potencial-restaurador-que-los-peregrinos-atribuyen-al-camino-de-santiago/",
+    "https://www.infocop.es/reconstruir-la-confianza-un-elemento-clave-para-la-recuperacion-de-las-personas-supervivientes-de-trata/",
+    "https://academic.oup.com/ijnp/article/29/1/pyaf080/8423597",
+    "http://www.healthpopuli.com/2026/06/17/most-psychologists-say-their-patients-use-ai-for-mental-health-support-recommendations-on-chatbotsand-ai-from-the-apa/",
+    "https://digital-strategy.ec.europa.eu/en/news/commission-starts-enforcing-ai-act-rules-and-new-transparency-requirements-2-august"
+  ],
+  "carousel": {
+    "noticia_seleccionada": "La mayoría de psicólogos estadounidenses declara que sus pacientes ya usan inteligencia artificial en salud mental",
+    "slide1": {
+      "titular": "Los pacientes ya hablan de IA en la consulta",
+      "subtitulo": "Lo que revela la última encuesta de la APA"
+    },
+    "slide2": {
+      "puntos": [
+        "77% de psicólogos dice que sus pacientes ya han hablado de IA en terapia",
+        "39% reconoce haber usado IA para intentar autodiagnosticarse un problema",
+        "13% ha desarrollado con un chatbot una relación de tipo íntimo"
+      ]
+    },
+    "slide3": {
+      "puntos": [
+        "97% cree que los chatbots pueden reforzar creencias o conductas dañinas",
+        "94% duda de que la IA actual trate los problemas con suficiente matiz",
+        "85% no cree que la IA vaya a sustituir nunca a un terapeuta humano"
+      ]
+    },
+    "slide4": {
+      "puntos": [
+        "Desde el 2 de agosto, la UE exige que los chatbots se identifiquen como IA",
+        "40% de psicólogos ve útil la IA cuando no hay un profesional disponible",
+        "La clave sigue siendo mantener siempre a un profesional en el proceso"
+      ]
+    },
+    "slide5": {
+      "mensaje_autoridad": "La inteligencia artificial puede acompañar, pero no sustituye el criterio clínico de un profesional de la salud mental.",
+      "fuente_apa": "American Psychological Association. (2026). 2026 Chatbots and Mental Health Survey.",
+      "cta": "síguenos en @IPP.Psicologia"
+    }
+  },
+  "copy_rrss": "Tres de cada cuatro psicólogos ya tienen pacientes que hablan de IA en consulta. Te contamos qué dice la última encuesta de la APA y qué cambia con la nueva normativa europea sobre chatbots.",
+  "hashtags": [
+    "#PsicologiaClinica",
+    "#SaludMental",
+    "#InteligenciaArtificial",
+    "#CaminoDeSantiago",
+    "#ObservatorioIPP"
+  ]
+}
