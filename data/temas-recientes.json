@@ -1,5 +1,17 @@
 [
   {
+    "fecha": "2026-08-04",
+    "titulo": "El Ministerio del Interior convoca 56 plazas de Psicología, Sanidad adjudica 279 plazas PIR y la OMS publica una guía de salud mental para todos los sectores de gobierno: claves del 4 de agosto de 2026",
+    "keywords": [
+      "ministerio",
+      "interior",
+      "convoca",
+      "plazas",
+      "psicología",
+      "sanidad"
+    ]
+  },
+  {
     "fecha": "2026-08-03",
     "titulo": "Los psicólogos alertan del uso creciente de chatbots en terapia, la UE exige transparencia a la IA conversacional y un estudio confirma el potencial restaurador del Camino de Santiago: claves del 3 de agosto de 2026",
     "keywords": [
@@ -357,18 +369,6 @@
       "publica",
       "gobiernos",
       "avances"
-    ]
-  },
-  {
-    "fecha": "2026-07-04",
-    "titulo": "Salud mental en España, apoyo a personas con trastorno mental en centros penitenciarios y bienestar psicológico en la función pública: claves del 4 de julio de 2026",
-    "keywords": [
-      "salud",
-      "mental",
-      "españa",
-      "apoyo",
-      "personas",
-      "trastorno"
     ]
   }
 ]
