@@ -1,0 +1,118 @@
+{
+  "titulo": "El Ministerio del Interior convoca 56 plazas de Psicología, Sanidad adjudica 279 plazas PIR y la OMS publica una guía de salud mental para todos los sectores de gobierno: claves del 4 de agosto de 2026",
+  "nota_editorial": "Las claves prácticas que se recogen a continuación forman parte del análisis editorial del Observatorio de Actualidad del IPP y no constituyen recomendación clínica individualizada.",
+  "resumen": "El Ministerio del Interior convoca 56 plazas de Psicología en el grupo profesional M3, con un plazo de solicitud de 20 días hábiles desde su publicación en el BOE el 8 de julio de 2026. El Ministerio de Sanidad completa, por su parte, la adjudicación de 279 plazas PIR de Psicología Clínica para la convocatoria 2025/2026, cinco más que en la edición anterior. La Organización Mundial de la Salud publica una guía para incorporar la salud mental en las políticas de todos los sectores de gobierno, más allá del sanitario. Un metaanálisis publicado en Nature Human Behaviour, con datos de 138.446 investigadores noveles, encuentra que cerca de 3 de cada 10 presenta síntomas depresivos o de ansiedad elevados.",
+  "audiencia": "ambos",
+  "nacionales": [
+    {
+      "tipo": "NORMATIVA",
+      "titular": "El Ministerio del Interior convoca 56 plazas de Psicología en el grupo M3",
+      "cuerpo": "El BOE ha publicado la resolución de 3 de julio de 2026 de la Subsecretaría del Ministerio del Interior por la que se convocan procesos selectivos para personal laboral fijo en distintos grupos profesionales. Dentro del grupo M3, la especialidad de Psicología concentra 56 plazas: 21 de turno libre (18 de acceso general y 3 de reserva para discapacidad) y 35 de promoción interna (32 de acceso general y 3 de reserva para discapacidad). El plazo de presentación de solicitudes es de 20 días hábiles a contar desde el día siguiente a la publicación de la convocatoria en el BOE, el 8 de julio de 2026, y debe tramitarse obligatoriamente por vía electrónica.",
+      "fuente": "BOE (Boletín Oficial del Estado) - Ministerio del Interior",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14786"
+    },
+    {
+      "tipo": "CLÍNICA",
+      "titular": "Sanidad adjudica 279 plazas de Psicología Clínica de la convocatoria PIR 2025/2026",
+      "cuerpo": "El Ministerio de Sanidad ha concluido el proceso de adjudicación de plazas de Formación Sanitaria Especializada de la convocatoria 2025/2026, que incorporará a 12.362 profesionales sanitarios en formación al Sistema Nacional de Salud a partir del 4 y 5 de junio de 2026. En la especialidad de Psicología Clínica se han adjudicado 279 plazas, cinco más que en la convocatoria anterior (274) y muy por encima de las 231 adjudicadas en 2022/2023. Infocop recuerda que, según el último Informe Anual del Sistema Nacional de Salud 2024, solo hay 548 psicólogos trabajando en el primer nivel asistencial, y que desde la profesión se sigue reclamando un mayor aumento de plazas PIR.",
+      "fuente": "Infocop (Consejo General de la Psicología), con datos del Ministerio de Sanidad",
+      "url": "https://www.infocop.es/sanidad-adjudica-las-279-plazas-pir-de-la-convocatoria-2025-2026/"
+    }
+  ],
+  "internacionales": [
+    {
+      "tipo": "SALUD PÚBLICA",
+      "titular": "La OMS publica una guía para incorporar la salud mental en las políticas de todos los sectores de gobierno",
+      "cuerpo": "La Organización Mundial de la Salud ha publicado una guía sobre acciones políticas y estratégicas para proteger y promover la salud mental desde todos los sectores del gobierno, no solo desde el sanitario, en un enfoque que denomina de salud mental en todas las políticas. El documento ofrece orientaciones específicas para diez sectores clave -cultura y deporte, defensa, educación, empleo, medio ambiente, salud, interior, justicia, protección social, y desarrollo urbano y rural- e incluye una hoja de ruta de ocho pasos prácticos para que los gobiernos traduzcan el compromiso en políticas concretas.",
+      "fuente": "World Health Organization (OMS)",
+      "url": "https://www.who.int/news/item/24-11-2025-who-launches-new-guidance-to-promote-mental-health-across-all-government-sectors"
+    }
+  ],
+  "papers": [
+    {
+      "apa": "Nater, U. M., et al. (2026). Prevalence and severity of mental health problems in early-career researchers: a systematic review and meta-analysis. Nature Human Behaviour. Publicado en línea el 29 de junio de 2026.",
+      "doi": "10.1038/s41562-026-02505-5",
+      "hallazgo": "Un metaanálisis multinivel preregistrado (PROSPERO: CRD42024596813), que analizó 148 estudios con 138.446 participantes, encuentra que el 29,9% de las personas investigadoras en fase inicial de carrera presenta un malestar psicológico elevado. Concretamente, un 29,8% presenta síntomas depresivos elevados, un 29,7% síntomas de ansiedad, un 28,3% síntomas de trastornos de la conducta alimentaria, un 22,9% consumo problemático de alcohol, un 18,6% autolesión no suicida y un 18,8% ideación suicida.",
+      "implicacion": "Los autores señalan que la prevalencia de síntomas depresivos es entre dos y tres veces mayor, y la de síntomas de ansiedad entre tres y cinco veces mayor, que en muestras poblacionales de edad equivalente, lo que sugiere la necesidad de reformas estructurales y de implementar servicios de apoyo basados en evidencia para este colectivo."
+    }
+  ],
+  "herramientas": [
+    {
+      "nombre": "Plataformas de evaluación y estimulación cognitiva digital",
+      "descripcion": "Programas informáticos que permiten evaluar el estado cognitivo de la persona usuaria y diseñar ejercicios de estimulación adaptados a su perfil, con seguimiento de la evolución a lo largo del tratamiento. Existen varias opciones validadas para uso clínico disponibles en el mercado español."
+    }
+  ],
+  "alertas": [
+    {
+      "estado": "APROBADO",
+      "titulo": "Convocatoria de 56 plazas de Psicología en el Ministerio del Interior (grupo M3)",
+      "descripcion": "El BOE ha publicado la convocatoria oficial (BOE-A-2026-14786) el 8 de julio de 2026; el plazo de solicitud es de 20 días hábiles desde esa fecha, por lo que se encuentra próximo a su cierre."
+    },
+    {
+      "estado": "APROBADO",
+      "titulo": "Adjudicación de 279 plazas PIR de Psicología Clínica para la convocatoria 2025/2026",
+      "descripcion": "El Ministerio de Sanidad ha completado la adjudicación de plazas, con incorporación de las personas residentes al Sistema Nacional de Salud a partir del 4 de junio de 2026."
+    }
+  ],
+  "prioridades": [
+    {
+      "titulo": "Seguimiento de convocatorias públicas de Psicología",
+      "descripcion": "Puede ser útil revisar los plazos de las convocatorias públicas de Psicología en curso, como la de 56 plazas del Ministerio del Interior, y valorar la conveniencia de reunir con antelación la documentación necesaria para la inscripción electrónica."
+    },
+    {
+      "titulo": "Atención a colectivos con alta prevalencia de malestar psicológico",
+      "descripcion": "Puede ser relevante incorporar en la práctica clínica una mirada atenta a colectivos con alta prevalencia de malestar psicológico documentada en la literatura reciente, como el personal investigador en fase inicial de carrera."
+    },
+    {
+      "titulo": "Mirada multisectorial de la salud mental",
+      "descripcion": "Puede ser oportuno explorar cómo la nueva guía de la OMS sobre salud mental en distintos sectores de gobierno podría inspirar alianzas o líneas de trabajo con otros ámbitos -educativo, social, comunitario- desde la consulta privada o el futuro centro multidisciplinar."
+    }
+  ],
+  "fuentes_verificadas": [
+    "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14786",
+    "https://www.infocop.es/sanidad-adjudica-las-279-plazas-pir-de-la-convocatoria-2025-2026/",
+    "https://www.who.int/news/item/24-11-2025-who-launches-new-guidance-to-promote-mental-health-across-all-government-sectors",
+    "https://www.nature.com/articles/s41562-026-02505-5"
+  ],
+  "carousel": {
+    "noticia_seleccionada": "El Ministerio del Interior convoca 56 plazas de Psicología en el grupo M3",
+    "slide1": {
+      "titular": "56 plazas de Psicología en el Ministerio del Interior",
+      "subtitulo": "El plazo de solicitud está próximo a cerrarse"
+    },
+    "slide2": {
+      "puntos": [
+        "21 plazas de turno libre y 35 de promoción interna en el grupo M3.",
+        "Plazo de solicitud: 20 días hábiles desde el 8 de julio de 2026.",
+        "La solicitud es obligatoria por vía electrónica en el punto de acceso general."
+      ]
+    },
+    "slide3": {
+      "puntos": [
+        "Sanidad ha adjudicado también 279 plazas PIR de Psicología Clínica en 2026.",
+        "Son 5 plazas más que en la convocatoria anterior (274).",
+        "Solo hay 548 psicólogos en el primer nivel asistencial, según el SNS."
+      ]
+    },
+    "slide4": {
+      "puntos": [
+        "La OMS pide incorporar la salud mental en las políticas de 10 sectores de gobierno.",
+        "Un metaanálisis en Nature Human Behaviour halla malestar elevado en investigadores noveles.",
+        "El 29,9% de este colectivo presenta síntomas psicológicos clínicamente relevantes."
+      ]
+    },
+    "slide5": {
+      "mensaje_autoridad": "La guía de la OMS marca, por primera vez, lo que cada sector de gobierno puede hacer, individual y conjuntamente, para promover y proteger la salud mental de toda la población.",
+      "fuente_apa": "World Health Organization. (2025). WHO launches new guidance to promote mental health across all government sectors. WHO News.",
+      "cta": "síguenos en @IPP.Psicologia"
+    }
+  },
+  "copy_rrss": "56 plazas de Psicología en el Ministerio del Interior, 279 adjudicadas ya en el PIR y la OMS pide llevar la salud mental a todas las políticas de gobierno. Las claves del día, en el Observatorio IPP.",
+  "hashtags": [
+    "#Psicologia",
+    "#SaludMental",
+    "#EmpleoPublico",
+    "#PIR",
+    "#Neuropsicologia"
+  ]
+}
