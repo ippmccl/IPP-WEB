@@ -1,0 +1,113 @@
+{
+  "titulo": "El COP Madrid publica los avances de «Psicología Educativa», un estudio vincula el uso problemático de redes sociales con más síntomas de TDAH y la APA abre su convención anual centrada en la inteligencia artificial: claves del 5 de agosto de 2026",
+  "nota_editorial": "Las claves prácticas que se recogen a continuación forman parte del análisis editorial del Observatorio de Actualidad del IPP y no constituyen recomendación clínica individualizada.",
+  "resumen": "El Colegio Oficial de la Psicología de Madrid publica el volumen 32 de la revista «Psicología Educativa», con cinco artículos sobre neurotecnología en el aula, mindfulness en el profesorado, competencias socioemocionales y autorregulación del aprendizaje. Una investigación con más de 11.000 adolescentes estadounidenses del estudio ABCD encuentra que el uso problemático de las redes sociales se asocia con un aumento posterior de los síntomas de TDAH, de forma significativa solo en varones. La Asociación Americana de Psicología inaugura este jueves su convención anual en Washington D.C., con una sesión dedicada al papel de la inteligencia artificial en la salud mental. El BOE confirma el nuevo calendario de VeriFactu: los profesionales autónomos deberán adaptar sus sistemas de facturación antes del 1 de julio de 2027.",
+  "audiencia": "ambos",
+  "nacionales": [
+    {
+      "tipo": "INVESTIGACIÓN",
+      "titular": "El volumen 32 de «Psicología Educativa» aborda neurotecnología en el aula, mindfulness docente y autorregulación del aprendizaje",
+      "cuerpo": "El Colegio Oficial de la Psicología de Madrid, junto con su Fundación, ha publicado cinco nuevos artículos en el volumen 32 de la revista «Psicología Educativa». Los trabajos abordan la percepción del profesorado sobre la integración de la neurotecnología en el aula, la relación entre las competencias socioemocionales y el bienestar en la educación superior, los efectos de un programa de mindfulness sobre el bienestar y la inteligencia emocional en docentes en formación, el vínculo entre la participación parental y la orientación hacia las metas del alumnado, y el desarrollo y validación de una escala de autorregulación del aprendizaje integrada en una aplicación para móviles, con más de 2.000 estudiantes universitarios participantes. La revista, que este año ha adoptado un modelo de publicación continua, está disponible para lectura y descarga gratuita en la web del Colegio.",
+      "fuente": "Colegio Oficial de la Psicología de Madrid",
+      "url": "https://web.copmadrid.org/actualidad-y-comunicacion/noticias-y-eventos/noticias/estrategias-de-aprendizaje-personalizadas-participacion-parental-mindfulness-en-profesores-competenc-3349"
+    }
+  ],
+  "internacionales": [
+    {
+      "tipo": "INVESTIGACIÓN",
+      "titular": "Una investigación con más de 11.000 adolescentes vincula el uso problemático de redes sociales con más síntomas de TDAH al año siguiente",
+      "cuerpo": "Según informa Influcare (ConSalud), una investigación realizada con datos del estudio longitudinal Adolescent Brain Cognitive Development, que ha seguido a 11.286 adolescentes estadounidenses (52,4% varones, edad media de 12,1 años al inicio) a lo largo de cinco evaluaciones anuales, encuentra que los incrementos en el uso problemático de las redes sociales se asocian con un aumento de los síntomas de TDAH declarados por los padres al año siguiente, especialmente durante la adolescencia media. La asociación fue significativa únicamente en los varones. Los propios investigadores subrayan que los resultados reflejan una asociación a nivel poblacional, con un tamaño del efecto relativamente pequeño, y no demuestran una relación de causa y efecto.",
+      "fuente": "Influcare (ConSalud)",
+      "url": "https://www.consalud.es/influcare/redes/afectan-las-redes-sociales-al-tdah-una-investigacion-relaciona-el-uso-enganchado-con-mas-sintomas-al-ano-siguiente.html"
+    },
+    {
+      "tipo": "SALUD PÚBLICA",
+      "titular": "La Asociación Americana de Psicología dedica una sesión de su convención anual al papel de la inteligencia artificial en la salud mental",
+      "cuerpo": "La American Psychological Association (APA) celebra su convención anual del 6 al 8 de agosto en Washington D.C., de forma presencial y virtual. Entre la programación destaca la sesión «CEO Spotlight: The Human Side of AI», en la que el director ejecutivo de la APA, Arthur C. Evans Jr., conversará con responsables de YouTube Health, OpenAI y Microsoft sobre las preguntas que la psicología plantea al desarrollo de la inteligencia artificial. La programación presidencial de este año incluye también sesiones sobre salud mental juvenil y bienestar en el entorno laboral.",
+      "fuente": "American Psychological Association (APA)",
+      "url": "https://convention.apa.org/"
+    }
+  ],
+  "papers": [
+    {
+      "apa": "Zhang, Y., Zhao, D., Hancock, J. T., Kraut, R., & Yang, D. (2026). Interaction with AI companions and psychological well-being. Nature Human Behaviour. https://doi.org/10.1038/s41562-026-02516-2",
+      "doi": "10.1038/s41562-026-02516-2",
+      "hallazgo": "El estudio, con datos autoinformados de 1.131 personas adultas usuarias de Character.AI en Estados Unidos y el análisis de 4.664 sesiones de chat (464.687 mensajes) de 237 participantes, encuentra que tener una red social más reducida se asocia con un mayor uso de los chatbots como fuente principal de compañía, lo que a su vez se asocia con un menor bienestar (β = −0,48). Esta asociación es más intensa cuando la interacción con el chatbot es frecuente y muy autorrevelada.",
+      "implicacion": "Los autores sugieren que la relación entre la compañía de la inteligencia artificial y el bienestar no es uniforme, sino que depende de los patrones de uso y del entorno social offline de cada persona, lo que podría orientar la valoración clínica del uso de chatbots en pacientes con redes sociales reducidas."
+    }
+  ],
+  "herramientas": [
+    {
+      "nombre": "Escalas de autorregulación del aprendizaje integradas en aplicaciones móviles",
+      "descripcion": "Instrumentos de autoevaluación, validados en muestras universitarias, que permiten a la persona usuaria valorar sus hábitos de estudio en dimensiones cognitiva, metacognitiva, motivacional, emocional y social, y recibir pautas personalizadas para mejorarlos."
+    }
+  ],
+  "alertas": [
+    {
+      "estado": "APROBADO",
+      "titulo": "Nuevo aplazamiento del sistema VeriFactu: los profesionales autónomos tendrán hasta julio de 2027",
+      "descripcion": "El Real Decreto-ley 15/2025, de 2 de diciembre, publicado en el BOE y convalidado por el Congreso de los Diputados, modifica el Real Decreto 1007/2023 y amplía el plazo para adaptar los sistemas informáticos de facturación (VeriFactu). Los obligados tributarios sujetos al Impuesto sobre Sociedades deberán tenerlos operativos antes del 1 de enero de 2027, y el resto de obligados tributarios -entre ellos los profesionales autónomos que facturan a sus pacientes- antes del 1 de julio de 2027."
+    }
+  ],
+  "prioridades": [
+    {
+      "titulo": "Autorregulación del aprendizaje y mindfulness en el trabajo con adolescentes y estudiantes",
+      "descripcion": "A partir de las novedades publicadas en «Psicología Educativa», puede ser útil explorar cómo las escalas de autorregulación del aprendizaje y las intervenciones breves de mindfulness podrían incorporarse en el trabajo con población adolescente y universitaria."
+    },
+    {
+      "titulo": "Valoración del uso problemático de redes sociales en la evaluación del TDAH",
+      "descripcion": "A la luz de la asociación observada entre el uso problemático de redes sociales y el aumento de síntomas de TDAH, puede ser relevante incorporar en la evaluación con adolescentes preguntas sobre la dificultad para controlar el uso, más allá del tiempo de pantalla."
+    },
+    {
+      "titulo": "Adaptación anticipada a VeriFactu en la consulta privada",
+      "descripcion": "Con el nuevo calendario fijado por el BOE, puede ser oportuno ir valorando con antelación la adaptación de los sistemas de facturación de la consulta privada, aunque el plazo definitivo para los profesionales autónomos se sitúe en julio de 2027."
+    }
+  ],
+  "fuentes_verificadas": [
+    "https://web.copmadrid.org/actualidad-y-comunicacion/noticias-y-eventos/noticias/estrategias-de-aprendizaje-personalizadas-participacion-parental-mindfulness-en-profesores-competenc-3349",
+    "https://www.consalud.es/influcare/redes/afectan-las-redes-sociales-al-tdah-una-investigacion-relaciona-el-uso-enganchado-con-mas-sintomas-al-ano-siguiente.html",
+    "https://convention.apa.org/",
+    "https://www.nature.com/articles/s41562-026-02516-2",
+    "https://www.boe.es/buscar/doc.php?id=BOE-A-2025-24446"
+  ],
+  "carousel": {
+    "noticia_seleccionada": "Uso problemático de redes sociales y síntomas de TDAH en la adolescencia",
+    "slide1": {
+      "titular": "Redes sociales y síntomas de TDAH en adolescentes",
+      "subtitulo": "Un seguimiento a más de 11.000 jóvenes encuentra una asociación año tras año"
+    },
+    "slide2": {
+      "puntos": [
+        "El estudio siguió a 11.286 adolescentes estadounidenses durante cinco evaluaciones anuales consecutivas.",
+        "El uso problemático de redes sociales predijo más síntomas de TDAH al año siguiente.",
+        "La asociación solo fue significativa en los chicos, no en las chicas."
+      ]
+    },
+    "slide3": {
+      "puntos": [
+        "No es el tiempo de pantalla: importa la dificultad para controlar el uso.",
+        "TDAH y uso problemático comparten mecanismos como la impulsividad y la búsqueda de recompensa inmediata.",
+        "Los propios autores hablan de asociación, no de una relación de causa y efecto demostrada."
+      ]
+    },
+    "slide4": {
+      "puntos": [
+        "La evaluación del TDAH en adolescentes podría beneficiarse de preguntar por el control del uso, no solo las horas.",
+        "Las estrategias de prevención podrían beneficiarse de un enfoque diferenciado por sexo, según sugieren los autores."
+      ]
+    },
+    "slide5": {
+      "mensaje_autoridad": "Los incrementos en el uso problemático de las redes sociales se asocian con un empeoramiento de los síntomas de TDAH al año siguiente",
+      "fuente_apa": "Influcare (ConSalud). (2026, 5 de agosto). ¿Afectan las redes sociales al TDAH? Una investigación relaciona el uso enganchado con más síntomas al año siguiente.",
+      "cta": "síguenos en @IPP.Psicologia"
+    }
+  },
+  "copy_rrss": "Un seguimiento a más de 11.000 adolescentes en EE. UU. encuentra que el uso problemático de redes sociales predice más síntomas de TDAH al año siguiente, sobre todo en chicos. Las claves del día, en el Observatorio IPP.",
+  "hashtags": [
+    "#Psicologia",
+    "#SaludMental",
+    "#TDAH",
+    "#RedesSociales",
+    "#Neuropsicologia"
+  ]
+}
