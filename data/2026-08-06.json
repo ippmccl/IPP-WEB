@@ -1,0 +1,106 @@
+{
+  "titulo": "El Hospital Doctor Rodríguez Lafora estrena terapia con perros para el trastorno mental grave, el COP Madrid consolida sus revistas científicas y un estudio mapea con IA los desencadenantes del TOC de contaminación: claves del 6 de agosto de 2026",
+  "nota_editorial": "Las claves prácticas que se recogen a continuación forman parte del análisis editorial del Observatorio de Actualidad del IPP y no constituyen recomendación clínica individualizada.",
+  "resumen": "El Hospital público Doctor Rodríguez Lafora, en Madrid, estrena el primer taller de intervención asistida con perros de España dirigido a personas adultas con trastornos mentales graves, con una mejora del 31% en la puntuación media de bienestar en la última sesión evaluada, según el cuestionario WHO-5 de la Organización Mundial de la Salud. El Colegio Oficial de la Psicología de Madrid consolida el liderazgo editorial de sus revistas científicas en los principales índices de impacto internacional, Journal Citation Reports y Scopus/SCImago, correspondientes a 2025. Un equipo de las universidades de Basilea encuesta a 1.495 personas y utiliza modelos de lenguaje para mapear los desencadenantes del trastorno obsesivo-compulsivo de contaminación. Un estudio de Princeton University, con participación de Talkspace, publicado en Communications Psychology, encuentra que la valencia del lenguaje de pacientes y terapeutas en la psicoterapia por mensajería se asocia con cambios en los síntomas de depresión y ansiedad.",
+  "audiencia": "ambos",
+  "nacionales": [
+    {
+      "tipo": "CLÍNICA",
+      "titular": "El Hospital Doctor Rodríguez Lafora estrena en Madrid el primer programa terapéutico con perros para trastorno mental grave",
+      "cuerpo": "El Hospital público Doctor Rodríguez Lafora, en el distrito madrileño de Fuencarral-El Pardo, ha desarrollado el primer Taller de Intervención Asistida con Animales dirigido a personas adultas con trastornos mentales graves, en el que han participado 20 pacientes ingresados en la Unidad de Cuidados Psiquiátricos Prolongados. El objetivo es favorecer la salud emocional, la interacción social y la vinculación mediante actividades terapéuticas con perros especialmente adiestrados. Según el cuestionario WHO-5 de bienestar mental subjetivo de la Organización Mundial de la Salud, la puntuación media evolucionó de forma favorable a lo largo de las sesiones, con la mejora más significativa en la sexta y última sesión evaluada, cuando la puntuación media del grupo pasó de 18,6 a 24,3 puntos, un incremento del 31%. Los participantes destacaron especialmente el contacto directo con los perros y el ambiente de relajación generado. El propio centro señala que los resultados deben interpretarse como preliminares por el tamaño de la muestra y la variabilidad en la asistencia, y prevé seguir evaluando futuras ediciones antes de valorar su continuidad.",
+      "fuente": "Gacetín Madrid",
+      "url": "https://gacetinmadrid.com/2026/08/05/madrid-primera-region-implantar-programa-terapeutico-perros-trastorno-mental-grave/"
+    },
+    {
+      "tipo": "INVESTIGACIÓN",
+      "titular": "El Colegio Oficial de la Psicología de Madrid consolida el liderazgo de sus revistas científicas en los principales índices de impacto",
+      "cuerpo": "Las revistas científicas editadas y coeditadas por el Colegio Oficial de la Psicología de Madrid se sitúan de nuevo entre las publicaciones de referencia en Psicología y disciplinas afines, según los indicadores internacionales de calidad e impacto correspondientes a 2025 publicados por Journal Citation Reports (JCR) y los indicadores bibliométricos de Scopus/SCImago. El Colegio señala que varias de sus revistas ocupan posiciones destacadas en el primer cuartil de sus respectivas categorías, lo que atribuye al trabajo continuado de los equipos editoriales, al rigor de los procesos de evaluación por pares y a la calidad de las investigaciones publicadas. El Colegio destaca que estas publicaciones constituyen un espacio para difundir investigación con garantías de calidad científica y proyección internacional, y que actúan como punto de encuentro entre la investigación desarrollada en España y la de otros países.",
+      "fuente": "Colegio Oficial de la Psicología de Madrid",
+      "url": "https://web.copmadrid.org/actualidad-y-comunicacion/noticias-y-eventos/noticias/el-colegio-consolida-el-liderazgo-de-sus-revistas-cientificas-en-los-principales-indices-internacion-3352"
+    }
+  ],
+  "internacionales": [
+    {
+      "tipo": "INVESTIGACIÓN",
+      "titular": "Un estudio con modelos de lenguaje mapea los desencadenantes del trastorno obsesivo-compulsivo de contaminación",
+      "cuerpo": "Un equipo de la Universidad de Basilea, encabezado por Dorothée Bentz y Dirk U. Wulff y publicado en Communications Psychology, ha encuestado a 1.495 personas de población general sobre los síntomas obsesivo-compulsivos relacionados con la contaminación, así como sus desencadenantes e intensidad correspondiente. Mediante representaciones semánticas (embeddings) generadas con modelos de lenguaje, el equipo elaboró un mapa de las principales categorías de desencadenantes, que muestra su diversidad a través de distintos ámbitos ecológicos y grados variables de similitud semántica. Simulaciones de Monte Carlo mostraron además que las personas participantes reportaban con frecuencia pares de desencadenantes semánticamente similares que diferían en intensidad. Los autores señalan que estos hallazgos ofrecen una base para investigar los procesos de aprendizaje asociativo implicados en el desarrollo, el mantenimiento y el tratamiento del trastorno obsesivo-compulsivo.",
+      "fuente": "Communications Psychology (Nature Portfolio)",
+      "url": "https://www.nature.com/articles/s44271-026-00503-x"
+    }
+  ],
+  "papers": [
+    {
+      "apa": "Vartiainen, H. I., Hull, T. D., & Nook, E. C. (2026). The valence of client and therapist language reflects symptom changes in messaging-based psychotherapy. Communications Psychology. https://doi.org/10.1038/s44271-026-00512-w",
+      "doi": "10.1038/s44271-026-00512-w",
+      "hallazgo": "El estudio, de investigadores de Princeton University con la participación de un investigador de Talkspace, examinó si los cambios en el tono emocional (valencia) del lenguaje de clientes y terapeutas, o la divergencia entre ambos, se relacionaban con los síntomas internalizantes de los pacientes, comparando 13 medidas de análisis de sentimiento en un conjunto exploratorio (N = 3.729) y otro de validación (N = 2.500) de conversaciones de psicoterapia por mensajería. Tanto el lenguaje del cliente como el del terapeuta se volvió más positivo con el tiempo, y un tono más positivo precedió a la mejoría de los síntomas. Las medidas que estiman el sentimiento a nivel de palabra y tratan la positividad y la negatividad como constructos separados obtuvieron resultados más consistentes, en particular dentro de cada persona a lo largo del tiempo.",
+      "implicacion": "Los autores sugieren que la valencia del lenguaje puede funcionar como un marcador del progreso terapéutico en la psicoterapia por mensajería, lo que podría orientar el desarrollo de herramientas de apoyo al seguimiento del tratamiento, si bien se trata de un estudio observacional realizado sobre una única plataforma de terapia por mensajería."
+    }
+  ],
+  "herramientas": [
+    {
+      "nombre": "Herramientas de análisis de sentimiento del lenguaje aplicadas al seguimiento terapéutico",
+      "descripcion": "Sistemas de procesamiento del lenguaje natural que estiman el tono emocional, positivo o negativo, del texto en intercambios terapéuticos escritos, y que empiezan a explorarse como posible apoyo complementario para observar la evolución de los síntomas depresivos y ansiosos a lo largo del tratamiento."
+    }
+  ],
+  "alertas": [],
+  "prioridades": [
+    {
+      "titulo": "Intervenciones asistidas con animales en trastorno mental grave",
+      "descripcion": "A partir de los resultados preliminares del programa del Hospital Doctor Rodríguez Lafora, puede ser útil explorar el papel de las intervenciones asistidas con animales como complemento en el trabajo con personas con trastornos mentales graves, especialmente en contextos de hospitalización prolongada."
+    },
+    {
+      "titulo": "Revistas científicas de referencia para la actualización profesional",
+      "descripcion": "Dada la consolidación de las revistas del COP Madrid en los principales índices de impacto, puede ser relevante incorporarlas como fuente habitual de actualización para fundamentar la práctica clínica en evidencia reciente."
+    },
+    {
+      "titulo": "Atención al lenguaje como señal del progreso terapéutico",
+      "descripcion": "A la luz de los hallazgos sobre la valencia del lenguaje en la psicoterapia por mensajería, puede ser oportuno prestar atención al tono emocional de las propias intervenciones verbales o escritas como una señal complementaria, y no sustitutiva, de la evolución del paciente."
+    }
+  ],
+  "fuentes_verificadas": [
+    "https://gacetinmadrid.com/2026/08/05/madrid-primera-region-implantar-programa-terapeutico-perros-trastorno-mental-grave/",
+    "https://web.copmadrid.org/actualidad-y-comunicacion/noticias-y-eventos/noticias/el-colegio-consolida-el-liderazgo-de-sus-revistas-cientificas-en-los-principales-indices-internacion-3352",
+    "https://www.nature.com/articles/s44271-026-00503-x",
+    "https://www.nature.com/articles/s44271-026-00512-w"
+  ],
+  "carousel": {
+    "noticia_seleccionada": "Programa terapéutico con perros para personas con trastorno mental grave",
+    "slide1": {
+      "titular": "Terapia con perros para el trastorno mental grave",
+      "subtitulo": "El primer programa de este tipo en España mejora el bienestar de los pacientes"
+    },
+    "slide2": {
+      "puntos": [
+        "El Hospital Doctor Rodríguez Lafora impulsó el primer taller de este tipo en España.",
+        "Participaron 20 pacientes de la Unidad de Cuidados Psiquiátricos Prolongados en Madrid.",
+        "El bienestar se midió con el cuestionario WHO-5 de la Organización Mundial de la Salud."
+      ]
+    },
+    "slide3": {
+      "puntos": [
+        "La puntuación media de bienestar aumentó un 31% en la última sesión evaluada.",
+        "Los pacientes valoraron especialmente el contacto directo y el afecto de los perros.",
+        "El propio centro señala que los resultados son preliminares por el tamaño de la muestra."
+      ]
+    },
+    "slide4": {
+      "puntos": [
+        "Las intervenciones asistidas con animales podrían sumarse como complemento en hospitalizaciones prolongadas.",
+        "El centro prevé seguir evaluando futuras ediciones antes de decidir su continuidad."
+      ]
+    },
+    "slide5": {
+      "mensaje_autoridad": "La combinación de datos cuantitativos y valoraciones cualitativas apunta a una buena acogida del programa y a su posible contribución al bienestar emocional de los participantes",
+      "fuente_apa": "Gacetín Madrid. (2026, 5 de agosto). La Comunidad de Madrid, primera región de España en implantar un programa terapéutico con perros para personas con trastorno mental grave.",
+      "cta": "síguenos en @IPP.Psicologia"
+    }
+  },
+  "copy_rrss": "El Hospital Doctor Rodríguez Lafora estrena en Madrid el primer programa de terapia con perros para personas con trastorno mental grave, con mejoras de hasta el 31% en el bienestar percibido. Las claves del día, en el Observatorio IPP.",
+  "hashtags": [
+    "#Psicologia",
+    "#SaludMental",
+    "#TerapiaAsistida",
+    "#TrastornoMentalGrave",
+    "#Neuropsicologia"
+  ]
+}
