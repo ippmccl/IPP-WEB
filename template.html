@@ -10,7 +10,7 @@
 <style>
   :root{
     --purple-deep:#3d1a6e;--purple-mid:#6b35b8;--purple-soft:#9b5de5;
-    --purple-pale:#e8d5f7;--purple-ghost:#f5eeff;--gold:#c9a84c;
+    --purple-pale:#e8d5f7;--purple-pale-2:#f0e5fb;--purple-ghost:#f5eeff;--gold:#c9a84c;--gold-pale:#f3e7c4;
     --text-dark:#1a0e2e;--text-mid:#4a3568;--text-light:#8a75a8;--border:#ddd0f0;
   }
   *{box-sizing:border-box;margin:0;padding:0}
@@ -39,10 +39,10 @@
   .badge.tramitacion{background:#fff3cd;color:#856404}
   .badge.desarrollo{background:#cce5ff;color:#004085}
   .badge.propuesta{background:#e2e3e5;color:#383d41}
-  .prio{padding:16px 20px;border-radius:8px;margin-bottom:12px;color:#fff}
-  .prio:nth-child(1){background:var(--purple-deep)}
-  .prio:nth-child(2){background:var(--purple-mid)}
-  .prio:nth-child(3){background:var(--gold);color:var(--text-dark)}
+  .prio{padding:16px 20px;border-radius:8px;margin-bottom:12px;color:var(--text-dark);border-left:4px solid var(--purple-mid)}
+  .prio:nth-child(1){background:var(--purple-pale);border-left-color:var(--purple-deep)}
+  .prio:nth-child(2){background:var(--purple-pale-2);border-left-color:var(--purple-mid)}
+  .prio:nth-child(3){background:var(--gold-pale);border-left-color:var(--gold);color:var(--text-dark)}
   .prio h4{font-family:'Playfair Display',serif;font-size:17px;margin-bottom:6px}
   footer{background:var(--purple-ghost);padding:20px 40px;font-size:12px;color:var(--text-light);text-align:center;border-top:1px solid var(--border)}
   .noticia-fuente{font-size:12px;color:var(--text-light);margin-top:8px;margin-bottom:0;text-align:left}
