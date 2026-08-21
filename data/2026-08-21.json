@@ -1,0 +1,104 @@
+{
+  "titulo": "El Colegio de Madrid explica cómo afecta el reglamento europeo de IA a la psicología, el Pacto de Convivencia planifica su décimo aniversario y un estudio de la Revista de Psicoterapia explora el cambio identitario en terapia: claves del 21 de agosto de 2026",
+  "nota_editorial": "Las claves prácticas que se recogen a continuación forman parte del análisis editorial del Observatorio de Actualidad del IPP y no constituyen recomendación clínica individualizada.",
+  "resumen": "El Colegio Oficial de la Psicología de Madrid detalla en su blog cómo el Reglamento europeo de Inteligencia Artificial afecta a la práctica clínica, exigiendo supervisión humana constante en las herramientas digitales de mayor riesgo. La plataforma Pacto de Convivencia, de la que el Colegio forma parte, se reunió para evaluar su actividad y planificar el décimo aniversario de la iniciativa. Un estudio publicado en la Revista de Psicoterapia analiza la autocaracterización narrativa como técnica para evaluar el cambio identitario durante la psicoterapia en jóvenes con ansiedad y depresión.",
+  "audiencia": "ambos",
+  "nacionales": [
+    {
+      "tipo": "NORMATIVA",
+      "titular": "El Colegio de Madrid detalla cómo afecta el reglamento europeo de IA a la práctica psicológica",
+      "cuerpo": "El Blog de Psicología del Colegio Oficial de la Psicología de Madrid ha publicado un análisis, firmado por Maribel Gámez, directora del Centro de Psicología Aplicada, psicóloga general sanitaria y psicopedagoga experta en terapia de conducta e inteligencia artificial aplicada a la salud mental, sobre las implicaciones del Reglamento (UE) 2024/1689 del Parlamento Europeo y del Consejo, conocido como Ley de Inteligencia Artificial o AI Act, para la profesión. Según explica el análisis, cuanta mayor capacidad tenga un sistema de IA de influir en las decisiones clínicas, mayor debe ser el nivel de supervisión y control por parte de un ser humano. Se considera de riesgo alto para los derechos fundamentales o el bienestar de las personas a aquellas plataformas capaces de interpretar datos psicológicos, evaluar a las personas o identificar, entre otros aspectos, el riesgo de suicidio. El texto aclara que esta clasificación no implica que dichas herramientas estén prohibidas, sino que su uso debe demostrar fiabilidad, permitir el control de sus errores, cumplir con el principio de transparencia sobre su funcionamiento y contar con supervisión humana constante. Según el análisis, una vez se implemente por completo la norma, entre este año y el próximo, los profesionales deberán asegurarse de que se cumple este proceso de control mediante protocolos comprobables, o bien decidir prescindir de la herramienta si no ofrece garantías de seguridad suficientes.",
+      "fuente": "Blog de Psicología del Colegio Oficial de la Psicología de Madrid",
+      "url": "https://blogpsicologia.copmadrid.org/como-afecta-a-la-profesion-la-ley-del-uso-de-la-ia-ai-act/"
+    },
+    {
+      "tipo": "SALUD PÚBLICA",
+      "titular": "El Colegio de Madrid acoge la reunión de la plataforma Pacto de Convivencia y planifica su décimo aniversario",
+      "cuerpo": "El Colegio Oficial de la Psicología de Madrid, entidad integrante de la plataforma Pacto de Convivencia, acogió en su sede una reunión de esta iniciativa para evaluar las actividades realizadas durante el curso y planificar la actividad de otoño de 2026, que tendrá como principal eje la celebración del décimo aniversario de la plataforma. Durante el encuentro se dejó constancia de la continuidad del trabajo en relación con las Comisiones de Convivencia creadas en las universidades en el marco de la Ley de Convivencia Universitaria 3/2022, único marco normativo específico de convivencia en la educación superior en el contexto europeo. Esta labor de asesoramiento fue reconocida con el Premio ADR 2025 del Departamento de Justicia y Calidad Democrática de la Generalitat de Cataluña. Al término de la reunión, el salón de actos del Colegio acogió la conferencia internacional «Los retos de la Psicología en un mundo en guerra. ¿Puede haber paz sin salud mental?», inaugurada por la decana del Colegio, Timanfaya Hernández.",
+      "fuente": "Colegio Oficial de la Psicología de Madrid",
+      "url": "https://web.copmadrid.org/actualidad-y-comunicacion/noticias-y-eventos/noticias/el-colegio-acoge-en-su-sede-la-reunion-de-la-plataforma-pacto-de-convivencia-3363"
+    }
+  ],
+  "internacionales": [],
+  "papers": [
+    {
+      "apa": "Narváez-Villarreal, J. F., & Feixas, G. (2026). Evaluación del cambio identitario mediante la autocaracterización: Aplicación en una intervención basada en la identidad para jóvenes con depresión y ansiedad. Revista de Psicoterapia, 37(134), 95-109. https://doi.org/10.5944/rdp.v37i134.47450",
+      "doi": "10.5944/rdp.v37i134.47450",
+      "hallazgo": "El estudio, realizado por Juan Francisco Narváez-Villarreal y Guillem Feixas, de la Universitat de Barcelona, examina el potencial de la autocaracterización, técnica narrativa propuesta por George A. Kelly dentro de la Teoría de los Constructos Personales, para evaluar el cambio identitario a lo largo de la psicoterapia. La técnica consiste en pedir a la persona que redacte una descripción de sí misma en tercera persona, como si un amigo cercano describiera al personaje principal de una obra de teatro, lo que favorece el autodistanciamiento y la reflexión sobre la propia identidad. Los autores compararon las autocaracterizaciones realizadas al inicio y al final del tratamiento por dos mujeres jóvenes con ansiedad y depresión que participaron en una terapia transdiagnóstica basada en la identidad, combinando un análisis narrativo inspirado en la propuesta de Kelly con una lectura complementaria basada en el modelo de personalidad HEXACO. En ambos casos se observaron cambios en la manera de narrar el propio yo entre el inicio y el final del proceso terapéutico: una de las participantes pasó de una narrativa marcada por la división entre su imagen externa y su experiencia interna a una identidad más integrada, con mayor autoconocimiento, mientras que la evolución de la segunda fue más sutil, incorporando un mayor reconocimiento de su sufrimiento. El análisis HEXACO mostró variaciones principalmente en los rasgos de apertura a la experiencia y emocionalidad, acompañadas de una reducción de los síntomas emocionales.",
+      "implicacion": "Los autores consideran que la autocaracterización puede constituir una herramienta útil para explorar el cambio identitario durante la psicoterapia, y plantean que podría repetirse en momentos relevantes del proceso terapéutico y al finalizar la intervención. Señalan como limitación principal que el estudio se basa únicamente en dos casos clínicos, y advierten de que la interpretación narrativa inspirada en el modelo HEXACO no constituye una medida psicométrica de la personalidad, por lo que sugieren que futuras investigaciones con muestras más amplias permitan evaluar con mayor solidez su utilidad clínica."
+    }
+  ],
+  "herramientas": [
+    {
+      "nombre": "Plataformas de apoyo a la práctica clínica basadas en inteligencia artificial",
+      "descripcion": "Sistemas digitales que asisten a profesionales de la psicología en la interpretación de datos psicológicos, la evaluación de personas o la identificación de indicadores de riesgo. Según el Reglamento europeo de Inteligencia Artificial, cuando estas herramientas influyen en decisiones clínicas se consideran de riesgo alto y deben demostrar fiabilidad, permitir el control de sus errores, ser transparentes en su funcionamiento y contar con supervisión humana constante."
+    }
+  ],
+  "alertas": [
+    {
+      "estado": "EN DESARROLLO",
+      "titulo": "Implementación progresiva del Reglamento europeo de Inteligencia Artificial en la práctica psicológica",
+      "descripcion": "El Reglamento (UE) 2024/1689, Ley de Inteligencia Artificial o AI Act, se implementará de forma progresiva entre este año y el próximo. Afecta directamente a la práctica clínica: las herramientas de IA que influyen en decisiones clínicas, como la interpretación de datos psicológicos, la evaluación de personas o la identificación de riesgo de suicidio, se consideran de riesgo alto y deben cumplir requisitos de fiabilidad, control de errores, transparencia y supervisión humana constante. Según el análisis publicado por el Colegio Oficial de la Psicología de Madrid, una vez completada la implementación, los profesionales que utilicen este tipo de herramientas deberán poder acreditar mediante protocolos comprobables que se cumple este proceso de control, o bien prescindir de la herramienta si no ofrece garantías suficientes."
+    }
+  ],
+  "prioridades": [
+    {
+      "titulo": "Revisar el uso de herramientas digitales de apoyo clínico",
+      "descripcion": "De cara a la implementación progresiva del AI Act, puede ser útil revisar qué herramientas o plataformas digitales de apoyo a la práctica clínica se utilizan en consulta y valorar si existe un protocolo de supervisión humana comprobable sobre su funcionamiento."
+    },
+    {
+      "titulo": "Explorar la autocaracterización como recurso de evaluación narrativa",
+      "descripcion": "Puede ser relevante explorar la autocaracterización narrativa como complemento para evaluar el cambio identitario en procesos terapéuticos centrados en la identidad, especialmente con jóvenes con ansiedad o depresión, sin sustituir las medidas clínicas estandarizadas."
+    },
+    {
+      "titulo": "Anticipar el acompañamiento psicológico en la vuelta al curso escolar",
+      "descripcion": "Con el inicio del curso escolar y universitario a la vuelta de la esquina, puede ser oportuno anticipar el acompañamiento a niños, adolescentes y familias, dado el papel de los protocolos de convivencia y bienestar en los centros educativos en la prevención de dificultades emocionales y de relación."
+    }
+  ],
+  "fuentes_verificadas": [
+    "https://blogpsicologia.copmadrid.org/como-afecta-a-la-profesion-la-ley-del-uso-de-la-ia-ai-act/",
+    "https://web.copmadrid.org/actualidad-y-comunicacion/noticias-y-eventos/noticias/el-colegio-acoge-en-su-sede-la-reunion-de-la-plataforma-pacto-de-convivencia-3363",
+    "https://doi.org/10.5944/rdp.v37i134.47450"
+  ],
+  "carousel": {
+    "noticia_seleccionada": "El Colegio de Madrid detalla cómo afecta el reglamento europeo de IA a la práctica psicológica",
+    "slide1": {
+      "titular": "IA en consulta: qué exige ya la ley europea",
+      "subtitulo": "Claves del AI Act para la práctica psicológica"
+    },
+    "slide2": {
+      "puntos": [
+        "A más influencia en decisiones clínicas, más supervisión humana exige la ley",
+        "Riesgo alto: herramientas que interpretan datos o evalúan riesgo de suicidio",
+        "No están prohibidas, pero deben ser fiables y transparentes"
+      ]
+    },
+    "slide3": {
+      "puntos": [
+        "La implementación completa llega entre este año y el próximo",
+        "Los profesionales deberán acreditar protocolos de control comprobables",
+        "Si una herramienta no da garantías, la ley plantea prescindir de ella"
+      ]
+    },
+    "slide4": {
+      "puntos": [
+        "Buen momento para revisar qué apps o plataformas usamos en consulta",
+        "La supervisión humana constante no es opcional, es un requisito legal",
+        "La transparencia sobre cómo funciona la herramienta también lo es"
+      ]
+    },
+    "slide5": {
+      "mensaje_autoridad": "Cuanta más capacidad tenga un sistema de IA de influir en las decisiones clínicas, más debe ser supervisado por un ser humano",
+      "fuente_apa": "Blog de Psicología, Colegio Oficial de la Psicología de Madrid (2026)",
+      "cta": "Síguenos para más claves de actualidad en psicología"
+    }
+  },
+  "copy_rrss": "El AI Act ya afecta a la consulta: así debe supervisarse la IA que apoya decisiones clínicas en psicología.",
+  "hashtags": [
+    "#Psicología",
+    "#InteligenciaArtificial",
+    "#SaludMental",
+    "#Psicoterapia",
+    "#IPP"
+  ]
+}
