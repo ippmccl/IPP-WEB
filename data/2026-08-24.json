@@ -1,0 +1,113 @@
+{
+  "titulo": "El Ministerio del Interior firma un convenio con Salud Mental España para la rehabilitación en prisiones, el Colegio de Madrid publica una guía sobre regulación emocional y un estudio en Nature Human Behaviour vincula el inicio temprano de las redes sociales con un peor rendimiento académico: claves del 24 de agosto de 2026",
+  "nota_editorial": "Las claves prácticas que se recogen a continuación forman parte del análisis editorial del Observatorio de Actualidad del IPP y no constituyen recomendación clínica individualizada.",
+  "resumen": "El Ministerio del Interior ha firmado un convenio con la Confederación Salud Mental España para desarrollar un programa de apoyo a la rehabilitación de personas con trastorno mental privadas de libertad, con una vigencia de cuatro años prorrogables. El Colegio Oficial de la Psicología de Madrid ha publicado una guía práctica sobre la regulación de las emociones en las relaciones, elaborada por el psicólogo Jorge Domínguez. Un estudio publicado en Nature Human Behaviour, con 5.227 estudiantes del norte de Italia, encuentra evidencia causal de que crear una cuenta en redes sociales en los primeros cursos de secundaria perjudica el rendimiento académico en matemáticas e italiano. Una investigación de la Universidad de Brown, en la misma revista, analiza mediante registros de EEG y pupilometría cómo las fluctuaciones de la activación fisiológica facilitan el ajuste del aprendizaje ante los cambios del entorno.",
+  "audiencia": "ambos",
+  "nacionales": [
+    {
+      "tipo": "NORMATIVA",
+      "titular": "El Ministerio del Interior firma un convenio con Salud Mental España para la rehabilitación de personas privadas de libertad con trastorno mental",
+      "cuerpo": "El Ministerio del Interior, a través de la Secretaría General de Instituciones Penitenciarias, ha suscrito el 22 de mayo de 2026 un convenio con la Confederación Salud Mental España para el desarrollo del Programa de apoyo a la rehabilitación de las personas con trastorno mental privadas de libertad en centros penitenciarios y centros de inserción social, así como de las personas con trastorno mental judicializado. El texto se ha publicado en el Boletín Oficial del Estado número 137, de 5 de junio de 2026, mediante resolución de la Secretaría General Técnica del Ministerio del Interior. Según el convenio, la Secretaría General de Instituciones Penitenciarias pondrá a disposición de la Confederación la infraestructura, los equipamientos y el personal de coordinación necesarios, seleccionará a través de los centros a las personas participantes y concederá las acreditaciones correspondientes al personal que desarrolle las actividades. Por su parte, la Confederación Salud Mental España se compromete a diseñar conjuntamente con los centros penitenciarios las actividades del programa, aportar el personal necesario, asumir los gastos de desplazamiento y retribuciones, y elaborar los materiales formativos, con un presupuesto estimado de 6.000 euros con cargo a sus propios fondos. El convenio no conlleva coste para el Ministerio del Interior ni transferencia de recursos entre las partes. Su vigencia es de cuatro años, prorrogables por otros cuatro adicionales, y su seguimiento corresponde a una comisión formada por dos representantes de cada una de las partes firmantes, que deberá reunirse al menos una vez al año.",
+      "fuente": "Boletín Oficial del Estado (BOE-A-2026-12154)",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-12154"
+    },
+    {
+      "tipo": "CLÍNICA",
+      "titular": "El Colegio de Madrid publica una guía práctica sobre la regulación de las emociones en las relaciones",
+      "cuerpo": "El Blog de la Psicología, editado por el Colegio Oficial de la Psicología de Madrid, ha publicado el 24 de agosto de 2026 el artículo «Regular las emociones en las relaciones: guía práctica», firmado por el psicólogo Jorge Domínguez. El autor plantea que regular las emociones no equivale a reprimirlas, sino a reconocerlas, comprender qué están indicando y elegir cómo responder en lugar de reaccionar de forma impulsiva. Para ello, propone varias habilidades concretas: identificar y nombrar la emoción que se está sintiendo, hacer una pausa antes de actuar, diferenciar los hechos objetivos de las interpretaciones que se hacen sobre ellos, y escuchar tanto las propias necesidades como las de la otra persona en la relación. El Colegio precisa que este espacio de divulgación científico-profesional está abierto a la participación de psicólogos y psicólogas colegiadas de toda España que quieran publicar contenidos en él.",
+      "fuente": "Colegio Oficial de la Psicología de Madrid (Blog de la Psicología)",
+      "url": "https://web.copmadrid.org/actualidad-y-comunicacion/noticias-y-eventos/noticias/blog-de-la-psicologia-regular-las-emociones-en-las-relaciones-guia-practica-3366"
+    }
+  ],
+  "internacionales": [
+    {
+      "tipo": "INVESTIGACIÓN",
+      "titular": "Un estudio en Nature Human Behaviour vincula el inicio temprano de las redes sociales con un peor rendimiento académico",
+      "cuerpo": "Un estudio publicado el 3 de agosto de 2026 en la revista Nature Human Behaviour, firmado por Marco Gui, Chiara Respi, Giovanni Abbiati y otros investigadores de la Universidad de Milán-Bicocca y la Universidad de Brescia, encuentra evidencia causal de que la creación temprana de una cuenta en redes sociales perjudica el rendimiento académico posterior. El equipo construyó una base de datos con 5.227 estudiantes del norte de Italia, de entre 7 y 16 años, combinando un cuestionario sobre hábitos digitales a lo largo de la vida con las calificaciones obtenidas en las pruebas estandarizadas nacionales del INVALSI en italiano, inglés y matemáticas. Mediante modelos de diferencias en diferencias, los autores compararon a quienes crearon su primera cuenta en redes sociales en 6.º, 7.º u 8.º curso con quienes la crearon más tarde, a partir de 9.º curso. Los resultados muestran que el uso temprano de redes sociales afecta de forma negativa a las calificaciones en matemáticas e italiano durante los cursos de secundaria inferior, en comparación con quienes se incorporaron más tarde. Los autores encuentran también indicios de que una parte sustancial de este efecto negativo está mediada por la presencia del teléfono móvil en momentos clave del día. El propio equipo investigador señala que estos hallazgos aportan evidencia causal robusta sobre el efecto de la edad de inicio en redes sociales sobre el rendimiento académico, en un campo de estudio donde la evidencia disponible se basaba mayoritariamente en datos correlacionales o longitudinales de corto plazo.",
+      "fuente": "Nature Human Behaviour",
+      "url": "https://www.nature.com/articles/s41562-026-02522-4"
+    }
+  ],
+  "papers": [
+    {
+      "apa": "Li, T. et al., & Nassar, M. R. (2026). Fluctuations in arousal reflect latent state transitions that facilitate behavioural optimization. Nature Human Behaviour. Publicación anticipada en línea.",
+      "doi": "10.1038/s41562-026-02533-1",
+      "hallazgo": "Investigadores del Robert J. & Nancy D. Carney Institute for Brain Science de la Universidad de Brown, liderados por Tiantian Li y Matthew R. Nassar, han publicado el 5 de agosto de 2026 en Nature Human Behaviour un estudio sobre la función de los picos de activación fisiológica ante sucesos inesperados. Los autores registraron simultáneamente la actividad electroencefalográfica (EEG) y la dilatación pupilar de personas mientras realizaban una tarea de predicción y reproducción de colores, y pusieron a prueba cinco predicciones formuladas de antemano (preregistradas). Los resultados muestran que las transiciones entre estados mentales inducidas por la tarea provocaron dilatación pupilar y una amplificación de los potenciales evocados relacionados con sucesos, en concreto el componente P3a de la onda P300. Estas medidas de EEG y pupilometría se relacionaron con cambios en el comportamiento asociados a la actualización de estados mentales, entre ellos una reducción del sesgo de respuesta y un ajuste bidireccional del aprendizaje, tanto entre ensayos como entre distintas personas participantes.",
+      "implicacion": "Los autores concluyen que los sistemas de activación fisiológica vinculados al locus coeruleus y la noradrenalina podrían optimizar el comportamiento al señalar las transiciones del entorno, facilitando así ajustes rápidos del contexto mental que regula el aprendizaje y la percepción. Los resultados sugieren que estos marcadores fisiológicos, como la dilatación pupilar o el componente P3a del EEG, podrían orientar en el futuro el estudio de los procesos atencionales y de aprendizaje en contextos de neuropsicología, aunque los propios autores encuadran sus hallazgos en el terreno de la investigación básica sobre cognición y comportamiento."
+    }
+  ],
+  "herramientas": [
+    {
+      "nombre": "Guías de divulgación psicológica basadas en evidencia sobre regulación emocional",
+      "descripcion": "Recursos de acceso gratuito, elaborados por profesionales colegiados, que ofrecen pautas prácticas para el manejo de las emociones en el ámbito de las relaciones personales, sin sustituir la intervención psicológica individualizada cuando esta sea necesaria."
+    }
+  ],
+  "alertas": [
+    {
+      "estado": "APROBADO",
+      "titulo": "Convenio entre el Ministerio del Interior y Salud Mental España para la rehabilitación en prisiones",
+      "descripcion": "El convenio, publicado en el BOE el 5 de junio de 2026, ya está formalizado y en vigor durante cuatro años, prorrogables por otros cuatro. Su desarrollo concreto dependerá de cada centro penitenciario y centro de inserción social, coordinado a través de una comisión de seguimiento con dos representantes de cada una de las partes firmantes."
+    }
+  ],
+  "prioridades": [
+    {
+      "titulo": "Colaboración con programas de salud mental en contextos penitenciarios",
+      "descripcion": "Puede ser útil que los profesionales de la psicología que trabajan con población en riesgo de exclusión conozcan la existencia de este tipo de programas de colaboración institucional, de cara a posibles derivaciones o coordinaciones."
+    },
+    {
+      "titulo": "Uso de guías breves de regulación emocional en consulta",
+      "descripcion": "Puede ser relevante valorar la incorporación de recursos divulgativos breves, como guías prácticas de regulación emocional, como material de apoyo psicoeducativo complementario al trabajo terapéutico individualizado."
+    },
+    {
+      "titulo": "Edad de acceso a redes sociales en la infancia y la adolescencia",
+      "descripcion": "Puede ser oportuno tener en cuenta la evidencia sobre la edad de inicio en redes sociales al orientar a familias y centros educativos, dado que el estudio señala un posible efecto negativo sobre el rendimiento académico asociado a la adopción temprana."
+    }
+  ],
+  "fuentes_verificadas": [
+    "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-12154",
+    "https://web.copmadrid.org/actualidad-y-comunicacion/noticias-y-eventos/noticias/blog-de-la-psicologia-regular-las-emociones-en-las-relaciones-guia-practica-3366",
+    "https://www.nature.com/articles/s41562-026-02522-4",
+    "https://www.nature.com/articles/s41562-026-02533-1"
+  ],
+  "carousel": {
+    "noticia_seleccionada": "El inicio temprano en redes sociales se vincula a un peor rendimiento académico",
+    "slide1": {
+      "titular": "Las redes sociales tempranas afectan al rendimiento académico",
+      "subtitulo": "Un estudio con 5.227 estudiantes italianos"
+    },
+    "slide2": {
+      "puntos": [
+        "Crear una cuenta en redes sociales en 6.º a 8.º curso predice peores notas después",
+        "El efecto se compara con quienes empezaron en 9.º curso o más tarde",
+        "Afecta especialmente a las calificaciones en matemáticas e italiano"
+      ]
+    },
+    "slide3": {
+      "puntos": [
+        "5.227 estudiantes de entre 7 y 16 años del norte de Italia",
+        "Datos combinados con las pruebas estandarizadas nacionales INVALSI",
+        "Publicado en Nature Human Behaviour el 3 de agosto de 2026"
+      ]
+    },
+    "slide4": {
+      "puntos": [
+        "El móvil en momentos clave del día explica parte del efecto",
+        "El estudio es observacional, aunque usa modelos de tipo causal",
+        "Los propios autores piden cautela al generalizar fuera de Italia"
+      ]
+    },
+    "slide5": {
+      "mensaje_autoridad": "La edad a la que los menores crean su primera cuenta en redes sociales puede influir en su rendimiento académico posterior",
+      "fuente_apa": "Gui, M., Respi, C., Abbiati, G. et al. (2026). Nature Human Behaviour",
+      "cta": "Síguenos en @IPP.Psicologia"
+    }
+  },
+  "copy_rrss": "Un estudio con más de 5.000 estudiantes italianos vincula abrir la primera cuenta en redes sociales antes de los 14 años con peores notas en matemáticas e italiano.",
+  "hashtags": [
+    "#RedesSociales",
+    "#SaludMental",
+    "#Psicología",
+    "#Adolescencia",
+    "#IPP"
+  ]
+}
