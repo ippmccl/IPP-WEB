@@ -1,0 +1,116 @@
+{
+  "titulo": "El Colegio de Madrid valida una escala pionera para detectar el riesgo de suicidio en policías, un estudio identifica con inteligencia artificial los factores de tener un familiar preso y Nature Mental Health vincula la morfología cerebral con la vulnerabilidad psiquiátrica infantil: claves del 26 de agosto de 2026",
+  "nota_editorial": "Las claves prácticas que se recogen a continuación forman parte del análisis editorial del Observatorio de Actualidad del IPP y no constituyen recomendación clínica individualizada.",
+  "resumen": "El Colegio Oficial de la Psicología de Madrid ha publicado en su Anuario de Psicología Jurídica una escala pionera para detectar el riesgo de suicidio en agentes de la Policía Nacional, validada con más de 650 policías. La misma revista analiza también el papel de las TIC en la violencia filio-parental y los factores asociados a tener un familiar en prisión. Un estudio publicado en Nature Mental Health, por su parte, vincula determinados patrones de morfología cerebral en la infancia con la vulnerabilidad y la resiliencia frente a los trastornos psiquiátricos, a partir del seguimiento de 8.672 menores. Se recuerda además que el Real Decreto 239/2026 obliga a las consultas de Psicología a acreditar de forma permanente la titulación de su personal antes del 1 de enero de 2027.",
+  "audiencia": "ambos",
+  "nacionales": [
+    {
+      "tipo": "CLÍNICA",
+      "titular": "El Colegio de Madrid valida una escala pionera para detectar el riesgo de suicidio en agentes de policía",
+      "cuerpo": "El Colegio Oficial de la Psicología de Madrid ha publicado en el volumen 36 de su Anuario de Psicología Jurídica el artículo «La mejora de la detección del riesgo de suicidio en agentes de policía: propiedades psicométricas y estandarización del VRS-PN», firmado por José E. Gutiérrez-Jurado y Sonia J. Romero Martínez. El trabajo valida la Escala de Evaluación del Riesgo de Suicidio en la Policía Nacional (VRS-PN), un instrumento diseñado específicamente para el contexto de las fuerzas de seguridad españolas. La escala reúne casi 40 ítems organizados en ocho factores: ideación suicida intrapersonal e interpersonal (incluida la percepción de ser una carga), intento suicida, factores de riesgo y tendencias conductuales, acceso a medios letales y escalas de validez, estas últimas orientadas a detectar si un agente oculta sus síntomas por miedo al estigma. La muestra incluyó a más de 650 agentes, divididos entre población general y policías en situación de incapacidad temporal por salud mental. Los resultados confirman que la escala es fiable y válida para este colectivo. El estudio señala además diferencias por sexo: las mujeres muestran más estrategias de disimulo y regulación emocional, mientras que los hombres se exponen más a conductas de riesgo y tienen mayor acceso a medios letales. El riesgo también aparece ligado a la acumulación crónica de estrés y a la exposición a traumas a lo largo de la carrera profesional, aunque este factor mostró un peso menor que la pertenencia al grupo en incapacidad temporal.",
+      "fuente": "Colegio Oficial de la Psicología de Madrid (COPM) — Anuario de Psicología Jurídica",
+      "url": "https://web.copmadrid.org/actualidad-y-comunicacion/noticias-y-eventos/noticias/deteccion-del-riesgo-de-suicidio-en-policias-el-estres-postraumatico-en-gaza-o-la-violencia-filio-pa-3367"
+    },
+    {
+      "tipo": "CLÍNICA",
+      "titular": "El Anuario de Psicología Jurídica analiza cómo el uso problemático de las TIC se relaciona con la violencia filio-parental",
+      "cuerpo": "El mismo número del Anuario de Psicología Jurídica incluye el artículo «El uso inadecuado de las TIC y la violencia filio-parental: la perspectiva de la familia», de Elisa González-Pérez, Isabel Martínez-Álvarez y Sergio Hidalgo-Fuentes. La investigación analiza cómo el uso problemático de las tecnologías de la comunicación se relaciona con patrones en los que los hijos ejercen poder sobre sus padres y madres. Para ello, se entrevistó a 70 familiares de adolescentes con medidas judiciales en vigor por violencia filio-parental en la Comunidad de Madrid. Los jóvenes estudiados mostraban un perfil de uso peligroso de internet, con un empleo abusivo y desorganizado centrado en redes sociales y videojuegos, sesiones de hasta 18 horas diarias, conductas con rasgos adictivos que incluían descuido de la higiene personal, y exposición frecuente a contenidos como pornografía, violencia o apuestas. El estudio destaca la percepción de ineficacia de los padres y las madres para establecer límites digitales claros, agravada cuando los hijos consiguen saltarse los controles parentales o cuando los progenitores están separados. A partir de los 14 años, según la investigación, se observa una escalada en la resistencia a la supervisión parental. Los intentos de retirar los dispositivos derivaron, en algunos casos, en amenazas con cuchillos, coacciones o rotura de objetos, lo que genera en las familias un temor que termina reforzando actitudes permisivas. El estudio añade que factores psicológicos, como la impulsividad, y socioeconómicos, como el estrés financiero, también contribuyen a este perfil.",
+      "fuente": "Colegio Oficial de la Psicología de Madrid (COPM) — Anuario de Psicología Jurídica",
+      "url": "https://web.copmadrid.org/actualidad-y-comunicacion/noticias-y-eventos/noticias/deteccion-del-riesgo-de-suicidio-en-policias-el-estres-postraumatico-en-gaza-o-la-violencia-filio-pa-3367"
+    },
+    {
+      "tipo": "INVESTIGACIÓN",
+      "titular": "Un estudio identifica con aprendizaje automático los factores asociados a tener un familiar en prisión",
+      "cuerpo": "El volumen 36 del Anuario de Psicología Jurídica recoge también «Los factores asociados con tener familiares en prisión: un enfoque de aprendizaje automático con datos desbalanceados», un trabajo firmado por Mariana Politti, Luis A. Calvo Pascual, Gisela Delfino, Solange Rodríguez Espínola y otros autores. El estudio explora la relación entre el contexto familiar y socioeconómico y la probabilidad de tener a un pariente en prisión, a partir de una muestra de más de 17.000 personas analizada mediante un programa de inteligencia artificial diseñado para problemas de clasificación con datos muy desequilibrados. La investigación identifica cinco factores asociados: el bajo estatus socioeconómico, el hacinamiento en el hogar, un nivel educativo limitado, la falta de vivienda en propiedad y la precariedad laboral, que expone a los trabajadores a mayores estresores económicos y a un mayor contacto con la Justicia. El análisis con inteligencia artificial permitió, además, identificar diferencias según el género y la edad: la falta de educación formal impacta más en el riesgo de encarcelamiento de un familiar en el caso de los hombres, mientras que el hacinamiento resulta más relevante para predecir dicho riesgo entre los menores de 25 años. Los autores destacan el uso de técnicas de aprendizaje automático como una vía para abordar conjuntos de datos con una representación muy desigual entre categorías, algo habitual en este tipo de estudios sociales.",
+      "fuente": "Colegio Oficial de la Psicología de Madrid (COPM) — Anuario de Psicología Jurídica",
+      "url": "https://web.copmadrid.org/actualidad-y-comunicacion/noticias-y-eventos/noticias/deteccion-del-riesgo-de-suicidio-en-policias-el-estres-postraumatico-en-gaza-o-la-violencia-filio-pa-3367"
+    }
+  ],
+  "internacionales": [],
+  "papers": [
+    {
+      "apa": "Kuang, N., Hammond, C. J., Salmeron, B. J., Xiao, X., Wang, D., Murray, L., Gu, H., Zhai, T., Zheng, H., Hill, J., Scavinicky, M., Lu, H., Janes, A., Ross, T. J., & Yang, Y. (2026). Brain morphological pattern is associated with the presence, severity and transition of transdiagnostic psychiatric disorders in preadolescents. Nature Mental Health.",
+      "doi": "10.1038/s44220-026-00704-7",
+      "hallazgo": "Un equipo liderado por Nanyu Kuang y Yihong Yang, del Instituto Nacional sobre el Abuso de Drogas de los Institutos Nacionales de Salud de Estados Unidos, ha publicado en Nature Mental Health un estudio longitudinal con 8.672 menores del estudio Adolescent Brain Cognitive Development (ABCD), de entre 9 y 10 años al inicio (4.412 niños y 4.260 niñas). Mediante un enfoque de aprendizaje automático basado en análisis de correlación canónica, los autores relacionaron medidas de morfología cortical (superficie, volumen cortical y subcortical, grosor cortical y profundidad de surcos y circunvoluciones) con evaluaciones conductuales que incluían puntuaciones cognitivas y medidas psicológicas de motivación, control de impulsos y estados mentales. Identificaron un patrón cerebral estable que se correlacionaba positivamente con el rendimiento cognitivo y negativamente con las medidas de psicopatología: las puntuaciones más altas se asociaban a mayor superficie y volumen cortical, especialmente en las circunvoluciones temporales. Este patrón se relacionó de forma dosis-dependiente con el número de diagnósticos psiquiátricos acumulados, tanto en el momento del estudio como en el seguimiento a dos años, y con las transiciones entre estados de salud y de diagnóstico a lo largo del tiempo.",
+      "implicacion": "Los autores sugieren que estos hallazgos podrían orientar, en el futuro, enfoques de cribado temprano basados en patrones de morfología cerebral en la infancia, aunque señalan que se trata de una asociación observacional que no establece causalidad y cuya utilidad clínica directa todavía no está validada."
+    }
+  ],
+  "herramientas": [
+    {
+      "nombre": "Escala de Valoración del Riesgo de Suicidio en la Policía Nacional (VRS-PN)",
+      "descripcion": "Instrumento de casi 40 ítems y ocho factores, validado con agentes de la Policía Nacional española, pensado para apoyar la detección del riesgo de suicidio en cuerpos de seguridad."
+    },
+    {
+      "nombre": "Escala de Propensión a la Desconexión Moral, versión española (PMDS-S)",
+      "descripcion": "Instrumento validado en tres versiones (24, 16 y 8 ítems) con una muestra de más de 340 adultos residentes en España, orientado a evaluar la tendencia a desconectarse moralmente de las propias conductas."
+    }
+  ],
+  "alertas": [
+    {
+      "estado": "APROBADO",
+      "titulo": "El Real Decreto 239/2026 exige acreditación permanente del personal en consultas y centros de Psicología antes del 1 de enero de 2027",
+      "descripcion": "El Real Decreto 239/2026, de 25 de marzo, en vigor desde el 1 de julio de 2026, modifica el Real Decreto 1277/2003 e incorpora un nuevo artículo 7 que obliga a los centros y consultas sanitarias, incluidas las de Psicología, a acreditar de forma permanente y continuada que la atención es prestada por profesionales con la titulación oficial correspondiente (el título de Especialista en Psicología Clínica, o el Máster Universitario en Psicología General Sanitaria junto con el Grado o la Licenciatura en Psicología). La norma exige además disponer de un expediente personal actualizado de todo el personal sanitario, incluido el que trabaja a tiempo parcial, como colaborador externo o mediante telepsicología. Según la disposición adicional primera, el plazo para tener esta documentación lista es el 1 de enero de 2027. Las comunidades autónomas disponen, por su parte, hasta el 1 de julio de 2027 para adaptar la oferta asistencial registrada de los centros a los cambios introducidos en los anexos del Real Decreto 1277/2003."
+    }
+  ],
+  "prioridades": [
+    {
+      "titulo": "Revisar la documentación acreditativa antes del plazo del RD 239/2026",
+      "descripcion": "Puede ser útil ir revisando ya la documentación acreditativa de todo el personal que presta atención en el centro, dado que el plazo para tener actualizados los expedientes profesionales vence el 1 de enero de 2027."
+    },
+    {
+      "titulo": "Explorar instrumentos de cribado de riesgo de suicidio adaptados a colectivos específicos",
+      "descripcion": "A la luz de la validación de la escala VRS-PN, puede ser relevante explorar instrumentos de evaluación del riesgo de suicidio diseñados o adaptados a colectivos profesionales concretos, cuando se trabaje con este tipo de población."
+    },
+    {
+      "titulo": "Incorporar el uso de las TIC en la valoración de la violencia filio-parental",
+      "descripcion": "Puede ser oportuno incorporar una valoración específica del uso de dispositivos y redes sociales al abordar casos de conflictividad o violencia filio-parental, dado que este estudio señala su papel en la escalada de estos conflictos."
+    }
+  ],
+  "fuentes_verificadas": [
+    "https://web.copmadrid.org/actualidad-y-comunicacion/noticias-y-eventos/noticias/deteccion-del-riesgo-de-suicidio-en-policias-el-estres-postraumatico-en-gaza-o-la-violencia-filio-pa-3367",
+    "https://www.nature.com/articles/s44220-026-00704-7",
+    "https://www.infocop.es/refuerzo-de-las-garantias-de-atencion-sanitaria-y-nuevas-obligaciones-para-consultas-y-centros-de-psicologia-claves-del-nuevo-real-decreto-239-2026/",
+    "https://journals.copmadrid.org/apj/numero_actual.php"
+  ],
+  "carousel": {
+    "noticia_seleccionada": "Una escala pionera valida la detección del riesgo de suicidio en agentes de la Policía Nacional",
+    "slide1": {
+      "titular": "Una escala pionera detecta el riesgo de suicidio en policías",
+      "subtitulo": "Validada por el Colegio de Madrid en su Anuario de Psicología Jurídica"
+    },
+    "slide2": {
+      "puntos": [
+        "La VRS-PN tiene casi 40 ítems repartidos en ocho factores de riesgo clave.",
+        "Se validó con más de 650 agentes de la Policía Nacional española.",
+        "Compara a población general con policías de baja por salud mental."
+      ]
+    },
+    "slide3": {
+      "puntos": [
+        "Las mujeres muestran más disimulo y regulación emocional ante el riesgo.",
+        "Los hombres se exponen más a conductas de riesgo y medios letales.",
+        "El estrés crónico pesa menos que estar de baja por salud mental."
+      ]
+    },
+    "slide4": {
+      "puntos": [
+        "La escala resultó fiable y válida para el contexto policial español.",
+        "Puede ayudar a mejorar la detección temprana en las fuerzas de seguridad.",
+        "El Anuario adopta ya un modelo de publicación continua desde este año."
+      ]
+    },
+    "slide5": {
+      "mensaje_autoridad": "Contar con instrumentos validados para colectivos específicos mejora la detección temprana del riesgo de suicidio, un paso clave para la prevención.",
+      "fuente_apa": "Gutiérrez-Jurado, J. E., y Romero Martínez, S. J. (2026). Anuario de Psicología Jurídica, 36.",
+      "cta": "Síguenos en @IPP.Psicologia"
+    }
+  },
+  "copy_rrss": "El Colegio de Madrid valida una escala pionera para detectar el riesgo de suicidio en agentes de la Policía Nacional, con casi 40 ítems y probada en más de 650 policías.",
+  "hashtags": [
+    "#Psicología",
+    "#SaludMental",
+    "#PsicologíaJurídica",
+    "#PrevenciónSuicidio",
+    "#IPP"
+  ]
+}
