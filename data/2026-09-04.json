@@ -1,34 +1,39 @@
 {
-  "titulo": "El Ministerio del Interior firma un convenio con la Psicología para el bienestar de sus empleados, Infocop revisa la evidencia sobre el uso prolongado de antidepresivos y la convención de la APA 2026 sitúa la inteligencia artificial entre sus retos: claves del 4 de septiembre de 2026",
+  "titulo": "Infocop revisa la evidencia sobre el uso prolongado de antidepresivos, ASAENES publica una guía de derechos en salud mental y un estudio documenta el abuso de poder en la formación médica: claves del 4 de septiembre de 2026",
   "nota_editorial": "Las claves prácticas que se recogen a continuación forman parte del análisis editorial del Observatorio de Actualidad del IPP y no constituyen recomendación clínica individualizada.",
-  "resumen": "El Ministerio del Interior ha firmado un convenio con el Consejo General de la Psicología y el Colegio Oficial de la Psicología de Madrid para promover el bienestar psicológico de su personal, publicado en el BOE. Infocop recoge una revisión que cuestiona la solidez de la evidencia sobre el uso prolongado de antidepresivos, al no distinguir siempre entre recaídas y síntomas de retirada. La convención anual de la APA 2026 ha situado la inteligencia artificial y sus implicaciones éticas entre los principales retos de la Psicología. Un estudio en Nature Communications aporta nueva evidencia sobre el sistema glinfático y la eliminación de proteínas asociadas al alzhéimer durante el sueño. Además, sigue abierto el plazo de solicitudes de las 293 plazas PIR de Psicología Clínica.",
+  "resumen": "Infocop recoge una revisión que cuestiona la solidez de la evidencia sobre el uso prolongado de antidepresivos, al no distinguir siempre entre recaídas y síntomas de retirada. ASAENES Salud Mental Sevilla ha publicado una guía práctica para ayudar a las personas a conocer y defender sus derechos en el ámbito de la salud mental. Un estudio cualitativo de la Universidad Miguel Hernández y el CIBERESP documenta situaciones de abuso de poder relatadas por estudiantes y residentes de Medicina en España. Además, una investigación realizada en centros privados de la Comunidad de Madrid analiza cómo el apego del paciente y el estilo del terapeuta predicen la calidad de la alianza terapéutica, y un estudio en Nature Communications aporta nueva evidencia sobre el sistema glinfático y la eliminación de proteínas asociadas al alzhéimer durante el sueño.",
   "audiencia": "ambos",
   "nacionales": [
-    {
-      "tipo": "NORMATIVA",
-      "titular": "El Ministerio del Interior firma un convenio con la Psicología para promover el bienestar de sus empleados",
-      "cuerpo": "El Boletín Oficial del Estado ha publicado la Resolución de 6 de julio de 2026 de la Secretaría General Técnica del Ministerio del Interior, por la que se hace público el convenio suscrito el 3 de julio de 2026 entre la Subsecretaría de Interior, el Consejo General de Colegios Oficiales de Psicólogos y el Colegio Oficial de la Psicología de Madrid. El acuerdo, publicado en el BOE número 170 de 14 de julio de 2026, tiene como objeto establecer la colaboración entre las tres instituciones para desarrollar actuaciones de información, sensibilización, divulgación y prevención en materia de bienestar psicológico dirigidas al personal de los servicios centrales del Ministerio del Interior. Entre los compromisos asumidos, el Consejo General de Colegios Oficiales de Psicólogos se compromete a poner a disposición documentos y materiales técnicos y divulgativos en diversos formatos, mientras que el Colegio Oficial de la Psicología de Madrid se encargará de identificar a profesionales con experiencia para participar en actividades informativas y seminarios de sensibilización. El convenio no comporta ningún tipo de aportación económica para ninguna de las partes firmantes y tendrá una duración de cuatro años desde su eficacia, prorrogable por un periodo adicional de hasta cuatro años más si las partes lo acuerdan de forma unánime. Su desarrollo y seguimiento corresponderá a una Comisión Mixta de Seguimiento integrada por representantes de las tres entidades firmantes.",
-      "fuente": "Boletín Oficial del Estado (BOE)",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-15368"
-    },
     {
       "tipo": "CLÍNICA",
       "titular": "Una revisión cuestiona la solidez de la evidencia que respalda el uso prolongado de antidepresivos",
       "cuerpo": "Infocop, medio de comunicación del Consejo General de la Psicología de España, ha difundido un análisis publicado en la revista Australian Journal of General Practice por Horowitz, Wallis y Moncrieff (2026), que revisa la evidencia disponible sobre el mantenimiento de los tratamientos antidepresivos durante más de doce meses. Según recoge el artículo, la principal evidencia a favor de la continuidad del tratamiento procede de estudios en los que las personas son asignadas a continuar o suspender la medicación, pero estos trabajos no distinguirían adecuadamente entre los síntomas de retirada y las recaídas depresivas, lo que podría llevar a sobreestimar los beneficios de mantener el fármaco. El análisis revisa el ensayo ANTLER, uno de los estudios más citados en este debate, y señala que, aunque mostró menores tasas de recaída entre quienes continuaron la medicación, también informó de síntomas de retirada frecuentes y persistentes sin diferenciarlos claramente de una recaída. Los autores citan además un metaanálisis según el cual las personas que reducen los antidepresivos de forma gradual y con apoyo psicológico presentan tasas de recaída similares a las de quienes continúan con el tratamiento. Entre los riesgos asociados al uso prolongado, el artículo menciona la disfunción sexual, que según los estudios revisados puede afectar entre el 50 % y el 80 % de las personas usuarias, así como síntomas de retirada que, según los datos revisados, podrían prolongarse durante meses o años en hasta el 15 % de quienes han utilizado estos tratamientos durante periodos largos. Los autores concluyen que la continuidad del tratamiento debería revisarse periódicamente, favoreciendo la toma de decisiones compartida entre profesionales y pacientes.",
       "fuente": "Infocop (Consejo General de la Psicología de España)",
       "url": "https://www.infocop.es/analisis-de-los-posibles-beneficios-y-perjuicios-de-mantener-los-antidepresivos-a-largo-plazo/"
-    }
-  ],
-  "internacionales": [
+    },
     {
-      "tipo": "INVESTIGACIÓN",
-      "titular": "La convención de la APA 2026 sitúa la inteligencia artificial entre los principales retos de la Psicología",
-      "cuerpo": "La Convención Anual de la American Psychological Association (APA) 2026, celebrada del 6 al 8 de agosto en Washington D. C., reunió a miles de investigadores, profesionales, docentes, estudiantes y responsables de políticas públicas en un programa que incluyó cerca de 1.000 sesiones, según recoge Infocop, medio de comunicación del Consejo General de la Psicología de España. Marta Labrador Méndez y Silvia Berdullas Saunders acudieron al encuentro en representación del Consejo General de la Psicología. La inteligencia artificial ocupó un espacio relevante en la programación, con sesiones específicas sobre su aplicación en la terapia, las relaciones sociales y el trabajo, además de una sesión del Comité de Ética de la APA dedicada a los problemas éticos asociados a su adopción. El debate se enmarca en los resultados de la encuesta 2026 Chatbots and Mental Health Survey de la APA, realizada a 1.242 psicólogos de Estados Unidos con atención directa a pacientes: el 77 % había hablado con pacientes que habían utilizado inteligencia artificial como apoyo, y el 35 % informó de pacientes que la utilizaban como un profesional adicional de salud mental. Entre los psicólogos cuyos pacientes mantenían conversaciones continuadas con chatbots, el 36 % observó algún grado de dependencia y el 15 % informó de pensamientos distorsionados o ideas delirantes relacionados con estas herramientas. El 94 % de los psicólogos encuestados manifestó preocupación por el uso de estas tecnologías en determinados pacientes. La convención abordó también las adicciones, el dolor crónico, el bullying, el autismo en la edad adulta, el desarrollo en entornos digitales y los efectos psicológicos del cambio climático.",
-      "fuente": "Infocop (Consejo General de la Psicología de España)",
-      "url": "https://www.infocop.es/congreso-apa-2026-aborda-los-principales-retos-actuales-para-la-psicologia-y-la-salud-mental/"
+      "tipo": "SALUD PÚBLICA",
+      "titular": "Una guía práctica ayuda a reconocer y defender los derechos de las personas con problemas de salud mental",
+      "cuerpo": "ASAENES Salud Mental Sevilla ha publicado la guía «No todo está en los Manuales: Derechos en Salud Mental», un documento recogido por Infocop que ofrece una herramienta práctica, accesible y comprensible para ayudar a las personas a conocer, identificar y defender sus derechos en el ámbito de la salud mental. La guía se organiza en torno a varios ejes: el derecho a la autonomía personal y a la toma de decisiones informadas sobre el propio tratamiento y proyecto vital; el derecho a un trato digno y a la no discriminación, señalando prácticas como dirigirse únicamente a la familia o identificar a la persona por su diagnóstico; el derecho a la intimidad y la vida privada, con ejemplos como el acceso a la habitación sin previo aviso durante un ingreso; el derecho a la información, subrayando que no puede existir un consentimiento válido sin una comprensión real de lo que se explica; el derecho a una vida plena, que incluye vivienda, empleo y relaciones sociales; y el derecho a la libertad y a no sufrir tratos degradantes, cuestionando prácticas como las sujeciones mecánicas o la sedación forzada. El documento concluye con un apartado de recursos y mecanismos de defensa, entre ellos el Defensor del Pueblo Andaluz, la Oficina de Atención a la Discapacidad y el CERMI, subrayando que la defensa de derechos no debe afrontarse en solitario.",
+      "fuente": "Infocop (Consejo General de la Psicología de España) / ASAENES Salud Mental Sevilla",
+      "url": "https://www.infocop.es/derechos-en-salud-mental-una-guia-practica-para-reconocer-ejercer-y-defender-la-autonomia-la-dignidad-y-la-libertad/"
+    },
+    {
+      "tipo": "SALUD PÚBLICA",
+      "titular": "Un estudio cualitativo documenta situaciones de abuso de poder durante la formación médica en España",
+      "cuerpo": "Un estudio cualitativo publicado en la revista Gaceta Sanitaria por Sánchez-Miralles, Blanes-Mira y Hernández-Aguado (2026), investigadores de la Universidad Miguel Hernández y el CIBERESP, ha documentado situaciones de abuso de poder relatadas por estudiantes y residentes de Medicina en España, según recoge Infocop. Los autores entrevistaron a 10 estudiantes de Medicina y 15 médicos residentes de instituciones públicas, entre marzo y septiembre de 2024, en sesiones de entre 45 y 90 minutos. Los participantes describieron humillaciones públicas, insultos, comentarios sexistas y, en algunos casos, tocamientos y besos sin consentimiento. Prácticamente todos los entrevistados afirmaron haberse sentido invisibles o ignorados sistemáticamente durante sus rotaciones clínicas, y más de la mitad percibió falta de interés por parte de algunos profesionales hacia su supervisión y enseñanza. Entre los residentes, se señaló una estructura fuertemente jerárquica en los servicios hospitalarios, supervisión insuficiente durante el primer año, sobrecarga laboral y arbitrariedades en el reparto de guardias y tareas formativas. El estudio recoge también testimonios de discriminación de género, comentarios racistas y acoso sexual. Pese a la gravedad de las situaciones descritas, solo 4 estudiantes y 6 residentes presentaron quejas formales, señalando como principales barreras el miedo a represalias, la falta de confidencialidad y la percepción de que denunciar no serviría para nada. Los autores concluyen que los resultados respaldan la idea de que el abuso forma parte del proceso de formación médica y reclaman planes institucionales de prevención y denuncia tanto en el ámbito académico como sanitario.",
+      "fuente": "Infocop (Consejo General de la Psicología de España) / Gaceta Sanitaria",
+      "url": "https://www.infocop.es/sufrir-abuso-de-poder-durante-la-formacion-medica-puede-afectar-al-bienestar-y-al-aprendizaje-de-estudiantes-y-residentes-segun-un-estudio/"
     }
   ],
+  "internacionales": [],
   "papers": [
+    {
+      "apa": "Bárez, N. B., Saúl, L. A., & Corbella, S. (2026). Predictors of therapeutic alliance: Patient attachment and the personal style of the therapist. Clinical and Health, 37, e260719. https://doi.org/10.5093/clh2026a5",
+      "doi": "10.5093/clh2026a5",
+      "hallazgo": "Un estudio con 264 pacientes y 28 terapeutas de cuatro centros privados de la Comunidad de Madrid analizó el papel predictivo del apego del paciente y del estilo personal del terapeuta sobre la alianza terapéutica, diferenciando entre una fase inicial (las cinco primeras sesiones) y una fase avanzada (a partir de la sexta sesión). El apego evitativo del paciente resultó uno de los predictores más consistentes de una alianza terapéutica más débil, tanto al inicio como en fases avanzadas del tratamiento. En la fase inicial, un mayor deterioro del funcionamiento psicológico general del paciente también se asoció con alianzas más débiles. En el conjunto de la muestra, la función atencional del terapeuta —su capacidad de mantenerse receptivo y ajustado a las necesidades cambiantes del paciente— fue el predictor que más contribuyó a explicar las diferencias en la calidad global de la alianza, mientras que su función expresiva se relacionó específicamente con el vínculo emocional entre paciente y terapeuta.",
+      "implicacion": "Los autores sugieren que los pacientes con apego evitativo podrían beneficiarse de aproximaciones graduales y poco intrusivas en el plano emocional durante las primeras etapas del tratamiento, y subrayan la importancia de que los psicólogos sean conscientes de cómo su propio estilo personal influye en la construcción de la alianza terapéutica. Se trata de un estudio realizado en un contexto clínico privado concreto, por lo que sus conclusiones podrían no ser directamente extrapolables a otros dispositivos asistenciales."
+    },
     {
       "apa": "Dagum, P., Elbert, D. L., Giovangrandi, L., Singh, T., Iliff, J. J. et al. (2026). The glymphatic system clears amyloid beta and tau from brain to plasma in humans. Nature Communications, 17, Article 715. https://doi.org/10.1038/s41467-026-68374-8",
       "doi": "10.1038/s41467-026-68374-8",
@@ -38,41 +43,35 @@
   ],
   "herramientas": [
     {
-      "nombre": "Materiales institucionales de sensibilización sobre bienestar psicológico laboral",
-      "descripcion": "Documentos, guías y contenidos audiovisuales elaborados por corporaciones profesionales de psicología para promover la sensibilización sobre salud mental y bienestar psicológico entre trabajadores de instituciones públicas y privadas."
+      "nombre": "Guías y materiales accesibles sobre derechos en salud mental",
+      "descripcion": "Documentos divulgativos elaborados por asociaciones y entidades del ámbito de la salud mental para ayudar a las personas usuarias y a sus familias a conocer, identificar y ejercer sus derechos en el contexto clínico y social."
     },
     {
       "nombre": "Recursos de apoyo a la toma de decisiones compartida en tratamientos farmacológicos",
       "descripcion": "Materiales de psicoeducación pensados para acompañar a profesionales y pacientes en la valoración conjunta de los beneficios y riesgos de mantener, reducir o suspender un tratamiento farmacológico, favoreciendo un proceso informado y seguro."
     }
   ],
-  "alertas": [
-    {
-      "estado": "EN TRAMITACIÓN",
-      "titulo": "Continúa abierto el plazo de solicitudes de la convocatoria PIR 2026-2027",
-      "descripcion": "El Ministerio de Sanidad ha convocado, mediante la Orden SND/854/2026 publicada en el Boletín Oficial del Estado, 293 plazas de formación sanitaria especializada en Psicología Clínica (PIR) para el acceso en 2027, un 4,6 % más que las 280 plazas ofertadas el año anterior. De las 293 plazas, 269 corresponden a centros de titularidad pública y 24 a centros privados, con 29 plazas reservadas al turno de personas con discapacidad. El plazo de presentación de solicitudes, que se tramitan mediante el modelo 790 a través de la sede electrónica del Ministerio de Sanidad, permanece abierto del 1 al 14 de septiembre de 2026, ambos inclusive. La tasa de derechos de examen es de 31,10 euros, con exenciones previstas para determinadas situaciones de desempleo, discapacidad, familia numerosa o condición de víctima de terrorismo. Para participar es necesario disponer del título oficial de Grado o Licenciatura en Psicología, o su homologación en el caso de titulaciones extranjeras."
-    }
-  ],
+  "alertas": [],
   "prioridades": [
     {
       "titulo": "Revisar periódicamente los tratamientos antidepresivos de larga duración",
       "descripcion": "A la luz de la evidencia revisada por Infocop, puede ser útil valorar junto con cada paciente la continuidad de los tratamientos antidepresivos mantenidos durante más de doce meses, explorando de forma conjunta los posibles beneficios y riesgos y favoreciendo la toma de decisiones compartida."
     },
     {
-      "titulo": "Explorar el papel de la inteligencia artificial en la práctica clínica",
-      "descripcion": "A partir de los datos recogidos en la convención de la APA 2026, puede ser relevante incorporar en la práctica clínica preguntas sobre el uso que hacen los pacientes de la inteligencia artificial, con el fin de acompañar una reflexión informada sobre sus posibles beneficios y riesgos."
+      "titulo": "Incorporar la perspectiva de derechos en la práctica clínica diaria",
+      "descripcion": "A partir de la guía difundida por ASAENES Salud Mental Sevilla, puede ser oportuno revisar prácticas cotidianas de la consulta, como la forma de explicar los tratamientos o de dirigirse a la persona atendida, para favorecer su autonomía, su intimidad y su participación real en las decisiones que le afectan."
     },
     {
-      "titulo": "Aprovechar los materiales institucionales sobre bienestar psicológico",
-      "descripcion": "Puede ser oportuno revisar los documentos y materiales divulgativos elaborados por corporaciones profesionales de psicología en el marco de convenios como el suscrito con el Ministerio del Interior, que pueden servir de referencia para diseñar acciones de sensibilización en otros contextos laborales."
+      "titulo": "Adaptar el estilo terapéutico al perfil de apego de cada paciente",
+      "descripcion": "Según los resultados del estudio de Bárez, Saúl y Corbella, puede ser útil prestar especial atención a los pacientes con apego evitativo, explorando aproximaciones graduales y poco intrusivas en las primeras sesiones para favorecer una alianza terapéutica más sólida."
     }
   ],
   "fuentes_verificadas": [
-    "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-15368",
     "https://www.infocop.es/analisis-de-los-posibles-beneficios-y-perjuicios-de-mantener-los-antidepresivos-a-largo-plazo/",
-    "https://www.infocop.es/congreso-apa-2026-aborda-los-principales-retos-actuales-para-la-psicologia-y-la-salud-mental/",
-    "https://www.nature.com/articles/s41467-026-68374-8",
-    "https://www.cop-cv.org/noticia/18589-publicada-la-convocatoria-pir-2026-2027"
+    "https://www.infocop.es/derechos-en-salud-mental-una-guia-practica-para-reconocer-ejercer-y-defender-la-autonomia-la-dignidad-y-la-libertad/",
+    "https://www.infocop.es/sufrir-abuso-de-poder-durante-la-formacion-medica-puede-afectar-al-bienestar-y-al-aprendizaje-de-estudiantes-y-residentes-segun-un-estudio/",
+    "https://www.infocop.es/claves-en-la-alianza-terapeutica-el-apego-del-paciente-y-el-estilo-personal-del-terapeuta/",
+    "https://www.nature.com/articles/s41467-026-68374-8"
   ],
   "carousel": {
     "noticia_seleccionada": "Revisión sobre el uso prolongado de antidepresivos: ¿beneficio real o síntomas de retirada?",
