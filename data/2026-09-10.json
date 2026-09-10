@@ -1,0 +1,126 @@
+{
+  "titulo": "El informe PISA 2025 revela el peor rendimiento educativo de España en lectura, el Día Mundial para la Prevención del Suicidio impulsa el balance del Plan Nacional y un metaanálisis identifica los componentes psicoterapéuticos más eficaces frente a la conducta suicida: claves del 10 de septiembre de 2026",
+  "nota_editorial": "Las claves prácticas que se recogen a continuación forman parte del análisis editorial del Observatorio de Actualidad del IPP y no constituyen recomendación clínica individualizada.",
+  "resumen": "El informe PISA 2025 de la OCDE sitúa a España entre los países con peor evolución en lectura y matemáticas de la última década, con un aumento del alumnado de bajo rendimiento. Coincidiendo con el Día Mundial para la Prevención del Suicidio, Infocop repasa el estado del Plan de Acción para la Prevención del Suicidio 2025-2027 y las cifras provisionales del INE. Un metaanálisis publicado en Journal of Affective Disorders identifica el entrenamiento en habilidades interpersonales y la regulación emocional como los componentes psicoterapéuticos más asociados a la reducción de intentos de suicidio. En el plano internacional, un estudio de la Universidad de Glasgow describe un riesgo de multimorbilidad significativamente mayor en mujeres con TDAH infantil, especialmente si coexiste con privación socioeconómica.",
+  "audiencia": "ambos",
+  "nacionales": [
+    {
+      "tipo": "SALUD PÚBLICA",
+      "titular": "El informe PISA 2025 confirma el peor resultado de España en lectura y matemáticas de la última década",
+      "cuerpo": "El nuevo informe PISA 2025, publicado por la Organización para la Cooperación y el Desarrollo Económicos (OCDE) junto con el documento específico dedicado a España, confirma un nuevo deterioro del rendimiento educativo entre los y las adolescentes de 15 años. En esta edición participaron más de 760.000 estudiantes de 91 países y economías, representativos de unos 33 millones de jóvenes de esa edad; en España fueron evaluados 29.967 estudiantes de 956 centros educativos. España obtiene 477 puntos en ciencias, 457 en matemáticas y 451 en lectura, frente a las medias de la OCDE de 482, 463 y 461 puntos respectivamente, situándose por debajo del promedio en los tres ámbitos. Respecto a PISA 2022, el rendimiento español desciende 23 puntos en lectura, 16 en matemáticas y 7 en ciencias, y en la comparación con 2015 la caída alcanza los 45 puntos en lectura y los 29 en matemáticas, una magnitud que la OCDE equipara, de forma orientativa, a más de dos cursos escolares perdidos en lectura. Desde 2015 ha aumentado también el porcentaje de alumnado con bajo rendimiento: 15 puntos porcentuales más en lectura, 11 en matemáticas y 6 en ciencias. Actualmente, un 32% del alumnado español no alcanza el nivel básico de competencia lectora. El informe añade que el 14% del alumnado español declara haber sufrido acoso escolar varias veces al mes, seis puntos menos que la media de la OCDE, aunque la prevalencia ha repuntado desde 2022, y que el 54% utiliza chatbots de IA para estudiar al menos una vez por semana, diez puntos más que la media de la OCDE.",
+      "fuente": "Infocop (Consejo General de la Psicología de España), a partir del informe PISA 2025 de la OCDE",
+      "url": "https://www.infocop.es/espana-registra-sus-peores-resultados-en-lectura-y-matematicas-y-aumenta-el-alumnado-con-bajo-rendimiento-segun-el-nuevo-informe-pisa/"
+    },
+    {
+      "tipo": "SALUD PÚBLICA",
+      "titular": "España repasa el estado del Plan Nacional de Prevención del Suicidio en su día mundial",
+      "cuerpo": "Hoy, 10 de septiembre, se celebra el Día Mundial para la Prevención del Suicidio, jornada promovida por la Asociación Internacional para la Prevención del Suicidio (IASP) y la Organización Mundial de la Salud (OMS). Según datos del INE recogidos por Infocop, en 2024 se registraron en España 3.953 fallecimientos por suicidio, un 4,0% menos que en 2023, siendo la primera causa externa de muerte en hombres (2.902 fallecidos) y la tercera entre mujeres (1.051 fallecidas); ese mismo año se quitaron la vida 90 menores de 20 años, la cifra más alta de los últimos ejercicios. Los datos provisionales del INE para el primer semestre de 2025 contabilizan ya 3.808 fallecimientos. El Informe Anual de las Líneas de Ayuda ANAR 2025 señala que la conducta suicida se mantiene, por cuarto año consecutivo, como el principal motivo de consulta entre menores atendidos por la Fundación, con 6.467 casos, de los cuales 1.405 ya habían iniciado una tentativa; las autolesiones aumentaron un 35,2%, pasando de 3.375 casos en 2024 a 4.564 en 2025. El Consejo Interterritorial del Sistema Nacional de Salud aprobó en febrero de 2025 el primer Plan de Acción para la Prevención del Suicidio de ámbito estatal (2025-2027). Durante 2026 se ha avanzado en su desarrollo: en marzo, el Consejo de Ministros aprobó la creación del Observatorio para la Prevención del Suicidio, y en mayo el Consejo Interterritorial aprobó los criterios de reparto de 56,83 millones de euros para salud mental y prevención del suicidio, de los cuales 17,83 millones se destinan específicamente a este Plan. El 10 de junio, además, el Pleno del Senado aprobó un informe con recomendaciones para reforzar la prevención y la atención psicológica.",
+      "fuente": "Infocop (Consejo General de la Psicología de España)",
+      "url": "https://www.infocop.es/la-prevencion-del-suicidio-avanzar-desde-la-evidencia-hacia-la-accion-dia-mundial-para-la-prevencion-del-suicidio/"
+    }
+  ],
+  "internacionales": [
+    {
+      "tipo": "INVESTIGACIÓN",
+      "titular": "Un estudio de la Universidad de Glasgow vincula el TDAH infantil femenino con un mayor riesgo de multimorbilidad en la vida adulta",
+      "cuerpo": "Un estudio de cohorte longitudinal liderado por la Universidad de Glasgow y publicado en Nature Mental Health concluye que las mujeres diagnosticadas de trastorno por déficit de atención e hiperactividad (TDAH) en la infancia presentan un riesgo significativamente mayor de desarrollar multimorbilidad física y mental en la vida adulta temprana. La investigación analizó datos enlazados de atención primaria y hospitalaria de más de 120.000 mujeres nacidas en Gales entre 1991 y 1998, seguidas desde la infancia hasta edades comprendidas entre los 18 y los 32 años a través del banco de datos SAIL. Tras aplicar un emparejamiento por puntuación de propensión, las mujeres con TDAH infantil mostraron una probabilidad de multimorbilidad 2,38 veces mayor que los controles emparejados; cuando el TDAH coincidía con pertenecer al quintil de mayor privación socioeconómica en la infancia, la probabilidad ascendía a 3,91 veces. El análisis de interacción aditiva indicó un efecto probablemente sinérgico entre ambos factores, con una proporción atribuible del 39% del exceso de riesgo en el grupo con ambas exposiciones. Mediante análisis de clases latentes, el equipo identificó distintos patrones de multimorbilidad; el más grave, denominado multimorbilidad pan-sistémica, se caracterizó por una carga psiquiátrica especialmente elevada entre las mujeres con TDAH, con mayor presencia de trastorno de estrés postraumático y trastorno límite de la personalidad que en el resto de grupos. Las autoras concluyen que las niñas con TDAH procedentes de entornos desfavorecidos constituyen un grupo de alto riesgo que podría beneficiarse de una atención más temprana e integrada.",
+      "fuente": "Nature Mental Health / Universidad de Glasgow",
+      "url": "https://www.nature.com/articles/s44220-026-00653-1"
+    }
+  ],
+  "papers": [
+    {
+      "apa": "van Eijk, N. L., Creemers, D. H. M., Marchand, A. C. E., de Winter, R. F. P., Schweren, L. J. S., Gilissen, R., & van Ballegooijen, W. (2026). Identifying (effective) elements in the psychological treatment of suicidality: A systematic review and meta-analysis. Journal of Affective Disorders, 407, 121806.",
+      "doi": "10.1016/j.jad.2026.121806",
+      "hallazgo": "Una revisión sistemática y metaanálisis publicado en Journal of Affective Disorders analizó los componentes concretos de las intervenciones psicológicas dirigidas a reducir la conducta suicida. Tras examinar 15.249 registros, los autores incluyeron 56 estudios con 60 intervenciones y 4.627 participantes en los grupos de intervención (edad media de 35 años, 53,3% mujeres), identificando 21 componentes terapéuticos diferentes, con una media de 6,7 por intervención. De los 18 componentes analizables mediante metaanálisis, 11 mostraron reducciones estadísticamente significativas de los intentos de suicidio. La mayor reducción se observó en las intervenciones con entrenamiento en habilidades interpersonales, asociadas a una disminución del 53% en los intentos de suicidio frente a los grupos de comparación, seguidas del entrenamiento en regulación emocional y las técnicas de mindfulness y relajación. También se hallaron resultados significativos para el manejo de crisis y la planificación de seguridad, el apoyo social, el contacto de seguimiento, las técnicas cognitivas y la psicoeducación, aunque los autores advierten de que estos análisis no permiten atribuir el efecto a cada componente de forma aislada. Un hallazgo relevante fue que incorporar más componentes no se relacionó con una mayor eficacia, sino con resultados ligeramente menos favorables. El 81,8% de los estudios presentó un riesgo de sesgo alto, por lo que los resultados requieren cautela.",
+      "implicacion": "Los resultados sugieren que, en el diseño de intervenciones para prevenir la conducta suicida, puede ser más relevante priorizar componentes concretos como el entrenamiento en habilidades interpersonales, la regulación emocional y el manejo de crisis, en lugar de acumular un número elevado de estrategias. Los autores plantean que estos hallazgos podrían orientar hacia intervenciones más centradas y personalizadas, aunque señalan que la evidencia disponible no permite todavía establecer con certeza qué componente es responsable, por sí mismo, de los efectos observados."
+    }
+  ],
+  "herramientas": [
+    {
+      "nombre": "Línea telefónica pública de atención a la conducta suicida",
+      "descripcion": "Recurso institucional gratuito, promovido por el Ministerio de Sanidad, de contención emocional mediante escucha activa por parte de profesionales, con derivación a los servicios sanitarios del Sistema Nacional de Salud o al 112 en situaciones de emergencia."
+    }
+  ],
+  "alertas": [
+    {
+      "estado": "APROBADO",
+      "titulo": "Plan de Acción para la Prevención del Suicidio 2025-2027",
+      "descripcion": "El Consejo Interterritorial del Sistema Nacional de Salud aprobó en febrero de 2025 el primer Plan de Acción para la Prevención del Suicidio de ámbito estatal, elaborado conforme a las recomendaciones de la OMS, con el objetivo declarado de reducir y prevenir la conducta suicida, con especial atención a las personas y colectivos en situación de vulnerabilidad. Su desarrollo corresponde de forma coordinada al Ministerio de Sanidad y a las comunidades autónomas."
+    },
+    {
+      "estado": "APROBADO",
+      "titulo": "Observatorio para la Prevención del Suicidio",
+      "descripcion": "En marzo de 2026, el Consejo de Ministros aprobó la creación del Observatorio para la Prevención del Suicidio, concebido como instrumento para recopilar, analizar y difundir información sobre la conducta suicida, favorecer la coordinación entre administraciones y evaluar el impacto de las políticas desarrolladas en este ámbito."
+    },
+    {
+      "estado": "APROBADO",
+      "titulo": "Reparto de 56,83 millones de euros para salud mental y prevención del suicidio",
+      "descripcion": "En mayo de 2026, el Consejo Interterritorial del Sistema Nacional de Salud aprobó los criterios de reparto de 56,83 millones de euros destinados a actuaciones en salud mental y prevención del suicidio, de los cuales 17,83 millones de euros se asignan específicamente al desarrollo del Plan de Acción para la Prevención del Suicidio 2025-2027. La gestión y ejecución de estos fondos corresponde a las comunidades autónomas, condicionada a proyectos con enfoque comunitario y de equidad."
+    }
+  ],
+  "prioridades": [
+    {
+      "titulo": "Revisar los protocolos de detección temprana del riesgo suicida",
+      "descripcion": "Puede ser útil revisar periódicamente los protocolos de cribado y las señales de riesgo en consulta, dado que el principal factor de riesgo sigue siendo, con diferencia, el historial de intentos previos."
+    },
+    {
+      "titulo": "Priorizar componentes concretos en las intervenciones frente a la conducta suicida",
+      "descripcion": "A la luz del metaanálisis publicado hoy, puede ser relevante dar peso al entrenamiento en habilidades interpersonales, la regulación emocional y el manejo de crisis, en lugar de acumular un número elevado de técnicas en una misma intervención."
+    },
+    {
+      "titulo": "Atender al deterioro de la lectura crítica y su impacto psicoeducativo",
+      "descripcion": "Puede ser oportuno tener en cuenta, en la evaluación y la intervención psicoeducativa con adolescentes, el descenso en competencia lectora y en la capacidad de evaluar críticamente la información que señala PISA 2025."
+    }
+  ],
+  "fuentes_verificadas": [
+    "https://www.infocop.es/espana-registra-sus-peores-resultados-en-lectura-y-matematicas-y-aumenta-el-alumnado-con-bajo-rendimiento-segun-el-nuevo-informe-pisa/",
+    "https://www.infocop.es/la-prevencion-del-suicidio-avanzar-desde-la-evidencia-hacia-la-accion-dia-mundial-para-la-prevencion-del-suicidio/",
+    "https://www.infocop.es/que-componentes-de-la-psicoterapia-ayudan-a-prevenir-los-intentos-de-suicidio-un-metaanalisis-analiza-los-elementos-mas-eficaces/",
+    "https://www.nature.com/articles/s44220-026-00653-1"
+  ],
+  "carousel": {
+    "noticia_seleccionada": "España repasa el estado del Plan Nacional de Prevención del Suicidio en su día mundial",
+    "slide1": {
+      "titular": "Día mundial para la prevención del suicidio",
+      "subtitulo": "Así avanza el plan nacional en España"
+    },
+    "slide2": {
+      "puntos": [
+        "3.953 fallecimientos por suicidio en España en 2024",
+        "90 menores de 20 años se quitaron la vida ese año",
+        "3.808 fallecimientos ya en los datos provisionales de 2025",
+        "El suicidio es prevenible con detección temprana"
+      ]
+    },
+    "slide3": {
+      "puntos": [
+        "Plan de Acción para la Prevención del Suicidio 2025-2027 aprobado",
+        "Nuevo Observatorio para la Prevención del Suicidio en marcha",
+        "17,83 millones de euros destinados al plan estatal",
+        "El historial de intentos previos, principal factor de riesgo"
+      ]
+    },
+    "slide4": {
+      "puntos": [
+        "Hablar del suicidio no incita a hacerlo, ayuda a prevenirlo",
+        "El apoyo familiar y social actúa como factor protector",
+        "La formación en detección salva vidas",
+        "Línea 024, atención gratuita las 24 horas"
+      ]
+    },
+    "slide5": {
+      "mensaje_autoridad": "El suicidio es un problema de salud pública prevenible que requiere una respuesta multisectorial e interdisciplinar de toda la sociedad",
+      "fuente_apa": "Organización Mundial de la Salud (2025)",
+      "cta": "Síguenos en @IPP.Psicologia"
+    }
+  },
+  "copy_rrss": "Hoy es el Día Mundial para la Prevención del Suicidio: repasamos cómo avanza el plan nacional y qué dice la ciencia sobre las terapias que mejor funcionan.",
+  "hashtags": [
+    "#PrevencionDelSuicidio",
+    "#SaludMental",
+    "#Psicologia",
+    "#DiaMundial",
+    "#IPP"
+  ]
+}
