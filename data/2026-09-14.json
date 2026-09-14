@@ -1,0 +1,109 @@
+{
+  "titulo": "ANAR publica una guía de prevención del suicidio infantojuvenil, la Comisión de test del COP evalúa seis pruebas psicológicas y un estudio genético identifica 11 regiones de riesgo del trastorno límite de la personalidad: claves del 14 de septiembre de 2026",
+  "nota_editorial": "Las claves prácticas que se recogen a continuación forman parte del análisis editorial del Observatorio de Actualidad del IPP y no constituyen recomendación clínica individualizada.",
+  "resumen": "La Fundación ANAR ha publicado una guía de prevención del suicidio en la infancia y la adolescencia dirigida a familias y profesionales. La Comisión de Test del Consejo General de la Psicología ha hecho pública su decimotercera evaluación de pruebas psicológicas editadas en España. Un estudio internacional liderado desde Alemania ha identificado, por primera vez, regiones genómicas asociadas al trastorno límite de la personalidad. Además, un metaanálisis publicado en Psicothema respalda el uso de la Terapia de Aceptación y Compromiso en cuidados paliativos.",
+  "audiencia": "ambos",
+  "nacionales": [
+    {
+      "tipo": "CLÍNICA",
+      "titular": "ANAR publica una guía para prevenir y actuar ante el intento de suicidio en menores de edad",
+      "cuerpo": "La Fundación ANAR ha publicado la guía «Cómo prevenir y actuar ante el intento de suicidio de un/a menor de edad», dirigida tanto a familias como a profesionales que trabajan con niños, niñas y adolescentes. El documento define el suicidio como un acto intencionado de autolesión con resultado de muerte, y diferencia este concepto de la conducta suicida, que engloba un espectro más amplio de pensamientos, ideación, planificación e intentos. La guía describe la conducta suicida como un fenómeno complejo y multidimensional, con una dimensión emocional (tristeza intensa, desesperanza, culpa o vergüenza), una dimensión conductual (ideación, intentos o autolesiones) y una dimensión existencial asociada a la pérdida de sentido vital. Entre los factores de riesgo identificados figuran la ideación suicida previa, los síntomas depresivos y de ansiedad combinados con impulsividad o consumo de alcohol, y experiencias adversas en la infancia como el abuso, el acoso escolar, la violencia o el estrés postraumático. El documento detalla señales de alerta como cambios bruscos del estado de ánimo, retraimiento social, alteraciones del sueño o la alimentación, bajada del rendimiento académico, autolesiones o la despedida inusual de personas cercanas. Para las familias, ANAR recomienda una comunicación abierta y basada en la escucha activa, hablar directamente sobre cómo se siente el menor sin rodeos, validar sus emociones y evitar minimizar el sufrimiento. Ante una sospecha clara de ideación suicida, la guía es contundente: la prioridad absoluta es la seguridad del menor, por lo que recomienda no dejarlo solo, contactar con los servicios de emergencia si el riesgo es inminente y buscar apoyo profesional especializado. Para el entorno escolar, se insiste en difundir líneas de ayuda, aplicar los protocolos establecidos por la ley y formar al personal educativo en la detección de señales de riesgo. La guía también desmiente mitos frecuentes, como que hablar del suicidio pueda inducirlo, y explica los conceptos de efecto Werther (aumento del riesgo tras una cobertura mediática sensacionalista) y efecto Papageno (prevención a través de historias de superación y búsqueda de ayuda).",
+      "fuente": "Fundación ANAR, a través de Infocop",
+      "url": "https://www.infocop.es/prevencion-del-suicidio-en-la-infancia-y-la-adolescencia-recomendaciones-practicas-para-familias-y-profesionales/"
+    },
+    {
+      "tipo": "HERRAMIENTA",
+      "titular": "La Comisión de Test del COP publica su decimotercera evaluación de pruebas psicológicas editadas en España",
+      "cuerpo": "La Comisión Nacional de Test del Consejo General de la Psicología de España ha publicado, en el tercer número de 2026 de la revista Papeles del Psicólogo, los resultados de su decimotercera evaluación de test, correspondiente a 2024. El artículo, firmado por Sergio Escorial Martín (Universidad Complutense de Madrid), analiza seis instrumentos: cinco comerciales (ATENTO, cuestionario para la evaluación de las funciones ejecutivas y el TDAH; BFQ-2, cuestionario de los cinco grandes factores de personalidad; Batería EBE, de bienestar educativo; EVT-3 y PPVT-5, de vocabulario) y uno no comercial, el CoPsoQ-Istas21 de riesgos psicosociales. Con esta edición, el número total de test revisados por la Comisión desde el inicio del proyecto en 2010 asciende a 116. El proceso de evaluación incorpora a 12 expertos y expertas, dos por cada prueba, que aplican el Cuestionario para la Evaluación de Test Revisado (CET-R v1.1) analizando la fundamentación, las evidencias de validez y fiabilidad, y los baremos de cada instrumento. Los resultados de esta decimotercera edición muestran una notable heterogeneidad: mientras la calidad de los materiales, la fundamentación teórica, la fiabilidad y la baremación obtienen en general buenas valoraciones, se detectan carencias importantes en las evidencias de validez de algunos instrumentos, especialmente en lo relativo a la estructura interna y al Funcionamiento Diferencial de los Ítems (DIF), lo que rompe con la tendencia observada en ediciones anteriores. El coordinador de la evaluación advierte de que una buena calidad formal del manual no garantiza por sí sola la solidez psicométrica de un test, por lo que insiste en la responsabilidad de los y las profesionales de revisar críticamente las evidencias antes de utilizar una prueba. El artículo señala también la conveniencia de mantener la evaluación de pruebas no comerciales pese a la ausencia de respaldo editorial, y apunta que el CET-R deberá adaptarse próximamente a las nuevas directrices europeas. Todos los informes pueden consultarse de forma gratuita en la web de la Comisión de Test del COP.",
+      "fuente": "Papeles del Psicólogo / Consejo General de la Psicología de España, a través de Infocop",
+      "url": "https://www.infocop.es/publicado-el-informe-de-la-decimotercera-evaluacion-de-test-editados-en-espana-realizada-por-la-comision-de-test-del-cop/"
+    }
+  ],
+  "internacionales": [
+    {
+      "tipo": "INVESTIGACIÓN",
+      "titular": "Un estudio genético internacional identifica por primera vez 11 regiones de riesgo asociadas al trastorno límite de la personalidad",
+      "cuerpo": "Un equipo internacional liderado por el Instituto Central de Salud Mental (CIMH) de Mannheim, Alemania, ha publicado en Nature Genetics el mayor estudio de asociación del genoma completo (GWAS) realizado hasta la fecha sobre el trastorno límite de la personalidad (TLP). El análisis incluyó datos de 12.339 personas con diagnóstico de TLP y 1.041.717 controles de ascendencia europea, con una réplica adicional en 685 casos y 107.750 controles procedentes de 14 países. El estudio identificó 11 regiones genómicas (loci) independientes asociadas de forma significativa al TLP y nueve genes de riesgo en los análisis basados en genes, entre ellos SGCD, FOXP1, FOXP2, EXD3, MVK, MMAB y PCYT1B. Se trata del primer estudio de un trastorno de la personalidad que logra identificar regiones genómicas con significación estadística a nivel de genoma completo. Los investigadores estimaron una heredabilidad atribuible a variantes genéticas comunes del 17,3% sobre la escala de vulnerabilidad, y las puntuaciones poligénicas (PGS) derivadas del estudio explicaron un 4,6% de la varianza fenotípica del TLP. El trastorno mostró las correlaciones genéticas más fuertes con el trastorno de estrés postraumático, la depresión, el trastorno por déficit de atención e hiperactividad, la conducta antisocial y las medidas de suicidio y autolesión. Los análisis por sexos mostraron una heredabilidad significativamente mayor en mujeres que en hombres. El estudio también realizó análisis fenómicos en dos biobancos (BioVU y UK Biobank), que confirmaron las asociaciones con trastornos mentales y detectaron además vínculos con afecciones médicas como la enfermedad pulmonar obstructiva y la diabetes. Los autores señalan que estos hallazgos constituyen un primer paso hacia la comprensión de los mecanismos biológicos del TLP y podrían orientar, a largo plazo, líneas de investigación en detección y abordaje terapéutico, aunque advierten de que el tamaño muestral sigue siendo reducido en comparación con otros trastornos mentales y de que los resultados, obtenidos en población de ascendencia europea, requieren ampliarse a otras poblaciones.",
+      "fuente": "Nature Genetics",
+      "url": "https://www.nature.com/articles/s41588-026-02654-3"
+    }
+  ],
+  "papers": [
+    {
+      "apa": "Macías, J., Lara-Merín, L., & López-Pinar, C. (2026). Acceptance and Commitment Therapy (ACT) in end-of-life care: A meta-analysis of efficacy and process of change. Psicothema, 38(3), 123-137.",
+      "doi": "10.70478/psicothema.2026.38.12",
+      "hallazgo": "Los autores realizaron una revisión sistemática con metaanálisis, registrada en PROSPERO y siguiendo las directrices PRISMA, sobre la eficacia de la Terapia de Aceptación y Compromiso (ACT) en cuidados al final de la vida. Buscaron estudios en PubMed, Scopus y PsycInfo publicados hasta el 26 de mayo de 2025, e incluyeron 13 estudios con 1.109 participantes (edad media de 61,5 años, 55,7% mujeres), nueve de ellos con pacientes de cáncer avanzado y el resto con esclerosis lateral amiotrófica u otras enfermedades progresivas en cuidados paliativos. Seis de los trabajos eran ensayos controlados aleatorizados, con una media de 6,8 sesiones de tratamiento. Frente a los grupos de control activos, la ACT produjo mejoras significativas y moderadas en calidad de vida, ansiedad y depresión, que se mantuvieron durante el seguimiento (entre uno y nueve meses, con una media de cuatro). Las personas que recibieron ACT también mejoraron significativamente más su flexibilidad psicológica, y esta variable, junto con la acción guiada por valores, predijo las mejoras en calidad de vida. Los tratamientos presenciales mostraron mejores resultados que los remotos o combinados, aunque los autores piden prudencia por el tamaño reducido de algunos subgrupos.",
+      "implicacion": "Los resultados sugieren que la ACT puede ser una opción terapéutica útil en los cuidados al final de la vida, con beneficios que pueden sostenerse varios meses tras el tratamiento. Los autores indican que la flexibilidad psicológica podría no explicar por sí sola la reducción de la ansiedad y la depresión, y señalan que el trabajo con valores debe adaptarse a cada persona, por lo que los hallazgos no respaldarían un protocolo idéntico para todos los pacientes. El estudio presenta limitaciones relacionadas con el uso exclusivo de medidas de autoinforme, la elevada heterogeneidad entre estudios y un posible sesgo de publicación en los resultados de calidad de vida durante el seguimiento, por lo que los propios autores consideran necesarios ensayos de mayor calidad, con muestras más amplias y ampliados a poblaciones no oncológicas, cuidadores y profesionales sanitarios."
+    },
+    {
+      "apa": "Streit, F., Awasthi, S., Hall, A. S., Braun, A., Niarchou, M., Marouli, E., ... & Witt, S. H. (2026). Genome-wide association analyses of borderline personality disorder identify 11 loci and highlight shared risk with mental and somatic disorders. Nature Genetics, 58(8), 1831-1844.",
+      "doi": "10.1038/s41588-026-02654-3",
+      "hallazgo": "Los autores realizaron un metaanálisis de estudios de asociación del genoma completo con una muestra de descubrimiento de 12.339 casos de trastorno límite de la personalidad (TLP) y 1.041.717 controles, y una muestra de réplica de 685 casos y 107.750 controles, todos ellos de ascendencia europea. Identificaron 11 loci genómicos independientes asociados al TLP y nueve genes de riesgo en los análisis a nivel de gen. La heredabilidad atribuible a variantes genéticas comunes (SNP) fue del 17,3% sobre la escala de vulnerabilidad, y las puntuaciones poligénicas derivadas del estudio explicaron un 4,6% de la varianza fenotípica. El TLP mostró las correlaciones genéticas positivas más fuertes con el trastorno de estrés postraumático, la depresión, el trastorno por déficit de atención e hiperactividad, la conducta antisocial y las medidas de suicidio y autolesión. Los análisis fenómicos realizados en los biobancos BioVU y UK Biobank confirmaron estas asociaciones y detectaron además vínculos con la enfermedad pulmonar obstructiva crónica y la diabetes.",
+      "implicacion": "Los autores señalan que estos resultados sitúan al TLP como un trastorno poligénico, con un riesgo genético que se solapa sustancialmente con otras condiciones psiquiátricas y de salud física, y que constituye el primer estudio de un trastorno de la personalidad que identifica regiones genómicas con significación estadística de genoma completo. Los propios investigadores advierten de que el tamaño muestral sigue siendo reducido en comparación con otros trastornos mentales, de que el poder estadístico fue limitado especialmente en el análisis diferenciado por sexos, y de que ampliar los estudios a ascendencias no europeas resulta necesario para mejorar la comprensión de la arquitectura genética del trastorno y la generalización de los resultados."
+    }
+  ],
+  "herramientas": [],
+  "alertas": [],
+  "prioridades": [
+    {
+      "titulo": "Revisar los protocolos de prevención del suicidio infantojuvenil",
+      "descripcion": "A la luz de la nueva guía de ANAR, puede ser útil revisar con el equipo o centro los protocolos de detección de señales de riesgo y las pautas de derivación ante ideación suicida en menores, especialmente en el trabajo con familias y centros educativos."
+    },
+    {
+      "titulo": "Consultar la evaluación de test antes de incorporar nuevas pruebas",
+      "descripcion": "Puede ser relevante consultar los informes de la Comisión de Test del COP, disponibles gratuitamente en su web, antes de seleccionar o mantener en uso instrumentos como el ATENTO, el BFQ-2 o el CoPsoQ-Istas21, revisando de forma crítica sus evidencias de validez y baremación."
+    },
+    {
+      "titulo": "Actualizar el marco explicativo del trastorno límite de la personalidad",
+      "descripcion": "Puede ser oportuno incorporar a la formación continuada la evidencia emergente sobre la base genética y la comorbilidad del TLP con el estrés postraumático, la depresión y el TDAH, sin que ello sustituya la evaluación clínica individualizada de cada caso."
+    }
+  ],
+  "fuentes_verificadas": [
+    "https://www.infocop.es/prevencion-del-suicidio-en-la-infancia-y-la-adolescencia-recomendaciones-practicas-para-familias-y-profesionales/",
+    "https://www.infocop.es/publicado-el-informe-de-la-decimotercera-evaluacion-de-test-editados-en-espana-realizada-por-la-comision-de-test-del-cop/",
+    "https://www.nature.com/articles/s41588-026-02654-3",
+    "https://www.infocop.es/la-terapia-de-aceptacion-y-compromiso-muestra-resultados-prometedores-en-pacientes-con-enfermedades-terminales/",
+    "https://www.psicothema.com/pi?pii=4907"
+  ],
+  "carousel": {
+    "noticia_seleccionada": "Un estudio genético internacional identifica por primera vez 11 regiones de riesgo asociadas al trastorno límite de la personalidad",
+    "slide1": {
+      "titular": "TLP: primer hallazgo genético a escala de genoma completo",
+      "subtitulo": "Un estudio con más de un millón de personas identifica 11 regiones de riesgo"
+    },
+    "slide2": {
+      "puntos": [
+        "12.339 personas con TLP y más de un millón de controles analizados",
+        "11 regiones genómicas y 9 genes de riesgo identificados por primera vez",
+        "17,3% de heredabilidad atribuible a variantes genéticas comunes"
+      ]
+    },
+    "slide3": {
+      "puntos": [
+        "Mayor correlación genética con estrés postraumático, depresión y TDAH",
+        "La heredabilidad genética fue significativamente mayor en mujeres",
+        "También aparecen vínculos con diabetes y enfermedad pulmonar crónica"
+      ]
+    },
+    "slide4": {
+      "puntos": [
+        "Es el primer trastorno de personalidad con loci de riesgo confirmados",
+        "El estudio abre vías de investigación en detección y tratamiento",
+        "Los autores piden ampliar la muestra a otras ascendencias"
+      ]
+    },
+    "slide5": {
+      "mensaje_autoridad": "El trastorno límite de la personalidad es un trastorno poligénico, con un riesgo genético que se solapa de forma sustancial con otras condiciones psiquiátricas y de salud física",
+      "fuente_apa": "Streit, F. et al. (2026). Nature Genetics, 58(8), 1831-1844.",
+      "cta": "Síguenos en @IPP.Psicologia"
+    }
+  },
+  "copy_rrss": "Un estudio con más de un millón de personas identifica, por primera vez, 11 regiones genómicas de riesgo del trastorno límite de la personalidad, con fuertes vínculos genéticos con el estrés postraumático y la depresión.",
+  "hashtags": [
+    "#Psicología",
+    "#SaludMental",
+    "#TLP",
+    "#Neurociencia",
+    "#Genética"
+  ]
+}
