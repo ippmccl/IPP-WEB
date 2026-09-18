@@ -1,0 +1,102 @@
+{
+  "titulo": "La EFPA revisa las intervenciones psicológicas digitales, la APA vincula la alimentación con la salud mental y el COP convoca la III Jornada de Salud Mental en Contextos Educativos: claves del 18 de septiembre de 2026",
+  "nota_editorial": "Las claves prácticas que se recogen a continuación forman parte del análisis editorial del Observatorio de Actualidad del IPP y no constituyen recomendación clínica individualizada.",
+  "resumen": "La Federación Europea de Asociaciones de Psicólogos actualiza la evidencia sobre las intervenciones psicológicas por Internet y dispositivos móviles, con luces y sombras sobre su eficacia, la adherencia y el papel de la inteligencia artificial. Monitor on Psychology, de la APA, repasa cómo la calidad de la alimentación influye en el estado de ánimo y la salud mental, con la depresión como trastorno mejor estudiado. El Consejo General de la Psicología de España convoca la III Jornada de Salud Mental en Contextos Educativos, centrada en el bienestar y el rendimiento académico del alumnado. Un metaanálisis publicado en el British Journal of Sports Medicine confirma que el ejercicio físico, especialmente el aeróbico, reduce de forma relevante los síntomas de depresión y ansiedad.",
+  "audiencia": "ambos",
+  "nacionales": [
+    {
+      "tipo": "SALUD PÚBLICA",
+      "titular": "El Consejo General de la Psicología convoca la III Jornada de Salud Mental en Contextos Educativos",
+      "cuerpo": "El próximo 2 de octubre de 2026 se celebra la III Jornada de Salud Mental en Contextos Educativos, bajo el lema “Contribución de la Psicología al bienestar psicológico y al rendimiento académico”. El encuentro está promovido por las organizaciones firmantes del Manifiesto por el Bienestar de la Comunidad Educativa, entre las que se encuentra el Consejo General de la Psicología de España, y cuenta con la colaboración de la Facultad de Psicología de la Universidad Complutense de Madrid. Se desarrollará en formato híbrido, de 9:00 a 20:30 horas: la modalidad presencial tendrá lugar en el Salón de Actos José Germain de la Facultad de Psicología, en el Campus de Somosaguas, con aforo limitado y previa inscripción, mientras que el seguimiento online será posible a través del canal de YouTube del Consejo General de la Psicología. La participación, tanto presencial como a distancia, es gratuita y requiere inscripción previa. El programa reunirá a profesionales de la Psicología, representantes de administraciones educativas y organizaciones de familias, estudiantado, profesorado, dirección de centros y protección de la infancia. Entre los temas previstos figuran la intervención de los psicólogos y las psicólogas educativas en el desarrollo psicológico y el rendimiento académico del alumnado, el abordaje de las autolesiones desde la familia y los centros educativos, el impacto de las dificultades específicas de aprendizaje, la atención a la vivencia emocional del alumnado y el estrés y el malestar psicológico del profesorado y las familias.",
+      "fuente": "Infocop (Consejo General de la Psicología de España)",
+      "url": "https://www.infocop.es/la-contribucion-de-la-psicologia-al-bienestar-y-al-rendimiento-academico-iii-jornada-de-salud-mental-en-contextos-educativos/"
+    }
+  ],
+  "internacionales": [
+    {
+      "tipo": "INVESTIGACIÓN",
+      "titular": "La EFPA actualiza su revisión sobre las intervenciones psicológicas digitales y sus riesgos éticos",
+      "cuerpo": "Una revisión narrativa de la Federación Europea de Asociaciones de Psicólogos (EFPA) actualiza la evidencia sobre las intervenciones psicológicas por Internet y dispositivos móviles desde su anterior informe de 2018. El trabajo, basado en búsquedas realizadas entre septiembre de 2024 y marzo de 2025, incluyó 97 referencias: 34 revisiones sistemáticas o metaanálisis, 8 revisiones paraguas, 29 estudios empíricos, 16 trabajos conceptuales o éticos, 2 informes y 8 guías. La revisión encontró que las intervenciones con apoyo humano presentan mayor adherencia: en terapia cognitivo-conductual por Internet para la depresión, la adherencia media fue del 76% en las modalidades guiadas frente al 54% en las no guiadas. Una revisión paraguas incluida, con 87 metaanálisis, 1.683 ensayos controlados aleatorizados y 295.589 pacientes, halló efectos significativos en ansiedad, estrés postraumático, depresión, estrés, trastorno obsesivo-compulsivo, ideación suicida y adicciones, sin efectos significativos en los trastornos de personalidad. En coste-efectividad, el 81% de las intervenciones por Internet analizadas para ansiedad y depresión resultaron coste-efectivas. La adherencia sigue siendo un reto: solo el 3,3% de los usuarios de una aplicación de salud mental continuaba activo tras 15 días. Sobre la inteligencia artificial, la revisión recoge aplicaciones para predecir suicidio, psicosis, depresión posparto y resultados del tratamiento, junto a problemas de privacidad, sesgos y falta de validación independiente. Un metaanálisis registró deterioro clínico en el 17,4% de los participantes de los grupos control, frente al 5,8% de quienes recibieron terapia cognitivo-conductual por Internet, con una probabilidad de deterioro 3,1 veces mayor en el grupo control. En Portugal, el 87,2% de los profesionales mostraba actitud favorable hacia estas herramientas, pero solo el 43,6% preveía recomendarlas en los siguientes 12 meses; en Reino Unido, el 92% de los médicos de atención primaria que las usaba señalaba la falta de formación como dificultad importante.",
+      "fuente": "Infocop, sobre una revisión publicada en European Psychologist (EFPA)",
+      "url": "https://www.infocop.es/la-efpa-analiza-las-posibilidades-y-riesgos-de-las-intervenciones-psicologicas-digitales/"
+    },
+    {
+      "tipo": "INVESTIGACIÓN",
+      "titular": "La APA revisa la evidencia sobre alimentación y salud mental en Monitor on Psychology",
+      "cuerpo": "Un artículo publicado por la American Psychological Association (APA) en Monitor on Psychology, titulado “We are what we eat”, resume los avances recientes de la investigación sobre la relación entre alimentación y salud mental. Según recoge, los patrones alimentarios ricos en frutas, verduras, grasas saludables y alimentos poco procesados se han asociado con menos síntomas depresivos y mejor bienestar psicológico, mientras que más de la mitad de las calorías consumidas por la población estadounidense, y más del 60% de las consumidas por niños, niñas y adolescentes, proceden de alimentos ultraprocesados, cuyo consumo se relaciona con peores resultados en salud mental. Entre los mecanismos biológicos propuestos figuran el papel de vitaminas y minerales en la producción de neurotransmisores y la influencia del microbioma intestinal en procesos inmunológicos, metabólicos y neuronales. La depresión es el trastorno con evidencia más consistente: en el ensayo clínico SMILES, personas adultas con depresión mayor moderada o grave que recibieron asesoramiento nutricional durante 12 semanas mostraron mayor mejoría de los síntomas y mayor probabilidad de remisión que quienes recibieron un programa de apoyo social de la misma duración. Distintos metaanálisis asocian la dieta mediterránea con una reducción del riesgo de depresión, mientras que las dietas con elevada presencia de ultraprocesados lo incrementan. También se recogen investigaciones sobre TDAH, esquizofrenia y trastorno bipolar, aunque el artículo señala que estos ámbitos requieren estudios controlados de mayor tamaño. La psicología nutricional comienza a incorporarse a centros educativos, prisiones, entornos laborales y programas de tratamiento de trastornos por consumo de sustancias: el 98% de los profesionales de salud mental aborda la alimentación en su práctica clínica, aunque la mayoría no ha recibido formación formal sobre nutrición y salud mental.",
+      "fuente": "Infocop, sobre un artículo publicado por la American Psychological Association (APA) en Monitor on Psychology",
+      "url": "https://www.infocop.es/la-evidencia-cientifica-refuerza-la-relacion-entre-alimentacion-y-salud-mental/"
+    }
+  ],
+  "papers": [
+    {
+      "apa": "Munro, N. R., Teague, S., Somoray, K., Simpson, A., Budden, T., Jackson, B., Rebar, A., & Dimmock, J. (2026). Effect of exercise on depression and anxiety symptoms: Systematic umbrella review with meta-meta-analysis. British Journal of Sports Medicine. Publicación anticipada en línea.",
+      "doi": "10.1136/bjsports-2025-110301",
+      "hallazgo": "Esta revisión sistemática tipo paraguas, con metaanálisis de metaanálisis, buscó en cinco bases de datos electrónicas estudios publicados hasta el 31 de julio de 2025 e incluyó finalmente 63 estudios (81 metaanálisis, 1.079 estudios componentes y 79.551 participantes de entre 10 y 90 años), excluyendo poblaciones con condiciones físicas crónicas para aislar el efecto psicológico del ejercicio. El ejercicio se asoció con una reducción de los síntomas de depresión (diferencia de medias estandarizada de -0,61, IC del 95%: -0,69 a -0,54) y de ansiedad (-0,47, IC del 95%: -0,59 a -0,36), con el ejercicio aeróbico mostrando el impacto más sustancial en ambos. Las personas adultas jóvenes, de 18 a 30 años, y las mujeres en posparto registraron las mayores reducciones en síntomas depresivos. Los formatos grupales y supervisados se asociaron a mayores reducciones en depresión, mientras que los formatos más breves y de menor intensidad se asociaron más a la reducción de la ansiedad.",
+      "implicacion": "Los autores sugieren que el ejercicio, en particular el aeróbico, puede considerarse una intervención de primera línea o complementaria en depresión y ansiedad, y puede resultar especialmente accesible en contextos donde los tratamientos habituales son menos disponibles o aceptados. No obstante, los propios autores señalan que el estudio no permite establecer con precisión la duración e intensidad óptimas del ejercicio, dada la heterogeneidad de definiciones en la literatura analizada, por lo que la comparación directa con la eficacia de fármacos o psicoterapia requiere cautela interpretativa."
+    }
+  ],
+  "herramientas": [],
+  "alertas": [],
+  "prioridades": [
+    {
+      "titulo": "Uso responsable de intervenciones psicológicas digitales",
+      "descripcion": "Puede ser útil revisar qué papel tiene el apoyo profesional en las herramientas digitales que se recomiendan a los pacientes, dado que la evidencia sugiere una mayor adherencia y mejores resultados cuando existe seguimiento humano, especialmente si se emplea inteligencia artificial."
+    },
+    {
+      "titulo": "Alimentación como variable a explorar en consulta",
+      "descripcion": "Puede ser relevante incorporar preguntas sobre hábitos alimentarios en la anamnesis, siempre dentro de las competencias propias de la Psicología, derivando a profesionales de la nutrición cuando el caso lo requiera."
+    },
+    {
+      "titulo": "Ejercicio físico como recurso complementario",
+      "descripcion": "Puede ser oportuno explorar con la persona usuaria su relación con la actividad física, especialmente aeróbica, como recurso complementario dentro del plan terapéutico, respetando siempre sus preferencias y su situación clínica."
+    }
+  ],
+  "fuentes_verificadas": [
+    "https://www.infocop.es/la-efpa-analiza-las-posibilidades-y-riesgos-de-las-intervenciones-psicologicas-digitales/",
+    "https://www.infocop.es/la-evidencia-cientifica-refuerza-la-relacion-entre-alimentacion-y-salud-mental/",
+    "https://www.infocop.es/la-contribucion-de-la-psicologia-al-bienestar-y-al-rendimiento-academico-iii-jornada-de-salud-mental-en-contextos-educativos/",
+    "https://sciencedaily.com/releases/2026/02/260213020412.htm"
+  ],
+  "carousel": {
+    "noticia_seleccionada": "La EFPA analiza las posibilidades y riesgos de las intervenciones psicológicas digitales",
+    "slide1": {
+      "titular": "Terapia digital: qué dice la ciencia",
+      "subtitulo": "La EFPA revisa 97 estudios sobre psicología online"
+    },
+    "slide2": {
+      "puntos": [
+        "El 76% de quienes reciben apoyo guiado completa la terapia online",
+        "Solo el 3,3% sigue usando apps de salud mental tras 15 días",
+        "El 81% de las intervenciones por internet resultan coste-efectivas"
+      ]
+    },
+    "slide3": {
+      "puntos": [
+        "La inteligencia artificial ayuda a predecir riesgo de suicidio y psicosis",
+        "También puede introducir sesgos de género, edad y nivel socioeconómico",
+        "El 92% de médicos británicos señala falta de formación en salud digital"
+      ]
+    },
+    "slide4": {
+      "puntos": [
+        "El grupo control tuvo 3,1 veces más riesgo de deterioro clínico",
+        "La app no sustituye la crisis aguda ni el consentimiento informado",
+        "El apoyo profesional sigue siendo clave para la adherencia"
+      ]
+    },
+    "slide5": {
+      "mensaje_autoridad": "La tecnología amplía el acceso a la salud mental, pero no sustituye el criterio clínico ni el vínculo terapéutico",
+      "fuente_apa": "Salgado et al. (2026). European Psychologist, 31(3), 201-216.",
+      "cta": "Síguenos en @IPP.Psicologia"
+    }
+  },
+  "copy_rrss": "La EFPA actualiza la evidencia sobre terapia psicológica digital: funciona mejor con apoyo profesional, pero exige prudencia con la inteligencia artificial y las crisis agudas.",
+  "hashtags": [
+    "#PsicologiaDigital",
+    "#SaludMental",
+    "#TerapiaOnline",
+    "#InteligenciaArtificial",
+    "#IPP"
+  ]
+}
