@@ -1,0 +1,111 @@
+{
+  "titulo": "Infocop recoge datos sobre salud mental y cáncer de mama en el Día Mundial, difunde una guía de comunicación en oncología editada por el Ministerio de Sanidad y resume un artículo de la APA sobre voluntariado y bienestar: claves del 19 de octubre de 2026",
+  "nota_editorial": "Las claves prácticas que se recogen a continuación forman parte del análisis editorial del Observatorio de Actualidad del IPP y no constituyen recomendación clínica individualizada.",
+  "resumen": "Infocop publica, con motivo del Día Mundial contra el Cáncer de Mama, un repaso de datos sobre el malestar psicológico que puede persistir tras el tratamiento: un metaanálisis de 60 estudios estima prevalencias de estrés, depresión y ansiedad de entre el 36 % y el 38,2 %, con cautela por la heterogeneidad entre estudios. El mismo medio difunde las Guías de Comunicación en Oncología, elaboradas por el Servicio Canario de la Salud y editadas por el Ministerio de Sanidad, que proponen explorar antes de informar y comprobar la comprensión con el método teach-back. Infocop resume además un artículo de la APA en Monitor on Psychology que revisa estudios sobre voluntariado y actos de generosidad, con resultados en depresión, ansiedad y soledad. Un ensayo de fase 2b en JAMA Psychiatry sobre psilocibina en depresión resistente no alcanzó significación en su variable principal.",
+  "audiencia": "ambos",
+  "nacionales": [
+    {
+      "tipo": "CLÍNICA",
+      "titular": "Infocop repasa el impacto psicológico del cáncer de mama y los tratamientos con mejor respaldo en el Día Mundial",
+      "cuerpo": "Infocop, el medio del Consejo General de la Psicología de España, publica el 19 de octubre un artículo de Andrea García sobre las consecuencias psicológicas del cáncer de mama que pueden persistir tras los tratamientos. El texto recoge la estimación del informe de la SEOM y la REDECAN «Las cifras del cáncer en España 2026»: 38.318 nuevos diagnósticos en mujeres este año, lo que lo sitúa como el tumor más frecuente entre ellas, con una supervivencia neta a cinco años del 87,8 % en las diagnosticadas entre 2013 y 2017. Sobre el malestar emocional, cita una revisión sistemática con metaanálisis de 60 estudios (Halemani et al., 2026) que estima prevalencias agrupadas de alrededor del 38,2 % para el estrés, el 36 % para la depresión y entre el 36,0 % y el 37,3 % para la ansiedad, según el análisis; sus autores piden cautela por la gran variabilidad entre estudios. En calidad de vida, incluye el informe de 2025 de la AECC, basado en 3.009 entrevistas, según el cual el 47,6 % de las personas supervivientes de cáncer de cualquier tipo teme una recaída; en cáncer de mama se describen más dificultades con el aspecto físico, la sexualidad, los problemas cognitivos y las preocupaciones familiares. Sobre los tratamientos psicológicos, menciona un metaanálisis en red de 2026 en Frontiers in Oncology, con 19 ensayos aleatorizados, 2.214 participantes y 11 modalidades, que señala la terapia cognitivo-conductual y los enfoques basados en mindfulness para ansiedad y depresión, aunque sus autores reclaman más ensayos de calidad y con seguimiento más largo antes de hacer recomendaciones firmes. Infocop plantea evaluar de forma individual las necesidades psicológicas y ofrecer apoyo psicooncológico durante y después del tratamiento. El artículo sintetiza investigaciones e informes previos y no aporta datos propios.",
+      "fuente": "Infocop (Consejo General de la Psicología de España)",
+      "url": "https://www.infocop.es/mas-alla-del-diagnostico-la-salud-mental-en-el-dia-mundial-contra-el-cancer-de-mama/"
+    },
+    {
+      "tipo": "HERRAMIENTA",
+      "titular": "Las Guías de Comunicación en Oncología proponen explorar antes de informar y comprobar la comprensión",
+      "cuerpo": "Infocop difunde el 19 de octubre, en un artículo de Susana Villamarín, las Guías de Comunicación en Oncología, elaboradas por el Servicio de Evaluación del Servicio Canario de la Salud (SESCS) y editadas por el Ministerio de Sanidad, dentro del Plan anual de trabajo de 2025 de la Red Española de Agencias de Evaluación de Tecnologías Sanitarias y Prestaciones del Sistema Nacional de Salud. Según recoge Infocop, el documento se dirige sobre todo al personal clínico y abarca desde el diagnóstico hasta las etapas avanzadas. Entre sus claves figura explorar antes de informar, preguntando qué sabe la persona y qué quiere saber, y usar un lenguaje claro, dosificando la información y comprobando la comprensión con el método teach-back, en el que la persona explica con sus palabras lo recibido. Para comunicar riesgos propone expresarlos en cifras comprensibles, por ejemplo que de cada 10 personas que toman un tratamiento, 5 podrían sentir náuseas, en lugar de recurrir a riesgos relativos, y apoyarse en pictogramas si hay baja alfabetización en salud. También recomienda cuidar el entorno, reconocer y validar las emociones, valorar la disposición de la persona antes de dar información importante y no limitar la evaluación a los síntomas físicos, sino explorar roles sociales, afrontamiento y necesidades que puedan requerir psicología clínica. Aclara que los objetivos del tratamiento (curación, supervivencia o calidad de vida) deben orientar decisiones compartidas según los valores de la persona y que la participación de la familia requiere su consentimiento. Para los equipos, plantea trabajo multidisciplinar, formación continuada y espacios de supervisión.",
+      "fuente": "Infocop (Consejo General de la Psicología de España), a partir de las Guías de Comunicación en Oncología del SESCS y el Ministerio de Sanidad",
+      "url": "https://www.infocop.es/comunicacion-en-oncologia-claves-para-una-atencion-centrada-en-la-persona-con-cancer/"
+    }
+  ],
+  "internacionales": [
+    {
+      "tipo": "INVESTIGACIÓN",
+      "titular": "Un artículo de la APA resume estudios que relacionan el voluntariado con menos depresión, ansiedad y soledad",
+      "cuerpo": "Infocop publica el 19 de octubre un resumen de un artículo de la American Psychological Association (APA) aparecido en Monitor on Psychology (2026, 57[5], p. 64) sobre cómo el voluntariado y otros actos altruistas afectan al bienestar psicológico. Según el texto, estas conductas pueden mejorar el bienestar y contribuir a reducir la depresión, la ansiedad y la soledad. Recoge tres estudios. En el primero, 777 personas asignadas al azar a tres grupos realizaron durante dos semanas actos de amabilidad hacia sí mismas, hacia otras personas o mantuvieron su rutina: la depresión disminuyó en quienes se dirigieron actos a sí mismas, y quienes ayudaron a otras personas mostraron además menos ansiedad y soledad, efecto que los autores explican por un mayor sentimiento de conexión. El segundo es un seguimiento de cuatro años a 5.882 personas mayores casadas al inicio: quienes enviudaron refirieron más soledad, salvo quienes empezaron a hacer al menos dos horas semanales de voluntariado, cuyos niveles fueron comparables a los de las personas casadas que también hacían voluntariado. En el tercero, 122 personas con depresión o ansiedad elevadas siguieron durante cinco semanas una de tres intervenciones; las tres redujeron los síntomas, y el grupo de pequeños actos de generosidad mostró además mayor conexión y satisfacción vital y una reducción más marcada que el de registro de pensamientos. El resumen de Infocop no detalla las revistas, los tamaños del efecto ni los DOI de los estudios individuales.",
+      "fuente": "Infocop, que resume un artículo de la APA en Monitor on Psychology",
+      "url": "https://www.infocop.es/el-voluntariado-fortalece-el-bienestar-psicologico-de-quien-ayuda/"
+    }
+  ],
+  "papers": [
+    {
+      "apa": "Mertens, L. J., Koslowski, M., Betzler, F., et al. (2026). Efficacy and safety of psilocybin in treatment-resistant major depression: The EPISODE randomized clinical trial. JAMA Psychiatry, 83(5), 448-460. https://doi.org/10.1001/jamapsychiatry.2026.0132",
+      "doi": "10.1001/jamapsychiatry.2026.0132",
+      "hallazgo": "Ensayo clínico aleatorizado de fase 2b, con triple enmascaramiento y placebo activo, realizado en dos centros de Alemania entre junio de 2021 y febrero de 2024, con 144 adultos de 25 a 65 años con depresión resistente al tratamiento. Todas las dosis se integraron en un programa de psicoterapia. En la variable principal (respuesta en HAMD17 de al menos el 50 % en la semana 6), respondió el 17,0 % con psilocibina de 25 mg, el 12,5 % con 5 mg y el 10,6 % con nicotinamida; la razón de odds frente a nicotinamida fue de 1,73 (IC 95 %: 0,53-6,23; P = ,19), no significativa. Las variables secundarias, exploratorias, mostraron mayores reducciones de síntomas con 25 mg. Se registraron dos reacciones adversas graves tras la dosis de 25 mg, incluido un caso de trastorno persistente de la percepción inducido por alucinógenos, y la ideación suicida en los días de dosificación fue del 4 % con 25 mg frente al 1-2 % en los comparadores. Los propios autores describen el ensayo como no concluyente.",
+      "implicacion": "Los resultados sugieren que el efecto de la psilocibina en depresión resistente aún requiere confirmación en estudios más amplios y con poblaciones más diversas, ya que el resultado principal no fue significativo, la muestra fue pequeña y casi toda de raza blanca, y el diseño combina fármaco y psicoterapia, lo que dificulta separar ambos efectos."
+    }
+  ],
+  "herramientas": [
+    {
+      "nombre": "Guías de Comunicación en Oncología del Servicio Canario de la Salud y el Ministerio de Sanidad",
+      "descripcion": "Documento de recomendaciones para el personal clínico sobre cómo explorar lo que la persona sabe, expresar los riesgos en cifras comprensibles, comprobar la comprensión con el método teach-back y compartir decisiones, con acceso a la guía completa a través de la web del SESCS, según indica Infocop."
+    },
+    {
+      "nombre": "Informe «Las cifras del cáncer en España 2026» de la SEOM y la REDECAN",
+      "descripcion": "Informe epidemiológico que, según cita Infocop, estima 38.318 nuevos diagnósticos de cáncer de mama en mujeres en 2026 y una supervivencia neta a cinco años del 87,8 % en las diagnosticadas entre 2013 y 2017."
+    }
+  ],
+  "alertas": [],
+  "prioridades": [
+    {
+      "titulo": "Revisar el apoyo psicológico tras el tratamiento oncológico",
+      "descripcion": "Puede ser útil explorar si las necesidades psicológicas de las personas con cáncer de mama se valoran de forma individual también después de los tratamientos, ya que las fuentes que cita Infocop describen prevalencias de estrés, depresión y ansiedad de entre el 36 % y el 38,2 % y miedo a la recaída en el 47,6 % de las personas supervivientes de cáncer de cualquier tipo."
+    },
+    {
+      "titulo": "Incorporar recursos de comunicación clara en consulta",
+      "descripcion": "Puede ser relevante revisar el método teach-back y la expresión de los riesgos en cifras comprensibles que propone la guía de comunicación en oncología, como herramientas para comprobar la comprensión y facilitar decisiones compartidas con pacientes y familias."
+    },
+    {
+      "titulo": "Valorar con cautela la evidencia sobre generosidad y conexión social",
+      "descripcion": "Puede ser oportuno tener presentes los resultados que resume la APA sobre voluntariado y bienestar, teniendo en cuenta que el resumen de Infocop no detalla los tamaños del efecto ni las revistas de los estudios, por lo que conviene contrastarlos antes de integrarlos en una intervención."
+    }
+  ],
+  "fuentes_verificadas": [
+    "https://www.infocop.es/mas-alla-del-diagnostico-la-salud-mental-en-el-dia-mundial-contra-el-cancer-de-mama/",
+    "https://www.infocop.es/comunicacion-en-oncologia-claves-para-una-atencion-centrada-en-la-persona-con-cancer/",
+    "https://www.infocop.es/el-voluntariado-fortalece-el-bienestar-psicologico-de-quien-ayuda/",
+    "https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2846478"
+  ],
+  "carousel": {
+    "noticia_seleccionada": "Infocop repasa el impacto psicológico del cáncer de mama y los tratamientos con mejor respaldo en el Día Mundial",
+    "slide1": {
+      "titular": "Cáncer de mama: el malestar psicológico que puede persistir",
+      "subtitulo": "Datos que recoge Infocop en el Día Mundial contra el Cáncer de Mama"
+    },
+    "slide2": {
+      "puntos": [
+        "SEOM y REDECAN estiman 38.318 nuevos diagnósticos en mujeres en 2026.",
+        "Es el tumor más frecuente entre las mujeres.",
+        "Supervivencia neta a cinco años del 87,8 % en diagnósticos de 2013 a 2017."
+      ]
+    },
+    "slide3": {
+      "puntos": [
+        "Metaanálisis de 60 estudios: estrés cercano al 38,2 % y depresión cercana al 36 %.",
+        "Ansiedad entre el 36,0 % y el 37,3 %, con cautela por la variabilidad.",
+        "El 47,6 % de supervivientes de cáncer de cualquier tipo teme una recaída."
+      ]
+    },
+    "slide4": {
+      "puntos": [
+        "Un metaanálisis en red de 19 ensayos y 2.214 participantes revisó 11 modalidades.",
+        "Terapia cognitivo-conductual y mindfulness destacan para ansiedad y depresión.",
+        "Sus autores piden más ensayos de calidad antes de recomendaciones firmes."
+      ]
+    },
+    "slide5": {
+      "mensaje_autoridad": "Infocop plantea evaluar de forma individual las necesidades psicológicas y ofrecer apoyo psicooncológico durante y después del tratamiento.",
+      "fuente_apa": "García, A. (2026, 19 de octubre). Más allá del diagnóstico: la salud mental en el Día Mundial contra el Cáncer de Mama. Infocop.",
+      "cta": "Síguenos en @IPP.Psicologia"
+    }
+  },
+  "copy_rrss": "Con motivo del Día Mundial contra el Cáncer de Mama, Infocop recoge datos sobre el malestar emocional que puede persistir tras el tratamiento. Evaluar las necesidades psicológicas de forma individual es una de sus recomendaciones.",
+  "hashtags": [
+    "#Psicología",
+    "#SaludMental",
+    "#Psicooncología",
+    "#Neuropsicología",
+    "#IPP"
+  ]
+}
