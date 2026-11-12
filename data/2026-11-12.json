@@ -1,0 +1,117 @@
+{
+  "titulo": "Infocop presenta la adaptación española del MMPI-3, una revisión en Nature Reviews Psychology analiza el habla en el envejecimiento y el Alzhéimer y otra plantea por qué el trauma infantil generaliza el miedo: claves del 12 de noviembre de 2026",
+  "nota_editorial": "Las claves prácticas que se recogen a continuación forman parte del análisis editorial del Observatorio de Actualidad del IPP y no constituyen recomendación clínica individualizada.",
+  "resumen": "Infocop publica la nueva adaptación española del MMPI-3, con 335 ítems y 52 escalas para población adulta. Una revisión de Adolfo M. García en Nature Reviews Psychology repasa cómo el análisis automatizado del habla puede ayudar a distinguir el envejecimiento saludable de las primeras fases del Alzheimer, siempre como complemento de la evaluación clínica. Otra revisión teórica de la misma revista plantea que el desarrollo del hipocampo podría explicar por qué los niños pequeños generalizan el miedo a situaciones seguras tras un trauma. Sanidad, por su parte, mantiene en desarrollo el reglamento sobre consentimiento, apoyos y contención en salud mental.",
+  "audiencia": "ambos",
+  "nacionales": [
+    {
+      "tipo": "HERRAMIENTA",
+      "titular": "La nueva adaptación española del MMPI-3 incorpora escalas y baremos actualizados para evaluar la personalidad y la psicopatología",
+      "cuerpo": "Infocop informa de la nueva adaptación española del MMPI-3, un inventario de autoinforme dirigido a personas adultas de 18 años o más. Los autores originales son Yossef S. Ben-Porath y Auke Tellegen, y la adaptación al español ha corrido a cargo de Pablo Santamaría. Según el medio, el proceso se prolongó más de cuatro años e implicó a más de 150 profesionales en tareas de traducción, revisión, investigación, validación y baremación, siguiendo las pautas de la Universidad de Minnesota y estándares internacionales. La presentación oficial en España tuvo lugar el 14 de octubre de 2026. La prueba consta de 335 ítems y 52 escalas: 10 de validez y 42 sustantivas, organizadas en 3 dimensiones globales, 8 escalas clínicas reestructuradas, 26 de problemas específicos y 5 de psicopatología de la personalidad (PSY-5). Entre las novedades figuran las escalas de conductas alimentarias problemáticas, compulsividad, impulsividad, autoimportancia e inconsistencia global. Además, la escala de estrés y preocupaciones se divide en dos y, respecto al MMPI-2-RF, desaparecen las quejas gastrointestinales, las cefaleas, los miedos específicos y las dos escalas de intereses. Los baremos abarcan población adulta de España, Centroamérica y Sudamérica, aunque la noticia no detalla los tamaños muestrales. El texto recuerda que su uso exige formación específica en evaluación psicológica, psicopatología, personalidad y psicometría.",
+      "fuente": "Infocop",
+      "url": "https://www.infocop.es/la-nueva-adaptacion-espanola-del-mmpi-3-incorpora-escalas-y-baremos-actualizados-para-la-evaluacion-de-la-personalidad-y-la-psicopatologia/"
+    }
+  ],
+  "internacionales": [
+    {
+      "tipo": "NEUROCIENCIA",
+      "titular": "Los cambios en el lenguaje pueden ayudar a distinguir el envejecimiento saludable de los primeros signos de Alzhéimer",
+      "cuerpo": "Infocop recoge una revisión de Adolfo M. García publicada en Nature Reviews Psychology (volumen 5, páginas 312-326) sobre las capacidades lingüísticas de las personas mayores con y sin demencia de Alzheimer. Al ser una revisión bibliográfica, no hay muestra propia. El trabajo repasa la comprensión y la producción del lenguaje y el potencial del análisis automatizado del habla mediante aprendizaje automático, que examina grabaciones y transcripciones y mide variables como la duración de las pausas, la velocidad del habla, la riqueza del vocabulario y la precisión léxica. Según la noticia, más del 35 % de las personas con Alzheimer en fase leve presentan alteraciones del habla y del lenguaje, el vocabulario puede aumentar con la edad al menos hasta los 65 años aproximadamente y ciertas alteraciones léxico-semánticas pueden manifestarse hasta 12 años antes del inicio de la demencia. Las evaluaciones automatizadas breves duran entre dos y cuatro minutos y pueden realizarse por teléfono o videoconferencia. Entre las limitaciones señaladas figuran las muestras reducidas, la falta de datos normativos suficientes, la escasa diversidad lingüística (se han estudiado menos de 50 de las unas 7.000 lenguas del mundo), las cuestiones de privacidad de las grabaciones de voz y la necesidad de validaciones rigurosas antes de su uso clínico. El autor concluye que el análisis del habla debe considerarse un complemento de la evaluación neuropsicológica y clínica, no un sustituto del diagnóstico.",
+      "fuente": "Infocop",
+      "url": "https://www.infocop.es/los-cambios-en-el-lenguaje-pueden-ayudar-a-distinguir-el-envejecimiento-saludable-de-los-primeros-signos-de-alzheimer/"
+    },
+    {
+      "tipo": "INVESTIGACIÓN",
+      "titular": "Cómo puede un trauma hacer que niños y niñas sientan miedo ante situaciones seguras",
+      "cuerpo": "Infocop difunde un artículo de divulgación sobre una revisión teórica de J. C. Foster, E. V. Goldfarb y D. G. Gee, publicada en 2026 en Nature Reviews Psychology (volumen 5, páginas 612-624), que analiza el papel de los cambios del desarrollo del hipocampo en el trastorno de estrés postraumático infantil. La propuesta se centra en el aprendizaje contextual del miedo en la infancia temprana y media, entre los 3 y los 12 años. Según el texto, los niños y niñas más pequeños tienden más que los mayores a generalizar el miedo a estímulos seguros, y los efectos del tratamiento suelen ser mayores en adolescentes mayores y adultos que en niños. Como contexto, el artículo señala que hasta el 50 % de las personas jóvenes no obtiene beneficios suficientes con los tratamientos basados en la evidencia y que hasta un tercio sigue cumpliendo criterios de TEPT tras el tratamiento. No se trata de un estudio empírico: no hay muestra, experimentos ni tamaños del efecto. Quienes firman la revisión reconocen que faltan estudios de laboratorio sobre aprendizaje estadístico o por categorías en jóvenes con síntomas de TEPT, que no se ha estudiado directamente la generalización contextual del miedo en este grupo y que se necesitan estudios longitudinales para saber si las diferencias de aprendizaje preceden a los síntomas o si el trauma las modifica.",
+      "fuente": "Infocop",
+      "url": "https://www.infocop.es/como-puede-un-trauma-hacer-que-ninos-y-ninas-sientan-miedo-ante-situaciones-seguras/"
+    }
+  ],
+  "papers": [
+    {
+      "apa": "García, A. M. (2026). Speech and language in healthy ageing and Alzheimer's dementia. Nature Reviews Psychology, 5, 312–326. https://doi.org/10.1038/s44159-026-00553-2",
+      "doi": "10.1038/s44159-026-00553-2",
+      "hallazgo": "Se trata de una revisión narrativa, sin participantes propios, que sintetiza la investigación sobre comprensión y producción del lenguaje en personas mayores con y sin demencia de Alzheimer. El resumen del artículo describe en el envejecimiento saludable dificultades menores en el habla motora, la fonología y la morfosintaxis, menor velocidad de procesamiento de palabras y de habilidades pragmáticas y discursivas, y un vocabulario que aumenta. En la demencia de Alzheimer describe una conservación parcial del habla motora, la fonología y la morfosintaxis junto con un vocabulario reducido, un procesamiento de palabras más lento y déficits pragmáticos y discursivos. La revisión destaca también el potencial del análisis automatizado del habla y del lenguaje para la detección temprana y preclínica, la diferenciación de síndromes y la estimación de la gravedad.",
+      "implicacion": "Los resultados sugieren que el análisis automatizado del habla podría convertirse en un complemento de la evaluación neuropsicológica, aunque la propia revisión señala la escasa cobertura de lenguas y la necesidad de estudios multicéntricos antes de plantear un uso clínico generalizado."
+    }
+  ],
+  "herramientas": [
+    {
+      "nombre": "Inventario de personalidad autoinformado actualizado para población adulta hispanohablante",
+      "descripcion": "La adaptación española del MMPI-3 reúne 335 ítems y 52 escalas, con baremos para población adulta de España, Centroamérica y Sudamérica. Según Infocop, su uso exige formación específica en evaluación psicológica, psicopatología, personalidad y psicometría, y las escalas de validez resultan especialmente relevantes en contextos forenses."
+    },
+    {
+      "nombre": "Análisis automatizado del habla como apoyo a la evaluación neuropsicológica",
+      "descripcion": "Se trata de modelos de aprendizaje automático que examinan grabaciones y transcripciones de voz (pausas, velocidad del habla, riqueza del vocabulario y precisión léxica). Según la revisión recogida por Infocop, las evaluaciones breves duran de dos a cuatro minutos, pero faltan validaciones rigurosas, protocolos estandarizados y datos normativos antes de su uso clínico."
+    }
+  ],
+  "alertas": [
+    {
+      "estado": "EN DESARROLLO",
+      "titulo": "Sanidad prepara un reglamento sobre consentimiento, apoyos y contención en salud mental",
+      "descripcion": "El Ministerio de Sanidad, a través del Comisionado de Salud Mental, abrió una consulta pública previa para el desarrollo reglamentario del artículo 13 bis del texto refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social, añadido por la Ley 4/2026, de 1 de octubre. Según Infocop, la futura norma abordaría el consentimiento informado, los apoyos para la toma de decisiones, las actuaciones en situaciones de urgencia y el uso excepcional de medidas de contención, con el fin de dar más seguridad jurídica a personas usuarias y profesionales. El plazo para enviar aportaciones terminó el 6 de noviembre de 2026, inclusive. La fuente no indica fecha de aprobación del reglamento."
+    }
+  ],
+  "prioridades": [
+    {
+      "titulo": "Revisar las propiedades psicométricas antes de incorporar nuevas pruebas",
+      "descripcion": "Puede ser útil consultar los datos de baremación y los requisitos de formación de la adaptación española del MMPI-3 antes de valorar su incorporación a la práctica, ya que la noticia no detalla los tamaños muestrales."
+    },
+    {
+      "titulo": "Seguir con cautela el análisis automatizado del habla",
+      "descripcion": "Puede ser relevante tener presente que, según la revisión, el análisis del habla se plantea como complemento de la evaluación neuropsicológica y que aún faltan validaciones, datos normativos y diversidad lingüística."
+    },
+    {
+      "titulo": "Estar atentas a los cambios normativos en salud mental",
+      "descripcion": "Puede ser oportuno seguir el desarrollo del reglamento sobre consentimiento, apoyos y contención, por su posible incidencia en la documentación del consentimiento y en las actuaciones de urgencia."
+    }
+  ],
+  "fuentes_verificadas": [
+    "https://www.infocop.es/la-nueva-adaptacion-espanola-del-mmpi-3-incorpora-escalas-y-baremos-actualizados-para-la-evaluacion-de-la-personalidad-y-la-psicopatologia/",
+    "https://www.infocop.es/los-cambios-en-el-lenguaje-pueden-ayudar-a-distinguir-el-envejecimiento-saludable-de-los-primeros-signos-de-alzheimer/",
+    "https://www.infocop.es/como-puede-un-trauma-hacer-que-ninos-y-ninas-sientan-miedo-ante-situaciones-seguras/",
+    "https://www.infocop.es/?p=76484"
+  ],
+  "carousel": {
+    "noticia_seleccionada": "Los cambios en el lenguaje pueden ayudar a distinguir el envejecimiento saludable de los primeros signos de Alzhéimer",
+    "slide1": {
+      "titular": "El habla puede dar pistas sobre el Alzhéimer",
+      "subtitulo": "Una revisión en Nature Reviews Psychology analiza el lenguaje en el envejecimiento"
+    },
+    "slide2": {
+      "puntos": [
+        "Más del 35 % de las personas con Alzheimer leve presentan alteraciones del habla.",
+        "El vocabulario puede aumentar con la edad, al menos hasta los 65 años aproximadamente.",
+        "Ciertas alteraciones léxico-semánticas pueden aparecer hasta 12 años antes de la demencia."
+      ]
+    },
+    "slide3": {
+      "puntos": [
+        "El análisis automatizado mide pausas, velocidad del habla y riqueza del vocabulario.",
+        "Las evaluaciones breves duran de dos a cuatro minutos.",
+        "Pueden hacerse por teléfono o videoconferencia."
+      ]
+    },
+    "slide4": {
+      "puntos": [
+        "Faltan muestras mayores y datos normativos suficientes.",
+        "Se han estudiado menos de 50 de las unas 7.000 lenguas del mundo.",
+        "La voz contiene información biométrica sensible."
+      ]
+    },
+    "slide5": {
+      "mensaje_autoridad": "El análisis del habla debe ser un complemento de la evaluación neuropsicológica y clínica, no un sustituto del diagnóstico.",
+      "fuente_apa": "García, A. M. (2026). Speech and language in healthy ageing and Alzheimer's dementia. Nature Reviews Psychology, 5, 312–326.",
+      "cta": "Síguenos en @IPP.Psicologia"
+    }
+  },
+  "copy_rrss": "El habla puede aportar información al evaluar el envejecimiento, pero siempre como complemento de la evaluación clínica. Te contamos qué dice la última revisión en Nature Reviews Psychology.",
+  "hashtags": [
+    "#Neuropsicologia",
+    "#Alzheimer",
+    "#Envejecimiento",
+    "#SaludMental",
+    "#IPP"
+  ]
+}
