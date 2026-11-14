@@ -1,7 +1,7 @@
 {
-  "titulo": "El COP organiza una jornada sobre divulgación responsable en psicología, un estudio en el SESCAM cifra en 6,94 los psicólogos clínicos por 100.000 tarjetas sanitarias y un ensayo con 532 adolescentes evalúa el videojuego PlaySmart: claves del 14 de noviembre de 2026",
+  "titulo": "El COP organiza una jornada sobre divulgación responsable en psicología, un estudio en el SESCAM cifra en 6,94 los psicólogos clínicos por 100.000 tarjetas sanitarias y un análisis de un ensayo con 532 adolescentes evalúa el videojuego PlaySmart: claves del 14 de noviembre de 2026",
   "nota_editorial": "Las claves prácticas que se recogen a continuación forman parte del análisis editorial del Observatorio de Actualidad del IPP y no constituyen recomendación clínica individualizada.",
-  "resumen": "El COP organiza el 27 de noviembre una jornada híbrida y gratuita sobre divulgación responsable en psicología, con inscripción previa. Un estudio publicado en Apuntes de Psicología recoge la opinión de 66 psicólogos clínicos del SESCAM y describe una ratio de 6,94 especialistas por 100.000 tarjetas sanitarias. Un ensayo aleatorizado con 532 adolescentes, publicado en JAMA Network Open, evalúa el videojuego preventivo PlaySmart y observa una diferencia modesta en síntomas depresivos a los 12 meses. Infocop informa además de la reunión del grupo de asuntos humanitarios de Unión Profesional y de la convocatoria de propuestas de la APA para su convención de 2027.",
+  "resumen": "El COP organiza el 27 de noviembre una jornada híbrida y gratuita sobre divulgación responsable en psicología, con inscripción previa. Un estudio publicado en Apuntes de Psicología recoge la opinión de 66 psicólogos clínicos del SESCAM y describe una ratio de 6,94 especialistas por 100.000 tarjetas sanitarias. Un análisis secundario de un ensayo aleatorizado con 532 adolescentes, publicado en JAMA Network Open, evalúa el videojuego preventivo PlaySmart y observa una diferencia modesta en síntomas depresivos a los 12 meses. Infocop informa además de la reunión del grupo de asuntos humanitarios de Unión Profesional y de la convocatoria de propuestas de la APA para su convención de 2027.",
   "audiencia": "ambos",
   "nacionales": [
     {
@@ -29,8 +29,8 @@
   "internacionales": [
     {
       "tipo": "INVESTIGACIÓN",
-      "titular": "Un ensayo con 532 adolescentes asocia el videojuego preventivo PlaySmart con menos síntomas depresivos a los 12 meses",
-      "cuerpo": "Un ensayo controlado aleatorizado publicado en JAMA Network Open, desarrollado en el laboratorio play2PREVENT de la Facultad de Medicina Geisel de Dartmouth, evalúa PlaySmart, un videojuego diseñado para concienciar sobre la salud mental y el consumo de sustancias en adolescentes. Según la cobertura de Healio, participaron 532 adolescentes de 16 a 19 años (edad media, 16,6 años) que habían consumido sustancias no opioides en los 30 días previos o habían dado positivo en un cribado de síntomas depresivos o ansiosos. De ellos, 269 jugaron a PlaySmart y 263 a videojuegos comerciales sin contenido terapéutico, en sesiones de 40 a 60 minutos, una o dos veces por semana, durante hasta seis semanas (unas cinco horas en total). A los 12 meses, la puntuación media ajustada en el PHQ-8 fue de 5,3 en el grupo de intervención y de 6,42 en el control, con una interacción grupo-tiempo significativa (P = ,03). No hubo diferencia significativa en ansiedad (GAD-7). Las creencias sobre los servicios psicológicos fueron más favorables en el grupo de intervención a las 6 semanas. La primera autora, Caroline Barry, describe el efecto como modesto, de aproximadamente un punto en la escala, y precisa que se trata de un estudio de prevención, no de un ensayo de tratamiento en adolescentes con depresión clínica. Los autores subrayan que el juego no sustituye el tratamiento clínico cuando es necesario y señalan que hace falta más investigación, también sobre su implementación en entornos reales.",
+      "titular": "Un análisis de un ensayo con 532 adolescentes asocia el videojuego preventivo PlaySmart con menos síntomas depresivos a los 12 meses",
+      "cuerpo": "Un análisis secundario preespecificado de un ensayo clínico aleatorizado, publicado en JAMA Network Open y desarrollado en el laboratorio play2PREVENT de la Facultad de Medicina Geisel de Dartmouth, evalúa PlaySmart, un videojuego diseñado para concienciar sobre la salud mental y el consumo de sustancias en adolescentes. Según la cobertura de Healio, participaron 532 adolescentes de 16 a 19 años (edad media, 16,6 años) que habían consumido sustancias no opioides en los 30 días previos o habían dado positivo en un cribado de síntomas depresivos o ansiosos. De ellos, 269 jugaron a PlaySmart y 263 a videojuegos comerciales sin contenido terapéutico, en sesiones de 40 a 60 minutos, una o dos veces por semana, durante hasta seis semanas (unas cinco horas en total). A los 12 meses, la puntuación media ajustada en el PHQ-8 fue de 5,3 en el grupo de intervención y de 6,42 en el control, con una interacción grupo-tiempo significativa (P = ,03). No hubo diferencia significativa en ansiedad (GAD-7). Las creencias sobre los servicios psicológicos fueron más favorables en el grupo de intervención a las 6 semanas. La primera autora, Caroline Barry, describe el efecto como modesto, de aproximadamente un punto en la escala, y precisa que se trata de un estudio de prevención, no de un ensayo de tratamiento en adolescentes con depresión clínica. Los autores subrayan que el juego no sustituye el tratamiento clínico cuando es necesario y señalan que hace falta más investigación, también sobre su implementación en entornos reales.",
       "fuente": "Healio, sobre un estudio publicado en JAMA Network Open",
       "url": "https://www.healio.com/news/psychiatry/20260910/specialized-video-game-linked-to-improvement-in-depressive-symptoms-for-adolescents"
     },
@@ -44,16 +44,10 @@
   ],
   "papers": [
     {
-      "apa": "Barry, C. M., et al. (2026). Ensayo controlado aleatorizado del videojuego PlaySmart sobre síntomas depresivos en adolescentes [título original no verificado]. JAMA Network Open. https://doi.org/10.1001/jamanetworkopen.2026.29173",
+      "apa": "Barry, C. M., Boomer, T., Haile, K., Xie, H., & Fiellin, L. E. (2026). A digital behavioral health game for adolescent mental health. JAMA Network Open. https://doi.org/10.1001/jamanetworkopen.2026.29173",
       "doi": "10.1001/jamanetworkopen.2026.29173",
-      "hallazgo": "Ensayo aleatorizado con 532 adolescentes de 16 a 19 años en el que el grupo con PlaySmart (n = 269) presentó a los 12 meses una puntuación media ajustada en el PHQ-8 de 5,3 (IC 95 %: 4,74–5,86), frente a 6,42 (IC 95 %: 5,86–6,98) en el grupo control (n = 263). El análisis de mediación estimó un efecto causal medio de –0,13 (IC 95 %: –0,3 a –0,01), que los autores describen como mediación parcial, y se notificaron dos eventos adversos leves.",
-      "implicacion": "Los resultados sugieren que una intervención digital preventiva podría aportar un efecto modesto sobre síntomas depresivos autoinformados, sin efecto significativo en ansiedad. Puede orientar la reflexión sobre herramientas complementarias de prevención, aunque los propios autores indican que no sustituye el tratamiento clínico y que falta evidencia sobre su implementación y el mantenimiento de los beneficios."
-    },
-    {
-      "apa": "Jarabo-Valdeolivas, A., Palacios-Ruiz, A. J., Mora-Rodríguez, B., Vázquez-Ramo, E., Hernando-Martínez, D., Sanz-Díaz, S., Paniagua-Moreno, B. I., & Vallejo-Sánchez, B. (2026). Calidad asistencial y rol profesional de la psicología clínica: análisis desde la perspectiva del personal facultativo especialista del Servicio de Salud de Castilla-La Mancha, España. Apuntes de Psicología, 44(2), 57-68. https://doi.org/10.70478/apuntes.psi.2026.44.07",
-      "doi": "10.70478/apuntes.psi.2026.44.07",
-      "hallazgo": "Encuesta online y anónima, realizada entre julio y septiembre de 2024, a psicólogos especialistas en Psicología Clínica del SESCAM (66 de 138; 47,8 %). Solo el 37,7 % refirió acceso adecuado a material psicotécnico y el 5,7 %, acceso a consultas online; el 64 % indicó no tener tiempo para exploraciones complementarias (73,3 % en USMIJ) y el 47 % señaló tiempo reservado en agenda para funciones no asistenciales.",
-      "implicacion": "Los resultados sugieren que, según la percepción de los profesionales que respondieron, la carga asistencial y el intervalo entre sesiones se sitúan lejos de lo que consideran adecuado. Pueden servir de referencia para comparar indicadores en otros servicios, con la cautela de un muestreo no probabilístico y una participación desigual por áreas."
+      "hallazgo": "Análisis secundario preespecificado de un ensayo clínico aleatorizado (registro ClinicalTrials.gov NCT04941950) con 532 adolescentes de 16 a 19 años de 15 programas de salud escolares de Connecticut, asignados 1:1 a un juego digital de unos 300 minutos durante 6 semanas o a un control activo equiparado en atención. A los 12 meses, la puntuación media ajustada en el PHQ-8 fue de 5,3 (IC 95 %: 4,74–5,86) en el grupo con PlaySmart (n = 269) y de 6,42 (IC 95 %: 5,86–6,98) en el control (n = 263). El análisis de mediación exploratorio estimó un efecto causal medio de –0,13 (IC 95 %: –0,3 a –0,01), que los autores describen como mediación parcial; no hubo diferencia significativa en ansiedad.",
+      "implicacion": "Los resultados sugieren que una intervención digital preventiva podría aportar una reducción modesta y sostenida de síntomas depresivos autoinformados, sin efecto significativo en ansiedad. Al tratarse de un análisis secundario y de un estudio de prevención, no de tratamiento, puede orientar la reflexión sobre herramientas complementarias, y los propios autores indican que no sustituye el tratamiento clínico."
     }
   ],
   "herramientas": [
@@ -103,17 +97,18 @@
     "https://www.infocop.es/el-cop-participa-en-la-reunion-del-grupo-de-trabajo-de-asuntos-humanitarios-de-union-profesional-para-avanzar-en-iniciativas-de-cooperacion-y-derechos-humanos/",
     "https://www.infocop.es/la-apa-abre-el-plazo-de-presentacion-de-propuestas-para-su-convencion-anual-de-psicologia-de-2027/",
     "https://www.healio.com/news/psychiatry/20260910/specialized-video-game-linked-to-improvement-in-depressive-symptoms-for-adolescents",
-    "https://www.perfil.com/noticias/sociedad/un-videojuego-especial-logro-reducir-los-sintomas-de-depresion-entre-adolescentes.phtml"
+    "https://www.perfil.com/noticias/sociedad/un-videojuego-especial-logro-reducir-los-sintomas-de-depresion-entre-adolescentes.phtml",
+    "https://www.citedrive.com/en/discovery/a-digital-behavioral-health-game-for-adolescent-mental-health/"
   ],
   "carousel": {
-    "noticia_seleccionada": "Un ensayo con 532 adolescentes evalúa el videojuego preventivo PlaySmart",
+    "noticia_seleccionada": "Un análisis de un ensayo con 532 adolescentes evalúa el videojuego preventivo PlaySmart",
     "slide1": {
       "titular": "Un videojuego preventivo muestra un efecto modesto en depresión adolescente",
-      "subtitulo": "Ensayo aleatorizado con 532 adolescentes, publicado en JAMA Network Open"
+      "subtitulo": "Análisis secundario de un ensayo aleatorizado, publicado en JAMA Network Open"
     },
     "slide2": {
       "puntos": [
-        "Participaron 532 adolescentes de 16 a 19 años en un ensayo aleatorizado",
+        "532 adolescentes de 16 a 19 años participaron en este análisis de un ensayo aleatorizado",
         "269 jugaron a PlaySmart y 263 a videojuegos comerciales sin contenido terapéutico",
         "La intervención duró hasta seis semanas, unas cinco horas de juego en total"
       ]
@@ -134,11 +129,11 @@
     },
     "slide5": {
       "mensaje_autoridad": "Los autores plantean su potencial como herramienta preventiva complementaria, no como sustituto del tratamiento clínico.",
-      "fuente_apa": "Barry, C. M., et al. (2026). JAMA Network Open. https://doi.org/10.1001/jamanetworkopen.2026.29173",
+      "fuente_apa": "Barry, C. M., Boomer, T., Haile, K., Xie, H., & Fiellin, L. E. (2026). A digital behavioral health game for adolescent mental health. JAMA Network Open. https://doi.org/10.1001/jamanetworkopen.2026.29173",
       "cta": "Síguenos en @IPP.Psicologia"
     }
   },
-  "copy_rrss": "Un ensayo con 532 adolescentes evalúa un videojuego preventivo y observa un efecto modesto en síntomas depresivos a los 12 meses. Los autores recuerdan que no sustituye el tratamiento clínico.",
+  "copy_rrss": "Un análisis de un ensayo con 532 adolescentes evalúa un videojuego preventivo y observa un efecto modesto en síntomas depresivos a los 12 meses. Los autores recuerdan que no sustituye el tratamiento clínico.",
   "hashtags": [
     "#Psicología",
     "#SaludMental",
